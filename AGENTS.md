@@ -100,7 +100,17 @@ Não há testes automatizados; a validação é manual e proporcional à mudanç
 
 Sempre que possível, rodar o jogo em janela (`play.cmd` padrão) e validar também um fluxo vizinho ao alterado (login, lobby, uma batalha, save contínuo) para checar regressão. Ao concluir, registrar o que foi validado e o que ficou pendente; validação pendente deve ser declarada, não omitida.
 
-## 10. Comunicação e entrega
+## 10. Versionamento (Git)
+
+O projeto é versionado no repositório `FrosttyS18/KOF---LOCAL` (branch `main`). O versionamento cobre o que muda e pode regredir: código do servidor e ferramentas, tabelas reconstruídas, stub, configuração de boot do projeto e documentação.
+
+- O `.gitignore` exclui deliberadamente: `python/` (interpretador embutido, de terceiros), `game/storage/` (cache do cliente e prefs, que contêm dados de sign-in), `game/_preservation/server/state/` (save atual, contas e backups), `logs/`, `*.orig` e todos os binários do jogo. Não "designorar" esses caminhos sem aprovação.
+- Antes de começar um trabalho: `git status --short` e o diff relevante; separar mudanças existentes das suas; não sobrescrever trabalho não commitado.
+- Commits pequenos e por tema (um bug, um sistema, um conjunto de tabelas), com mensagem que diga o quê mudou e por quê. Push ao concluir o escopo autorizado ou quando o mantenedor pedir.
+- Nunca `reset --hard`, `clean`, descartar arquivos, forçar push ou reescrever histórico sem pedido específico. Não commitar arquivos fora do escopo da tarefa.
+- O que o Git não protege: save do jogador, prefs, backups de contas e cache (estão ignorados). Backup desses dados é tarefa separada (copiar `server/state/` e `storage/cache/kofallstar.prefs`).
+
+## 11. Comunicação e entrega
 
 - Responder sempre em português do Brasil, de forma resumida, direta e objetiva.
 - Ao concluir: **Alterado** (resultado e arquivos principais), **Validado** (comandos/fluxos realmente executados e resultados), **Pendente** (limitações e testes manuais pendentes, quando houver).
