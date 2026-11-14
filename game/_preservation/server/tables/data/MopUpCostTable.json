@@ -1,0 +1,11 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "mopUpCostIndex": 1,
+   "mopUpMaterialType": 13,
+   "mopUpMaterialIndex": 1302,
+   "mopUpMaterialCount": 1
+  }
+ ]
+}

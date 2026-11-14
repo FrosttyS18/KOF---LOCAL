@@ -1,0 +1,320 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaMileageGroupIndex": 101,
+   "mileageGroup": 1,
+   "mileageOrder": 1,
+   "mileageCount": 20,
+   "mileageReward": 9200101,
+   "mileageDisplayReward": 9200101,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 102,
+   "mileageGroup": 1,
+   "mileageOrder": 2,
+   "mileageCount": 40,
+   "mileageReward": 9200102,
+   "mileageDisplayReward": 9200102,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 103,
+   "mileageGroup": 1,
+   "mileageOrder": 3,
+   "mileageCount": 60,
+   "mileageReward": 9200103,
+   "mileageDisplayReward": 9200103,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 104,
+   "mileageGroup": 1,
+   "mileageOrder": 4,
+   "mileageCount": 80,
+   "mileageReward": 9200104,
+   "mileageDisplayReward": 9200104,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 105,
+   "mileageGroup": 1,
+   "mileageOrder": 5,
+   "mileageCount": 100,
+   "mileageReward": 9200105,
+   "mileageDisplayReward": 9200105,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 106,
+   "mileageGroup": 1,
+   "mileageOrder": 6,
+   "mileageCount": 120,
+   "mileageReward": 9200106,
+   "mileageDisplayReward": 9200106,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 107,
+   "mileageGroup": 1,
+   "mileageOrder": 7,
+   "mileageCount": 140,
+   "mileageReward": 9200107,
+   "mileageDisplayReward": 9200107,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 108,
+   "mileageGroup": 1,
+   "mileageOrder": 8,
+   "mileageCount": 160,
+   "mileageReward": 9200108,
+   "mileageDisplayReward": 9200108,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 109,
+   "mileageGroup": 1,
+   "mileageOrder": 9,
+   "mileageCount": 180,
+   "mileageReward": 9200109,
+   "mileageDisplayReward": 9200109,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 110,
+   "mileageGroup": 1,
+   "mileageOrder": 10,
+   "mileageCount": 200,
+   "mileageReward": 9200110,
+   "mileageDisplayReward": 9200110,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 111,
+   "mileageGroup": 1,
+   "mileageOrder": 11,
+   "mileageCount": 220,
+   "mileageReward": 9200111,
+   "mileageDisplayReward": 9200111,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 112,
+   "mileageGroup": 1,
+   "mileageOrder": 12,
+   "mileageCount": 240,
+   "mileageReward": 9200112,
+   "mileageDisplayReward": 9200112,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 113,
+   "mileageGroup": 1,
+   "mileageOrder": 13,
+   "mileageCount": 260,
+   "mileageReward": 9200113,
+   "mileageDisplayReward": 9200113,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 114,
+   "mileageGroup": 1,
+   "mileageOrder": 14,
+   "mileageCount": 280,
+   "mileageReward": 9200114,
+   "mileageDisplayReward": 9200114,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 115,
+   "mileageGroup": 1,
+   "mileageOrder": 15,
+   "mileageCount": 300,
+   "mileageReward": 0,
+   "mileageDisplayReward": 0,
+   "useMileageSelectReward": 1
+  },
+  {
+   "gachaMileageGroupIndex": 201,
+   "mileageGroup": 2,
+   "mileageOrder": 1,
+   "mileageCount": 20,
+   "mileageReward": 9200201,
+   "mileageDisplayReward": 9200201,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 202,
+   "mileageGroup": 2,
+   "mileageOrder": 2,
+   "mileageCount": 40,
+   "mileageReward": 9200202,
+   "mileageDisplayReward": 9200202,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 203,
+   "mileageGroup": 2,
+   "mileageOrder": 3,
+   "mileageCount": 60,
+   "mileageReward": 9200203,
+   "mileageDisplayReward": 9200203,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 204,
+   "mileageGroup": 2,
+   "mileageOrder": 4,
+   "mileageCount": 80,
+   "mileageReward": 9200204,
+   "mileageDisplayReward": 9200204,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 205,
+   "mileageGroup": 2,
+   "mileageOrder": 5,
+   "mileageCount": 100,
+   "mileageReward": 9200205,
+   "mileageDisplayReward": 9200205,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 206,
+   "mileageGroup": 2,
+   "mileageOrder": 6,
+   "mileageCount": 120,
+   "mileageReward": 9200206,
+   "mileageDisplayReward": 9200206,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 207,
+   "mileageGroup": 2,
+   "mileageOrder": 7,
+   "mileageCount": 140,
+   "mileageReward": 9200207,
+   "mileageDisplayReward": 9200207,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 208,
+   "mileageGroup": 2,
+   "mileageOrder": 8,
+   "mileageCount": 160,
+   "mileageReward": 9200208,
+   "mileageDisplayReward": 9200208,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 209,
+   "mileageGroup": 2,
+   "mileageOrder": 9,
+   "mileageCount": 180,
+   "mileageReward": 9200209,
+   "mileageDisplayReward": 9200209,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 210,
+   "mileageGroup": 2,
+   "mileageOrder": 10,
+   "mileageCount": 200,
+   "mileageReward": 0,
+   "mileageDisplayReward": 0,
+   "useMileageSelectReward": 1
+  },
+  {
+   "gachaMileageGroupIndex": 301,
+   "mileageGroup": 3,
+   "mileageOrder": 1,
+   "mileageCount": 40,
+   "mileageReward": 9200301,
+   "mileageDisplayReward": 9200301,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 302,
+   "mileageGroup": 3,
+   "mileageOrder": 2,
+   "mileageCount": 80,
+   "mileageReward": 9200302,
+   "mileageDisplayReward": 9200302,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 303,
+   "mileageGroup": 3,
+   "mileageOrder": 3,
+   "mileageCount": 120,
+   "mileageReward": 9200303,
+   "mileageDisplayReward": 9200303,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 304,
+   "mileageGroup": 3,
+   "mileageOrder": 4,
+   "mileageCount": 160,
+   "mileageReward": 9200304,
+   "mileageDisplayReward": 9200304,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 305,
+   "mileageGroup": 3,
+   "mileageOrder": 5,
+   "mileageCount": 200,
+   "mileageReward": 0,
+   "mileageDisplayReward": 0,
+   "useMileageSelectReward": 1
+  },
+  {
+   "gachaMileageGroupIndex": 401,
+   "mileageGroup": 4,
+   "mileageOrder": 1,
+   "mileageCount": 30,
+   "mileageReward": 9200401,
+   "mileageDisplayReward": 9200401,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 402,
+   "mileageGroup": 4,
+   "mileageOrder": 2,
+   "mileageCount": 60,
+   "mileageReward": 9200402,
+   "mileageDisplayReward": 9200402,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 403,
+   "mileageGroup": 4,
+   "mileageOrder": 3,
+   "mileageCount": 90,
+   "mileageReward": 9200403,
+   "mileageDisplayReward": 9200403,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 404,
+   "mileageGroup": 4,
+   "mileageOrder": 4,
+   "mileageCount": 120,
+   "mileageReward": 9200404,
+   "mileageDisplayReward": 9200404,
+   "useMileageSelectReward": 0
+  },
+  {
+   "gachaMileageGroupIndex": 405,
+   "mileageGroup": 4,
+   "mileageOrder": 5,
+   "mileageCount": 150,
+   "mileageReward": 0,
+   "mileageDisplayReward": 0,
+   "useMileageSelectReward": 1
+  }
+ ]
+}

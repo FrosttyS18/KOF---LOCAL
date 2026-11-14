@@ -1,0 +1,405 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildLevel": 1,
+   "expAccumulate": 2136,
+   "guildMemberCount": 30,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 2,
+   "expAccumulate": 8542,
+   "guildMemberCount": 30,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 3,
+   "expAccumulate": 19220,
+   "guildMemberCount": 31,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 4,
+   "expAccumulate": 34168,
+   "guildMemberCount": 31,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 5,
+   "expAccumulate": 53388,
+   "guildMemberCount": 32,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 6,
+   "expAccumulate": 76878,
+   "guildMemberCount": 32,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 7,
+   "expAccumulate": 104640,
+   "guildMemberCount": 33,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 8,
+   "expAccumulate": 136673,
+   "guildMemberCount": 33,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 9,
+   "expAccumulate": 172976,
+   "guildMemberCount": 34,
+   "guildMissionCount": 3,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 10,
+   "expAccumulate": 213551,
+   "guildMemberCount": 34,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 11,
+   "expAccumulate": 258397,
+   "guildMemberCount": 35,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 12,
+   "expAccumulate": 307513,
+   "guildMemberCount": 35,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 13,
+   "expAccumulate": 360901,
+   "guildMemberCount": 36,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 14,
+   "expAccumulate": 418560,
+   "guildMemberCount": 36,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 15,
+   "expAccumulate": 480489,
+   "guildMemberCount": 37,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 16,
+   "expAccumulate": 546690,
+   "guildMemberCount": 37,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 17,
+   "expAccumulate": 617162,
+   "guildMemberCount": 38,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 18,
+   "expAccumulate": 691905,
+   "guildMemberCount": 38,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 19,
+   "expAccumulate": 770919,
+   "guildMemberCount": 39,
+   "guildMissionCount": 4,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 20,
+   "expAccumulate": 854204,
+   "guildMemberCount": 39,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 21,
+   "expAccumulate": 941759,
+   "guildMemberCount": 40,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 22,
+   "expAccumulate": 1033586,
+   "guildMemberCount": 40,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 23,
+   "expAccumulate": 1129684,
+   "guildMemberCount": 41,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 24,
+   "expAccumulate": 1230053,
+   "guildMemberCount": 41,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 25,
+   "expAccumulate": 1334693,
+   "guildMemberCount": 42,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 26,
+   "expAccumulate": 1443604,
+   "guildMemberCount": 42,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 27,
+   "expAccumulate": 1556786,
+   "guildMemberCount": 43,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 28,
+   "expAccumulate": 1674239,
+   "guildMemberCount": 43,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 29,
+   "expAccumulate": 1795963,
+   "guildMemberCount": 44,
+   "guildMissionCount": 5,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 30,
+   "expAccumulate": 1921958,
+   "guildMemberCount": 44,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 31,
+   "expAccumulate": 2052224,
+   "guildMemberCount": 45,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 32,
+   "expAccumulate": 2186761,
+   "guildMemberCount": 45,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 33,
+   "expAccumulate": 2325569,
+   "guildMemberCount": 46,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 34,
+   "expAccumulate": 2468648,
+   "guildMemberCount": 46,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 35,
+   "expAccumulate": 2615998,
+   "guildMemberCount": 47,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 36,
+   "expAccumulate": 2767619,
+   "guildMemberCount": 47,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 37,
+   "expAccumulate": 2923512,
+   "guildMemberCount": 48,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 38,
+   "expAccumulate": 3083675,
+   "guildMemberCount": 48,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 39,
+   "expAccumulate": 3248109,
+   "guildMemberCount": 49,
+   "guildMissionCount": 6,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 40,
+   "expAccumulate": 3416814,
+   "guildMemberCount": 49,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 41,
+   "expAccumulate": 3589790,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 42,
+   "expAccumulate": 3767038,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 43,
+   "expAccumulate": 3948556,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 44,
+   "expAccumulate": 4134345,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 45,
+   "expAccumulate": 4324405,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 46,
+   "expAccumulate": 4518737,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 47,
+   "expAccumulate": 4717339,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 48,
+   "expAccumulate": 4920212,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 49,
+   "expAccumulate": 5127357,
+   "guildMemberCount": 50,
+   "guildMissionCount": 7,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  },
+  {
+   "guildLevel": 50,
+   "expAccumulate": 5338772,
+   "guildMemberCount": 50,
+   "guildMissionCount": 8,
+   "addGuildRankingPoint": 0,
+   "guildLevelRewardGroup": 0
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": "AES-128 key/IV (hex) the local server sends in session/start (SecurityDataTable / SecurityLocalizing). tools/build_tables.py encrypts rebuilt tables with it. The original Netmarble key is unknown; if it is ever found, put it here and rebuild.",
+  "data_table": {
+    "key": "DEE7BFB71F001606CA0E844D23D5DCC1",
+    "iv": "3282AA65A720AFE2FC3C1C11D3AFE23E"
+  },
+  "localizing": {
+    "key": "DEE7BFB71F001606CA0E844D23D5DCC1",
+    "iv": "3282AA65A720AFE2FC3C1C11D3AFE23E"
+  }
+}

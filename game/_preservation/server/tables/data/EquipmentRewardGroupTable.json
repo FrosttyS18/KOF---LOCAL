@@ -1,0 +1,305 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentRewardGroupIndex": 11,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 11,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 12,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 12,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 13,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 13,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 14,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 14,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 15,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 15,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 21,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 21,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 22,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 22,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 23,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 23,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 24,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 24,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 25,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 25,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 31,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 31,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 32,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 32,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 33,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 33,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 34,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 34,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 35,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 35,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 41,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 41,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 42,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 42,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 43,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 43,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 44,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 44,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 45,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 45,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 51,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 51,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 52,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 52,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 53,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 53,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 54,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 54,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 55,
+   "equipmentRewardGroup": 1,
+   "equipmentIndex": 55,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1011,
+   "equipmentRewardGroup": 101,
+   "equipmentIndex": 11,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1012,
+   "equipmentRewardGroup": 101,
+   "equipmentIndex": 12,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1013,
+   "equipmentRewardGroup": 101,
+   "equipmentIndex": 13,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1014,
+   "equipmentRewardGroup": 101,
+   "equipmentIndex": 14,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1015,
+   "equipmentRewardGroup": 101,
+   "equipmentIndex": 15,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1021,
+   "equipmentRewardGroup": 102,
+   "equipmentIndex": 21,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1022,
+   "equipmentRewardGroup": 102,
+   "equipmentIndex": 22,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1023,
+   "equipmentRewardGroup": 102,
+   "equipmentIndex": 23,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1024,
+   "equipmentRewardGroup": 102,
+   "equipmentIndex": 24,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1025,
+   "equipmentRewardGroup": 102,
+   "equipmentIndex": 25,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1031,
+   "equipmentRewardGroup": 103,
+   "equipmentIndex": 31,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1032,
+   "equipmentRewardGroup": 103,
+   "equipmentIndex": 32,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1033,
+   "equipmentRewardGroup": 103,
+   "equipmentIndex": 33,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1034,
+   "equipmentRewardGroup": 103,
+   "equipmentIndex": 34,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1035,
+   "equipmentRewardGroup": 103,
+   "equipmentIndex": 35,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1041,
+   "equipmentRewardGroup": 104,
+   "equipmentIndex": 41,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1042,
+   "equipmentRewardGroup": 104,
+   "equipmentIndex": 42,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1043,
+   "equipmentRewardGroup": 104,
+   "equipmentIndex": 43,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1044,
+   "equipmentRewardGroup": 104,
+   "equipmentIndex": 44,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1045,
+   "equipmentRewardGroup": 104,
+   "equipmentIndex": 45,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1051,
+   "equipmentRewardGroup": 105,
+   "equipmentIndex": 51,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1052,
+   "equipmentRewardGroup": 105,
+   "equipmentIndex": 52,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1053,
+   "equipmentRewardGroup": 105,
+   "equipmentIndex": 53,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1054,
+   "equipmentRewardGroup": 105,
+   "equipmentIndex": 54,
+   "prob": 100
+  },
+  {
+   "equipmentRewardGroupIndex": 1055,
+   "equipmentRewardGroup": 105,
+   "equipmentIndex": 55,
+   "prob": 100
+  }
+ ]
+}

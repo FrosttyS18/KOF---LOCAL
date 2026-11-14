@@ -1,0 +1,14 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: growth missions (gen_quest.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "growthMissionIndex": 1,
+   "openConditionType": 0,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 3,
+   "growthMissionNameTag": "Offline.GrowthMission.1.Name",
+   "growthMissionShortNameTag": "Offline.GrowthMission.1.Short",
+   "sortOrder": 1
+  }
+ ]
+}

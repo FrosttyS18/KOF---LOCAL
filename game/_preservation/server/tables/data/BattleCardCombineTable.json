@@ -1,0 +1,70 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_cardgrowth.py): card growth, combine and enhancement materials",
+ "rows": [
+  {
+   "battleCardCombineIndex": 1,
+   "cardGrade": 1,
+   "slotValue": 5,
+   "useGold": 5000,
+   "upgradeRate": 9000,
+   "cardTypeOption": 3000,
+   "cardTypeSpecial": 0,
+   "cardTypeSet": 7000,
+   "upgradeSuccessBonus": 0,
+   "upgradeFailBonus": 1000,
+   "upgradeRateUp": 0
+  },
+  {
+   "battleCardCombineIndex": 2,
+   "cardGrade": 2,
+   "slotValue": 5,
+   "useGold": 10000,
+   "upgradeRate": 8000,
+   "cardTypeOption": 3000,
+   "cardTypeSpecial": 0,
+   "cardTypeSet": 7000,
+   "upgradeSuccessBonus": 0,
+   "upgradeFailBonus": 1000,
+   "upgradeRateUp": 0
+  },
+  {
+   "battleCardCombineIndex": 3,
+   "cardGrade": 3,
+   "slotValue": 5,
+   "useGold": 20000,
+   "upgradeRate": 7000,
+   "cardTypeOption": 3000,
+   "cardTypeSpecial": 0,
+   "cardTypeSet": 7000,
+   "upgradeSuccessBonus": 0,
+   "upgradeFailBonus": 1000,
+   "upgradeRateUp": 0
+  },
+  {
+   "battleCardCombineIndex": 4,
+   "cardGrade": 4,
+   "slotValue": 5,
+   "useGold": 50000,
+   "upgradeRate": 4000,
+   "cardTypeOption": 5000,
+   "cardTypeSpecial": 0,
+   "cardTypeSet": 5000,
+   "upgradeSuccessBonus": 0,
+   "upgradeFailBonus": 1000,
+   "upgradeRateUp": 0
+  },
+  {
+   "battleCardCombineIndex": 5,
+   "cardGrade": 5,
+   "slotValue": 5,
+   "useGold": 100000,
+   "upgradeRate": 2000,
+   "cardTypeOption": 5000,
+   "cardTypeSpecial": 0,
+   "cardTypeSet": 5000,
+   "upgradeSuccessBonus": 0,
+   "upgradeFailBonus": 1000,
+   "upgradeRateUp": 0
+  }
+ ]
+}

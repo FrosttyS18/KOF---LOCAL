@@ -1,0 +1,12 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_secretshop.py): the Secret Shop from two real captures",
+ "rows": [
+  {
+   "shopCategoryIndex": 10,
+   "shopCategoryNameTag": "EventData.Shop.SecretShop.NameTag",
+   "buttonImg": "Prefabs/UI_Data/UI_Texture/Icon/global/icon_b_secretshop",
+   "sortOrder": 1,
+   "usable": 1
+  }
+ ]
+}

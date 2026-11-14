@@ -1,0 +1,19 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_colossal.py): Colossal Invasion from the client's own boss, script, maps and banner; numbers mostly ours (see the module notes).",
+ "rows": [
+  {
+   "guildCoopRankingGroupIndex": 1,
+   "guildCoopRankingGroup": 1,
+   "rankingType": 1,
+   "rankingTypeValue": 1,
+   "rankingReward": 7100100
+  },
+  {
+   "guildCoopRankingGroupIndex": 2,
+   "guildCoopRankingGroup": 2,
+   "rankingType": 1,
+   "rankingTypeValue": 1,
+   "rankingReward": 7100100
+  }
+ ]
+}

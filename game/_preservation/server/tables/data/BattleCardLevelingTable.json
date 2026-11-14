@@ -1,0 +1,425 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_cards.py; the card pictures are the client's, the rest is ours.",
+ "rows": [
+  {
+   "battleCardLevel": 1,
+   "exp1": 100,
+   "exp2": 100,
+   "exp3": 100,
+   "exp4": 100
+  },
+  {
+   "battleCardLevel": 2,
+   "exp1": 300,
+   "exp2": 300,
+   "exp3": 300,
+   "exp4": 300
+  },
+  {
+   "battleCardLevel": 3,
+   "exp1": 600,
+   "exp2": 600,
+   "exp3": 600,
+   "exp4": 600
+  },
+  {
+   "battleCardLevel": 4,
+   "exp1": 1000,
+   "exp2": 1000,
+   "exp3": 1000,
+   "exp4": 1000
+  },
+  {
+   "battleCardLevel": 5,
+   "exp1": 1500,
+   "exp2": 1500,
+   "exp3": 1500,
+   "exp4": 1500
+  },
+  {
+   "battleCardLevel": 6,
+   "exp1": 2100,
+   "exp2": 2100,
+   "exp3": 2100,
+   "exp4": 2100
+  },
+  {
+   "battleCardLevel": 7,
+   "exp1": 2800,
+   "exp2": 2800,
+   "exp3": 2800,
+   "exp4": 2800
+  },
+  {
+   "battleCardLevel": 8,
+   "exp1": 3600,
+   "exp2": 3600,
+   "exp3": 3600,
+   "exp4": 3600
+  },
+  {
+   "battleCardLevel": 9,
+   "exp1": 4500,
+   "exp2": 4500,
+   "exp3": 4500,
+   "exp4": 4500
+  },
+  {
+   "battleCardLevel": 10,
+   "exp1": 5500,
+   "exp2": 5500,
+   "exp3": 5500,
+   "exp4": 5500
+  },
+  {
+   "battleCardLevel": 11,
+   "exp1": 6600,
+   "exp2": 6600,
+   "exp3": 6600,
+   "exp4": 6600
+  },
+  {
+   "battleCardLevel": 12,
+   "exp1": 7800,
+   "exp2": 7800,
+   "exp3": 7800,
+   "exp4": 7800
+  },
+  {
+   "battleCardLevel": 13,
+   "exp1": 9100,
+   "exp2": 9100,
+   "exp3": 9100,
+   "exp4": 9100
+  },
+  {
+   "battleCardLevel": 14,
+   "exp1": 10500,
+   "exp2": 10500,
+   "exp3": 10500,
+   "exp4": 10500
+  },
+  {
+   "battleCardLevel": 15,
+   "exp1": 12000,
+   "exp2": 12000,
+   "exp3": 12000,
+   "exp4": 12000
+  },
+  {
+   "battleCardLevel": 16,
+   "exp1": 13600,
+   "exp2": 13600,
+   "exp3": 13600,
+   "exp4": 13600
+  },
+  {
+   "battleCardLevel": 17,
+   "exp1": 15300,
+   "exp2": 15300,
+   "exp3": 15300,
+   "exp4": 15300
+  },
+  {
+   "battleCardLevel": 18,
+   "exp1": 17100,
+   "exp2": 17100,
+   "exp3": 17100,
+   "exp4": 17100
+  },
+  {
+   "battleCardLevel": 19,
+   "exp1": 19000,
+   "exp2": 19000,
+   "exp3": 19000,
+   "exp4": 19000
+  },
+  {
+   "battleCardLevel": 20,
+   "exp1": 21000,
+   "exp2": 21000,
+   "exp3": 21000,
+   "exp4": 21000
+  },
+  {
+   "battleCardLevel": 21,
+   "exp1": 23100,
+   "exp2": 23100,
+   "exp3": 23100,
+   "exp4": 23100
+  },
+  {
+   "battleCardLevel": 22,
+   "exp1": 25300,
+   "exp2": 25300,
+   "exp3": 25300,
+   "exp4": 25300
+  },
+  {
+   "battleCardLevel": 23,
+   "exp1": 27600,
+   "exp2": 27600,
+   "exp3": 27600,
+   "exp4": 27600
+  },
+  {
+   "battleCardLevel": 24,
+   "exp1": 30000,
+   "exp2": 30000,
+   "exp3": 30000,
+   "exp4": 30000
+  },
+  {
+   "battleCardLevel": 25,
+   "exp1": 32500,
+   "exp2": 32500,
+   "exp3": 32500,
+   "exp4": 32500
+  },
+  {
+   "battleCardLevel": 26,
+   "exp1": 35100,
+   "exp2": 35100,
+   "exp3": 35100,
+   "exp4": 35100
+  },
+  {
+   "battleCardLevel": 27,
+   "exp1": 37800,
+   "exp2": 37800,
+   "exp3": 37800,
+   "exp4": 37800
+  },
+  {
+   "battleCardLevel": 28,
+   "exp1": 40600,
+   "exp2": 40600,
+   "exp3": 40600,
+   "exp4": 40600
+  },
+  {
+   "battleCardLevel": 29,
+   "exp1": 43500,
+   "exp2": 43500,
+   "exp3": 43500,
+   "exp4": 43500
+  },
+  {
+   "battleCardLevel": 30,
+   "exp1": 46500,
+   "exp2": 46500,
+   "exp3": 46500,
+   "exp4": 46500
+  },
+  {
+   "battleCardLevel": 31,
+   "exp1": 49600,
+   "exp2": 49600,
+   "exp3": 49600,
+   "exp4": 49600
+  },
+  {
+   "battleCardLevel": 32,
+   "exp1": 52800,
+   "exp2": 52800,
+   "exp3": 52800,
+   "exp4": 52800
+  },
+  {
+   "battleCardLevel": 33,
+   "exp1": 56100,
+   "exp2": 56100,
+   "exp3": 56100,
+   "exp4": 56100
+  },
+  {
+   "battleCardLevel": 34,
+   "exp1": 59500,
+   "exp2": 59500,
+   "exp3": 59500,
+   "exp4": 59500
+  },
+  {
+   "battleCardLevel": 35,
+   "exp1": 63000,
+   "exp2": 63000,
+   "exp3": 63000,
+   "exp4": 63000
+  },
+  {
+   "battleCardLevel": 36,
+   "exp1": 66600,
+   "exp2": 66600,
+   "exp3": 66600,
+   "exp4": 66600
+  },
+  {
+   "battleCardLevel": 37,
+   "exp1": 70300,
+   "exp2": 70300,
+   "exp3": 70300,
+   "exp4": 70300
+  },
+  {
+   "battleCardLevel": 38,
+   "exp1": 74100,
+   "exp2": 74100,
+   "exp3": 74100,
+   "exp4": 74100
+  },
+  {
+   "battleCardLevel": 39,
+   "exp1": 78000,
+   "exp2": 78000,
+   "exp3": 78000,
+   "exp4": 78000
+  },
+  {
+   "battleCardLevel": 40,
+   "exp1": 82000,
+   "exp2": 82000,
+   "exp3": 82000,
+   "exp4": 82000
+  },
+  {
+   "battleCardLevel": 41,
+   "exp1": 86100,
+   "exp2": 86100,
+   "exp3": 86100,
+   "exp4": 86100
+  },
+  {
+   "battleCardLevel": 42,
+   "exp1": 90300,
+   "exp2": 90300,
+   "exp3": 90300,
+   "exp4": 90300
+  },
+  {
+   "battleCardLevel": 43,
+   "exp1": 94600,
+   "exp2": 94600,
+   "exp3": 94600,
+   "exp4": 94600
+  },
+  {
+   "battleCardLevel": 44,
+   "exp1": 99000,
+   "exp2": 99000,
+   "exp3": 99000,
+   "exp4": 99000
+  },
+  {
+   "battleCardLevel": 45,
+   "exp1": 103500,
+   "exp2": 103500,
+   "exp3": 103500,
+   "exp4": 103500
+  },
+  {
+   "battleCardLevel": 46,
+   "exp1": 108100,
+   "exp2": 108100,
+   "exp3": 108100,
+   "exp4": 108100
+  },
+  {
+   "battleCardLevel": 47,
+   "exp1": 112800,
+   "exp2": 112800,
+   "exp3": 112800,
+   "exp4": 112800
+  },
+  {
+   "battleCardLevel": 48,
+   "exp1": 117600,
+   "exp2": 117600,
+   "exp3": 117600,
+   "exp4": 117600
+  },
+  {
+   "battleCardLevel": 49,
+   "exp1": 122500,
+   "exp2": 122500,
+   "exp3": 122500,
+   "exp4": 122500
+  },
+  {
+   "battleCardLevel": 50,
+   "exp1": 127500,
+   "exp2": 127500,
+   "exp3": 127500,
+   "exp4": 127500
+  },
+  {
+   "battleCardLevel": 51,
+   "exp1": 132600,
+   "exp2": 132600,
+   "exp3": 132600,
+   "exp4": 132600
+  },
+  {
+   "battleCardLevel": 52,
+   "exp1": 137800,
+   "exp2": 137800,
+   "exp3": 137800,
+   "exp4": 137800
+  },
+  {
+   "battleCardLevel": 53,
+   "exp1": 143100,
+   "exp2": 143100,
+   "exp3": 143100,
+   "exp4": 143100
+  },
+  {
+   "battleCardLevel": 54,
+   "exp1": 148500,
+   "exp2": 148500,
+   "exp3": 148500,
+   "exp4": 148500
+  },
+  {
+   "battleCardLevel": 55,
+   "exp1": 154000,
+   "exp2": 154000,
+   "exp3": 154000,
+   "exp4": 154000
+  },
+  {
+   "battleCardLevel": 56,
+   "exp1": 159600,
+   "exp2": 159600,
+   "exp3": 159600,
+   "exp4": 159600
+  },
+  {
+   "battleCardLevel": 57,
+   "exp1": 165300,
+   "exp2": 165300,
+   "exp3": 165300,
+   "exp4": 165300
+  },
+  {
+   "battleCardLevel": 58,
+   "exp1": 171100,
+   "exp2": 171100,
+   "exp3": 171100,
+   "exp4": 171100
+  },
+  {
+   "battleCardLevel": 59,
+   "exp1": 177000,
+   "exp2": 177000,
+   "exp3": 177000,
+   "exp4": 177000
+  },
+  {
+   "battleCardLevel": 60,
+   "exp1": 183000,
+   "exp2": 183000,
+   "exp3": 183000,
+   "exp4": 183000
+  }
+ ]
+}

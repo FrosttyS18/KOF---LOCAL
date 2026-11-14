@@ -1,0 +1,21 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: EXP dungeon (gen_dungeon.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "buffDropIndex": 9401,
+   "buffDropBuffIndex": 9400002,
+   "buffDropGetDistance": 30.0,
+   "buffDropLevel": 1,
+   "buffDropPrefabIdle": "Prefabs/DropItem/Item_Skill_Lv1",
+   "getTargetType": 1
+  },
+  {
+   "buffDropIndex": 9402,
+   "buffDropBuffIndex": 9400003,
+   "buffDropGetDistance": 30.0,
+   "buffDropLevel": 1,
+   "buffDropPrefabIdle": "Prefabs/DropItem/Item_PowerUp_Lv1",
+   "getTargetType": 4
+  }
+ ]
+}

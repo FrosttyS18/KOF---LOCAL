@@ -1,0 +1,54 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: minimal rows for the offline server, not the original data.",
+ "rows": [
+  {
+   "inventoryTabIndex": 6,
+   "inventoryTabType": 0,
+   "sortOrder": 1,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabAll.Name"
+  },
+  {
+   "inventoryTabIndex": 1,
+   "inventoryTabType": 1,
+   "sortOrder": 2,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabGrowth.Name"
+  },
+  {
+   "inventoryTabIndex": 2,
+   "inventoryTabType": 1,
+   "sortOrder": 3,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabConsume.Name"
+  },
+  {
+   "inventoryTabIndex": 3,
+   "inventoryTabType": 1,
+   "sortOrder": 4,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabTicket.Name"
+  },
+  {
+   "inventoryTabIndex": 4,
+   "inventoryTabType": 1,
+   "sortOrder": 5,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabETC.Name"
+  },
+  {
+   "inventoryTabIndex": 5,
+   "inventoryTabType": 2,
+   "sortOrder": 6,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabCurrency.Name"
+  },
+  {
+   "inventoryTabIndex": 7,
+   "inventoryTabType": 1,
+   "sortOrder": 7,
+   "stackMaxLimit": 999999,
+   "inventoryTabNameTag": "System.V_ItemInventory.TabSoul.Name"
+  }
+ ]
+}

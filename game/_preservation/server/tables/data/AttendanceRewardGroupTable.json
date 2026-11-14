@@ -1,0 +1,505 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: check-in log (gen_checkin.py); texts/art from the 2023 video, rewards partly ours.",
+ "rows": [
+  {
+   "attendanceRewardGroupIndex": 10001,
+   "attendanceRewardGroup": 100,
+   "giveTime": 1,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 100000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10002,
+   "attendanceRewardGroup": 100,
+   "giveTime": 2,
+   "rewardType": 13,
+   "contentsIndex": 1302,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10003,
+   "attendanceRewardGroup": 100,
+   "giveTime": 3,
+   "rewardType": 2,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10004,
+   "attendanceRewardGroup": 100,
+   "giveTime": 4,
+   "rewardType": 13,
+   "contentsIndex": 1311,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10005,
+   "attendanceRewardGroup": 100,
+   "giveTime": 5,
+   "rewardType": 13,
+   "contentsIndex": 1003,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10006,
+   "attendanceRewardGroup": 100,
+   "giveTime": 6,
+   "rewardType": 13,
+   "contentsIndex": 1312,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 10007,
+   "attendanceRewardGroup": 100,
+   "giveTime": 7,
+   "rewardType": 11,
+   "contentsIndex": 1264,
+   "contentsGrade": 5,
+   "contentsCount": 1,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20001,
+   "attendanceRewardGroup": 200,
+   "giveTime": 1,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 100000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20002,
+   "attendanceRewardGroup": 200,
+   "giveTime": 2,
+   "rewardType": 13,
+   "contentsIndex": 1201,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20003,
+   "attendanceRewardGroup": 200,
+   "giveTime": 3,
+   "rewardType": 13,
+   "contentsIndex": 1001,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20004,
+   "attendanceRewardGroup": 200,
+   "giveTime": 4,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20005,
+   "attendanceRewardGroup": 200,
+   "giveTime": 5,
+   "rewardType": 13,
+   "contentsIndex": 1317,
+   "contentsGrade": 0,
+   "contentsCount": 2,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20006,
+   "attendanceRewardGroup": 200,
+   "giveTime": 6,
+   "rewardType": 13,
+   "contentsIndex": 1002,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20007,
+   "attendanceRewardGroup": 200,
+   "giveTime": 7,
+   "rewardType": 2,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 50,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20008,
+   "attendanceRewardGroup": 200,
+   "giveTime": 8,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 200000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20009,
+   "attendanceRewardGroup": 200,
+   "giveTime": 9,
+   "rewardType": 13,
+   "contentsIndex": 1320,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20010,
+   "attendanceRewardGroup": 200,
+   "giveTime": 10,
+   "rewardType": 13,
+   "contentsIndex": 1302,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20011,
+   "attendanceRewardGroup": 200,
+   "giveTime": 11,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20012,
+   "attendanceRewardGroup": 200,
+   "giveTime": 12,
+   "rewardType": 13,
+   "contentsIndex": 1313,
+   "contentsGrade": 0,
+   "contentsCount": 2,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20013,
+   "attendanceRewardGroup": 200,
+   "giveTime": 13,
+   "rewardType": 13,
+   "contentsIndex": 1002,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20014,
+   "attendanceRewardGroup": 200,
+   "giveTime": 14,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20015,
+   "attendanceRewardGroup": 200,
+   "giveTime": 15,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 300000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20016,
+   "attendanceRewardGroup": 200,
+   "giveTime": 16,
+   "rewardType": 13,
+   "contentsIndex": 1320,
+   "contentsGrade": 0,
+   "contentsCount": 15,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20017,
+   "attendanceRewardGroup": 200,
+   "giveTime": 17,
+   "rewardType": 13,
+   "contentsIndex": 1302,
+   "contentsGrade": 0,
+   "contentsCount": 20,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20018,
+   "attendanceRewardGroup": 200,
+   "giveTime": 18,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 15,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20019,
+   "attendanceRewardGroup": 200,
+   "giveTime": 19,
+   "rewardType": 13,
+   "contentsIndex": 1317,
+   "contentsGrade": 0,
+   "contentsCount": 2,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20020,
+   "attendanceRewardGroup": 200,
+   "giveTime": 20,
+   "rewardType": 13,
+   "contentsIndex": 1003,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20021,
+   "attendanceRewardGroup": 200,
+   "giveTime": 21,
+   "rewardType": 2,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20022,
+   "attendanceRewardGroup": 200,
+   "giveTime": 22,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 400000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20023,
+   "attendanceRewardGroup": 200,
+   "giveTime": 23,
+   "rewardType": 13,
+   "contentsIndex": 1320,
+   "contentsGrade": 0,
+   "contentsCount": 20,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20024,
+   "attendanceRewardGroup": 200,
+   "giveTime": 24,
+   "rewardType": 13,
+   "contentsIndex": 1302,
+   "contentsGrade": 0,
+   "contentsCount": 20,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20025,
+   "attendanceRewardGroup": 200,
+   "giveTime": 25,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 15,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20026,
+   "attendanceRewardGroup": 200,
+   "giveTime": 26,
+   "rewardType": 13,
+   "contentsIndex": 1314,
+   "contentsGrade": 0,
+   "contentsCount": 2,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20027,
+   "attendanceRewardGroup": 200,
+   "giveTime": 27,
+   "rewardType": 13,
+   "contentsIndex": 1003,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 20028,
+   "attendanceRewardGroup": 200,
+   "giveTime": 28,
+   "rewardType": 13,
+   "contentsIndex": 1315,
+   "contentsGrade": 0,
+   "contentsCount": 1,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30001,
+   "attendanceRewardGroup": 300,
+   "giveTime": 1,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 50000,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30002,
+   "attendanceRewardGroup": 300,
+   "giveTime": 2,
+   "rewardType": 13,
+   "contentsIndex": 1201,
+   "contentsGrade": 0,
+   "contentsCount": 3,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30003,
+   "attendanceRewardGroup": 300,
+   "giveTime": 3,
+   "rewardType": 13,
+   "contentsIndex": 1001,
+   "contentsGrade": 0,
+   "contentsCount": 20,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30004,
+   "attendanceRewardGroup": 300,
+   "giveTime": 4,
+   "rewardType": 13,
+   "contentsIndex": 1320,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30005,
+   "attendanceRewardGroup": 300,
+   "giveTime": 5,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 15,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30006,
+   "attendanceRewardGroup": 300,
+   "giveTime": 6,
+   "rewardType": 13,
+   "contentsIndex": 1003,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30007,
+   "attendanceRewardGroup": 300,
+   "giveTime": 7,
+   "rewardType": 13,
+   "contentsIndex": 1319,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30008,
+   "attendanceRewardGroup": 300,
+   "giveTime": 8,
+   "rewardType": 13,
+   "contentsIndex": 1302,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30009,
+   "attendanceRewardGroup": 300,
+   "giveTime": 9,
+   "rewardType": 13,
+   "contentsIndex": 1317,
+   "contentsGrade": 0,
+   "contentsCount": 1,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30010,
+   "attendanceRewardGroup": 300,
+   "giveTime": 10,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 20,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30011,
+   "attendanceRewardGroup": 300,
+   "giveTime": 11,
+   "rewardType": 2,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30012,
+   "attendanceRewardGroup": 300,
+   "giveTime": 12,
+   "rewardType": 13,
+   "contentsIndex": 1316,
+   "contentsGrade": 0,
+   "contentsCount": 10,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30013,
+   "attendanceRewardGroup": 300,
+   "giveTime": 13,
+   "rewardType": 13,
+   "contentsIndex": 1003,
+   "contentsGrade": 0,
+   "contentsCount": 5,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 30014,
+   "attendanceRewardGroup": 300,
+   "giveTime": 14,
+   "rewardType": 13,
+   "contentsIndex": 1318,
+   "contentsGrade": 0,
+   "contentsCount": 100,
+   "attendanceType": 0
+  },
+  {
+   "attendanceRewardGroupIndex": 40001,
+   "attendanceRewardGroup": 400,
+   "giveTime": 1,
+   "rewardType": 1,
+   "contentsIndex": 0,
+   "contentsGrade": 0,
+   "contentsCount": 1000,
+   "attendanceType": 0
+  }
+ ]
+}

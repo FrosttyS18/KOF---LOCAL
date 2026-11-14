@@ -1,0 +1,2435 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "monsterLevelStatIndex": 1,
+   "levelStatType": 1,
+   "monsterLevel": 30,
+   "maxHPBase": 1500.0
+  },
+  {
+   "monsterLevelStatIndex": 2,
+   "levelStatType": 2,
+   "monsterLevel": 30,
+   "maxHPBase": 25000.0
+  },
+  {
+   "monsterLevelStatIndex": 1101,
+   "levelStatType": 11,
+   "monsterLevel": 1,
+   "maxHPBase": 300.0
+  },
+  {
+   "monsterLevelStatIndex": 1102,
+   "levelStatType": 11,
+   "monsterLevel": 2,
+   "maxHPBase": 345.0
+  },
+  {
+   "monsterLevelStatIndex": 1103,
+   "levelStatType": 11,
+   "monsterLevel": 3,
+   "maxHPBase": 390.0
+  },
+  {
+   "monsterLevelStatIndex": 1104,
+   "levelStatType": 11,
+   "monsterLevel": 4,
+   "maxHPBase": 435.0
+  },
+  {
+   "monsterLevelStatIndex": 1105,
+   "levelStatType": 11,
+   "monsterLevel": 5,
+   "maxHPBase": 480.0
+  },
+  {
+   "monsterLevelStatIndex": 1106,
+   "levelStatType": 11,
+   "monsterLevel": 6,
+   "maxHPBase": 525.0
+  },
+  {
+   "monsterLevelStatIndex": 1115,
+   "levelStatType": 11,
+   "monsterLevel": 15,
+   "maxHPBase": 930.0
+  },
+  {
+   "monsterLevelStatIndex": 1125,
+   "levelStatType": 11,
+   "monsterLevel": 25,
+   "maxHPBase": 1380.0
+  },
+  {
+   "monsterLevelStatIndex": 1135,
+   "levelStatType": 11,
+   "monsterLevel": 35,
+   "maxHPBase": 1830.0
+  },
+  {
+   "monsterLevelStatIndex": 1150,
+   "levelStatType": 11,
+   "monsterLevel": 50,
+   "maxHPBase": 2505.0
+  },
+  {
+   "monsterLevelStatIndex": 1201,
+   "levelStatType": 12,
+   "monsterLevel": 1,
+   "maxHPBase": 3000.0
+  },
+  {
+   "monsterLevelStatIndex": 1202,
+   "levelStatType": 12,
+   "monsterLevel": 2,
+   "maxHPBase": 3449.9999999999995
+  },
+  {
+   "monsterLevelStatIndex": 1203,
+   "levelStatType": 12,
+   "monsterLevel": 3,
+   "maxHPBase": 3900.0
+  },
+  {
+   "monsterLevelStatIndex": 1204,
+   "levelStatType": 12,
+   "monsterLevel": 4,
+   "maxHPBase": 4350.0
+  },
+  {
+   "monsterLevelStatIndex": 1205,
+   "levelStatType": 12,
+   "monsterLevel": 5,
+   "maxHPBase": 4800.0
+  },
+  {
+   "monsterLevelStatIndex": 1206,
+   "levelStatType": 12,
+   "monsterLevel": 6,
+   "maxHPBase": 5250.0
+  },
+  {
+   "monsterLevelStatIndex": 1215,
+   "levelStatType": 12,
+   "monsterLevel": 15,
+   "maxHPBase": 9300.0
+  },
+  {
+   "monsterLevelStatIndex": 1225,
+   "levelStatType": 12,
+   "monsterLevel": 25,
+   "maxHPBase": 13799.999999999998
+  },
+  {
+   "monsterLevelStatIndex": 1235,
+   "levelStatType": 12,
+   "monsterLevel": 35,
+   "maxHPBase": 18300.0
+  },
+  {
+   "monsterLevelStatIndex": 1250,
+   "levelStatType": 12,
+   "monsterLevel": 50,
+   "maxHPBase": 25050.0
+  },
+  {
+   "monsterLevelStatIndex": 1301,
+   "levelStatType": 13,
+   "monsterLevel": 1,
+   "maxHPBase": 1000.0
+  },
+  {
+   "monsterLevelStatIndex": 1302,
+   "levelStatType": 13,
+   "monsterLevel": 2,
+   "maxHPBase": 1150.0
+  },
+  {
+   "monsterLevelStatIndex": 1303,
+   "levelStatType": 13,
+   "monsterLevel": 3,
+   "maxHPBase": 1300.0
+  },
+  {
+   "monsterLevelStatIndex": 1304,
+   "levelStatType": 13,
+   "monsterLevel": 4,
+   "maxHPBase": 1450.0
+  },
+  {
+   "monsterLevelStatIndex": 1305,
+   "levelStatType": 13,
+   "monsterLevel": 5,
+   "maxHPBase": 1600.0
+  },
+  {
+   "monsterLevelStatIndex": 1306,
+   "levelStatType": 13,
+   "monsterLevel": 6,
+   "maxHPBase": 1750.0
+  },
+  {
+   "monsterLevelStatIndex": 1315,
+   "levelStatType": 13,
+   "monsterLevel": 15,
+   "maxHPBase": 3100.0
+  },
+  {
+   "monsterLevelStatIndex": 1325,
+   "levelStatType": 13,
+   "monsterLevel": 25,
+   "maxHPBase": 4600.0
+  },
+  {
+   "monsterLevelStatIndex": 1335,
+   "levelStatType": 13,
+   "monsterLevel": 35,
+   "maxHPBase": 6100.0
+  },
+  {
+   "monsterLevelStatIndex": 1350,
+   "levelStatType": 13,
+   "monsterLevel": 50,
+   "maxHPBase": 8350.0
+  },
+  {
+   "monsterLevelStatIndex": 1401,
+   "levelStatType": 14,
+   "monsterLevel": 1,
+   "maxHPBase": 200.0
+  },
+  {
+   "monsterLevelStatIndex": 1402,
+   "levelStatType": 14,
+   "monsterLevel": 2,
+   "maxHPBase": 229.99999999999997
+  },
+  {
+   "monsterLevelStatIndex": 1403,
+   "levelStatType": 14,
+   "monsterLevel": 3,
+   "maxHPBase": 260.0
+  },
+  {
+   "monsterLevelStatIndex": 1404,
+   "levelStatType": 14,
+   "monsterLevel": 4,
+   "maxHPBase": 290.0
+  },
+  {
+   "monsterLevelStatIndex": 1405,
+   "levelStatType": 14,
+   "monsterLevel": 5,
+   "maxHPBase": 320.0
+  },
+  {
+   "monsterLevelStatIndex": 1406,
+   "levelStatType": 14,
+   "monsterLevel": 6,
+   "maxHPBase": 350.0
+  },
+  {
+   "monsterLevelStatIndex": 1415,
+   "levelStatType": 14,
+   "monsterLevel": 15,
+   "maxHPBase": 620.0
+  },
+  {
+   "monsterLevelStatIndex": 1425,
+   "levelStatType": 14,
+   "monsterLevel": 25,
+   "maxHPBase": 919.9999999999999
+  },
+  {
+   "monsterLevelStatIndex": 1435,
+   "levelStatType": 14,
+   "monsterLevel": 35,
+   "maxHPBase": 1220.0
+  },
+  {
+   "monsterLevelStatIndex": 1450,
+   "levelStatType": 14,
+   "monsterLevel": 50,
+   "maxHPBase": 1670.0
+  },
+  {
+   "monsterLevelStatIndex": 1501,
+   "levelStatType": 15,
+   "monsterLevel": 1,
+   "maxHPBase": 2500.0
+  },
+  {
+   "monsterLevelStatIndex": 1502,
+   "levelStatType": 15,
+   "monsterLevel": 2,
+   "maxHPBase": 2875.0
+  },
+  {
+   "monsterLevelStatIndex": 1503,
+   "levelStatType": 15,
+   "monsterLevel": 3,
+   "maxHPBase": 3250.0
+  },
+  {
+   "monsterLevelStatIndex": 1504,
+   "levelStatType": 15,
+   "monsterLevel": 4,
+   "maxHPBase": 3625.0
+  },
+  {
+   "monsterLevelStatIndex": 1505,
+   "levelStatType": 15,
+   "monsterLevel": 5,
+   "maxHPBase": 4000.0
+  },
+  {
+   "monsterLevelStatIndex": 1506,
+   "levelStatType": 15,
+   "monsterLevel": 6,
+   "maxHPBase": 4375.0
+  },
+  {
+   "monsterLevelStatIndex": 1515,
+   "levelStatType": 15,
+   "monsterLevel": 15,
+   "maxHPBase": 7750.0
+  },
+  {
+   "monsterLevelStatIndex": 1525,
+   "levelStatType": 15,
+   "monsterLevel": 25,
+   "maxHPBase": 11500.0
+  },
+  {
+   "monsterLevelStatIndex": 1535,
+   "levelStatType": 15,
+   "monsterLevel": 35,
+   "maxHPBase": 15250.0
+  },
+  {
+   "monsterLevelStatIndex": 1550,
+   "levelStatType": 15,
+   "monsterLevel": 50,
+   "maxHPBase": 20875.0
+  },
+  {
+   "monsterLevelStatIndex": 1601,
+   "levelStatType": 16,
+   "monsterLevel": 1,
+   "maxHPBase": 600.0
+  },
+  {
+   "monsterLevelStatIndex": 1602,
+   "levelStatType": 16,
+   "monsterLevel": 2,
+   "maxHPBase": 690.0
+  },
+  {
+   "monsterLevelStatIndex": 1603,
+   "levelStatType": 16,
+   "monsterLevel": 3,
+   "maxHPBase": 780.0
+  },
+  {
+   "monsterLevelStatIndex": 1604,
+   "levelStatType": 16,
+   "monsterLevel": 4,
+   "maxHPBase": 870.0
+  },
+  {
+   "monsterLevelStatIndex": 1605,
+   "levelStatType": 16,
+   "monsterLevel": 5,
+   "maxHPBase": 960.0
+  },
+  {
+   "monsterLevelStatIndex": 1606,
+   "levelStatType": 16,
+   "monsterLevel": 6,
+   "maxHPBase": 1050.0
+  },
+  {
+   "monsterLevelStatIndex": 1615,
+   "levelStatType": 16,
+   "monsterLevel": 15,
+   "maxHPBase": 1860.0
+  },
+  {
+   "monsterLevelStatIndex": 1625,
+   "levelStatType": 16,
+   "monsterLevel": 25,
+   "maxHPBase": 2760.0
+  },
+  {
+   "monsterLevelStatIndex": 1635,
+   "levelStatType": 16,
+   "monsterLevel": 35,
+   "maxHPBase": 3660.0
+  },
+  {
+   "monsterLevelStatIndex": 1650,
+   "levelStatType": 16,
+   "monsterLevel": 50,
+   "maxHPBase": 5010.0
+  },
+  {
+   "monsterLevelStatIndex": 1701,
+   "levelStatType": 17,
+   "monsterLevel": 1,
+   "maxHPBase": 4000.0
+  },
+  {
+   "monsterLevelStatIndex": 1702,
+   "levelStatType": 17,
+   "monsterLevel": 2,
+   "maxHPBase": 4600.0
+  },
+  {
+   "monsterLevelStatIndex": 1703,
+   "levelStatType": 17,
+   "monsterLevel": 3,
+   "maxHPBase": 5200.0
+  },
+  {
+   "monsterLevelStatIndex": 1704,
+   "levelStatType": 17,
+   "monsterLevel": 4,
+   "maxHPBase": 5800.0
+  },
+  {
+   "monsterLevelStatIndex": 1705,
+   "levelStatType": 17,
+   "monsterLevel": 5,
+   "maxHPBase": 6400.0
+  },
+  {
+   "monsterLevelStatIndex": 1706,
+   "levelStatType": 17,
+   "monsterLevel": 6,
+   "maxHPBase": 7000.0
+  },
+  {
+   "monsterLevelStatIndex": 1715,
+   "levelStatType": 17,
+   "monsterLevel": 15,
+   "maxHPBase": 12400.0
+  },
+  {
+   "monsterLevelStatIndex": 1725,
+   "levelStatType": 17,
+   "monsterLevel": 25,
+   "maxHPBase": 18400.0
+  },
+  {
+   "monsterLevelStatIndex": 1735,
+   "levelStatType": 17,
+   "monsterLevel": 35,
+   "maxHPBase": 24400.0
+  },
+  {
+   "monsterLevelStatIndex": 1750,
+   "levelStatType": 17,
+   "monsterLevel": 50,
+   "maxHPBase": 33400.0
+  },
+  {
+   "monsterLevelStatIndex": 7150,
+   "levelStatType": 71,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 7250,
+   "levelStatType": 72,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 7350,
+   "levelStatType": 73,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 7450,
+   "levelStatType": 74,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 7550,
+   "levelStatType": 75,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 7650,
+   "levelStatType": 76,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8150,
+   "levelStatType": 81,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8250,
+   "levelStatType": 82,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8350,
+   "levelStatType": 83,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8450,
+   "levelStatType": 84,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8550,
+   "levelStatType": 85,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 8650,
+   "levelStatType": 86,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 9250,
+   "levelStatType": 92,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 10250,
+   "levelStatType": 102,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 11250,
+   "levelStatType": 112,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20150,
+   "levelStatType": 201,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20250,
+   "levelStatType": 202,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20350,
+   "levelStatType": 203,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20450,
+   "levelStatType": 204,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20550,
+   "levelStatType": 205,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20650,
+   "levelStatType": 206,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20750,
+   "levelStatType": 207,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20850,
+   "levelStatType": 208,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 20950,
+   "levelStatType": 209,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21050,
+   "levelStatType": 210,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21150,
+   "levelStatType": 211,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21250,
+   "levelStatType": 212,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21350,
+   "levelStatType": 213,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21450,
+   "levelStatType": 214,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21550,
+   "levelStatType": 215,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21650,
+   "levelStatType": 216,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21750,
+   "levelStatType": 217,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21850,
+   "levelStatType": 218,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 21950,
+   "levelStatType": 219,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22050,
+   "levelStatType": 220,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22150,
+   "levelStatType": 221,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22250,
+   "levelStatType": 222,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22350,
+   "levelStatType": 223,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22450,
+   "levelStatType": 224,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22550,
+   "levelStatType": 225,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22650,
+   "levelStatType": 226,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22750,
+   "levelStatType": 227,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22850,
+   "levelStatType": 228,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 22950,
+   "levelStatType": 229,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23050,
+   "levelStatType": 230,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23150,
+   "levelStatType": 231,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23250,
+   "levelStatType": 232,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23350,
+   "levelStatType": 233,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23450,
+   "levelStatType": 234,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23550,
+   "levelStatType": 235,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23650,
+   "levelStatType": 236,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23750,
+   "levelStatType": 237,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23850,
+   "levelStatType": 238,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 23950,
+   "levelStatType": 239,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24050,
+   "levelStatType": 240,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24150,
+   "levelStatType": 241,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24250,
+   "levelStatType": 242,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24350,
+   "levelStatType": 243,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24450,
+   "levelStatType": 244,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24550,
+   "levelStatType": 245,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24650,
+   "levelStatType": 246,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24750,
+   "levelStatType": 247,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24850,
+   "levelStatType": 248,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 24950,
+   "levelStatType": 249,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 25050,
+   "levelStatType": 250,
+   "monsterLevel": 50,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31190,
+   "levelStatType": 311,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31290,
+   "levelStatType": 312,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31390,
+   "levelStatType": 313,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31490,
+   "levelStatType": 314,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31590,
+   "levelStatType": 315,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31690,
+   "levelStatType": 316,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31790,
+   "levelStatType": 317,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31890,
+   "levelStatType": 318,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 31990,
+   "levelStatType": 319,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32090,
+   "levelStatType": 320,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32190,
+   "levelStatType": 321,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32290,
+   "levelStatType": 322,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32390,
+   "levelStatType": 323,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32490,
+   "levelStatType": 324,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32590,
+   "levelStatType": 325,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32690,
+   "levelStatType": 326,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32790,
+   "levelStatType": 327,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32890,
+   "levelStatType": 328,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 32990,
+   "levelStatType": 329,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 33090,
+   "levelStatType": 330,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 33190,
+   "levelStatType": 331,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 33290,
+   "levelStatType": 332,
+   "monsterLevel": 90,
+   "maxHPBase": 0.0
+  },
+  {
+   "monsterLevelStatIndex": 44110,
+   "levelStatType": 441,
+   "monsterLevel": 10,
+   "maxHPBase": 37499.0
+  },
+  {
+   "monsterLevelStatIndex": 44210,
+   "levelStatType": 442,
+   "monsterLevel": 10,
+   "maxHPBase": 112499.0
+  },
+  {
+   "monsterLevelStatIndex": 44310,
+   "levelStatType": 443,
+   "monsterLevel": 10,
+   "maxHPBase": 749999.0
+  },
+  {
+   "monsterLevelStatIndex": 44111,
+   "levelStatType": 441,
+   "monsterLevel": 11,
+   "maxHPBase": 54308.4
+  },
+  {
+   "monsterLevelStatIndex": 44211,
+   "levelStatType": 442,
+   "monsterLevel": 11,
+   "maxHPBase": 162927.1
+  },
+  {
+   "monsterLevelStatIndex": 44311,
+   "levelStatType": 443,
+   "monsterLevel": 11,
+   "maxHPBase": 1086186.5
+  },
+  {
+   "monsterLevelStatIndex": 44113,
+   "levelStatType": 441,
+   "monsterLevel": 13,
+   "maxHPBase": 53144.0
+  },
+  {
+   "monsterLevelStatIndex": 44213,
+   "levelStatType": 442,
+   "monsterLevel": 13,
+   "maxHPBase": 159434.0
+  },
+  {
+   "monsterLevelStatIndex": 44313,
+   "levelStatType": 443,
+   "monsterLevel": 13,
+   "maxHPBase": 1062899.0
+  },
+  {
+   "monsterLevelStatIndex": 44114,
+   "levelStatType": 441,
+   "monsterLevel": 14,
+   "maxHPBase": 62852.8
+  },
+  {
+   "monsterLevelStatIndex": 44214,
+   "levelStatType": 442,
+   "monsterLevel": 14,
+   "maxHPBase": 188560.2
+  },
+  {
+   "monsterLevelStatIndex": 44314,
+   "levelStatType": 443,
+   "monsterLevel": 14,
+   "maxHPBase": 1257074.0
+  },
+  {
+   "monsterLevelStatIndex": 44115,
+   "levelStatType": 441,
+   "monsterLevel": 15,
+   "maxHPBase": 96734.0
+  },
+  {
+   "monsterLevelStatIndex": 44215,
+   "levelStatType": 442,
+   "monsterLevel": 15,
+   "maxHPBase": 290204.0
+  },
+  {
+   "monsterLevelStatIndex": 44315,
+   "levelStatType": 443,
+   "monsterLevel": 15,
+   "maxHPBase": 1934699.0
+  },
+  {
+   "monsterLevelStatIndex": 44117,
+   "levelStatType": 441,
+   "monsterLevel": 17,
+   "maxHPBase": 102809.9
+  },
+  {
+   "monsterLevelStatIndex": 44217,
+   "levelStatType": 442,
+   "monsterLevel": 17,
+   "maxHPBase": 308431.8
+  },
+  {
+   "monsterLevelStatIndex": 44317,
+   "levelStatType": 443,
+   "monsterLevel": 17,
+   "maxHPBase": 2056217.8
+  },
+  {
+   "monsterLevelStatIndex": 44118,
+   "levelStatType": 441,
+   "monsterLevel": 18,
+   "maxHPBase": 96784.5
+  },
+  {
+   "monsterLevelStatIndex": 44218,
+   "levelStatType": 442,
+   "monsterLevel": 18,
+   "maxHPBase": 290355.6
+  },
+  {
+   "monsterLevelStatIndex": 44318,
+   "levelStatType": 443,
+   "monsterLevel": 18,
+   "maxHPBase": 1935709.5
+  },
+  {
+   "monsterLevelStatIndex": 44119,
+   "levelStatType": 441,
+   "monsterLevel": 19,
+   "maxHPBase": 82973.5
+  },
+  {
+   "monsterLevelStatIndex": 44219,
+   "levelStatType": 442,
+   "monsterLevel": 19,
+   "maxHPBase": 248922.5
+  },
+  {
+   "monsterLevelStatIndex": 44319,
+   "levelStatType": 443,
+   "monsterLevel": 19,
+   "maxHPBase": 1659488.8
+  },
+  {
+   "monsterLevelStatIndex": 44121,
+   "levelStatType": 441,
+   "monsterLevel": 21,
+   "maxHPBase": 106049.0
+  },
+  {
+   "monsterLevelStatIndex": 44221,
+   "levelStatType": 442,
+   "monsterLevel": 21,
+   "maxHPBase": 318149.0
+  },
+  {
+   "monsterLevelStatIndex": 44321,
+   "levelStatType": 443,
+   "monsterLevel": 21,
+   "maxHPBase": 2120999.0
+  },
+  {
+   "monsterLevelStatIndex": 44122,
+   "levelStatType": 441,
+   "monsterLevel": 22,
+   "maxHPBase": 166964.5
+  },
+  {
+   "monsterLevelStatIndex": 44222,
+   "levelStatType": 442,
+   "monsterLevel": 22,
+   "maxHPBase": 500895.6
+  },
+  {
+   "monsterLevelStatIndex": 44322,
+   "levelStatType": 443,
+   "monsterLevel": 22,
+   "maxHPBase": 3339309.3
+  },
+  {
+   "monsterLevelStatIndex": 44124,
+   "levelStatType": 441,
+   "monsterLevel": 24,
+   "maxHPBase": 163433.4
+  },
+  {
+   "monsterLevelStatIndex": 44224,
+   "levelStatType": 442,
+   "monsterLevel": 24,
+   "maxHPBase": 490302.1
+  },
+  {
+   "monsterLevelStatIndex": 44324,
+   "levelStatType": 443,
+   "monsterLevel": 24,
+   "maxHPBase": 3268686.5
+  },
+  {
+   "monsterLevelStatIndex": 44125,
+   "levelStatType": 441,
+   "monsterLevel": 25,
+   "maxHPBase": 147835.8
+  },
+  {
+   "monsterLevelStatIndex": 44225,
+   "levelStatType": 442,
+   "monsterLevel": 25,
+   "maxHPBase": 443509.5
+  },
+  {
+   "monsterLevelStatIndex": 44325,
+   "levelStatType": 443,
+   "monsterLevel": 25,
+   "maxHPBase": 2956735.8
+  },
+  {
+   "monsterLevelStatIndex": 44126,
+   "levelStatType": 441,
+   "monsterLevel": 26,
+   "maxHPBase": 109193.5
+  },
+  {
+   "monsterLevelStatIndex": 44226,
+   "levelStatType": 442,
+   "monsterLevel": 26,
+   "maxHPBase": 327582.6
+  },
+  {
+   "monsterLevelStatIndex": 44326,
+   "levelStatType": 443,
+   "monsterLevel": 26,
+   "maxHPBase": 2183889.9
+  },
+  {
+   "monsterLevelStatIndex": 44128,
+   "levelStatType": 441,
+   "monsterLevel": 28,
+   "maxHPBase": 152238.3
+  },
+  {
+   "monsterLevelStatIndex": 44228,
+   "levelStatType": 442,
+   "monsterLevel": 28,
+   "maxHPBase": 456716.9
+  },
+  {
+   "monsterLevelStatIndex": 44328,
+   "levelStatType": 443,
+   "monsterLevel": 28,
+   "maxHPBase": 3044784.7
+  },
+  {
+   "monsterLevelStatIndex": 44129,
+   "levelStatType": 441,
+   "monsterLevel": 29,
+   "maxHPBase": 199468.1
+  },
+  {
+   "monsterLevelStatIndex": 44229,
+   "levelStatType": 442,
+   "monsterLevel": 29,
+   "maxHPBase": 598406.4
+  },
+  {
+   "monsterLevelStatIndex": 44329,
+   "levelStatType": 443,
+   "monsterLevel": 29,
+   "maxHPBase": 3989381.4
+  },
+  {
+   "monsterLevelStatIndex": 44130,
+   "levelStatType": 441,
+   "monsterLevel": 30,
+   "maxHPBase": 170709.7
+  },
+  {
+   "monsterLevelStatIndex": 44230,
+   "levelStatType": 442,
+   "monsterLevel": 30,
+   "maxHPBase": 512131.1
+  },
+  {
+   "monsterLevelStatIndex": 44330,
+   "levelStatType": 443,
+   "monsterLevel": 30,
+   "maxHPBase": 3414213.3
+  },
+  {
+   "monsterLevelStatIndex": 44132,
+   "levelStatType": 441,
+   "monsterLevel": 32,
+   "maxHPBase": 236178.7
+  },
+  {
+   "monsterLevelStatIndex": 44232,
+   "levelStatType": 442,
+   "monsterLevel": 32,
+   "maxHPBase": 708538.1
+  },
+  {
+   "monsterLevelStatIndex": 44332,
+   "levelStatType": 443,
+   "monsterLevel": 32,
+   "maxHPBase": 4723592.8
+  },
+  {
+   "monsterLevelStatIndex": 44133,
+   "levelStatType": 441,
+   "monsterLevel": 33,
+   "maxHPBase": 120387.6
+  },
+  {
+   "monsterLevelStatIndex": 44233,
+   "levelStatType": 442,
+   "monsterLevel": 33,
+   "maxHPBase": 361164.9
+  },
+  {
+   "monsterLevelStatIndex": 44333,
+   "levelStatType": 443,
+   "monsterLevel": 33,
+   "maxHPBase": 2407771.7
+  },
+  {
+   "monsterLevelStatIndex": 44134,
+   "levelStatType": 441,
+   "monsterLevel": 34,
+   "maxHPBase": 219314.8
+  },
+  {
+   "monsterLevelStatIndex": 44234,
+   "levelStatType": 442,
+   "monsterLevel": 34,
+   "maxHPBase": 657946.4
+  },
+  {
+   "monsterLevelStatIndex": 44334,
+   "levelStatType": 443,
+   "monsterLevel": 34,
+   "maxHPBase": 4386314.8
+  },
+  {
+   "monsterLevelStatIndex": 44136,
+   "levelStatType": 441,
+   "monsterLevel": 36,
+   "maxHPBase": 212728.3
+  },
+  {
+   "monsterLevelStatIndex": 44236,
+   "levelStatType": 442,
+   "monsterLevel": 36,
+   "maxHPBase": 638186.8
+  },
+  {
+   "monsterLevelStatIndex": 44336,
+   "levelStatType": 443,
+   "monsterLevel": 36,
+   "maxHPBase": 4254584.4
+  },
+  {
+   "monsterLevelStatIndex": 44137,
+   "levelStatType": 441,
+   "monsterLevel": 37,
+   "maxHPBase": 253049.0
+  },
+  {
+   "monsterLevelStatIndex": 44237,
+   "levelStatType": 442,
+   "monsterLevel": 37,
+   "maxHPBase": 759149.0
+  },
+  {
+   "monsterLevelStatIndex": 44337,
+   "levelStatType": 443,
+   "monsterLevel": 37,
+   "maxHPBase": 5060999.0
+  },
+  {
+   "monsterLevelStatIndex": 44138,
+   "levelStatType": 441,
+   "monsterLevel": 38,
+   "maxHPBase": 182647.1
+  },
+  {
+   "monsterLevelStatIndex": 44238,
+   "levelStatType": 442,
+   "monsterLevel": 38,
+   "maxHPBase": 547943.2
+  },
+  {
+   "monsterLevelStatIndex": 44338,
+   "levelStatType": 443,
+   "monsterLevel": 38,
+   "maxHPBase": 3652960.5
+  },
+  {
+   "monsterLevelStatIndex": 44140,
+   "levelStatType": 441,
+   "monsterLevel": 40,
+   "maxHPBase": 152085.2
+  },
+  {
+   "monsterLevelStatIndex": 44240,
+   "levelStatType": 442,
+   "monsterLevel": 40,
+   "maxHPBase": 456257.5
+  },
+  {
+   "monsterLevelStatIndex": 44340,
+   "levelStatType": 443,
+   "monsterLevel": 40,
+   "maxHPBase": 3041722.1
+  },
+  {
+   "monsterLevelStatIndex": 44141,
+   "levelStatType": 441,
+   "monsterLevel": 41,
+   "maxHPBase": 183462.4
+  },
+  {
+   "monsterLevelStatIndex": 44241,
+   "levelStatType": 442,
+   "monsterLevel": 41,
+   "maxHPBase": 550389.2
+  },
+  {
+   "monsterLevelStatIndex": 44341,
+   "levelStatType": 443,
+   "monsterLevel": 41,
+   "maxHPBase": 3669266.9
+  },
+  {
+   "monsterLevelStatIndex": 44143,
+   "levelStatType": 441,
+   "monsterLevel": 43,
+   "maxHPBase": 280574.0
+  },
+  {
+   "monsterLevelStatIndex": 44243,
+   "levelStatType": 442,
+   "monsterLevel": 43,
+   "maxHPBase": 841724.0
+  },
+  {
+   "monsterLevelStatIndex": 44343,
+   "levelStatType": 443,
+   "monsterLevel": 43,
+   "maxHPBase": 5611499.0
+  },
+  {
+   "monsterLevelStatIndex": 44144,
+   "levelStatType": 441,
+   "monsterLevel": 44,
+   "maxHPBase": 263088.3
+  },
+  {
+   "monsterLevelStatIndex": 44244,
+   "levelStatType": 442,
+   "monsterLevel": 44,
+   "maxHPBase": 789266.9
+  },
+  {
+   "monsterLevelStatIndex": 44344,
+   "levelStatType": 443,
+   "monsterLevel": 44,
+   "maxHPBase": 5261784.7
+  },
+  {
+   "monsterLevelStatIndex": 44145,
+   "levelStatType": 441,
+   "monsterLevel": 45,
+   "maxHPBase": 197199.9
+  },
+  {
+   "monsterLevelStatIndex": 44245,
+   "levelStatType": 442,
+   "monsterLevel": 45,
+   "maxHPBase": 591601.6
+  },
+  {
+   "monsterLevelStatIndex": 44345,
+   "levelStatType": 443,
+   "monsterLevel": 45,
+   "maxHPBase": 3944016.2
+  },
+  {
+   "monsterLevelStatIndex": 44147,
+   "levelStatType": 441,
+   "monsterLevel": 47,
+   "maxHPBase": 181930.5
+  },
+  {
+   "monsterLevelStatIndex": 44247,
+   "levelStatType": 442,
+   "monsterLevel": 47,
+   "maxHPBase": 545793.6
+  },
+  {
+   "monsterLevelStatIndex": 44347,
+   "levelStatType": 443,
+   "monsterLevel": 47,
+   "maxHPBase": 3638629.8
+  },
+  {
+   "monsterLevelStatIndex": 44148,
+   "levelStatType": 441,
+   "monsterLevel": 48,
+   "maxHPBase": 265518.6
+  },
+  {
+   "monsterLevelStatIndex": 44248,
+   "levelStatType": 442,
+   "monsterLevel": 48,
+   "maxHPBase": 796557.7
+  },
+  {
+   "monsterLevelStatIndex": 44348,
+   "levelStatType": 443,
+   "monsterLevel": 48,
+   "maxHPBase": 5310390.3
+  },
+  {
+   "monsterLevelStatIndex": 44149,
+   "levelStatType": 441,
+   "monsterLevel": 49,
+   "maxHPBase": 307360.0
+  },
+  {
+   "monsterLevelStatIndex": 44249,
+   "levelStatType": 442,
+   "monsterLevel": 49,
+   "maxHPBase": 922081.9
+  },
+  {
+   "monsterLevelStatIndex": 44349,
+   "levelStatType": 443,
+   "monsterLevel": 49,
+   "maxHPBase": 6147218.5
+  },
+  {
+   "monsterLevelStatIndex": 44151,
+   "levelStatType": 441,
+   "monsterLevel": 51,
+   "maxHPBase": 240549.0
+  },
+  {
+   "monsterLevelStatIndex": 44251,
+   "levelStatType": 442,
+   "monsterLevel": 51,
+   "maxHPBase": 721649.0
+  },
+  {
+   "monsterLevelStatIndex": 44351,
+   "levelStatType": 443,
+   "monsterLevel": 51,
+   "maxHPBase": 4810999.0
+  },
+  {
+   "monsterLevelStatIndex": 44152,
+   "levelStatType": 441,
+   "monsterLevel": 52,
+   "maxHPBase": 290816.4
+  },
+  {
+   "monsterLevelStatIndex": 44252,
+   "levelStatType": 442,
+   "monsterLevel": 52,
+   "maxHPBase": 872451.2
+  },
+  {
+   "monsterLevelStatIndex": 44352,
+   "levelStatType": 443,
+   "monsterLevel": 52,
+   "maxHPBase": 5816346.8
+  },
+  {
+   "monsterLevelStatIndex": 44153,
+   "levelStatType": 441,
+   "monsterLevel": 53,
+   "maxHPBase": 233312.6
+  },
+  {
+   "monsterLevelStatIndex": 44253,
+   "levelStatType": 442,
+   "monsterLevel": 53,
+   "maxHPBase": 699939.7
+  },
+  {
+   "monsterLevelStatIndex": 44353,
+   "levelStatType": 443,
+   "monsterLevel": 53,
+   "maxHPBase": 4666270.2
+  },
+  {
+   "monsterLevelStatIndex": 44155,
+   "levelStatType": 441,
+   "monsterLevel": 55,
+   "maxHPBase": 272188.4
+  },
+  {
+   "monsterLevelStatIndex": 44255,
+   "levelStatType": 442,
+   "monsterLevel": 55,
+   "maxHPBase": 816567.3
+  },
+  {
+   "monsterLevelStatIndex": 44355,
+   "levelStatType": 443,
+   "monsterLevel": 55,
+   "maxHPBase": 5443787.5
+  },
+  {
+   "monsterLevelStatIndex": 44156,
+   "levelStatType": 441,
+   "monsterLevel": 56,
+   "maxHPBase": 382676.6
+  },
+  {
+   "monsterLevelStatIndex": 44256,
+   "levelStatType": 442,
+   "monsterLevel": 56,
+   "maxHPBase": 1148031.9
+  },
+  {
+   "monsterLevelStatIndex": 44356,
+   "levelStatType": 443,
+   "monsterLevel": 56,
+   "maxHPBase": 7653551.6
+  },
+  {
+   "monsterLevelStatIndex": 44157,
+   "levelStatType": 441,
+   "monsterLevel": 57,
+   "maxHPBase": 324556.6
+  },
+  {
+   "monsterLevelStatIndex": 44257,
+   "levelStatType": 442,
+   "monsterLevel": 57,
+   "maxHPBase": 973671.8
+  },
+  {
+   "monsterLevelStatIndex": 44357,
+   "levelStatType": 443,
+   "monsterLevel": 57,
+   "maxHPBase": 6491151.2
+  },
+  {
+   "monsterLevelStatIndex": 44159,
+   "levelStatType": 441,
+   "monsterLevel": 59,
+   "maxHPBase": 273526.7
+  },
+  {
+   "monsterLevelStatIndex": 44259,
+   "levelStatType": 442,
+   "monsterLevel": 59,
+   "maxHPBase": 820582.0
+  },
+  {
+   "monsterLevelStatIndex": 44359,
+   "levelStatType": 443,
+   "monsterLevel": 59,
+   "maxHPBase": 5470552.6
+  },
+  {
+   "monsterLevelStatIndex": 44160,
+   "levelStatType": 441,
+   "monsterLevel": 60,
+   "maxHPBase": 189221.3
+  },
+  {
+   "monsterLevelStatIndex": 44260,
+   "levelStatType": 442,
+   "monsterLevel": 60,
+   "maxHPBase": 567665.9
+  },
+  {
+   "monsterLevelStatIndex": 44360,
+   "levelStatType": 443,
+   "monsterLevel": 60,
+   "maxHPBase": 3784444.8
+  },
+  {
+   "monsterLevelStatIndex": 44162,
+   "levelStatType": 441,
+   "monsterLevel": 62,
+   "maxHPBase": 292613.5
+  },
+  {
+   "monsterLevelStatIndex": 44262,
+   "levelStatType": 442,
+   "monsterLevel": 62,
+   "maxHPBase": 877842.6
+  },
+  {
+   "monsterLevelStatIndex": 44362,
+   "levelStatType": 443,
+   "monsterLevel": 62,
+   "maxHPBase": 5852289.9
+  },
+  {
+   "monsterLevelStatIndex": 44163,
+   "levelStatType": 441,
+   "monsterLevel": 63,
+   "maxHPBase": 470904.7
+  },
+  {
+   "monsterLevelStatIndex": 44263,
+   "levelStatType": 442,
+   "monsterLevel": 63,
+   "maxHPBase": 1412716.1
+  },
+  {
+   "monsterLevelStatIndex": 44363,
+   "levelStatType": 443,
+   "monsterLevel": 63,
+   "maxHPBase": 9418113.3
+  },
+  {
+   "monsterLevelStatIndex": 44164,
+   "levelStatType": 441,
+   "monsterLevel": 64,
+   "maxHPBase": 272089.3
+  },
+  {
+   "monsterLevelStatIndex": 44264,
+   "levelStatType": 442,
+   "monsterLevel": 64,
+   "maxHPBase": 816270.0
+  },
+  {
+   "monsterLevelStatIndex": 44364,
+   "levelStatType": 443,
+   "monsterLevel": 64,
+   "maxHPBase": 5441805.5
+  },
+  {
+   "monsterLevelStatIndex": 44166,
+   "levelStatType": 441,
+   "monsterLevel": 66,
+   "maxHPBase": 331874.0
+  },
+  {
+   "monsterLevelStatIndex": 44266,
+   "levelStatType": 442,
+   "monsterLevel": 66,
+   "maxHPBase": 995624.0
+  },
+  {
+   "monsterLevelStatIndex": 44366,
+   "levelStatType": 443,
+   "monsterLevel": 66,
+   "maxHPBase": 6637499.0
+  },
+  {
+   "monsterLevelStatIndex": 44167,
+   "levelStatType": 441,
+   "monsterLevel": 67,
+   "maxHPBase": 229160.0
+  },
+  {
+   "monsterLevelStatIndex": 44267,
+   "levelStatType": 442,
+   "monsterLevel": 67,
+   "maxHPBase": 687482.1
+  },
+  {
+   "monsterLevelStatIndex": 44367,
+   "levelStatType": 443,
+   "monsterLevel": 67,
+   "maxHPBase": 4583219.8
+  },
+  {
+   "monsterLevelStatIndex": 44168,
+   "levelStatType": 441,
+   "monsterLevel": 68,
+   "maxHPBase": 392037.0
+  },
+  {
+   "monsterLevelStatIndex": 44268,
+   "levelStatType": 442,
+   "monsterLevel": 68,
+   "maxHPBase": 1176113.1
+  },
+  {
+   "monsterLevelStatIndex": 44368,
+   "levelStatType": 443,
+   "monsterLevel": 68,
+   "maxHPBase": 7840759.9
+  },
+  {
+   "monsterLevelStatIndex": 44170,
+   "levelStatType": 441,
+   "monsterLevel": 70,
+   "maxHPBase": 418672.9
+  },
+  {
+   "monsterLevelStatIndex": 44270,
+   "levelStatType": 442,
+   "monsterLevel": 70,
+   "maxHPBase": 1256020.6
+  },
+  {
+   "monsterLevelStatIndex": 44370,
+   "levelStatType": 443,
+   "monsterLevel": 70,
+   "maxHPBase": 8373476.3
+  },
+  {
+   "monsterLevelStatIndex": 44171,
+   "levelStatType": 441,
+   "monsterLevel": 71,
+   "maxHPBase": 361721.1
+  },
+  {
+   "monsterLevelStatIndex": 44271,
+   "levelStatType": 442,
+   "monsterLevel": 71,
+   "maxHPBase": 1085165.3
+  },
+  {
+   "monsterLevelStatIndex": 44371,
+   "levelStatType": 443,
+   "monsterLevel": 71,
+   "maxHPBase": 7234441.3
+  },
+  {
+   "monsterLevelStatIndex": 44172,
+   "levelStatType": 441,
+   "monsterLevel": 72,
+   "maxHPBase": 342810.6
+  },
+  {
+   "monsterLevelStatIndex": 44272,
+   "levelStatType": 442,
+   "monsterLevel": 72,
+   "maxHPBase": 1028433.8
+  },
+  {
+   "monsterLevelStatIndex": 44372,
+   "levelStatType": 443,
+   "monsterLevel": 72,
+   "maxHPBase": 6856231.1
+  },
+  {
+   "monsterLevelStatIndex": 44174,
+   "levelStatType": 441,
+   "monsterLevel": 74,
+   "maxHPBase": 301312.1
+  },
+  {
+   "monsterLevelStatIndex": 44274,
+   "levelStatType": 442,
+   "monsterLevel": 74,
+   "maxHPBase": 903938.2
+  },
+  {
+   "monsterLevelStatIndex": 44374,
+   "levelStatType": 443,
+   "monsterLevel": 74,
+   "maxHPBase": 6026260.5
+  },
+  {
+   "monsterLevelStatIndex": 44175,
+   "levelStatType": 441,
+   "monsterLevel": 75,
+   "maxHPBase": 384108.6
+  },
+  {
+   "monsterLevelStatIndex": 44275,
+   "levelStatType": 442,
+   "monsterLevel": 75,
+   "maxHPBase": 1152327.8
+  },
+  {
+   "monsterLevelStatIndex": 44375,
+   "levelStatType": 443,
+   "monsterLevel": 75,
+   "maxHPBase": 7682191.3
+  },
+  {
+   "monsterLevelStatIndex": 44176,
+   "levelStatType": 441,
+   "monsterLevel": 76,
+   "maxHPBase": 363599.0
+  },
+  {
+   "monsterLevelStatIndex": 44276,
+   "levelStatType": 442,
+   "monsterLevel": 76,
+   "maxHPBase": 1090799.0
+  },
+  {
+   "monsterLevelStatIndex": 44376,
+   "levelStatType": 443,
+   "monsterLevel": 76,
+   "maxHPBase": 7271999.0
+  },
+  {
+   "monsterLevelStatIndex": 44178,
+   "levelStatType": 441,
+   "monsterLevel": 78,
+   "maxHPBase": 399027.8
+  },
+  {
+   "monsterLevelStatIndex": 44278,
+   "levelStatType": 442,
+   "monsterLevel": 78,
+   "maxHPBase": 1197085.5
+  },
+  {
+   "monsterLevelStatIndex": 44378,
+   "levelStatType": 443,
+   "monsterLevel": 78,
+   "maxHPBase": 7980575.9
+  },
+  {
+   "monsterLevelStatIndex": 44179,
+   "levelStatType": 441,
+   "monsterLevel": 79,
+   "maxHPBase": 412527.8
+  },
+  {
+   "monsterLevelStatIndex": 44279,
+   "levelStatType": 442,
+   "monsterLevel": 79,
+   "maxHPBase": 1237585.5
+  },
+  {
+   "monsterLevelStatIndex": 44379,
+   "levelStatType": 443,
+   "monsterLevel": 79,
+   "maxHPBase": 8250575.9
+  },
+  {
+   "monsterLevelStatIndex": 44181,
+   "levelStatType": 441,
+   "monsterLevel": 81,
+   "maxHPBase": 403280.8
+  },
+  {
+   "monsterLevelStatIndex": 44281,
+   "levelStatType": 442,
+   "monsterLevel": 81,
+   "maxHPBase": 1209844.5
+  },
+  {
+   "monsterLevelStatIndex": 44381,
+   "levelStatType": 443,
+   "monsterLevel": 81,
+   "maxHPBase": 8065635.4
+  },
+  {
+   "monsterLevelStatIndex": 44182,
+   "levelStatType": 441,
+   "monsterLevel": 82,
+   "maxHPBase": 637124.0
+  },
+  {
+   "monsterLevelStatIndex": 44282,
+   "levelStatType": 442,
+   "monsterLevel": 82,
+   "maxHPBase": 1911374.0
+  },
+  {
+   "monsterLevelStatIndex": 44382,
+   "levelStatType": 443,
+   "monsterLevel": 82,
+   "maxHPBase": 12742499.0
+  },
+  {
+   "monsterLevelStatIndex": 44183,
+   "levelStatType": 441,
+   "monsterLevel": 83,
+   "maxHPBase": 237149.0
+  },
+  {
+   "monsterLevelStatIndex": 44283,
+   "levelStatType": 442,
+   "monsterLevel": 83,
+   "maxHPBase": 711449.0
+  },
+  {
+   "monsterLevelStatIndex": 44383,
+   "levelStatType": 443,
+   "monsterLevel": 83,
+   "maxHPBase": 4742999.0
+  },
+  {
+   "monsterLevelStatIndex": 44185,
+   "levelStatType": 441,
+   "monsterLevel": 85,
+   "maxHPBase": 470768.2
+  },
+  {
+   "monsterLevelStatIndex": 44285,
+   "levelStatType": 442,
+   "monsterLevel": 85,
+   "maxHPBase": 1412306.7
+  },
+  {
+   "monsterLevelStatIndex": 44385,
+   "levelStatType": 443,
+   "monsterLevel": 85,
+   "maxHPBase": 9415383.6
+  },
+  {
+   "monsterLevelStatIndex": 44186,
+   "levelStatType": 441,
+   "monsterLevel": 86,
+   "maxHPBase": 452811.5
+  },
+  {
+   "monsterLevelStatIndex": 44286,
+   "levelStatType": 442,
+   "monsterLevel": 86,
+   "maxHPBase": 1358436.5
+  },
+  {
+   "monsterLevelStatIndex": 44386,
+   "levelStatType": 443,
+   "monsterLevel": 86,
+   "maxHPBase": 9056249.0
+  },
+  {
+   "monsterLevelStatIndex": 44187,
+   "levelStatType": 441,
+   "monsterLevel": 87,
+   "maxHPBase": 324054.6
+  },
+  {
+   "monsterLevelStatIndex": 44287,
+   "levelStatType": 442,
+   "monsterLevel": 87,
+   "maxHPBase": 972165.7
+  },
+  {
+   "monsterLevelStatIndex": 44387,
+   "levelStatType": 443,
+   "monsterLevel": 87,
+   "maxHPBase": 6481110.1
+  },
+  {
+   "monsterLevelStatIndex": 44189,
+   "levelStatType": 441,
+   "monsterLevel": 89,
+   "maxHPBase": 484632.9
+  },
+  {
+   "monsterLevelStatIndex": 44289,
+   "levelStatType": 442,
+   "monsterLevel": 89,
+   "maxHPBase": 1453900.8
+  },
+  {
+   "monsterLevelStatIndex": 44389,
+   "levelStatType": 443,
+   "monsterLevel": 89,
+   "maxHPBase": 9692677.6
+  },
+  {
+   "monsterLevelStatIndex": 44190,
+   "levelStatType": 441,
+   "monsterLevel": 90,
+   "maxHPBase": 280304.0
+  },
+  {
+   "monsterLevelStatIndex": 44290,
+   "levelStatType": 442,
+   "monsterLevel": 90,
+   "maxHPBase": 840914.0
+  },
+  {
+   "monsterLevelStatIndex": 44390,
+   "levelStatType": 443,
+   "monsterLevel": 90,
+   "maxHPBase": 5606099.0
+  },
+  {
+   "monsterLevelStatIndex": 1130,
+   "levelStatType": 11,
+   "monsterLevel": 30,
+   "maxHPBase": 1605.0
+  },
+  {
+   "monsterLevelStatIndex": 1131,
+   "levelStatType": 11,
+   "monsterLevel": 31,
+   "maxHPBase": 1650.0
+  },
+  {
+   "monsterLevelStatIndex": 1132,
+   "levelStatType": 11,
+   "monsterLevel": 32,
+   "maxHPBase": 1695.0
+  },
+  {
+   "monsterLevelStatIndex": 1136,
+   "levelStatType": 11,
+   "monsterLevel": 36,
+   "maxHPBase": 1875.0
+  },
+  {
+   "monsterLevelStatIndex": 1137,
+   "levelStatType": 11,
+   "monsterLevel": 37,
+   "maxHPBase": 1920.0
+  },
+  {
+   "monsterLevelStatIndex": 1140,
+   "levelStatType": 11,
+   "monsterLevel": 40,
+   "maxHPBase": 2055.0
+  },
+  {
+   "monsterLevelStatIndex": 1141,
+   "levelStatType": 11,
+   "monsterLevel": 41,
+   "maxHPBase": 2100.0
+  },
+  {
+   "monsterLevelStatIndex": 1142,
+   "levelStatType": 11,
+   "monsterLevel": 42,
+   "maxHPBase": 2145.0
+  },
+  {
+   "monsterLevelStatIndex": 1145,
+   "levelStatType": 11,
+   "monsterLevel": 45,
+   "maxHPBase": 2280.0
+  },
+  {
+   "monsterLevelStatIndex": 1146,
+   "levelStatType": 11,
+   "monsterLevel": 46,
+   "maxHPBase": 2325.0
+  },
+  {
+   "monsterLevelStatIndex": 1147,
+   "levelStatType": 11,
+   "monsterLevel": 47,
+   "maxHPBase": 2370.0
+  },
+  {
+   "monsterLevelStatIndex": 1151,
+   "levelStatType": 11,
+   "monsterLevel": 51,
+   "maxHPBase": 2550.0
+  },
+  {
+   "monsterLevelStatIndex": 1152,
+   "levelStatType": 11,
+   "monsterLevel": 52,
+   "maxHPBase": 2595.0
+  },
+  {
+   "monsterLevelStatIndex": 1155,
+   "levelStatType": 11,
+   "monsterLevel": 55,
+   "maxHPBase": 2730.0
+  },
+  {
+   "monsterLevelStatIndex": 1156,
+   "levelStatType": 11,
+   "monsterLevel": 56,
+   "maxHPBase": 2775.0
+  },
+  {
+   "monsterLevelStatIndex": 1157,
+   "levelStatType": 11,
+   "monsterLevel": 57,
+   "maxHPBase": 2820.0
+  },
+  {
+   "monsterLevelStatIndex": 1160,
+   "levelStatType": 11,
+   "monsterLevel": 60,
+   "maxHPBase": 2955.0
+  },
+  {
+   "monsterLevelStatIndex": 1161,
+   "levelStatType": 11,
+   "monsterLevel": 61,
+   "maxHPBase": 3000.0
+  },
+  {
+   "monsterLevelStatIndex": 1162,
+   "levelStatType": 11,
+   "monsterLevel": 62,
+   "maxHPBase": 3045.0
+  },
+  {
+   "monsterLevelStatIndex": 1165,
+   "levelStatType": 11,
+   "monsterLevel": 65,
+   "maxHPBase": 3180.0
+  },
+  {
+   "monsterLevelStatIndex": 1166,
+   "levelStatType": 11,
+   "monsterLevel": 66,
+   "maxHPBase": 3225.0
+  },
+  {
+   "monsterLevelStatIndex": 1167,
+   "levelStatType": 11,
+   "monsterLevel": 67,
+   "maxHPBase": 3270.0
+  },
+  {
+   "monsterLevelStatIndex": 1170,
+   "levelStatType": 11,
+   "monsterLevel": 70,
+   "maxHPBase": 3405.0
+  },
+  {
+   "monsterLevelStatIndex": 1171,
+   "levelStatType": 11,
+   "monsterLevel": 71,
+   "maxHPBase": 3450.0
+  },
+  {
+   "monsterLevelStatIndex": 1172,
+   "levelStatType": 11,
+   "monsterLevel": 72,
+   "maxHPBase": 3495.0
+  },
+  {
+   "monsterLevelStatIndex": 1175,
+   "levelStatType": 11,
+   "monsterLevel": 75,
+   "maxHPBase": 3630.0
+  },
+  {
+   "monsterLevelStatIndex": 1176,
+   "levelStatType": 11,
+   "monsterLevel": 76,
+   "maxHPBase": 3675.0
+  },
+  {
+   "monsterLevelStatIndex": 1177,
+   "levelStatType": 11,
+   "monsterLevel": 77,
+   "maxHPBase": 3720.0
+  },
+  {
+   "monsterLevelStatIndex": 1330,
+   "levelStatType": 13,
+   "monsterLevel": 30,
+   "maxHPBase": 5350.0
+  },
+  {
+   "monsterLevelStatIndex": 1331,
+   "levelStatType": 13,
+   "monsterLevel": 31,
+   "maxHPBase": 5500.0
+  },
+  {
+   "monsterLevelStatIndex": 1332,
+   "levelStatType": 13,
+   "monsterLevel": 32,
+   "maxHPBase": 5650.0
+  },
+  {
+   "monsterLevelStatIndex": 1336,
+   "levelStatType": 13,
+   "monsterLevel": 36,
+   "maxHPBase": 6250.0
+  },
+  {
+   "monsterLevelStatIndex": 1337,
+   "levelStatType": 13,
+   "monsterLevel": 37,
+   "maxHPBase": 6400.0
+  },
+  {
+   "monsterLevelStatIndex": 1340,
+   "levelStatType": 13,
+   "monsterLevel": 40,
+   "maxHPBase": 6850.0
+  },
+  {
+   "monsterLevelStatIndex": 1341,
+   "levelStatType": 13,
+   "monsterLevel": 41,
+   "maxHPBase": 7000.0
+  },
+  {
+   "monsterLevelStatIndex": 1342,
+   "levelStatType": 13,
+   "monsterLevel": 42,
+   "maxHPBase": 7150.0
+  },
+  {
+   "monsterLevelStatIndex": 1345,
+   "levelStatType": 13,
+   "monsterLevel": 45,
+   "maxHPBase": 7600.0
+  },
+  {
+   "monsterLevelStatIndex": 1346,
+   "levelStatType": 13,
+   "monsterLevel": 46,
+   "maxHPBase": 7750.0
+  },
+  {
+   "monsterLevelStatIndex": 1347,
+   "levelStatType": 13,
+   "monsterLevel": 47,
+   "maxHPBase": 7900.0
+  },
+  {
+   "monsterLevelStatIndex": 1351,
+   "levelStatType": 13,
+   "monsterLevel": 51,
+   "maxHPBase": 8500.0
+  },
+  {
+   "monsterLevelStatIndex": 1352,
+   "levelStatType": 13,
+   "monsterLevel": 52,
+   "maxHPBase": 8650.0
+  },
+  {
+   "monsterLevelStatIndex": 1355,
+   "levelStatType": 13,
+   "monsterLevel": 55,
+   "maxHPBase": 9100.0
+  },
+  {
+   "monsterLevelStatIndex": 1356,
+   "levelStatType": 13,
+   "monsterLevel": 56,
+   "maxHPBase": 9250.0
+  },
+  {
+   "monsterLevelStatIndex": 1357,
+   "levelStatType": 13,
+   "monsterLevel": 57,
+   "maxHPBase": 9400.0
+  },
+  {
+   "monsterLevelStatIndex": 1360,
+   "levelStatType": 13,
+   "monsterLevel": 60,
+   "maxHPBase": 9850.0
+  },
+  {
+   "monsterLevelStatIndex": 1361,
+   "levelStatType": 13,
+   "monsterLevel": 61,
+   "maxHPBase": 10000.0
+  },
+  {
+   "monsterLevelStatIndex": 1362,
+   "levelStatType": 13,
+   "monsterLevel": 62,
+   "maxHPBase": 10150.0
+  },
+  {
+   "monsterLevelStatIndex": 1365,
+   "levelStatType": 13,
+   "monsterLevel": 65,
+   "maxHPBase": 10600.0
+  },
+  {
+   "monsterLevelStatIndex": 1366,
+   "levelStatType": 13,
+   "monsterLevel": 66,
+   "maxHPBase": 10750.0
+  },
+  {
+   "monsterLevelStatIndex": 1367,
+   "levelStatType": 13,
+   "monsterLevel": 67,
+   "maxHPBase": 10900.0
+  },
+  {
+   "monsterLevelStatIndex": 1370,
+   "levelStatType": 13,
+   "monsterLevel": 70,
+   "maxHPBase": 11350.0
+  },
+  {
+   "monsterLevelStatIndex": 1371,
+   "levelStatType": 13,
+   "monsterLevel": 71,
+   "maxHPBase": 11500.0
+  },
+  {
+   "monsterLevelStatIndex": 1372,
+   "levelStatType": 13,
+   "monsterLevel": 72,
+   "maxHPBase": 11650.0
+  },
+  {
+   "monsterLevelStatIndex": 1375,
+   "levelStatType": 13,
+   "monsterLevel": 75,
+   "maxHPBase": 12100.0
+  },
+  {
+   "monsterLevelStatIndex": 1376,
+   "levelStatType": 13,
+   "monsterLevel": 76,
+   "maxHPBase": 12250.0
+  },
+  {
+   "monsterLevelStatIndex": 1377,
+   "levelStatType": 13,
+   "monsterLevel": 77,
+   "maxHPBase": 12400.0
+  },
+  {
+   "monsterLevelStatIndex": 1232,
+   "levelStatType": 12,
+   "monsterLevel": 32,
+   "maxHPBase": 16950.0
+  },
+  {
+   "monsterLevelStatIndex": 1237,
+   "levelStatType": 12,
+   "monsterLevel": 37,
+   "maxHPBase": 19200.0
+  },
+  {
+   "monsterLevelStatIndex": 1242,
+   "levelStatType": 12,
+   "monsterLevel": 42,
+   "maxHPBase": 21450.0
+  },
+  {
+   "monsterLevelStatIndex": 1247,
+   "levelStatType": 12,
+   "monsterLevel": 47,
+   "maxHPBase": 23700.0
+  },
+  {
+   "monsterLevelStatIndex": 1252,
+   "levelStatType": 12,
+   "monsterLevel": 52,
+   "maxHPBase": 25950.0
+  },
+  {
+   "monsterLevelStatIndex": 1257,
+   "levelStatType": 12,
+   "monsterLevel": 57,
+   "maxHPBase": 28200.0
+  },
+  {
+   "monsterLevelStatIndex": 1262,
+   "levelStatType": 12,
+   "monsterLevel": 62,
+   "maxHPBase": 30450.0
+  },
+  {
+   "monsterLevelStatIndex": 1267,
+   "levelStatType": 12,
+   "monsterLevel": 67,
+   "maxHPBase": 32700.0
+  },
+  {
+   "monsterLevelStatIndex": 1272,
+   "levelStatType": 12,
+   "monsterLevel": 72,
+   "maxHPBase": 34950.0
+  },
+  {
+   "monsterLevelStatIndex": 1277,
+   "levelStatType": 12,
+   "monsterLevel": 77,
+   "maxHPBase": 37200.0
+  }
+ ]
+}

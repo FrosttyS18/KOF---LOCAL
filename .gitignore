@@ -1,0 +1,22 @@
+# Python embutido (interpretador + pycryptodome, de terceiros)
+python/
+
+# Dados do cliente: cache de bundles/tabelas originais, prefs (contém e-mail de sign-in)
+game/storage/
+
+# Estado do jogador: save atual, contas de teste, backups e opções locais
+game/_preservation/server/state/
+
+# Logs do servidor e do jogo
+game/_preservation/server/logs/
+*.log
+
+# Originais do cliente guardados pelo patch (binários grandes, irrecuperáveis de forma útil no Git)
+*.orig
+
+# Binários e dados do jogo original: versionar somente o que está em game/_preservation
+game/*
+!game/_preservation/
+
+__pycache__/
+*.pyc

@@ -1,0 +1,231 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "scenarioCharacterIndex": 9001,
+   "scenarioCharacterNameTag": "Offline.Scenario.Ein.Name",
+   "thumbImg": "SpineCharacter/Ein_N02_Spine",
+   "thumbAnimationName": "Idle"
+  },
+  {
+   "scenarioCharacterIndex": 9002,
+   "scenarioCharacterNameTag": "Offline.Scenario.Kaya.Name",
+   "thumbImg": "SpineCharacter/Kaya_N02_Spine",
+   "thumbAnimationName": "Idle"
+  },
+  {
+   "scenarioCharacterIndex": 9003,
+   "scenarioCharacterNameTag": "Offline.Scenario.Ryugo.Name",
+   "thumbImg": "SpineCharacter/Ryugo_N02_Spine",
+   "thumbAnimationName": "Idle"
+  },
+  {
+   "scenarioCharacterIndex": 9004,
+   "scenarioCharacterNameTag": "Offline.Scenario.Rugal.Name",
+   "thumbImg": "SpineCharacter/Rugal_94_Spine",
+   "thumbAnimationName": "Idle"
+  },
+  {
+   "scenarioCharacterIndex": 9005,
+   "scenarioCharacterNameTag": "Offline.Scenario.HostR.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle"
+  },
+  {
+   "scenarioCharacterIndex": 9101,
+   "scenarioCharacterNameTag": "Offline.Scenario.HostR2023.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9102,
+   "scenarioCharacterNameTag": "Offline.Scenario.MeanMan.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9103,
+   "scenarioCharacterNameTag": "Offline.Scenario.MysteriousGirl.Name",
+   "thumbImg": "SpineCharacter/Noah_N02_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9104,
+   "scenarioCharacterNameTag": "Offline.Scenario.Noah.Name",
+   "thumbImg": "SpineCharacter/Noah_N02_Spine",
+   "thumbAnimationName": "Idle",
+   "profileIndex": 1,
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9105,
+   "scenarioCharacterNameTag": "Offline.Scenario.User.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9106,
+   "scenarioCharacterNameTag": "Offline.Scenario.HostR.Name",
+   "thumbImg": "SpineCharacter/Rugal_94_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9107,
+   "scenarioCharacterNameTag": "Offline.Scenario.RAssistant.Name",
+   "thumbImg": "SpineCharacter/Mature_12_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9108,
+   "scenarioCharacterNameTag": "Offline.Scenario.MaskedMan.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9109,
+   "scenarioCharacterNameTag": "Offline.Scenario.Narrator.Name",
+   "thumbImg": "",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9110,
+   "scenarioCharacterNameTag": "Offline.Scenario.LongHairedGirl.Name",
+   "thumbImg": "SpineCharacter/Athena_94_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9111,
+   "scenarioCharacterNameTag": "Offline.Scenario.Athena.Name",
+   "thumbImg": "SpineCharacter/Athena_94_Spine",
+   "thumbAnimationName": "Idle",
+   "profileIndex": 2,
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9112,
+   "scenarioCharacterNameTag": "Offline.Scenario.MeatBunBoy.Name",
+   "thumbImg": "SpineCharacter/Kensou_94_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9113,
+   "scenarioCharacterNameTag": "Offline.Scenario.Kensou.Name",
+   "thumbImg": "SpineCharacter/Kensou_94_Spine",
+   "thumbAnimationName": "Idle",
+   "profileIndex": 3,
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9114,
+   "scenarioCharacterNameTag": "Offline.Scenario.DrunkenOldMan.Name",
+   "thumbImg": "SpineCharacter/Chin_94_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9115,
+   "scenarioCharacterNameTag": "Offline.Scenario.Chin.Name",
+   "thumbImg": "SpineCharacter/Chin_94_Spine",
+   "thumbAnimationName": "Idle",
+   "profileIndex": 4,
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  },
+  {
+   "scenarioCharacterIndex": 9116,
+   "scenarioCharacterNameTag": "Offline.Scenario.RedCoatWoman.Name",
+   "thumbImg": "SpineCharacter/Kaya_Spine",
+   "thumbAnimationName": "Idle",
+   "emoticonX": 0,
+   "emoticonY": 430,
+   "emoticonXLeft": 120,
+   "emoticonYLeft": 430,
+   "emoticonXRight": -120,
+   "emoticonYRight": 430
+  }
+ ]
+}

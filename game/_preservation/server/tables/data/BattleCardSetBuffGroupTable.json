@@ -1,0 +1,983 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_builds.py): set / option cards, transcend and imprint stones from the user's build videos and the client's own art; values not shown there are ours.",
+ "rows": [
+  {
+   "battleCardSetBuffGroupIndex": 70015,
+   "battleCardSetBuffGroup": 7001,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "mischievous",
+   "buffIndex": 9900000,
+   "buffIndex2": 9900001,
+   "buffIndex3": 9900002
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70026,
+   "battleCardSetBuffGroup": 7002,
+   "battleCardSetBuffGrade": 6,
+   "battleCardSetBuffGroupIndexString": "successors",
+   "buffIndex": 9900006,
+   "buffIndex2": 9900007,
+   "buffIndex3": 9900008
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70036,
+   "battleCardSetBuffGroup": 7003,
+   "battleCardSetBuffGrade": 6,
+   "battleCardSetBuffGroupIndexString": "angelstunt",
+   "buffIndex": 9900012,
+   "buffIndex2": 9900013
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70045,
+   "battleCardSetBuffGroup": 7004,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "5thanniversaryset_set",
+   "buffIndex": 9900097
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70055,
+   "battleCardSetBuffGroup": 7005,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_aftertraining",
+   "buffIndex": 9900101
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70065,
+   "battleCardSetBuffGroup": 7006,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_akane_parttimeset",
+   "buffIndex": 9900105
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70075,
+   "battleCardSetBuffGroup": 7007,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_asceticism",
+   "buffIndex": 9900109
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70085,
+   "battleCardSetBuffGroup": 7008,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_asweetrest",
+   "buffIndex": 9900113
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70095,
+   "battleCardSetBuffGroup": 7009,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_attitudeoflegend",
+   "buffIndex": 9900117
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70105,
+   "battleCardSetBuffGroup": 7010,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_bigdumpling",
+   "buffIndex": 9900121
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70115,
+   "battleCardSetBuffGroup": 7011,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_cheering",
+   "buffIndex": 9900125
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70125,
+   "battleCardSetBuffGroup": 7012,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_chieftruck",
+   "buffIndex": 9900129
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70135,
+   "battleCardSetBuffGroup": 7013,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_clacksupplies",
+   "buffIndex": 9900133
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70145,
+   "battleCardSetBuffGroup": 7014,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_diagnosis",
+   "buffIndex": 9900137
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70155,
+   "battleCardSetBuffGroup": 7015,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_ein",
+   "buffIndex": 9900141
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70165,
+   "battleCardSetBuffGroup": 7016,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_following",
+   "buffIndex": 9900145
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70175,
+   "battleCardSetBuffGroup": 7017,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_foodfighter",
+   "buffIndex": 9900149
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70185,
+   "battleCardSetBuffGroup": 7018,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_gintama_titleset",
+   "buffIndex": 9900153
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70195,
+   "battleCardSetBuffGroup": 7019,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_gintamaset",
+   "buffIndex": 9900157
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70205,
+   "battleCardSetBuffGroup": 7020,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_idolathena",
+   "buffIndex": 9900161
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70215,
+   "battleCardSetBuffGroup": 7021,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_jangcard",
+   "buffIndex": 9900165
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70225,
+   "battleCardSetBuffGroup": 7022,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_kaya",
+   "buffIndex": 9900169
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70235,
+   "battleCardSetBuffGroup": 7023,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_lovelyidol",
+   "buffIndex": 9900173
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70245,
+   "battleCardSetBuffGroup": 7024,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_mai-kimono",
+   "buffIndex": 9900177
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70255,
+   "battleCardSetBuffGroup": 7025,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_marysdog",
+   "buffIndex": 9900181
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70265,
+   "battleCardSetBuffGroup": 7026,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_missmatch",
+   "buffIndex": 9900185
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70275,
+   "battleCardSetBuffGroup": 7027,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_mobset",
+   "buffIndex": 9900189
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70285,
+   "battleCardSetBuffGroup": 7028,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_nemesis",
+   "buffIndex": 9900193
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70295,
+   "battleCardSetBuffGroup": 7029,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_nests",
+   "buffIndex": 9900197
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70305,
+   "battleCardSetBuffGroup": 7030,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_newbeginning",
+   "buffIndex": 9900201
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70315,
+   "battleCardSetBuffGroup": 7031,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_partydress",
+   "buffIndex": 9900205
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70325,
+   "battleCardSetBuffGroup": 7032,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_peacefultimes",
+   "buffIndex": 9900209
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70335,
+   "battleCardSetBuffGroup": 7033,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_presentmission",
+   "buffIndex": 9900213
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70345,
+   "battleCardSetBuffGroup": 7034,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_psychosoldierteam",
+   "buffIndex": 9900217
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70355,
+   "battleCardSetBuffGroup": 7035,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_rip",
+   "buffIndex": 9900221
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70365,
+   "battleCardSetBuffGroup": 7036,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_ryugo",
+   "buffIndex": 9900225
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70375,
+   "battleCardSetBuffGroup": 7037,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_scionofthunder",
+   "buffIndex": 9900229
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70385,
+   "battleCardSetBuffGroup": 7038,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_sds_meliodasset",
+   "buffIndex": 9900233
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70395,
+   "battleCardSetBuffGroup": 7039,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_sds_merlinset",
+   "buffIndex": 9900237
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70405,
+   "battleCardSetBuffGroup": 7040,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_shine",
+   "buffIndex": 9900241
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70415,
+   "battleCardSetBuffGroup": 7041,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_softball",
+   "buffIndex": 9900245
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70425,
+   "battleCardSetBuffGroup": 7042,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_strangeteatime",
+   "buffIndex": 9900249
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70435,
+   "battleCardSetBuffGroup": 7043,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_teenagerheroines",
+   "buffIndex": 9900253
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70445,
+   "battleCardSetBuffGroup": 7044,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_tekken_amusementpark",
+   "buffIndex": 9900257
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70455,
+   "battleCardSetBuffGroup": 7045,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_therevenge",
+   "buffIndex": 9900261
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70465,
+   "battleCardSetBuffGroup": 7046,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_thereverse",
+   "buffIndex": 9900265
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70475,
+   "battleCardSetBuffGroup": 7047,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_traningspecialskill",
+   "buffIndex": 9900269
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70485,
+   "battleCardSetBuffGroup": 7048,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_twins",
+   "buffIndex": 9900273
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70495,
+   "battleCardSetBuffGroup": 7049,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_unchangingheart",
+   "buffIndex": 9900277
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70505,
+   "battleCardSetBuffGroup": 7050,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_victoryparty",
+   "buffIndex": 9900281
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70515,
+   "battleCardSetBuffGroup": 7051,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_wanttoability",
+   "buffIndex": 9900285
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70525,
+   "battleCardSetBuffGroup": 7052,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_wynteriscoming",
+   "buffIndex": 9900289
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70535,
+   "battleCardSetBuffGroup": 7053,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "all_none_youngwolf",
+   "buffIndex": 9900293
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70545,
+   "battleCardSetBuffGroup": 7054,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "ashsagerealed_set",
+   "buffIndex": 9900297
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70555,
+   "battleCardSetBuffGroup": 7055,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "athenaexmakeup_set",
+   "buffIndex": 9900301
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70565,
+   "battleCardSetBuffGroup": 7056,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "athenaspecialselection_set",
+   "buffIndex": 9900305
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70575,
+   "battleCardSetBuffGroup": 7057,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "attackshermie_set",
+   "buffIndex": 9900309
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70585,
+   "battleCardSetBuffGroup": 7058,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "balancechris_set",
+   "buffIndex": 9900313
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70595,
+   "battleCardSetBuffGroup": 7059,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "beautifulcruelty_set",
+   "buffIndex": 9900317
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70605,
+   "battleCardSetBuffGroup": 7060,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "bocchiandrock_set",
+   "buffIndex": 9900321
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70615,
+   "battleCardSetBuffGroup": 7061,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "brutalmamahaha_set",
+   "buffIndex": 9900325
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70625,
+   "battleCardSetBuffGroup": 7062,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "cammyversusleona_set",
+   "buffIndex": 9900329
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70635,
+   "battleCardSetBuffGroup": 7063,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "choi_tf_prettykorea_set",
+   "buffIndex": 9900333
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70645,
+   "battleCardSetBuffGroup": 7064,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "concertofchris_set",
+   "buffIndex": 9900337
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70655,
+   "battleCardSetBuffGroup": 7065,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "curiouspower_set",
+   "buffIndex": 9900341
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70665,
+   "battleCardSetBuffGroup": 7066,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "daysofpeace_set",
+   "buffIndex": 9900345
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70675,
+   "battleCardSetBuffGroup": 7067,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "defenceyashiro_set",
+   "buffIndex": 9900349
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70685,
+   "battleCardSetBuffGroup": 7068,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "doahonokaxmarie_set",
+   "buffIndex": 9900353
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70695,
+   "battleCardSetBuffGroup": 7069,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "doanyotenguwin_set",
+   "buffIndex": 9900357
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70704,
+   "battleCardSetBuffGroup": 7070,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_attack_def",
+   "buffIndex": 9900361
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70714,
+   "battleCardSetBuffGroup": 7071,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_attack_hp",
+   "buffIndex": 9900365
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70724,
+   "battleCardSetBuffGroup": 7072,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_balance_def",
+   "buffIndex": 9900369
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70734,
+   "battleCardSetBuffGroup": 7073,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_balance_hp",
+   "buffIndex": 9900373
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70744,
+   "battleCardSetBuffGroup": 7074,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_defence_def",
+   "buffIndex": 9900377
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70754,
+   "battleCardSetBuffGroup": 7075,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_blood_defence_hp",
+   "buffIndex": 9900381
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70764,
+   "battleCardSetBuffGroup": 7076,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_attack_def",
+   "buffIndex": 9900385
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70774,
+   "battleCardSetBuffGroup": 7077,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_attack_hp",
+   "buffIndex": 9900389
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70784,
+   "battleCardSetBuffGroup": 7078,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_balance_def",
+   "buffIndex": 9900393
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70794,
+   "battleCardSetBuffGroup": 7079,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_balance_hp",
+   "buffIndex": 9900397
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70804,
+   "battleCardSetBuffGroup": 7080,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_defence_def",
+   "buffIndex": 9900401
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70814,
+   "battleCardSetBuffGroup": 7081,
+   "battleCardSetBuffGrade": 4,
+   "battleCardSetBuffGroupIndexString": "drop_set_burn_defence_hp",
+   "buffIndex": 9900405
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70825,
+   "battleCardSetBuffGroup": 7082,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "etudeinsky_set",
+   "buffIndex": 9900409
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70835,
+   "battleCardSetBuffGroup": 7083,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "exangelvsleonaset",
+   "buffIndex": 9900413
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70845,
+   "battleCardSetBuffGroup": 7084,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "exkrohnenbikeride_set",
+   "buffIndex": 9900417
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70855,
+   "battleCardSetBuffGroup": 7085,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "exkrohnenfugitive_set",
+   "buffIndex": 9900421
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70865,
+   "battleCardSetBuffGroup": 7086,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "exshermiespcomeback_set",
+   "buffIndex": 9900425
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70875,
+   "battleCardSetBuffGroup": 7087,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "gato_ex_okojyosan_set",
+   "buffIndex": 9900429
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70885,
+   "battleCardSetBuffGroup": 7088,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "geesebosssyndrome_set",
+   "buffIndex": 9900433
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70895,
+   "battleCardSetBuffGroup": 7089,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "ggxallchar_set",
+   "buffIndex": 9900437
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70905,
+   "battleCardSetBuffGroup": 7090,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "ggxmaydestroyed_set",
+   "buffIndex": 9900441
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70915,
+   "battleCardSetBuffGroup": 7091,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "girlsoficeandfire_set",
+   "buffIndex": 9900445
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70925,
+   "battleCardSetBuffGroup": 7092,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "halloweenintruder_set",
+   "buffIndex": 9900449
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70935,
+   "battleCardSetBuffGroup": 7093,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "kulaandfriends_set",
+   "buffIndex": 9900453
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70945,
+   "battleCardSetBuffGroup": 7094,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "kulassset_set",
+   "buffIndex": 9900457
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70955,
+   "battleCardSetBuffGroup": 7095,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "kyorispecialsignature_set",
+   "buffIndex": 9900461
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70965,
+   "battleCardSetBuffGroup": 7096,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "leonabsset_set",
+   "buffIndex": 9900465
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70975,
+   "battleCardSetBuffGroup": 7097,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "matureandvice_sn_set",
+   "buffIndex": 9900469
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70985,
+   "battleCardSetBuffGroup": 7098,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "mushashugyo_set",
+   "buffIndex": 9900473
+  },
+  {
+   "battleCardSetBuffGroupIndex": 70995,
+   "battleCardSetBuffGroup": 7099,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "namelessbsset_set",
+   "buffIndex": 9900477
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71005,
+   "battleCardSetBuffGroup": 7100,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "namelesspeacemaker_set",
+   "buffIndex": 9900481
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71015,
+   "battleCardSetBuffGroup": 7101,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "nestsbsset_set",
+   "buffIndex": 9900485
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71025,
+   "battleCardSetBuffGroup": 7102,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "newyeartagset_set",
+   "buffIndex": 9900489
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71035,
+   "battleCardSetBuffGroup": 7103,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "observerliar_set",
+   "buffIndex": 9900493
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71045,
+   "battleCardSetBuffGroup": 7104,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "omegarugalex_set",
+   "buffIndex": 9900497
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71055,
+   "battleCardSetBuffGroup": 7105,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "orochisyndrome_set",
+   "buffIndex": 9900501
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71065,
+   "battleCardSetBuffGroup": 7106,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "parttimereru_set",
+   "buffIndex": 9900505
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71075,
+   "battleCardSetBuffGroup": 7107,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "pioneeroffate_set",
+   "buffIndex": 9900509
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71085,
+   "battleCardSetBuffGroup": 7108,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "pokerface_set",
+   "buffIndex": 9900513
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71095,
+   "battleCardSetBuffGroup": 7109,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "psychosoldiergame_set",
+   "buffIndex": 9900517
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71105,
+   "battleCardSetBuffGroup": 7110,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "reporterserina_set",
+   "buffIndex": 9900521
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71115,
+   "battleCardSetBuffGroup": 7111,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "returnthisplace_set",
+   "buffIndex": 9900525
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71125,
+   "battleCardSetBuffGroup": 7112,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "riverofchocolate_set",
+   "buffIndex": 9900529
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71135,
+   "battleCardSetBuffGroup": 7113,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "roadoftruth_set",
+   "buffIndex": 9900533
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71145,
+   "battleCardSetBuffGroup": 7114,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "rugalisback_set",
+   "buffIndex": 9900537
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71155,
+   "battleCardSetBuffGroup": 7115,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "saintandbrutal_set",
+   "buffIndex": 9900541
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71165,
+   "battleCardSetBuffGroup": 7116,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sc6_happyholiday_set",
+   "buffIndex": 9900545
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71175,
+   "battleCardSetBuffGroup": 7117,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sc6_theheavytruth_set",
+   "buffIndex": 9900549
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71185,
+   "battleCardSetBuffGroup": 7118,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "secondjoker_set",
+   "buffIndex": 9900553
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71195,
+   "battleCardSetBuffGroup": 7119,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sf6dreammatch_set",
+   "buffIndex": 9900557
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71205,
+   "battleCardSetBuffGroup": 7120,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sfv_chunlivacation_set",
+   "buffIndex": 9900561
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71215,
+   "battleCardSetBuffGroup": 7121,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sfv_streetfighterkof_set",
+   "buffIndex": 9900565
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71225,
+   "battleCardSetBuffGroup": 7122,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sk_endlessstories_set",
+   "buffIndex": 9900569
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71235,
+   "battleCardSetBuffGroup": 7123,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "sk_knightsofasgar_set",
+   "buffIndex": 9900573
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71245,
+   "battleCardSetBuffGroup": 7124,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "specialthanksto_set",
+   "buffIndex": 9900577
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71255,
+   "battleCardSetBuffGroup": 7125,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "ssrockandterry_set",
+   "buffIndex": 9900581
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71265,
+   "battleCardSetBuffGroup": 7126,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "team2nds_set",
+   "buffIndex": 9900585
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71275,
+   "battleCardSetBuffGroup": 7127,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "tekken7_2dvs3d_set",
+   "buffIndex": 9900589
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71285,
+   "battleCardSetBuffGroup": 7128,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "tekken7_returndream_set",
+   "buffIndex": 9900593
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71295,
+   "battleCardSetBuffGroup": 7129,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "thebadkids_set",
+   "buffIndex": 9900597
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71305,
+   "battleCardSetBuffGroup": 7130,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "thisis2003_set",
+   "buffIndex": 9900601
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71315,
+   "battleCardSetBuffGroup": 7131,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "todosdaughterreport_set",
+   "buffIndex": 9900605
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71325,
+   "battleCardSetBuffGroup": 7132,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "treasurehunting_set",
+   "buffIndex": 9900609
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71335,
+   "battleCardSetBuffGroup": 7133,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "unbreakableheart_set",
+   "buffIndex": 9900613
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71345,
+   "battleCardSetBuffGroup": 7134,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "vf5_akiravsrugal_set",
+   "buffIndex": 9900617
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71355,
+   "battleCardSetBuffGroup": 7135,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "vf5_virtuafighter_set",
+   "buffIndex": 9900621
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71365,
+   "battleCardSetBuffGroup": 7136,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "whereiskensou_set",
+   "buffIndex": 9900625
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71375,
+   "battleCardSetBuffGroup": 7137,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "withoutkensou_set",
+   "buffIndex": 9900629
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71385,
+   "battleCardSetBuffGroup": 7138,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "xmassleighking_set",
+   "buffIndex": 9900633
+  },
+  {
+   "battleCardSetBuffGroupIndex": 71395,
+   "battleCardSetBuffGroup": 7139,
+   "battleCardSetBuffGrade": 5,
+   "battleCardSetBuffGroupIndexString": "yurikingssset_set",
+   "buffIndex": 9900637
+  }
+ ]
+}

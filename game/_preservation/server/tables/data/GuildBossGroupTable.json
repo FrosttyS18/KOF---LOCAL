@@ -1,0 +1,55 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildBossGroupIndex": 1,
+   "guildBossGroupType": 1,
+   "questEvent": 7001,
+   "guildBossRewardGroup": 1,
+   "rankingAble": 1,
+   "guildBossKeySettingIndex": 1,
+   "guildBossBanner": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_guildboss_omegarugal",
+   "sortOrder": 1
+  },
+  {
+   "guildBossGroupIndex": 2,
+   "guildBossGroupType": 1,
+   "questEvent": 7002,
+   "guildBossRewardGroup": 2,
+   "rankingAble": 1,
+   "guildBossKeySettingIndex": 2,
+   "guildBossBanner": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_guildboss_bs_geese",
+   "sortOrder": 2
+  },
+  {
+   "guildBossGroupIndex": 3,
+   "guildBossGroupType": 2,
+   "questEvent": 7003,
+   "guildBossRewardGroup": 3,
+   "rankingAble": 1,
+   "guildBossKeySettingIndex": 3,
+   "guildBossBanner": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_guildboss_tf_chang",
+   "sortOrder": 3
+  },
+  {
+   "guildBossGroupIndex": 4,
+   "guildBossGroupType": 2,
+   "questEvent": 7004,
+   "guildBossRewardGroup": 4,
+   "rankingAble": 1,
+   "guildBossKeySettingIndex": 4,
+   "guildBossBanner": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_guildboss_sfv_ryu",
+   "sortOrder": 4
+  },
+  {
+   "guildBossGroupIndex": 5,
+   "guildBossGroupType": 2,
+   "questEvent": 7005,
+   "guildBossRewardGroup": 5,
+   "rankingAble": 1,
+   "guildBossKeySettingIndex": 5,
+   "guildBossBanner": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_guildboss_ggx_baiken",
+   "sortOrder": 5
+  }
+ ]
+}

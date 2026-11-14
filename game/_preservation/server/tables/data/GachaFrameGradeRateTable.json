@@ -1,0 +1,202 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaFrameGradeRateIndex": 9101,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 18034,
+   "grade5RedRate": 7247,
+   "grade5UERate": 4719
+  },
+  {
+   "gachaFrameGradeRateIndex": 9102,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 121358,
+   "grade6PurpleRate": 11835,
+   "grade6RedRate": 4974,
+   "grade6UERate": 4803
+  },
+  {
+   "gachaFrameGradeRateIndex": 9104,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9105,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 121358,
+   "grade6PurpleRate": 11835,
+   "grade6RedRate": 4974,
+   "grade6UERate": 4803
+  },
+  {
+   "gachaFrameGradeRateIndex": 9131,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9132,
+   "grade5GoldRate": 812488,
+   "grade5PurpleRate": 144269,
+   "grade6GoldRate": 24324,
+   "grade6RedRate": 18919
+  },
+  {
+   "gachaFrameGradeRateIndex": 9111,
+   "grade5GoldRate": 70000,
+   "grade5RedRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9112,
+   "grade5GoldRate": 70000,
+   "grade5UERate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9113,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9114,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9115,
+   "grade5GoldRate": 70000,
+   "grade5UERate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9121,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 116266,
+   "grade6PurpleRate": 9659,
+   "grade6RedRate": 15909,
+   "grade6UERate": 1136
+  },
+  {
+   "gachaFrameGradeRateIndex": 9122,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 109637,
+   "grade6PurpleRate": 7895,
+   "grade6RedRate": 877,
+   "grade6UERate": 24561
+  },
+  {
+   "gachaFrameGradeRateIndex": 9123,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 115944,
+   "grade6PurpleRate": 19820,
+   "grade6RedRate": 4505,
+   "grade6UERate": 2703
+  },
+  {
+   "gachaFrameGradeRateIndex": 9124,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 114613,
+   "grade6PurpleRate": 25373,
+   "grade6RedRate": 2985
+  },
+  {
+   "gachaFrameGradeRateIndex": 9125,
+   "grade5GoldRate": 806897,
+   "grade6GoldRate": 42971,
+   "grade6UERate": 100000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9204,
+   "grade5GoldRate": 76000,
+   "grade5PurpleRate": 24000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9206,
+   "grade5GoldRate": 82000,
+   "grade5PurpleRate": 18000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9208,
+   "grade5GoldRate": 70000,
+   "grade5PurpleRate": 30000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9209,
+   "grade5GoldRate": 863494,
+   "grade6GoldRate": 42234,
+   "grade6PurpleRate": 45000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9210,
+   "grade5GoldRate": 52000,
+   "grade5PurpleRate": 48000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9211,
+   "grade5GoldRate": 854617,
+   "grade6GoldRate": 42177,
+   "grade6PurpleRate": 54000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9212,
+   "grade5GoldRate": 64000,
+   "grade5PurpleRate": 36000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9213,
+   "grade5GoldRate": 881248,
+   "grade6GoldRate": 42347,
+   "grade6PurpleRate": 27000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9214,
+   "grade5GoldRate": 64000,
+   "grade5PurpleRate": 36000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9215,
+   "grade5GoldRate": 856258,
+   "grade6GoldRate": 41419,
+   "grade6PurpleRate": 54000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9216,
+   "grade5GoldRate": 64000,
+   "grade5PurpleRate": 18000,
+   "grade5RedRate": 18000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9217,
+   "grade5GoldRate": 868451,
+   "grade6GoldRate": 39946,
+   "grade6PurpleRate": 18000,
+   "grade6RedRate": 27000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9218,
+   "grade5GoldRate": 64000,
+   "grade5PurpleRate": 18000,
+   "grade5RedRate": 18000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9220,
+   "grade5GoldRate": 64000,
+   "grade5RedRate": 36000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9221,
+   "grade5GoldRate": 875670,
+   "grade6GoldRate": 49768,
+   "grade6RedRate": 27000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9222,
+   "grade5GoldRate": 64000,
+   "grade5RedRate": 36000
+  },
+  {
+   "gachaFrameGradeRateIndex": 9223,
+   "grade5GoldRate": 872371,
+   "grade6GoldRate": 42290,
+   "grade6RedRate": 36000
+  }
+ ]
+}

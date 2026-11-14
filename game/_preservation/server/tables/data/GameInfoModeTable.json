@@ -1,0 +1,30 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "gameinfoModeIndex": 90025,
+   "gameinfoModeIndexString": "User_Team_FP",
+   "questStory": "false"
+  },
+  {
+   "gameinfoModeIndex": 90067,
+   "gameinfoModeIndexString": "AwakenBeforeCoolTime",
+   "questStory": "10"
+  },
+  {
+   "gameinfoModeIndex": 90076,
+   "gameinfoModeIndexString": "ExBeforeCoolTime",
+   "questStory": "15"
+  },
+  {
+   "gameinfoModeIndex": 90077,
+   "gameinfoModeIndexString": "UEBeforeCoolTime",
+   "questStory": "15"
+  },
+  {
+   "gameinfoModeIndex": 90078,
+   "gameinfoModeIndexString": "UEAwakenBeforeCoolTime",
+   "questStory": "15"
+  }
+ ]
+}

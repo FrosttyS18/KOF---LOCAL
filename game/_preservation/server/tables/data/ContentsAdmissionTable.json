@@ -1,0 +1,29 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_soulquest.py): Soul Quest from the client's reads, the guides and recon/soulquest_spec.md; levels, ids and unlisted texts are ours.",
+ "rows": [
+  {
+   "contentsAdmissionIndex": 8,
+   "admissionLimitCount": 5,
+   "admission1Times": 40,
+   "admission2Times": 40,
+   "admission3Times": 40,
+   "admission4Times": 40,
+   "admission5Times": 40,
+   "admission6Times": 40,
+   "admission7Times": 40,
+   "admission8Times": 40,
+   "admission9Times": 40,
+   "admission10Times": 40,
+   "admission11Times": 40,
+   "admission12Times": 40,
+   "admission13Times": 40,
+   "admission14Times": 40,
+   "admission15Times": 40,
+   "admission16Times": 40,
+   "admission17Times": 40,
+   "admission18Times": 40,
+   "admission19Times": 40,
+   "admission20Times": 40
+  }
+ ]
+}

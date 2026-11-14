@@ -1,0 +1,11 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentBoxRewardIndex": 1,
+   "equipmentBoxRewardGroup": 1,
+   "equipmentRewardIndex": 1,
+   "rate": 10000
+  }
+ ]
+}

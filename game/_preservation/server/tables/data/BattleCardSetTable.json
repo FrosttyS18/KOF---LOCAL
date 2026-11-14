@@ -1,0 +1,1395 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_builds.py): set / option cards, transcend and imprint stones from the user's build videos and the client's own art; values not shown there are ours.",
+ "rows": [
+  {
+   "battleCardSetIndex": 7001,
+   "battleCardSetIndexString": "mischievous",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7001.Name",
+   "battleCardIndex": "600001,600002,600003",
+   "battleCardSetBuffGroup": 7001,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_koseiwatanoshi_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_koseiwatanoshi_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7002,
+   "battleCardSetIndexString": "successors",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7002.Name",
+   "battleCardIndex": "600004,600005,600006",
+   "battleCardSetBuffGroup": 7002,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkyoandheroes_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkyoandheroes_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7003,
+   "battleCardSetIndexString": "angelstunt",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7003.Name",
+   "battleCardIndex": "600007,600008,600009",
+   "battleCardSetBuffGroup": 7003,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exangelppvshow_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exangelppvshow_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7004,
+   "battleCardSetIndexString": "5thanniversaryset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7004.Name",
+   "battleCardIndex": "600016,600017,600018",
+   "battleCardSetBuffGroup": 7004,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_5thanniversaryset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_5thanniversaryset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7005,
+   "battleCardSetIndexString": "all_none_aftertraining",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7005.Name",
+   "battleCardIndex": "600019,600020,600021",
+   "battleCardSetBuffGroup": 7005,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_aftertraining_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_aftertraining_small_a"
+  },
+  {
+   "battleCardSetIndex": 7006,
+   "battleCardSetIndexString": "all_none_akane_parttimeset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7006.Name",
+   "battleCardIndex": "600022,600023,600024",
+   "battleCardSetBuffGroup": 7006,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_akane_parttimeset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_akane_parttimeset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7007,
+   "battleCardSetIndexString": "all_none_asceticism",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7007.Name",
+   "battleCardIndex": "600025,600026,600027",
+   "battleCardSetBuffGroup": 7007,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_asceticism_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_asceticism_small_a"
+  },
+  {
+   "battleCardSetIndex": 7008,
+   "battleCardSetIndexString": "all_none_asweetrest",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7008.Name",
+   "battleCardIndex": "600028,600029,600030",
+   "battleCardSetBuffGroup": 7008,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_asweetrest_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_asweetrest_small_a"
+  },
+  {
+   "battleCardSetIndex": 7009,
+   "battleCardSetIndexString": "all_none_attitudeoflegend",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7009.Name",
+   "battleCardIndex": "600031,600032,600033",
+   "battleCardSetBuffGroup": 7009,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_attitudeoflegend_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_attitudeoflegend_small_a"
+  },
+  {
+   "battleCardSetIndex": 7010,
+   "battleCardSetIndexString": "all_none_bigdumpling",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7010.Name",
+   "battleCardIndex": "600034,600035,600036",
+   "battleCardSetBuffGroup": 7010,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_bigdumpling_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_bigdumpling_small_a"
+  },
+  {
+   "battleCardSetIndex": 7011,
+   "battleCardSetIndexString": "all_none_cheering",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7011.Name",
+   "battleCardIndex": "600037,600038,600039",
+   "battleCardSetBuffGroup": 7011,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_cheering_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_cheering_small_a"
+  },
+  {
+   "battleCardSetIndex": 7012,
+   "battleCardSetIndexString": "all_none_chieftruck",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7012.Name",
+   "battleCardIndex": "600040,600041,600042",
+   "battleCardSetBuffGroup": 7012,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_chieftruck_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_chieftruck_small_a"
+  },
+  {
+   "battleCardSetIndex": 7013,
+   "battleCardSetIndexString": "all_none_clacksupplies",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7013.Name",
+   "battleCardIndex": "600043,600044,600045",
+   "battleCardSetBuffGroup": 7013,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_clacksupplies_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_clacksupplies_small_a"
+  },
+  {
+   "battleCardSetIndex": 7014,
+   "battleCardSetIndexString": "all_none_diagnosis",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7014.Name",
+   "battleCardIndex": "600046,600047,600048",
+   "battleCardSetBuffGroup": 7014,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_diagnosis_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_diagnosis_small_a"
+  },
+  {
+   "battleCardSetIndex": 7015,
+   "battleCardSetIndexString": "all_none_ein",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7015.Name",
+   "battleCardIndex": "600049,600050,600051",
+   "battleCardSetBuffGroup": 7015,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_ein_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_ein_small_a"
+  },
+  {
+   "battleCardSetIndex": 7016,
+   "battleCardSetIndexString": "all_none_following",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7016.Name",
+   "battleCardIndex": "600052,600053,600054",
+   "battleCardSetBuffGroup": 7016,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_following_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_following_small_a"
+  },
+  {
+   "battleCardSetIndex": 7017,
+   "battleCardSetIndexString": "all_none_foodfighter",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7017.Name",
+   "battleCardIndex": "600055,600056,600057",
+   "battleCardSetBuffGroup": 7017,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_foodfighter_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_foodfighter_small_a"
+  },
+  {
+   "battleCardSetIndex": 7018,
+   "battleCardSetIndexString": "all_none_gintama_titleset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7018.Name",
+   "battleCardIndex": "600058,600059,600060",
+   "battleCardSetBuffGroup": 7018,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_gintama_titleset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_gintama_titleset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7019,
+   "battleCardSetIndexString": "all_none_gintamaset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7019.Name",
+   "battleCardIndex": "600061,600062,600063",
+   "battleCardSetBuffGroup": 7019,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_gintamaset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_gintamaset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7020,
+   "battleCardSetIndexString": "all_none_idolathena",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7020.Name",
+   "battleCardIndex": "600064,600065,600066",
+   "battleCardSetBuffGroup": 7020,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_idolathena_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_idolathena_small_a"
+  },
+  {
+   "battleCardSetIndex": 7021,
+   "battleCardSetIndexString": "all_none_jangcard",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7021.Name",
+   "battleCardIndex": "600067,600068,600069",
+   "battleCardSetBuffGroup": 7021,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_jangcard_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_jangcard_small_a"
+  },
+  {
+   "battleCardSetIndex": 7022,
+   "battleCardSetIndexString": "all_none_kaya",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7022.Name",
+   "battleCardIndex": "600070,600071,600072",
+   "battleCardSetBuffGroup": 7022,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_kaya_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_kaya_small_a"
+  },
+  {
+   "battleCardSetIndex": 7023,
+   "battleCardSetIndexString": "all_none_lovelyidol",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7023.Name",
+   "battleCardIndex": "600073,600074,600075",
+   "battleCardSetBuffGroup": 7023,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_lovelyidol_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_lovelyidol_small_a"
+  },
+  {
+   "battleCardSetIndex": 7024,
+   "battleCardSetIndexString": "all_none_mai-kimono",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7024.Name",
+   "battleCardIndex": "600076,600077,600078",
+   "battleCardSetBuffGroup": 7024,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_mai-kimono_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_mai-kimono_small_a"
+  },
+  {
+   "battleCardSetIndex": 7025,
+   "battleCardSetIndexString": "all_none_marysdog",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7025.Name",
+   "battleCardIndex": "600079,600080,600081",
+   "battleCardSetBuffGroup": 7025,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_marysdog_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_marysdog_small_a"
+  },
+  {
+   "battleCardSetIndex": 7026,
+   "battleCardSetIndexString": "all_none_missmatch",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7026.Name",
+   "battleCardIndex": "600082,600083,600084",
+   "battleCardSetBuffGroup": 7026,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_missmatch_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_missmatch_small_a"
+  },
+  {
+   "battleCardSetIndex": 7027,
+   "battleCardSetIndexString": "all_none_mobset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7027.Name",
+   "battleCardIndex": "600085,600086,600087",
+   "battleCardSetBuffGroup": 7027,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_mobset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_mobset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7028,
+   "battleCardSetIndexString": "all_none_nemesis",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7028.Name",
+   "battleCardIndex": "600088,600089,600090",
+   "battleCardSetBuffGroup": 7028,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_nemesis_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_nemesis_small_a"
+  },
+  {
+   "battleCardSetIndex": 7029,
+   "battleCardSetIndexString": "all_none_nests",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7029.Name",
+   "battleCardIndex": "600091,600092,600093",
+   "battleCardSetBuffGroup": 7029,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_nests_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_nests_small_a"
+  },
+  {
+   "battleCardSetIndex": 7030,
+   "battleCardSetIndexString": "all_none_newbeginning",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7030.Name",
+   "battleCardIndex": "600094,600095,600096",
+   "battleCardSetBuffGroup": 7030,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_newbeginning_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_newbeginning_small_a"
+  },
+  {
+   "battleCardSetIndex": 7031,
+   "battleCardSetIndexString": "all_none_partydress",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7031.Name",
+   "battleCardIndex": "600097,600098,600099",
+   "battleCardSetBuffGroup": 7031,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_partydress_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_partydress_small_a"
+  },
+  {
+   "battleCardSetIndex": 7032,
+   "battleCardSetIndexString": "all_none_peacefultimes",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7032.Name",
+   "battleCardIndex": "600100,600101,600102",
+   "battleCardSetBuffGroup": 7032,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_peacefultimes_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_peacefultimes_small_a"
+  },
+  {
+   "battleCardSetIndex": 7033,
+   "battleCardSetIndexString": "all_none_presentmission",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7033.Name",
+   "battleCardIndex": "600103,600104,600105",
+   "battleCardSetBuffGroup": 7033,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_presentmission_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_presentmission_small_a"
+  },
+  {
+   "battleCardSetIndex": 7034,
+   "battleCardSetIndexString": "all_none_psychosoldierteam",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7034.Name",
+   "battleCardIndex": "600106,600107,600108",
+   "battleCardSetBuffGroup": 7034,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_psychosoldierteam_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_psychosoldierteam_small_a"
+  },
+  {
+   "battleCardSetIndex": 7035,
+   "battleCardSetIndexString": "all_none_rip",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7035.Name",
+   "battleCardIndex": "600109,600110,600111",
+   "battleCardSetBuffGroup": 7035,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_rip_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_rip_small_a"
+  },
+  {
+   "battleCardSetIndex": 7036,
+   "battleCardSetIndexString": "all_none_ryugo",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7036.Name",
+   "battleCardIndex": "600112,600113,600114",
+   "battleCardSetBuffGroup": 7036,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_ryugo_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_ryugo_small_a"
+  },
+  {
+   "battleCardSetIndex": 7037,
+   "battleCardSetIndexString": "all_none_scionofthunder",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7037.Name",
+   "battleCardIndex": "600115,600116,600117",
+   "battleCardSetBuffGroup": 7037,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_scionofthunder_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_scionofthunder_small_a"
+  },
+  {
+   "battleCardSetIndex": 7038,
+   "battleCardSetIndexString": "all_none_sds_meliodasset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7038.Name",
+   "battleCardIndex": "600118,600119,600120",
+   "battleCardSetBuffGroup": 7038,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_sds_meliodasset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_sds_meliodasset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7039,
+   "battleCardSetIndexString": "all_none_sds_merlinset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7039.Name",
+   "battleCardIndex": "600121,600122,600123",
+   "battleCardSetBuffGroup": 7039,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_sds_merlinset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_sds_merlinset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7040,
+   "battleCardSetIndexString": "all_none_shine",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7040.Name",
+   "battleCardIndex": "600124,600125,600126",
+   "battleCardSetBuffGroup": 7040,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_shine_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_shine_small_a"
+  },
+  {
+   "battleCardSetIndex": 7041,
+   "battleCardSetIndexString": "all_none_softball",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7041.Name",
+   "battleCardIndex": "600127,600128,600129",
+   "battleCardSetBuffGroup": 7041,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_softball_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_softball_small_a"
+  },
+  {
+   "battleCardSetIndex": 7042,
+   "battleCardSetIndexString": "all_none_strangeteatime",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7042.Name",
+   "battleCardIndex": "600130,600131,600132",
+   "battleCardSetBuffGroup": 7042,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_strangeteatime_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_strangeteatime_small_a"
+  },
+  {
+   "battleCardSetIndex": 7043,
+   "battleCardSetIndexString": "all_none_teenagerheroines",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7043.Name",
+   "battleCardIndex": "600133,600134,600135",
+   "battleCardSetBuffGroup": 7043,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_teenagerheroines_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_teenagerheroines_small_a"
+  },
+  {
+   "battleCardSetIndex": 7044,
+   "battleCardSetIndexString": "all_none_tekken_amusementpark",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7044.Name",
+   "battleCardIndex": "600136,600137,600138",
+   "battleCardSetBuffGroup": 7044,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_tekken_amusementpark_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_tekken_amusementpark_small_a"
+  },
+  {
+   "battleCardSetIndex": 7045,
+   "battleCardSetIndexString": "all_none_therevenge",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7045.Name",
+   "battleCardIndex": "600139,600140,600141",
+   "battleCardSetBuffGroup": 7045,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_therevenge_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_therevenge_small_a"
+  },
+  {
+   "battleCardSetIndex": 7046,
+   "battleCardSetIndexString": "all_none_thereverse",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7046.Name",
+   "battleCardIndex": "600142,600143,600144",
+   "battleCardSetBuffGroup": 7046,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_thereverse_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_thereverse_small_a"
+  },
+  {
+   "battleCardSetIndex": 7047,
+   "battleCardSetIndexString": "all_none_traningspecialskill",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7047.Name",
+   "battleCardIndex": "600145,600146,600147",
+   "battleCardSetBuffGroup": 7047,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_traningspecialskill_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_traningspecialskill_small_a"
+  },
+  {
+   "battleCardSetIndex": 7048,
+   "battleCardSetIndexString": "all_none_twins",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7048.Name",
+   "battleCardIndex": "600148,600149,600150",
+   "battleCardSetBuffGroup": 7048,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_twins_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_twins_small_a"
+  },
+  {
+   "battleCardSetIndex": 7049,
+   "battleCardSetIndexString": "all_none_unchangingheart",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7049.Name",
+   "battleCardIndex": "600151,600152,600153",
+   "battleCardSetBuffGroup": 7049,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_unchangingheart_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_unchangingheart_small_a"
+  },
+  {
+   "battleCardSetIndex": 7050,
+   "battleCardSetIndexString": "all_none_victoryparty",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7050.Name",
+   "battleCardIndex": "600154,600155,600156",
+   "battleCardSetBuffGroup": 7050,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_victoryparty_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_victoryparty_small_a"
+  },
+  {
+   "battleCardSetIndex": 7051,
+   "battleCardSetIndexString": "all_none_wanttoability",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7051.Name",
+   "battleCardIndex": "600157,600158,600159",
+   "battleCardSetBuffGroup": 7051,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_wanttoability_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_wanttoability_small_a"
+  },
+  {
+   "battleCardSetIndex": 7052,
+   "battleCardSetIndexString": "all_none_wynteriscoming",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7052.Name",
+   "battleCardIndex": "600160,600161,600162",
+   "battleCardSetBuffGroup": 7052,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_wynteriscoming_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_wynteriscoming_small_a"
+  },
+  {
+   "battleCardSetIndex": 7053,
+   "battleCardSetIndexString": "all_none_youngwolf",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7053.Name",
+   "battleCardIndex": "600163,600164,600165",
+   "battleCardSetBuffGroup": 7053,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_youngwolf_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_all_none_youngwolf_small_a"
+  },
+  {
+   "battleCardSetIndex": 7054,
+   "battleCardSetIndexString": "ashsagerealed_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7054.Name",
+   "battleCardIndex": "600166,600167,600168",
+   "battleCardSetBuffGroup": 7054,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ashsagerealed_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ashsagerealed_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7055,
+   "battleCardSetIndexString": "athenaexmakeup_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7055.Name",
+   "battleCardIndex": "600169,600170,600171",
+   "battleCardSetBuffGroup": 7055,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_athenaexmakeup_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_athenaexmakeup_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7056,
+   "battleCardSetIndexString": "athenaspecialselection_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7056.Name",
+   "battleCardIndex": "600172,600173,600174",
+   "battleCardSetBuffGroup": 7056,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_athenaspecialselection_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_athenaspecialselection_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7057,
+   "battleCardSetIndexString": "attackshermie_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7057.Name",
+   "battleCardIndex": "600175,600176,600177",
+   "battleCardSetBuffGroup": 7057,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_attackshermie_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_attackshermie_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7058,
+   "battleCardSetIndexString": "balancechris_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7058.Name",
+   "battleCardIndex": "600178,600179,600180",
+   "battleCardSetBuffGroup": 7058,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_balancechris_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_balancechris_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7059,
+   "battleCardSetIndexString": "beautifulcruelty_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7059.Name",
+   "battleCardIndex": "600181,600182,600183",
+   "battleCardSetBuffGroup": 7059,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_beautifulcruelty_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_beautifulcruelty_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7060,
+   "battleCardSetIndexString": "bocchiandrock_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7060.Name",
+   "battleCardIndex": "600184,600185,600186",
+   "battleCardSetBuffGroup": 7060,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_bocchiandrock_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_bocchiandrock_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7061,
+   "battleCardSetIndexString": "brutalmamahaha_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7061.Name",
+   "battleCardIndex": "600187,600188,600189",
+   "battleCardSetBuffGroup": 7061,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_brutalmamahaha_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_brutalmamahaha_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7062,
+   "battleCardSetIndexString": "cammyversusleona_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7062.Name",
+   "battleCardIndex": "600190,600191,600192",
+   "battleCardSetBuffGroup": 7062,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_cammyversusleona_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_cammyversusleona_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7063,
+   "battleCardSetIndexString": "choi_tf_prettykorea_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7063.Name",
+   "battleCardIndex": "600193,600194,600195",
+   "battleCardSetBuffGroup": 7063,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_choi_tf_prettykorea_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_choi_tf_prettykorea_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7064,
+   "battleCardSetIndexString": "concertofchris_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7064.Name",
+   "battleCardIndex": "600196,600197,600198",
+   "battleCardSetBuffGroup": 7064,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_concertofchris_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_concertofchris_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7065,
+   "battleCardSetIndexString": "curiouspower_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7065.Name",
+   "battleCardIndex": "600199,600200,600201",
+   "battleCardSetBuffGroup": 7065,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_curiouspower_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_curiouspower_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7066,
+   "battleCardSetIndexString": "daysofpeace_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7066.Name",
+   "battleCardIndex": "600202,600203,600204",
+   "battleCardSetBuffGroup": 7066,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_daysofpeace_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_daysofpeace_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7067,
+   "battleCardSetIndexString": "defenceyashiro_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7067.Name",
+   "battleCardIndex": "600205,600206,600207",
+   "battleCardSetBuffGroup": 7067,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_defenceyashiro_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_defenceyashiro_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7068,
+   "battleCardSetIndexString": "doahonokaxmarie_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7068.Name",
+   "battleCardIndex": "600208,600209,600210",
+   "battleCardSetBuffGroup": 7068,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_doahonokaxmarie_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_doahonokaxmarie_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7069,
+   "battleCardSetIndexString": "doanyotenguwin_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7069.Name",
+   "battleCardIndex": "600211,600212,600213",
+   "battleCardSetBuffGroup": 7069,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_doanyotenguwin_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_doanyotenguwin_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7070,
+   "battleCardSetIndexString": "drop_set_blood_attack_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7070.Name",
+   "battleCardIndex": "600214,600215,600216",
+   "battleCardSetBuffGroup": 7070,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_attack_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_attack_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7071,
+   "battleCardSetIndexString": "drop_set_blood_attack_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7071.Name",
+   "battleCardIndex": "600217,600218,600219",
+   "battleCardSetBuffGroup": 7071,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_attack_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_attack_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7072,
+   "battleCardSetIndexString": "drop_set_blood_balance_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7072.Name",
+   "battleCardIndex": "600220,600221,600222",
+   "battleCardSetBuffGroup": 7072,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_balance_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_balance_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7073,
+   "battleCardSetIndexString": "drop_set_blood_balance_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7073.Name",
+   "battleCardIndex": "600223,600224,600225",
+   "battleCardSetBuffGroup": 7073,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_balance_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_balance_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7074,
+   "battleCardSetIndexString": "drop_set_blood_defence_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7074.Name",
+   "battleCardIndex": "600226,600227,600228",
+   "battleCardSetBuffGroup": 7074,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_defence_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_defence_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7075,
+   "battleCardSetIndexString": "drop_set_blood_defence_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7075.Name",
+   "battleCardIndex": "600229,600230,600231",
+   "battleCardSetBuffGroup": 7075,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_defence_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_blood_defence_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7076,
+   "battleCardSetIndexString": "drop_set_burn_attack_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7076.Name",
+   "battleCardIndex": "600232,600233,600234",
+   "battleCardSetBuffGroup": 7076,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_attack_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_attack_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7077,
+   "battleCardSetIndexString": "drop_set_burn_attack_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7077.Name",
+   "battleCardIndex": "600235,600236,600237",
+   "battleCardSetBuffGroup": 7077,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_attack_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_attack_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7078,
+   "battleCardSetIndexString": "drop_set_burn_balance_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7078.Name",
+   "battleCardIndex": "600238,600239,600240",
+   "battleCardSetBuffGroup": 7078,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_balance_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_balance_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7079,
+   "battleCardSetIndexString": "drop_set_burn_balance_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7079.Name",
+   "battleCardIndex": "600241,600242,600243",
+   "battleCardSetBuffGroup": 7079,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_balance_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_balance_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7080,
+   "battleCardSetIndexString": "drop_set_burn_defence_def",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7080.Name",
+   "battleCardIndex": "600244,600245,600246",
+   "battleCardSetBuffGroup": 7080,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_defence_def_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_defence_def_small_a"
+  },
+  {
+   "battleCardSetIndex": 7081,
+   "battleCardSetIndexString": "drop_set_burn_defence_hp",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7081.Name",
+   "battleCardIndex": "600247,600248,600249",
+   "battleCardSetBuffGroup": 7081,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_defence_hp_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_drop_set_burn_defence_hp_small_a"
+  },
+  {
+   "battleCardSetIndex": 7082,
+   "battleCardSetIndexString": "etudeinsky_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7082.Name",
+   "battleCardIndex": "600250,600251,600252",
+   "battleCardSetBuffGroup": 7082,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_etudeinsky_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_etudeinsky_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7083,
+   "battleCardSetIndexString": "exangelvsleonaset",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7083.Name",
+   "battleCardIndex": "600253,600254,600255",
+   "battleCardSetBuffGroup": 7083,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exangelvsleonaset_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exangelvsleonaset_small_a"
+  },
+  {
+   "battleCardSetIndex": 7084,
+   "battleCardSetIndexString": "exkrohnenbikeride_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7084.Name",
+   "battleCardIndex": "600256,600257,600258",
+   "battleCardSetBuffGroup": 7084,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkrohnenbikeride_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkrohnenbikeride_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7085,
+   "battleCardSetIndexString": "exkrohnenfugitive_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7085.Name",
+   "battleCardIndex": "600259,600260,600261",
+   "battleCardSetBuffGroup": 7085,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkrohnenfugitive_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exkrohnenfugitive_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7086,
+   "battleCardSetIndexString": "exshermiespcomeback_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7086.Name",
+   "battleCardIndex": "600262,600263,600264",
+   "battleCardSetBuffGroup": 7086,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exshermiespcomeback_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_exshermiespcomeback_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7087,
+   "battleCardSetIndexString": "gato_ex_okojyosan_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7087.Name",
+   "battleCardIndex": "600265,600266,600267",
+   "battleCardSetBuffGroup": 7087,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_gato_ex_okojyosan_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_gato_ex_okojyosan_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7088,
+   "battleCardSetIndexString": "geesebosssyndrome_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7088.Name",
+   "battleCardIndex": "600268,600269,600270",
+   "battleCardSetBuffGroup": 7088,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_geesebosssyndrome_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_geesebosssyndrome_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7089,
+   "battleCardSetIndexString": "ggxallchar_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7089.Name",
+   "battleCardIndex": "600271,600272,600273",
+   "battleCardSetBuffGroup": 7089,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ggxallchar_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ggxallchar_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7090,
+   "battleCardSetIndexString": "ggxmaydestroyed_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7090.Name",
+   "battleCardIndex": "600274,600275,600276",
+   "battleCardSetBuffGroup": 7090,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ggxmaydestroyed_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ggxmaydestroyed_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7091,
+   "battleCardSetIndexString": "girlsoficeandfire_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7091.Name",
+   "battleCardIndex": "600277,600278,600279",
+   "battleCardSetBuffGroup": 7091,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_girlsoficeandfire_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_girlsoficeandfire_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7092,
+   "battleCardSetIndexString": "halloweenintruder_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7092.Name",
+   "battleCardIndex": "600280,600281,600282",
+   "battleCardSetBuffGroup": 7092,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_halloweenintruder_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_halloweenintruder_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7093,
+   "battleCardSetIndexString": "kulaandfriends_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7093.Name",
+   "battleCardIndex": "600283,600284,600285",
+   "battleCardSetBuffGroup": 7093,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kulaandfriends_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kulaandfriends_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7094,
+   "battleCardSetIndexString": "kulassset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7094.Name",
+   "battleCardIndex": "600286,600287,600288",
+   "battleCardSetBuffGroup": 7094,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kulassset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kulassset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7095,
+   "battleCardSetIndexString": "kyorispecialsignature_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7095.Name",
+   "battleCardIndex": "600289,600290,600291",
+   "battleCardSetBuffGroup": 7095,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kyorispecialsignature_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_kyorispecialsignature_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7096,
+   "battleCardSetIndexString": "leonabsset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7096.Name",
+   "battleCardIndex": "600292,600293,600294",
+   "battleCardSetBuffGroup": 7096,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_leonabsset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_leonabsset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7097,
+   "battleCardSetIndexString": "matureandvice_sn_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7097.Name",
+   "battleCardIndex": "600295,600296,600297",
+   "battleCardSetBuffGroup": 7097,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_matureandvice_sn_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_matureandvice_sn_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7098,
+   "battleCardSetIndexString": "mushashugyo_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7098.Name",
+   "battleCardIndex": "600298,600299,600300",
+   "battleCardSetBuffGroup": 7098,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_mushashugyo_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_mushashugyo_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7099,
+   "battleCardSetIndexString": "namelessbsset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7099.Name",
+   "battleCardIndex": "600301,600302,600303",
+   "battleCardSetBuffGroup": 7099,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_namelessbsset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_namelessbsset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7100,
+   "battleCardSetIndexString": "namelesspeacemaker_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7100.Name",
+   "battleCardIndex": "600304,600305,600306",
+   "battleCardSetBuffGroup": 7100,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_namelesspeacemaker_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_namelesspeacemaker_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7101,
+   "battleCardSetIndexString": "nestsbsset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7101.Name",
+   "battleCardIndex": "600307,600308,600309",
+   "battleCardSetBuffGroup": 7101,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_nestsbsset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_nestsbsset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7102,
+   "battleCardSetIndexString": "newyeartagset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7102.Name",
+   "battleCardIndex": "600310,600311,600312",
+   "battleCardSetBuffGroup": 7102,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_newyeartagset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_newyeartagset_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7103,
+   "battleCardSetIndexString": "observerliar_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7103.Name",
+   "battleCardIndex": "600313,600314,600315",
+   "battleCardSetBuffGroup": 7103,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_observerliar_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_observerliar_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7104,
+   "battleCardSetIndexString": "omegarugalex_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7104.Name",
+   "battleCardIndex": "600316,600317,600318",
+   "battleCardSetBuffGroup": 7104,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_omegarugalex_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_omegarugalex_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7105,
+   "battleCardSetIndexString": "orochisyndrome_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7105.Name",
+   "battleCardIndex": "600319,600320,600321",
+   "battleCardSetBuffGroup": 7105,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_orochisyndrome_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_orochisyndrome_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7106,
+   "battleCardSetIndexString": "parttimereru_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7106.Name",
+   "battleCardIndex": "600322,600323,600324",
+   "battleCardSetBuffGroup": 7106,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_parttimereru_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_parttimereru_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7107,
+   "battleCardSetIndexString": "pioneeroffate_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7107.Name",
+   "battleCardIndex": "600325,600326,600327",
+   "battleCardSetBuffGroup": 7107,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_pioneeroffate_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_pioneeroffate_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7108,
+   "battleCardSetIndexString": "pokerface_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7108.Name",
+   "battleCardIndex": "600328,600329,600330",
+   "battleCardSetBuffGroup": 7108,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_pokerface_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_pokerface_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7109,
+   "battleCardSetIndexString": "psychosoldiergame_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7109.Name",
+   "battleCardIndex": "600331,600332,600333",
+   "battleCardSetBuffGroup": 7109,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_psychosoldiergame_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_psychosoldiergame_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7110,
+   "battleCardSetIndexString": "reporterserina_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7110.Name",
+   "battleCardIndex": "600334,600335,600336",
+   "battleCardSetBuffGroup": 7110,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_reporterserina_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_reporterserina_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7111,
+   "battleCardSetIndexString": "returnthisplace_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7111.Name",
+   "battleCardIndex": "600337,600338,600339",
+   "battleCardSetBuffGroup": 7111,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_returnthisplace_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_returnthisplace_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7112,
+   "battleCardSetIndexString": "riverofchocolate_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7112.Name",
+   "battleCardIndex": "600340,600341,600342",
+   "battleCardSetBuffGroup": 7112,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_riverofchocolate_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_riverofchocolate_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7113,
+   "battleCardSetIndexString": "roadoftruth_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7113.Name",
+   "battleCardIndex": "600343,600344,600345",
+   "battleCardSetBuffGroup": 7113,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_roadoftruth_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_roadoftruth_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7114,
+   "battleCardSetIndexString": "rugalisback_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7114.Name",
+   "battleCardIndex": "600346,600347,600348",
+   "battleCardSetBuffGroup": 7114,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_rugalisback_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_rugalisback_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7115,
+   "battleCardSetIndexString": "saintandbrutal_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7115.Name",
+   "battleCardIndex": "600349,600350,600351",
+   "battleCardSetBuffGroup": 7115,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_saintandbrutal_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_saintandbrutal_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7116,
+   "battleCardSetIndexString": "sc6_happyholiday_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7116.Name",
+   "battleCardIndex": "600352,600353,600354",
+   "battleCardSetBuffGroup": 7116,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sc6_happyholiday_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sc6_happyholiday_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7117,
+   "battleCardSetIndexString": "sc6_theheavytruth_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7117.Name",
+   "battleCardIndex": "600355,600356,600357",
+   "battleCardSetBuffGroup": 7117,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sc6_theheavytruth_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sc6_theheavytruth_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7118,
+   "battleCardSetIndexString": "secondjoker_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7118.Name",
+   "battleCardIndex": "600358,600359,600360",
+   "battleCardSetBuffGroup": 7118,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_secondjoker_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_secondjoker_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7119,
+   "battleCardSetIndexString": "sf6dreammatch_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7119.Name",
+   "battleCardIndex": "600361,600362,600363",
+   "battleCardSetBuffGroup": 7119,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sf6dreammatch_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sf6dreammatch_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7120,
+   "battleCardSetIndexString": "sfv_chunlivacation_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7120.Name",
+   "battleCardIndex": "600364,600365,600366",
+   "battleCardSetBuffGroup": 7120,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sfv_chunlivacation_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sfv_chunlivacation_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7121,
+   "battleCardSetIndexString": "sfv_streetfighterkof_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7121.Name",
+   "battleCardIndex": "600367,600368,600369",
+   "battleCardSetBuffGroup": 7121,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sfv_streetfighterkof_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sfv_streetfighterkof_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7122,
+   "battleCardSetIndexString": "sk_endlessstories_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7122.Name",
+   "battleCardIndex": "600370,600371,600372",
+   "battleCardSetBuffGroup": 7122,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sk_endlessstories_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sk_endlessstories_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7123,
+   "battleCardSetIndexString": "sk_knightsofasgar_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7123.Name",
+   "battleCardIndex": "600373,600374,600375",
+   "battleCardSetBuffGroup": 7123,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sk_knightsofasgar_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_sk_knightsofasgar_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7124,
+   "battleCardSetIndexString": "specialthanksto_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7124.Name",
+   "battleCardIndex": "600376,600377,600378",
+   "battleCardSetBuffGroup": 7124,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_specialthanksto_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_specialthanksto_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7125,
+   "battleCardSetIndexString": "ssrockandterry_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7125.Name",
+   "battleCardIndex": "600379,600380,600381",
+   "battleCardSetBuffGroup": 7125,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ssrockandterry_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_ssrockandterry_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7126,
+   "battleCardSetIndexString": "team2nds_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7126.Name",
+   "battleCardIndex": "600382,600383,600384",
+   "battleCardSetBuffGroup": 7126,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_team2nds_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_team2nds_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7127,
+   "battleCardSetIndexString": "tekken7_2dvs3d_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7127.Name",
+   "battleCardIndex": "600385,600386,600387",
+   "battleCardSetBuffGroup": 7127,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_tekken7_2dvs3d_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_tekken7_2dvs3d_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7128,
+   "battleCardSetIndexString": "tekken7_returndream_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7128.Name",
+   "battleCardIndex": "600388,600389,600390",
+   "battleCardSetBuffGroup": 7128,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_tekken7_returndream_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_tekken7_returndream_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7129,
+   "battleCardSetIndexString": "thebadkids_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7129.Name",
+   "battleCardIndex": "600391,600392,600393",
+   "battleCardSetBuffGroup": 7129,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_thebadkids_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_thebadkids_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7130,
+   "battleCardSetIndexString": "thisis2003_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7130.Name",
+   "battleCardIndex": "600394,600395,600396",
+   "battleCardSetBuffGroup": 7130,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_thisis2003_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_thisis2003_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7131,
+   "battleCardSetIndexString": "todosdaughterreport_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7131.Name",
+   "battleCardIndex": "600397,600398,600399",
+   "battleCardSetBuffGroup": 7131,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_todosdaughterreport_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_todosdaughterreport_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7132,
+   "battleCardSetIndexString": "treasurehunting_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7132.Name",
+   "battleCardIndex": "600400,600401,600402",
+   "battleCardSetBuffGroup": 7132,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_treasurehunting_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_treasurehunting_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7133,
+   "battleCardSetIndexString": "unbreakableheart_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7133.Name",
+   "battleCardIndex": "600403,600404,600405",
+   "battleCardSetBuffGroup": 7133,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_unbreakableheart_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_unbreakableheart_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7134,
+   "battleCardSetIndexString": "vf5_akiravsrugal_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7134.Name",
+   "battleCardIndex": "600406,600407,600408",
+   "battleCardSetBuffGroup": 7134,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_vf5_akiravsrugal_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_vf5_akiravsrugal_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7135,
+   "battleCardSetIndexString": "vf5_virtuafighter_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7135.Name",
+   "battleCardIndex": "600409,600410,600411",
+   "battleCardSetBuffGroup": 7135,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_vf5_virtuafighter_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_vf5_virtuafighter_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7136,
+   "battleCardSetIndexString": "whereiskensou_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7136.Name",
+   "battleCardIndex": "600412,600413,600414",
+   "battleCardSetBuffGroup": 7136,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_whereiskensou_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_whereiskensou_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7137,
+   "battleCardSetIndexString": "withoutkensou_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7137.Name",
+   "battleCardIndex": "600415,600416,600417",
+   "battleCardSetBuffGroup": 7137,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_withoutkensou_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_withoutkensou_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7138,
+   "battleCardSetIndexString": "xmassleighking_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7138.Name",
+   "battleCardIndex": "600418,600419,600420",
+   "battleCardSetBuffGroup": 7138,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_xmassleighking_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_xmassleighking_set_small_a"
+  },
+  {
+   "battleCardSetIndex": 7139,
+   "battleCardSetIndexString": "yurikingssset_set",
+   "battleCardSetNameTag": "Offline.BattleCardSet.7139.Name",
+   "battleCardIndex": "600421,600422,600423",
+   "battleCardSetBuffGroup": 7139,
+   "setGradeNameString": "FES",
+   "battleCardSetIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_yurikingssset_set_big_a",
+   "battleCardSetIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/BattleThumb_set/battlecard_yurikingssset_set_small_a"
+  }
+ ]
+}

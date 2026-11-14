@@ -1,0 +1,95 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_affinity.py): fighter affinity gifts, levels and rewards",
+ "rows": [
+  {
+   "affectionLevelIndex": 1,
+   "affectionLevel": 0,
+   "exp": 50,
+   "expAccumulate": 50
+  },
+  {
+   "affectionLevelIndex": 2,
+   "affectionLevel": 1,
+   "exp": 30,
+   "expAccumulate": 80
+  },
+  {
+   "affectionLevelIndex": 3,
+   "affectionLevel": 2,
+   "exp": 40,
+   "expAccumulate": 120
+  },
+  {
+   "affectionLevelIndex": 4,
+   "affectionLevel": 3,
+   "exp": 50,
+   "expAccumulate": 170
+  },
+  {
+   "affectionLevelIndex": 5,
+   "affectionLevel": 4,
+   "exp": 60,
+   "expAccumulate": 230
+  },
+  {
+   "affectionLevelIndex": 6,
+   "affectionLevel": 5,
+   "exp": 70,
+   "expAccumulate": 300
+  },
+  {
+   "affectionLevelIndex": 7,
+   "affectionLevel": 6,
+   "exp": 80,
+   "expAccumulate": 380
+  },
+  {
+   "affectionLevelIndex": 8,
+   "affectionLevel": 7,
+   "exp": 90,
+   "expAccumulate": 470
+  },
+  {
+   "affectionLevelIndex": 9,
+   "affectionLevel": 8,
+   "exp": 100,
+   "expAccumulate": 570
+  },
+  {
+   "affectionLevelIndex": 10,
+   "affectionLevel": 9,
+   "exp": 150,
+   "expAccumulate": 720
+  },
+  {
+   "affectionLevelIndex": 11,
+   "affectionLevel": 10,
+   "exp": 200,
+   "expAccumulate": 920
+  },
+  {
+   "affectionLevelIndex": 12,
+   "affectionLevel": 11,
+   "exp": 250,
+   "expAccumulate": 1170
+  },
+  {
+   "affectionLevelIndex": 13,
+   "affectionLevel": 12,
+   "exp": 300,
+   "expAccumulate": 1470
+  },
+  {
+   "affectionLevelIndex": 14,
+   "affectionLevel": 13,
+   "exp": 400,
+   "expAccumulate": 1870
+  },
+  {
+   "affectionLevelIndex": 15,
+   "affectionLevel": 14,
+   "exp": 500,
+   "expAccumulate": 2370
+  }
+ ]
+}

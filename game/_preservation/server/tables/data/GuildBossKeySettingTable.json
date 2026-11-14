@@ -1,0 +1,60 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildBossKeySettingIndex": 1,
+   "maximumKeyAmount": 2,
+   "useKeyAmount": 1,
+   "keyRecoveryType": 1,
+   "keyRecoveryTime": 360,
+   "keyThumbnail": "",
+   "keyItemIndex": 0,
+   "keyFirstUseType": 0,
+   "contentsAdmissionIndex": 0
+  },
+  {
+   "guildBossKeySettingIndex": 2,
+   "maximumKeyAmount": 2,
+   "useKeyAmount": 1,
+   "keyRecoveryType": 1,
+   "keyRecoveryTime": 360,
+   "keyThumbnail": "",
+   "keyItemIndex": 0,
+   "keyFirstUseType": 0,
+   "contentsAdmissionIndex": 0
+  },
+  {
+   "guildBossKeySettingIndex": 3,
+   "maximumKeyAmount": 2,
+   "useKeyAmount": 1,
+   "keyRecoveryType": 1,
+   "keyRecoveryTime": 360,
+   "keyThumbnail": "",
+   "keyItemIndex": 0,
+   "keyFirstUseType": 0,
+   "contentsAdmissionIndex": 0
+  },
+  {
+   "guildBossKeySettingIndex": 4,
+   "maximumKeyAmount": 2,
+   "useKeyAmount": 1,
+   "keyRecoveryType": 1,
+   "keyRecoveryTime": 360,
+   "keyThumbnail": "",
+   "keyItemIndex": 0,
+   "keyFirstUseType": 0,
+   "contentsAdmissionIndex": 0
+  },
+  {
+   "guildBossKeySettingIndex": 5,
+   "maximumKeyAmount": 2,
+   "useKeyAmount": 1,
+   "keyRecoveryType": 1,
+   "keyRecoveryTime": 360,
+   "keyThumbnail": "",
+   "keyItemIndex": 0,
+   "keyFirstUseType": 0,
+   "contentsAdmissionIndex": 0
+  }
+ ]
+}

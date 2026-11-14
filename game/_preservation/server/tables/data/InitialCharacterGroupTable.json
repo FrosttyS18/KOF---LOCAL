@@ -1,0 +1,15 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written for the offline server; numbering and values are not the original data.",
+ "rows": [
+  {
+   "initialCharacterGroupIndex": 1,
+   "initialCharacterGroupIndexString": "1",
+   "initialCharacterGroupCount": 3,
+   "initialCharacterIndexList": "1,2,3",
+   "initialCharacterGuideText": "Offline.CharacterSelect.Guide",
+   "useTypeCheck": 0,
+   "initialCharacterUiPrefab": "Prefabs/UI_Data/UI_Game/CreateCharacter/CreateCharacter_Original",
+   "initialCharacterGroupBGM": "Prefabs/SND/BGM/BGM_Title_01"
+  }
+ ]
+}

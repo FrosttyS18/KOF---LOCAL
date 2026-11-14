@@ -1,0 +1,15 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: minimal rows for the offline server, not the original data.",
+ "rows": [
+  {
+   "gameinfoIndex": 5004,
+   "gameinfoIndexString": "Stat_Max_PG",
+   "value1": "100"
+  },
+  {
+   "gameinfoIndex": 1072,
+   "gameinfoIndexString": "TrainingMode_MonsterIndex",
+   "value1": "910023"
+  }
+ ]
+}

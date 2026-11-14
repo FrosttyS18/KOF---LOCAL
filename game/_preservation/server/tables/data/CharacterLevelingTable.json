@@ -1,0 +1,635 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "chracterLevel": 1,
+   "exp1": 24,
+   "exp2": 48,
+   "exp3": 104,
+   "exp4": 130
+  },
+  {
+   "chracterLevel": 2,
+   "exp1": 72,
+   "exp2": 145,
+   "exp3": 313,
+   "exp4": 392
+  },
+  {
+   "chracterLevel": 3,
+   "exp1": 145,
+   "exp2": 291,
+   "exp3": 630,
+   "exp4": 787
+  },
+  {
+   "chracterLevel": 4,
+   "exp1": 244,
+   "exp2": 488,
+   "exp3": 1057,
+   "exp4": 1321
+  },
+  {
+   "chracterLevel": 5,
+   "exp1": 369,
+   "exp2": 737,
+   "exp3": 1597,
+   "exp4": 1997
+  },
+  {
+   "chracterLevel": 6,
+   "exp1": 521,
+   "exp2": 1042,
+   "exp3": 2257,
+   "exp4": 2822
+  },
+  {
+   "chracterLevel": 7,
+   "exp1": 702,
+   "exp2": 1404,
+   "exp3": 3042,
+   "exp4": 3803
+  },
+  {
+   "chracterLevel": 8,
+   "exp1": 914,
+   "exp2": 1828,
+   "exp3": 3960,
+   "exp4": 4950
+  },
+  {
+   "chracterLevel": 9,
+   "exp1": 1158,
+   "exp2": 2316,
+   "exp3": 5017,
+   "exp4": 6271
+  },
+  {
+   "chracterLevel": 10,
+   "exp1": 1436,
+   "exp2": 2872,
+   "exp3": 6223,
+   "exp4": 7779
+  },
+  {
+   "chracterLevel": 11,
+   "exp1": 1751,
+   "exp2": 3503,
+   "exp3": 7589,
+   "exp4": 9486
+  },
+  {
+   "chracterLevel": 12,
+   "exp1": 2106,
+   "exp2": 4211,
+   "exp3": 9124,
+   "exp4": 11405
+  },
+  {
+   "chracterLevel": 13,
+   "exp1": 2502,
+   "exp2": 5004,
+   "exp3": 10842,
+   "exp4": 13552
+  },
+  {
+   "chracterLevel": 14,
+   "exp1": 2943,
+   "exp2": 5887,
+   "exp3": 12755,
+   "exp4": 15943
+  },
+  {
+   "chracterLevel": 15,
+   "exp1": 3433,
+   "exp2": 6866,
+   "exp3": 14876,
+   "exp4": 18595
+  },
+  {
+   "chracterLevel": 16,
+   "exp1": 3974,
+   "exp2": 7948,
+   "exp3": 17222,
+   "exp4": 21527
+  },
+  {
+   "chracterLevel": 17,
+   "exp1": 4571,
+   "exp2": 9142,
+   "exp3": 19807,
+   "exp4": 24759
+  },
+  {
+   "chracterLevel": 18,
+   "exp1": 5227,
+   "exp2": 10454,
+   "exp3": 22650,
+   "exp4": 28312
+  },
+  {
+   "chracterLevel": 19,
+   "exp1": 5946,
+   "exp2": 11892,
+   "exp3": 25767,
+   "exp4": 32209
+  },
+  {
+   "chracterLevel": 20,
+   "exp1": 6733,
+   "exp2": 13467,
+   "exp3": 29178,
+   "exp4": 36473
+  },
+  {
+   "chracterLevel": 21,
+   "exp1": 7593,
+   "exp2": 15186,
+   "exp3": 32903,
+   "exp4": 41129
+  },
+  {
+   "chracterLevel": 22,
+   "exp1": 8530,
+   "exp2": 17060,
+   "exp3": 36963,
+   "exp4": 46204
+  },
+  {
+   "chracterLevel": 23,
+   "exp1": 9549,
+   "exp2": 19098,
+   "exp3": 41380,
+   "exp4": 51725
+  },
+  {
+   "chracterLevel": 24,
+   "exp1": 10656,
+   "exp2": 21312,
+   "exp3": 46176,
+   "exp4": 57720
+  },
+  {
+   "chracterLevel": 25,
+   "exp1": 11856,
+   "exp2": 23712,
+   "exp3": 51376,
+   "exp4": 64220
+  },
+  {
+   "chracterLevel": 26,
+   "exp1": 13155,
+   "exp2": 26310,
+   "exp3": 57005,
+   "exp4": 71256
+  },
+  {
+   "chracterLevel": 27,
+   "exp1": 14559,
+   "exp2": 29117,
+   "exp3": 63088,
+   "exp4": 78860
+  },
+  {
+   "chracterLevel": 28,
+   "exp1": 16074,
+   "exp2": 32147,
+   "exp3": 69653,
+   "exp4": 87066
+  },
+  {
+   "chracterLevel": 29,
+   "exp1": 17706,
+   "exp2": 35412,
+   "exp3": 76727,
+   "exp4": 95909
+  },
+  {
+   "chracterLevel": 30,
+   "exp1": 19463,
+   "exp2": 38926,
+   "exp3": 84340,
+   "exp4": 105425
+  },
+  {
+   "chracterLevel": 31,
+   "exp1": 21351,
+   "exp2": 42702,
+   "exp3": 92521,
+   "exp4": 115651
+  },
+  {
+   "chracterLevel": 32,
+   "exp1": 23377,
+   "exp2": 46755,
+   "exp3": 101302,
+   "exp4": 126627
+  },
+  {
+   "chracterLevel": 33,
+   "exp1": 25549,
+   "exp2": 51099,
+   "exp3": 110714,
+   "exp4": 138392
+  },
+  {
+   "chracterLevel": 34,
+   "exp1": 27875,
+   "exp2": 55749,
+   "exp3": 120790,
+   "exp4": 150987
+  },
+  {
+   "chracterLevel": 35,
+   "exp1": 30361,
+   "exp2": 60722,
+   "exp3": 131564,
+   "exp4": 164455
+  },
+  {
+   "chracterLevel": 36,
+   "exp1": 33017,
+   "exp2": 66033,
+   "exp3": 143072,
+   "exp4": 178840
+  },
+  {
+   "chracterLevel": 37,
+   "exp1": 35850,
+   "exp2": 71699,
+   "exp3": 155348,
+   "exp4": 194185
+  },
+  {
+   "chracterLevel": 38,
+   "exp1": 38869,
+   "exp2": 77737,
+   "exp3": 168431,
+   "exp4": 210539
+  },
+  {
+   "chracterLevel": 39,
+   "exp1": 42083,
+   "exp2": 84165,
+   "exp3": 182358,
+   "exp4": 227947
+  },
+  {
+   "chracterLevel": 40,
+   "exp1": 45500,
+   "exp2": 91000,
+   "exp3": 197167,
+   "exp4": 246459
+  },
+  {
+   "chracterLevel": 41,
+   "exp1": 49131,
+   "exp2": 98261,
+   "exp3": 212900,
+   "exp4": 266125
+  },
+  {
+   "chracterLevel": 42,
+   "exp1": 52984,
+   "exp2": 105967,
+   "exp3": 229596,
+   "exp4": 286995
+  },
+  {
+   "chracterLevel": 43,
+   "exp1": 57069,
+   "exp2": 114138,
+   "exp3": 247298,
+   "exp4": 309123
+  },
+  {
+   "chracterLevel": 44,
+   "exp1": 61396,
+   "exp2": 122792,
+   "exp3": 266049,
+   "exp4": 332561
+  },
+  {
+   "chracterLevel": 45,
+   "exp1": 65975,
+   "exp2": 131950,
+   "exp3": 285892,
+   "exp4": 357365
+  },
+  {
+   "chracterLevel": 46,
+   "exp1": 70817,
+   "exp2": 141633,
+   "exp3": 306873,
+   "exp4": 383591
+  },
+  {
+   "chracterLevel": 47,
+   "exp1": 75932,
+   "exp2": 151863,
+   "exp3": 329037,
+   "exp4": 411296
+  },
+  {
+   "chracterLevel": 48,
+   "exp1": 81330,
+   "exp2": 162661,
+   "exp3": 352431,
+   "exp4": 440539
+  },
+  {
+   "chracterLevel": 49,
+   "exp1": 87024,
+   "exp2": 174048,
+   "exp3": 377104,
+   "exp4": 471380
+  },
+  {
+   "chracterLevel": 50,
+   "exp1": 93024,
+   "exp2": 186048,
+   "exp3": 403104,
+   "exp4": 503880
+  },
+  {
+   "chracterLevel": 51,
+   "exp1": 99342,
+   "exp2": 198684,
+   "exp3": 430481,
+   "exp4": 538101
+  },
+  {
+   "chracterLevel": 52,
+   "exp1": 105989,
+   "exp2": 211978,
+   "exp3": 459286,
+   "exp4": 574108
+  },
+  {
+   "chracterLevel": 53,
+   "exp1": 112978,
+   "exp2": 225956,
+   "exp3": 489571,
+   "exp4": 611964
+  },
+  {
+   "chracterLevel": 54,
+   "exp1": 120321,
+   "exp2": 240641,
+   "exp3": 521389,
+   "exp4": 651737
+  },
+  {
+   "chracterLevel": 55,
+   "exp1": 128029,
+   "exp2": 256059,
+   "exp3": 554794,
+   "exp4": 693493
+  },
+  {
+   "chracterLevel": 56,
+   "exp1": 136117,
+   "exp2": 272234,
+   "exp3": 589841,
+   "exp4": 737301
+  },
+  {
+   "chracterLevel": 57,
+   "exp1": 144597,
+   "exp2": 289193,
+   "exp3": 626585,
+   "exp4": 783231
+  },
+  {
+   "chracterLevel": 58,
+   "exp1": 153481,
+   "exp2": 306962,
+   "exp3": 665083,
+   "exp4": 831354
+  },
+  {
+   "chracterLevel": 59,
+   "exp1": 162783,
+   "exp2": 325567,
+   "exp3": 705395,
+   "exp4": 881743
+  },
+  {
+   "chracterLevel": 60,
+   "exp1": 172518,
+   "exp2": 345036,
+   "exp3": 747577,
+   "exp4": 934471
+  },
+  {
+   "chracterLevel": 61,
+   "exp1": 182698,
+   "exp2": 365396,
+   "exp3": 791691,
+   "exp4": 989613
+  },
+  {
+   "chracterLevel": 62,
+   "exp1": 193338,
+   "exp2": 386675,
+   "exp3": 837796,
+   "exp4": 1047245
+  },
+  {
+   "chracterLevel": 63,
+   "exp1": 204451,
+   "exp2": 408903,
+   "exp3": 885956,
+   "exp4": 1107445
+  },
+  {
+   "chracterLevel": 64,
+   "exp1": 216054,
+   "exp2": 432108,
+   "exp3": 936233,
+   "exp4": 1170291
+  },
+  {
+   "chracterLevel": 65,
+   "exp1": 228159,
+   "exp2": 456319,
+   "exp3": 988691,
+   "exp4": 1235863
+  },
+  {
+   "chracterLevel": 66,
+   "exp1": 240783,
+   "exp2": 481566,
+   "exp3": 1043394,
+   "exp4": 1304242
+  },
+  {
+   "chracterLevel": 67,
+   "exp1": 253941,
+   "exp2": 507881,
+   "exp3": 1100409,
+   "exp4": 1375511
+  },
+  {
+   "chracterLevel": 68,
+   "exp1": 267647,
+   "exp2": 535293,
+   "exp3": 1159802,
+   "exp4": 1449753
+  },
+  {
+   "chracterLevel": 69,
+   "exp1": 281917,
+   "exp2": 563835,
+   "exp3": 1221642,
+   "exp4": 1527053
+  },
+  {
+   "chracterLevel": 70,
+   "exp1": 296769,
+   "exp2": 593537,
+   "exp3": 1285997,
+   "exp4": 1607497
+  },
+  {
+   "chracterLevel": 71,
+   "exp1": 312216,
+   "exp2": 624433,
+   "exp3": 1352938,
+   "exp4": 1691172
+  },
+  {
+   "chracterLevel": 72,
+   "exp1": 328277,
+   "exp2": 656554,
+   "exp3": 1422534,
+   "exp4": 1778168
+  },
+  {
+   "chracterLevel": 73,
+   "exp1": 344967,
+   "exp2": 689935,
+   "exp3": 1494859,
+   "exp4": 1868573
+  },
+  {
+   "chracterLevel": 74,
+   "exp1": 362304,
+   "exp2": 724608,
+   "exp3": 1569984,
+   "exp4": 1962480
+  },
+  {
+   "chracterLevel": 75,
+   "exp1": 380304,
+   "exp2": 760608,
+   "exp3": 1647984,
+   "exp4": 2059980
+  },
+  {
+   "chracterLevel": 76,
+   "exp1": 398985,
+   "exp2": 797969,
+   "exp3": 1728934,
+   "exp4": 2161167
+  },
+  {
+   "chracterLevel": 77,
+   "exp1": 418364,
+   "exp2": 836727,
+   "exp3": 1812909,
+   "exp4": 2266136
+  },
+  {
+   "chracterLevel": 78,
+   "exp1": 438458,
+   "exp2": 876917,
+   "exp3": 1899986,
+   "exp4": 2374983
+  },
+  {
+   "chracterLevel": 79,
+   "exp1": 459287,
+   "exp2": 918574,
+   "exp3": 1990244,
+   "exp4": 2487805
+  },
+  {
+   "chracterLevel": 80,
+   "exp1": 480868,
+   "exp2": 961736,
+   "exp3": 2083761,
+   "exp4": 2604701
+  },
+  {
+   "chracterLevel": 81,
+   "exp1": 503219,
+   "exp2": 1006438,
+   "exp3": 2180616,
+   "exp4": 2725771
+  },
+  {
+   "chracterLevel": 82,
+   "exp1": 526360,
+   "exp2": 1052719,
+   "exp3": 2280892,
+   "exp4": 2851115
+  },
+  {
+   "chracterLevel": 83,
+   "exp1": 550308,
+   "exp2": 1100617,
+   "exp3": 2384669,
+   "exp4": 2980837
+  },
+  {
+   "chracterLevel": 84,
+   "exp1": 575084,
+   "exp2": 1150168,
+   "exp3": 2492031,
+   "exp4": 3115039
+  },
+  {
+   "chracterLevel": 85,
+   "exp1": 600707,
+   "exp2": 1201413,
+   "exp3": 2603062,
+   "exp4": 3253827
+  },
+  {
+   "chracterLevel": 86,
+   "exp1": 627195,
+   "exp2": 1254390,
+   "exp3": 2717845,
+   "exp4": 3397307
+  },
+  {
+   "chracterLevel": 87,
+   "exp1": 654570,
+   "exp2": 1309139,
+   "exp3": 2836468,
+   "exp4": 3545585
+  },
+  {
+   "chracterLevel": 88,
+   "exp1": 682850,
+   "exp2": 1365700,
+   "exp3": 2959017,
+   "exp4": 3698772
+  },
+  {
+   "chracterLevel": 89,
+   "exp1": 712057,
+   "exp2": 1424114,
+   "exp3": 3085580,
+   "exp4": 3856975
+  },
+  {
+   "chracterLevel": 90,
+   "exp1": 742211,
+   "exp2": 1484421,
+   "exp3": 3216246,
+   "exp4": 4020307
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_teamrelay.py): Team Relay from the client's reads, the guides and recon/teamrelay_spec.md; HP, ATK, rewards, ids and unlisted texts are ours.",
+ "rows": [
+  {
+   "continueStageIndex": 501,
+   "continueLimitCount": 3,
+   "continueLimitRefillType": 0,
+   "continuePopUpTitle": "System.TeamRelay.PopUp.Title.ExtraProceed.Name",
+   "continuePopUpTitleDescription": "System.TeamRelay.PopUp.Desc.ExtraProceed.01.Name",
+   "continueGoodsIndex": 2,
+   "continueTimesPointValue": "300"
+  },
+  {
+   "continueStageIndex": 502,
+   "continueLimitCount": 1,
+   "continueLimitRefillType": 0,
+   "continuePopUpTitle": "System.TeamRelay.PopUp.Title.ExtraProceed.Name",
+   "continuePopUpTitleDescription": "System.TeamRelay.PopUp.Desc.ExtraProceed.01.Name",
+   "continueGoodsIndex": 2,
+   "continueTimesPointValue": "100"
+  }
+ ]
+}

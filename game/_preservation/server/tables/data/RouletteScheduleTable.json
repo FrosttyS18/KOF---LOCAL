@@ -1,0 +1,23 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: roulettes (gen_roulette.py); art/prizes from the 2023 video, rates ours.",
+ "rows": [
+  {
+   "rouletteScheduleIndex": 1,
+   "rouletteIndex": 1,
+   "rouletteRewardGroup": 1,
+   "rouletteDoubleBonus": 2,
+   "rouletteTripleBonus": 2,
+   "rouletteBingoType": 1,
+   "rouletteGroup": 1
+  },
+  {
+   "rouletteScheduleIndex": 2,
+   "rouletteIndex": 2,
+   "rouletteRewardGroup": 2,
+   "rouletteDoubleBonus": 2,
+   "rouletteTripleBonus": 2,
+   "rouletteBingoType": 1,
+   "rouletteGroup": 2
+  }
+ ]
+}

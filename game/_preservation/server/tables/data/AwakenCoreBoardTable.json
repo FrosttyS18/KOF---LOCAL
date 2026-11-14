@@ -1,0 +1,621 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_excore.py): the EX core board from the user's EX Kyo video and the ASMoves workbook; other fighters' numbers are Kyo XV's.",
+ "rows": [
+  {
+   "awakenCoreBoardIndex": 1018,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1032,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1069,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1071,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1074,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1081,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1094,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1100,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1109,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1126,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1134,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1136,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1139,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1153,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1173,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1185,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1187,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1192,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1202,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1203,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1207,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1208,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1209,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1214,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1222,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1253,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1257,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1258,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1259,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1260,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1261,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1262,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1265,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1273,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1294,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1310,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1317,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1375,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 0,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1397,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1398,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1399,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1400,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1402,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1440,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1441,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1442,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1443,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1444,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1452,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1453,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1454,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1455,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1456,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1457,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1458,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1459,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1460,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1461,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1462,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1463,
+   "step1MaxLevel": 75,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 1,
+   "step4MaxLevel": 0
+  },
+  {
+   "awakenCoreBoardIndex": 1005,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1022,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1030,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1043,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1060,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1097,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1121,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1137,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1193,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1200,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1215,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1225,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1237,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1250,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1268,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1270,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1276,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1303,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1307,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1330,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1339,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1445,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1446,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1447,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1448,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1449,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1450,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  },
+  {
+   "awakenCoreBoardIndex": 1451,
+   "step1MaxLevel": 150,
+   "step2MaxLevel": 14,
+   "step3MaxLevel": 6,
+   "step4MaxLevel": 4
+  }
+ ]
+}

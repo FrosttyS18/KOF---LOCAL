@@ -1,0 +1,107 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: growth missions (gen_quest.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "growthMissionGroupIndex": 300101,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300101,
+   "sortOrder": 1
+  },
+  {
+   "growthMissionGroupIndex": 300102,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300102,
+   "sortOrder": 2
+  },
+  {
+   "growthMissionGroupIndex": 300103,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300103,
+   "sortOrder": 3
+  },
+  {
+   "growthMissionGroupIndex": 300104,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300104,
+   "sortOrder": 4
+  },
+  {
+   "growthMissionGroupIndex": 300105,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300105,
+   "sortOrder": 5
+  },
+  {
+   "growthMissionGroupIndex": 300106,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300106,
+   "sortOrder": 6
+  },
+  {
+   "growthMissionGroupIndex": 300107,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300107,
+   "sortOrder": 7
+  },
+  {
+   "growthMissionGroupIndex": 300108,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300108,
+   "sortOrder": 8
+  },
+  {
+   "growthMissionGroupIndex": 300109,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 1,
+   "questIndex": 300109,
+   "sortOrder": 9
+  },
+  {
+   "growthMissionGroupIndex": 300100,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 1,
+   "growthMissionType": 2,
+   "questIndex": 300100,
+   "sortOrder": 0,
+   "growthMissionRewardDescriptionTag": "Offline.Quest.300100.Reward",
+   "growthMissionRewardDescription2Tag": "Offline.Quest.300100.Reward2"
+  },
+  {
+   "growthMissionGroupIndex": 300200,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 2,
+   "growthMissionType": 2,
+   "questIndex": 300200,
+   "sortOrder": 0,
+   "growthMissionRewardDescriptionTag": "Offline.Quest.300200.Reward",
+   "growthMissionRewardDescription2Tag": "Offline.Quest.300200.Reward2"
+  },
+  {
+   "growthMissionGroupIndex": 300300,
+   "growthMissionGroup": 1,
+   "growthMissionPages": 3,
+   "growthMissionType": 2,
+   "questIndex": 300300,
+   "sortOrder": 0,
+   "growthMissionRewardDescriptionTag": "Offline.Quest.300300.Reward",
+   "growthMissionRewardDescription2Tag": "Offline.Quest.300300.Reward2"
+  }
+ ]
+}

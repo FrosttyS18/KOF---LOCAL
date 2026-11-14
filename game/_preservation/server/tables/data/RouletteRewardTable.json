@@ -1,0 +1,125 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: roulettes (gen_roulette.py); art/prizes from the 2023 video, rates ours.",
+ "rows": [
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1311,
+   "rouletteRewardItemRate": 500,
+   "rouletteRewardItemValue": 1,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 101
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1302,
+   "rouletteRewardItemRate": 1500,
+   "rouletteRewardItemValue": 1,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 102
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1322,
+   "rouletteRewardItemRate": 1000,
+   "rouletteRewardItemValue": 1,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 103
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1323,
+   "rouletteRewardItemRate": 1000,
+   "rouletteRewardItemValue": 1,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 104
+  },
+  {
+   "rouletteRewardItemType": 1,
+   "rouletteRewardItemIndex": 0,
+   "rouletteRewardItemRate": 2500,
+   "rouletteRewardItemValue": 20000,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 105
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1316,
+   "rouletteRewardItemRate": 1500,
+   "rouletteRewardItemValue": 3,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 106
+  },
+  {
+   "rouletteRewardItemType": 3,
+   "rouletteRewardItemIndex": 0,
+   "rouletteRewardItemRate": 2000,
+   "rouletteRewardItemValue": 30,
+   "rouletteRewardGroup": 1,
+   "rouletteRewardIndex": 107
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1334,
+   "rouletteRewardItemRate": 1200,
+   "rouletteRewardItemValue": 4,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 201
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1335,
+   "rouletteRewardItemRate": 800,
+   "rouletteRewardItemValue": 2,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 202
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1336,
+   "rouletteRewardItemRate": 1000,
+   "rouletteRewardItemValue": 5,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 203
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1337,
+   "rouletteRewardItemRate": 600,
+   "rouletteRewardItemValue": 3,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 204
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1338,
+   "rouletteRewardItemRate": 400,
+   "rouletteRewardItemValue": 1,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 205
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1331,
+   "rouletteRewardItemRate": 2500,
+   "rouletteRewardItemValue": 10,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 206
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1332,
+   "rouletteRewardItemRate": 2000,
+   "rouletteRewardItemValue": 8,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 207
+  },
+  {
+   "rouletteRewardItemType": 13,
+   "rouletteRewardItemIndex": 1333,
+   "rouletteRewardItemRate": 1500,
+   "rouletteRewardItemValue": 6,
+   "rouletteRewardGroup": 2,
+   "rouletteRewardIndex": 208
+  }
+ ]
+}

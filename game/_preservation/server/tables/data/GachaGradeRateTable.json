@@ -1,0 +1,334 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaGradeRateIndex": 9101,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9102,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9103,
+   "gachaGradeMin": 1,
+   "gachaGradeMax": 5,
+   "gachaGrade1Probability": 325000,
+   "gachaGrade2Probability": 175000,
+   "gachaGrade3Probability": 250000,
+   "gachaGrade4Probability": 150000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9104,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9105,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9131,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9132,
+   "gachaGradeMin": 5,
+   "gachaGradeMax": 6,
+   "gachaGrade5Probability": 956757,
+   "gachaGrade6Probability": 43243
+  },
+  {
+   "gachaGradeRateIndex": 9111,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9112,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9113,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9114,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9115,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9121,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9122,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9123,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9124,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9125,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50133,
+   "gachaGrade5Probability": 806897,
+   "gachaGrade6Probability": 142971
+  },
+  {
+   "gachaGradeRateIndex": 9200,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9201,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50019,
+   "gachaGrade5Probability": 844108,
+   "gachaGrade6Probability": 105873
+  },
+  {
+   "gachaGradeRateIndex": 9202,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9203,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 50960,
+   "gachaGrade5Probability": 851360,
+   "gachaGrade6Probability": 97680
+  },
+  {
+   "gachaGradeRateIndex": 9204,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9205,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 44497,
+   "gachaGrade5Probability": 827362,
+   "gachaGrade6Probability": 128141
+  },
+  {
+   "gachaGradeRateIndex": 9206,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9207,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 53196,
+   "gachaGrade5Probability": 856207,
+   "gachaGrade6Probability": 90597
+  },
+  {
+   "gachaGradeRateIndex": 9208,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9209,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 49272,
+   "gachaGrade5Probability": 863494,
+   "gachaGrade6Probability": 87234
+  },
+  {
+   "gachaGradeRateIndex": 9210,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9211,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 49206,
+   "gachaGrade5Probability": 854617,
+   "gachaGrade6Probability": 96177
+  },
+  {
+   "gachaGradeRateIndex": 9212,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9213,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 49405,
+   "gachaGrade5Probability": 881248,
+   "gachaGrade6Probability": 69347
+  },
+  {
+   "gachaGradeRateIndex": 9214,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9215,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 48323,
+   "gachaGrade5Probability": 856258,
+   "gachaGrade6Probability": 95419
+  },
+  {
+   "gachaGradeRateIndex": 9216,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9217,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 46604,
+   "gachaGrade5Probability": 868451,
+   "gachaGrade6Probability": 84946
+  },
+  {
+   "gachaGradeRateIndex": 9218,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9219,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 47562,
+   "gachaGrade5Probability": 875670,
+   "gachaGrade6Probability": 76768
+  },
+  {
+   "gachaGradeRateIndex": 9220,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9221,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 47562,
+   "gachaGrade5Probability": 875670,
+   "gachaGrade6Probability": 76768
+  },
+  {
+   "gachaGradeRateIndex": 9222,
+   "gachaGradeMin": 3,
+   "gachaGradeMax": 5,
+   "gachaGrade3Probability": 500000,
+   "gachaGrade4Probability": 400000,
+   "gachaGrade5Probability": 100000
+  },
+  {
+   "gachaGradeRateIndex": 9223,
+   "gachaGradeMin": 4,
+   "gachaGradeMax": 6,
+   "gachaGrade4Probability": 49339,
+   "gachaGrade5Probability": 872371,
+   "gachaGrade6Probability": 78290
+  }
+ ]
+}

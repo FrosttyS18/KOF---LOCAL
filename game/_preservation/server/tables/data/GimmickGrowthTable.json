@@ -1,0 +1,47 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_powerdungeons.py): Core Dungeon (Altar of Illusion), Awaken EXP Dungeon (EXP Crush)",
+ "rows": [
+  {
+   "gimmickGrowthIndex": 601,
+   "gimmickGrowthIndexString": "60_1",
+   "growthType": 60,
+   "gimmickGrade": 1,
+   "maxHPBase": 6000.0,
+   "maxHPPerLv": 600.0,
+   "attackBase": 0.0,
+   "attackPerLv": 0.0,
+   "attackBalanceBase": 1.0,
+   "attackBalancePerLv": 0.0,
+   "defenceBase": 60.0,
+   "defencePerLv": 0.0
+  },
+  {
+   "gimmickGrowthIndex": 602,
+   "gimmickGrowthIndexString": "60_2",
+   "growthType": 60,
+   "gimmickGrade": 2,
+   "maxHPBase": 6000.0,
+   "maxHPPerLv": 600.0,
+   "attackBase": 0.0,
+   "attackPerLv": 0.0,
+   "attackBalanceBase": 1.0,
+   "attackBalancePerLv": 0.0,
+   "defenceBase": 60.0,
+   "defencePerLv": 0.0
+  },
+  {
+   "gimmickGrowthIndex": 603,
+   "gimmickGrowthIndexString": "60_3",
+   "growthType": 60,
+   "gimmickGrade": 3,
+   "maxHPBase": 6000.0,
+   "maxHPPerLv": 600.0,
+   "attackBase": 0.0,
+   "attackPerLv": 0.0,
+   "attackBalanceBase": 1.0,
+   "attackBalancePerLv": 0.0,
+   "defenceBase": 60.0,
+   "defencePerLv": 0.0
+  }
+ ]
+}

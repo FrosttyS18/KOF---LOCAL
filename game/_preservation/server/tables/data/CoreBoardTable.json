@@ -1,0 +1,2325 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_cores.py; the board shape is the client's, its contents are ours.",
+ "rows": [
+  {
+   "coreBoardIndex": 1004,
+   "coreBoardIndexString": "Attack_1004_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1005,
+   "coreBoardIndexString": "Attack_1005_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1006,
+   "coreBoardIndexString": "Attack_1006",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1007,
+   "coreBoardIndexString": "Defence_1007_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1008,
+   "coreBoardIndexString": "Balance_1008",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1009,
+   "coreBoardIndexString": "Balance_1009_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1010,
+   "coreBoardIndexString": "Balance_1010_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1011,
+   "coreBoardIndexString": "Balance_1011",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1012,
+   "coreBoardIndexString": "Balance_1012",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1013,
+   "coreBoardIndexString": "Attack_1013",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1014,
+   "coreBoardIndexString": "Balance_1014_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1015,
+   "coreBoardIndexString": "Balance_1015",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1016,
+   "coreBoardIndexString": "Defence_1016",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1017,
+   "coreBoardIndexString": "Attack_1017",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1018,
+   "coreBoardIndexString": "Balance_1018_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1019,
+   "coreBoardIndexString": "Attack_1019_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1020,
+   "coreBoardIndexString": "Defence_1020",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1021,
+   "coreBoardIndexString": "Defence_1021_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1022,
+   "coreBoardIndexString": "Attack_1022_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1023,
+   "coreBoardIndexString": "Balance_1023_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1024,
+   "coreBoardIndexString": "Balance_1024_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1025,
+   "coreBoardIndexString": "Attack_1025",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1026,
+   "coreBoardIndexString": "Balance_1026",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1027,
+   "coreBoardIndexString": "Balance_1027",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1028,
+   "coreBoardIndexString": "Balance_1028_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1029,
+   "coreBoardIndexString": "Attack_1029_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1030,
+   "coreBoardIndexString": "Attack_1030_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1031,
+   "coreBoardIndexString": "Defence_1031_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1032,
+   "coreBoardIndexString": "Balance_1032_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1033,
+   "coreBoardIndexString": "Attack_1033",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1034,
+   "coreBoardIndexString": "Balance_1034",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1035,
+   "coreBoardIndexString": "Balance_1035",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1036,
+   "coreBoardIndexString": "Attack_1036_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1037,
+   "coreBoardIndexString": "Balance_1037_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1038,
+   "coreBoardIndexString": "Attack_1038_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1039,
+   "coreBoardIndexString": "Attack_1039",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1040,
+   "coreBoardIndexString": "Balance_1040",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1041,
+   "coreBoardIndexString": "Balance_1041",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1042,
+   "coreBoardIndexString": "Attack_1042_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1043,
+   "coreBoardIndexString": "Attack_1043_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1044,
+   "coreBoardIndexString": "Attack_1044",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1045,
+   "coreBoardIndexString": "Defence_1045",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1046,
+   "coreBoardIndexString": "Defence_1046_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1047,
+   "coreBoardIndexString": "Balance_1047",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1048,
+   "coreBoardIndexString": "Defence_1048",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1049,
+   "coreBoardIndexString": "Defence_1049",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1050,
+   "coreBoardIndexString": "Balance_1050",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1051,
+   "coreBoardIndexString": "Defence_1051_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1052,
+   "coreBoardIndexString": "Defence_1052",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1053,
+   "coreBoardIndexString": "Defence_1053_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1054,
+   "coreBoardIndexString": "Defence_1054_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1055,
+   "coreBoardIndexString": "Defence_1055_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1056,
+   "coreBoardIndexString": "Defence_1056",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1057,
+   "coreBoardIndexString": "Defence_1057",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1058,
+   "coreBoardIndexString": "Defence_1058",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1059,
+   "coreBoardIndexString": "Defence_1059_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1060,
+   "coreBoardIndexString": "Defence_1060_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1061,
+   "coreBoardIndexString": "Defence_1061",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1062,
+   "coreBoardIndexString": "Defence_1062",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1063,
+   "coreBoardIndexString": "Defence_1063_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1064,
+   "coreBoardIndexString": "Defence_1064_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1065,
+   "coreBoardIndexString": "Balance_1065",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1066,
+   "coreBoardIndexString": "Defence_1066",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1067,
+   "coreBoardIndexString": "Defence_1067",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1068,
+   "coreBoardIndexString": "Defence_1068",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1069,
+   "coreBoardIndexString": "Defence_1069_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1002,
+   "coreBoardIndexString": "Defence_1002",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1070,
+   "coreBoardIndexString": "Balance_1070",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1071,
+   "coreBoardIndexString": "Balance_1071_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1072,
+   "coreBoardIndexString": "Defence_1072",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1073,
+   "coreBoardIndexString": "Defence_1073_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1074,
+   "coreBoardIndexString": "Defence_1074_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1075,
+   "coreBoardIndexString": "Defence_1075",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1076,
+   "coreBoardIndexString": "Attack_1076_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1077,
+   "coreBoardIndexString": "Attack_1077_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1078,
+   "coreBoardIndexString": "Attack_1078",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1079,
+   "coreBoardIndexString": "Attack_1079",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1080,
+   "coreBoardIndexString": "Attack_1080",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1081,
+   "coreBoardIndexString": "Defence_1081_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1082,
+   "coreBoardIndexString": "Attack_1082",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1083,
+   "coreBoardIndexString": "Attack_1083",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1084,
+   "coreBoardIndexString": "Attack_1084",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1085,
+   "coreBoardIndexString": "Balance_1085_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1086,
+   "coreBoardIndexString": "Attack_1086",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1087,
+   "coreBoardIndexString": "Defence_1087_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1088,
+   "coreBoardIndexString": "Balance_1088_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1089,
+   "coreBoardIndexString": "Balance_1089",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1090,
+   "coreBoardIndexString": "Defence_1090",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1091,
+   "coreBoardIndexString": "Attack_1091",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1092,
+   "coreBoardIndexString": "Defence_1092",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1093,
+   "coreBoardIndexString": "Attack_1093_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1094,
+   "coreBoardIndexString": "Defence_1094_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1095,
+   "coreBoardIndexString": "Attack_1095_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1096,
+   "coreBoardIndexString": "Defence_1096_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1097,
+   "coreBoardIndexString": "Balance_1097_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1098,
+   "coreBoardIndexString": "Balance_1098_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1099,
+   "coreBoardIndexString": "Attack_1099",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1100,
+   "coreBoardIndexString": "Balance_1100_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1101,
+   "coreBoardIndexString": "Defence_1101",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1102,
+   "coreBoardIndexString": "Attack_1102_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1103,
+   "coreBoardIndexString": "Attack_1103_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1104,
+   "coreBoardIndexString": "Attack_1104",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1105,
+   "coreBoardIndexString": "Attack_1105_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1106,
+   "coreBoardIndexString": "Attack_1106_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1107,
+   "coreBoardIndexString": "Attack_1107_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1108,
+   "coreBoardIndexString": "Balance_1108",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1109,
+   "coreBoardIndexString": "Balance_1109_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1110,
+   "coreBoardIndexString": "Defence_1110_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1111,
+   "coreBoardIndexString": "Defence_1111_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1112,
+   "coreBoardIndexString": "Defence_1112",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1113,
+   "coreBoardIndexString": "Defence_1113",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1114,
+   "coreBoardIndexString": "Defence_1114",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1115,
+   "coreBoardIndexString": "Defence_1115_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1116,
+   "coreBoardIndexString": "Attack_1116_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1117,
+   "coreBoardIndexString": "Attack_1117",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1118,
+   "coreBoardIndexString": "Balance_1118_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1119,
+   "coreBoardIndexString": "Defence_1119_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1120,
+   "coreBoardIndexString": "Attack_1120",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1121,
+   "coreBoardIndexString": "Balance_1121_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1122,
+   "coreBoardIndexString": "Balance_1122_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1123,
+   "coreBoardIndexString": "Defence_1123_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1124,
+   "coreBoardIndexString": "Attack_1124",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1125,
+   "coreBoardIndexString": "Defence_1125_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1126,
+   "coreBoardIndexString": "Defence_1126_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1127,
+   "coreBoardIndexString": "Attack_1127_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1128,
+   "coreBoardIndexString": "Balance_1128_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1129,
+   "coreBoardIndexString": "Attack_1129_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1003,
+   "coreBoardIndexString": "Attack_1003_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1130,
+   "coreBoardIndexString": "Attack_1130",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1131,
+   "coreBoardIndexString": "Balance_1131",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1132,
+   "coreBoardIndexString": "Attack_1132",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1133,
+   "coreBoardIndexString": "Defence_1133_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1134,
+   "coreBoardIndexString": "Attack_1134_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1135,
+   "coreBoardIndexString": "Attack_1135",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1136,
+   "coreBoardIndexString": "Balance_1136_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1137,
+   "coreBoardIndexString": "Balance_1137_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1138,
+   "coreBoardIndexString": "Attack_1138_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1139,
+   "coreBoardIndexString": "Attack_1139_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1140,
+   "coreBoardIndexString": "Balance_1140_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1141,
+   "coreBoardIndexString": "Attack_1141",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1142,
+   "coreBoardIndexString": "Defence_1142_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1143,
+   "coreBoardIndexString": "Defence_1143_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1144,
+   "coreBoardIndexString": "Defence_1144",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1145,
+   "coreBoardIndexString": "Defence_1145",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1146,
+   "coreBoardIndexString": "Attack_1146",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1147,
+   "coreBoardIndexString": "Defence_1147",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1148,
+   "coreBoardIndexString": "Defence_1148",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1149,
+   "coreBoardIndexString": "Balance_1149",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1150,
+   "coreBoardIndexString": "Defence_1150",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1151,
+   "coreBoardIndexString": "Defence_1151_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1152,
+   "coreBoardIndexString": "Defence_1152",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1153,
+   "coreBoardIndexString": "Balance_1153_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1154,
+   "coreBoardIndexString": "Defence_1154",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1155,
+   "coreBoardIndexString": "Balance_1155",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1156,
+   "coreBoardIndexString": "Attack_1156",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1157,
+   "coreBoardIndexString": "Defence_1157_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1158,
+   "coreBoardIndexString": "Balance_1158_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1159,
+   "coreBoardIndexString": "Attack_1159",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1160,
+   "coreBoardIndexString": "Defence_1160_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1161,
+   "coreBoardIndexString": "Attack_1161_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1162,
+   "coreBoardIndexString": "Defence_1162",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1163,
+   "coreBoardIndexString": "Balance_1163",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1164,
+   "coreBoardIndexString": "Defence_1164",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1165,
+   "coreBoardIndexString": "Defence_1165_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1166,
+   "coreBoardIndexString": "Balance_1166_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1167,
+   "coreBoardIndexString": "Attack_1167",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1168,
+   "coreBoardIndexString": "Defence_1168",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1169,
+   "coreBoardIndexString": "Balance_1169",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1170,
+   "coreBoardIndexString": "Balance_1170",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1171,
+   "coreBoardIndexString": "Balance_1171_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1172,
+   "coreBoardIndexString": "Defence_1172_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1173,
+   "coreBoardIndexString": "Balance_1173_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1174,
+   "coreBoardIndexString": "Balance_1174_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1175,
+   "coreBoardIndexString": "Attack_1175_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1176,
+   "coreBoardIndexString": "Balance_1176",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1177,
+   "coreBoardIndexString": "Attack_1177",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1178,
+   "coreBoardIndexString": "Attack_1178",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1179,
+   "coreBoardIndexString": "Balance_1179",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1180,
+   "coreBoardIndexString": "Balance_1180_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1181,
+   "coreBoardIndexString": "Balance_1181",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1182,
+   "coreBoardIndexString": "Defence_1182",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1183,
+   "coreBoardIndexString": "Balance_1183_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1184,
+   "coreBoardIndexString": "Balance_1184_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1185,
+   "coreBoardIndexString": "Defence_1185_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1186,
+   "coreBoardIndexString": "Attack_1186",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1187,
+   "coreBoardIndexString": "Defence_1187_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1188,
+   "coreBoardIndexString": "Defence_1188_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1189,
+   "coreBoardIndexString": "Defence_1189_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1190,
+   "coreBoardIndexString": "Balance_1190",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1191,
+   "coreBoardIndexString": "Balance_1191_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1192,
+   "coreBoardIndexString": "Defence_1192_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1193,
+   "coreBoardIndexString": "Balance_1193_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1001,
+   "coreBoardIndexString": "Balance_1001_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1194,
+   "coreBoardIndexString": "Attack_1194_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1195,
+   "coreBoardIndexString": "Attack_1195_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1196,
+   "coreBoardIndexString": "Balance_1196",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1197,
+   "coreBoardIndexString": "Attack_1197",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1198,
+   "coreBoardIndexString": "Attack_1198",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1199,
+   "coreBoardIndexString": "Balance_1199",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1200,
+   "coreBoardIndexString": "Attack_1200_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1201,
+   "coreBoardIndexString": "Balance_1201_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1202,
+   "coreBoardIndexString": "Attack_1202_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1203,
+   "coreBoardIndexString": "Attack_1203_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1204,
+   "coreBoardIndexString": "Attack_1204",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1205,
+   "coreBoardIndexString": "Attack_1205",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1206,
+   "coreBoardIndexString": "Balance_1206",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1207,
+   "coreBoardIndexString": "Defence_1207_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1208,
+   "coreBoardIndexString": "Attack_1208_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1209,
+   "coreBoardIndexString": "Defence_1209_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1210,
+   "coreBoardIndexString": "Attack_1210",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1211,
+   "coreBoardIndexString": "Balance_1211_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1212,
+   "coreBoardIndexString": "Balance_1212_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1213,
+   "coreBoardIndexString": "Balance_1213",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1214,
+   "coreBoardIndexString": "Attack_1214_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1215,
+   "coreBoardIndexString": "Balance_1215_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1216,
+   "coreBoardIndexString": "Attack_1216_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1217,
+   "coreBoardIndexString": "Attack_1217_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1218,
+   "coreBoardIndexString": "Balance_1218",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1219,
+   "coreBoardIndexString": "Balance_1219",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1220,
+   "coreBoardIndexString": "Balance_1220",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1221,
+   "coreBoardIndexString": "Attack_1221_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1222,
+   "coreBoardIndexString": "Defence_1222_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1223,
+   "coreBoardIndexString": "Balance_1223",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1224,
+   "coreBoardIndexString": "Attack_1224",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1225,
+   "coreBoardIndexString": "Defence_1225_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1226,
+   "coreBoardIndexString": "Balance_1226",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1227,
+   "coreBoardIndexString": "Defence_1227",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1228,
+   "coreBoardIndexString": "Attack_1228",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1229,
+   "coreBoardIndexString": "Defence_1229",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1230,
+   "coreBoardIndexString": "Defence_1230_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1231,
+   "coreBoardIndexString": "Defence_1231_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1232,
+   "coreBoardIndexString": "Defence_1232_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1233,
+   "coreBoardIndexString": "Attack_1233",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1234,
+   "coreBoardIndexString": "Attack_1234",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1235,
+   "coreBoardIndexString": "Attack_1235",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1236,
+   "coreBoardIndexString": "Attack_1236",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1237,
+   "coreBoardIndexString": "Balance_1237_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1238,
+   "coreBoardIndexString": "Attack_1238_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1239,
+   "coreBoardIndexString": "Attack_1239_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1240,
+   "coreBoardIndexString": "Defence_1240",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1241,
+   "coreBoardIndexString": "Balance_1241_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1242,
+   "coreBoardIndexString": "Attack_1242_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1243,
+   "coreBoardIndexString": "Balance_1243",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1244,
+   "coreBoardIndexString": "Balance_1244",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1245,
+   "coreBoardIndexString": "Attack_1245_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1246,
+   "coreBoardIndexString": "Attack_1246",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1247,
+   "coreBoardIndexString": "Defence_1247_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1248,
+   "coreBoardIndexString": "Attack_1248_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1249,
+   "coreBoardIndexString": "Attack_1249_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1250,
+   "coreBoardIndexString": "Defence_1250_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1251,
+   "coreBoardIndexString": "Attack_1251",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1252,
+   "coreBoardIndexString": "Balance_1252_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1253,
+   "coreBoardIndexString": "Balance_1253_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1254,
+   "coreBoardIndexString": "Defence_1254_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1255,
+   "coreBoardIndexString": "Defence_1255_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1256,
+   "coreBoardIndexString": "Balance_1256_datamine",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1257,
+   "coreBoardIndexString": "Attack_1257_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1258,
+   "coreBoardIndexString": "Attack_1258_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1259,
+   "coreBoardIndexString": "Attack_1259_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1260,
+   "coreBoardIndexString": "Defence_1260_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1261,
+   "coreBoardIndexString": "Balance_1261_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1262,
+   "coreBoardIndexString": "Balance_1262_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1263,
+   "coreBoardIndexString": "Defence_1263",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1264,
+   "coreBoardIndexString": "Balance_1264_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1265,
+   "coreBoardIndexString": "Attack_1265_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1266,
+   "coreBoardIndexString": "Defence_1266_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1267,
+   "coreBoardIndexString": "Attack_1267_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1268,
+   "coreBoardIndexString": "Attack_1268_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1269,
+   "coreBoardIndexString": "Balance_1269_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1270,
+   "coreBoardIndexString": "Balance_1270_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1271,
+   "coreBoardIndexString": "Attack_1271",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1272,
+   "coreBoardIndexString": "Attack_1272_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1273,
+   "coreBoardIndexString": "Attack_1273_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1274,
+   "coreBoardIndexString": "Defence_1274_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1275,
+   "coreBoardIndexString": "Defence_1275",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1276,
+   "coreBoardIndexString": "Balance_1276_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1277,
+   "coreBoardIndexString": "Attack_1277_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1278,
+   "coreBoardIndexString": "Attack_1278_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1279,
+   "coreBoardIndexString": "Attack_1279",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1280,
+   "coreBoardIndexString": "Attack_1280",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1281,
+   "coreBoardIndexString": "Defence_1281",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1282,
+   "coreBoardIndexString": "Attack_1282",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1283,
+   "coreBoardIndexString": "Balance_1283",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1284,
+   "coreBoardIndexString": "Attack_1284_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1285,
+   "coreBoardIndexString": "Attack_1285_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1286,
+   "coreBoardIndexString": "Attack_1286",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1287,
+   "coreBoardIndexString": "Balance_1287",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1288,
+   "coreBoardIndexString": "Balance_1288",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1289,
+   "coreBoardIndexString": "Attack_1289",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1290,
+   "coreBoardIndexString": "Balance_1290_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1291,
+   "coreBoardIndexString": "Attack_1291_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1292,
+   "coreBoardIndexString": "Attack_1292",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1293,
+   "coreBoardIndexString": "Attack_1293",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1294,
+   "coreBoardIndexString": "Attack_1294_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1295,
+   "coreBoardIndexString": "Balance_1295_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1296,
+   "coreBoardIndexString": "Balance_1296_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1297,
+   "coreBoardIndexString": "Defence_1297",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1298,
+   "coreBoardIndexString": "Attack_1298",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1299,
+   "coreBoardIndexString": "Defence_1299",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1300,
+   "coreBoardIndexString": "Balance_1300",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1301,
+   "coreBoardIndexString": "Attack_1301_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1302,
+   "coreBoardIndexString": "Defence_1302_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1303,
+   "coreBoardIndexString": "Attack_1303_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1304,
+   "coreBoardIndexString": "Attack_1304_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1305,
+   "coreBoardIndexString": "Attack_1305",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1306,
+   "coreBoardIndexString": "Defence_1306_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1307,
+   "coreBoardIndexString": "Attack_1307_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1308,
+   "coreBoardIndexString": "Balance_1308",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1309,
+   "coreBoardIndexString": "Balance_1309",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1310,
+   "coreBoardIndexString": "Balance_1310_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1311,
+   "coreBoardIndexString": "Balance_1311_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1312,
+   "coreBoardIndexString": "Balance_1312_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1313,
+   "coreBoardIndexString": "Defence_1313",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1314,
+   "coreBoardIndexString": "Defence_1314",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1315,
+   "coreBoardIndexString": "Defence_1315",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1316,
+   "coreBoardIndexString": "Attack_1316_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1317,
+   "coreBoardIndexString": "Balance_1317_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1318,
+   "coreBoardIndexString": "Balance_1318",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1319,
+   "coreBoardIndexString": "Balance_1319",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1320,
+   "coreBoardIndexString": "Defence_1320_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1321,
+   "coreBoardIndexString": "Balance_1321_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1322,
+   "coreBoardIndexString": "Balance_1322",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1323,
+   "coreBoardIndexString": "Defence_1323",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1324,
+   "coreBoardIndexString": "Balance_1324_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1325,
+   "coreBoardIndexString": "Attack_1325_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1326,
+   "coreBoardIndexString": "Attack_1326",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1327,
+   "coreBoardIndexString": "Attack_1327",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1328,
+   "coreBoardIndexString": "Balance_1328",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1329,
+   "coreBoardIndexString": "Balance_1329_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1330,
+   "coreBoardIndexString": "Attack_1330_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1331,
+   "coreBoardIndexString": "Attack_1331",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1332,
+   "coreBoardIndexString": "Attack_1332_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1333,
+   "coreBoardIndexString": "Attack_1333",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1334,
+   "coreBoardIndexString": "Attack_1334_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1335,
+   "coreBoardIndexString": "Balance_1335",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1336,
+   "coreBoardIndexString": "Attack_1336",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1337,
+   "coreBoardIndexString": "Balance_1337",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1338,
+   "coreBoardIndexString": "Attack_1338",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1339,
+   "coreBoardIndexString": "Defence_1339_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1340,
+   "coreBoardIndexString": "Attack_1340",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1341,
+   "coreBoardIndexString": "Defence_1341_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1342,
+   "coreBoardIndexString": "Balance_1342",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1343,
+   "coreBoardIndexString": "Balance_1343",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1344,
+   "coreBoardIndexString": "Defence_1344",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1345,
+   "coreBoardIndexString": "Defence_1345_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1346,
+   "coreBoardIndexString": "Attack_1346",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1347,
+   "coreBoardIndexString": "Attack_1347",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1348,
+   "coreBoardIndexString": "Attack_1348",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1349,
+   "coreBoardIndexString": "Attack_1349",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1350,
+   "coreBoardIndexString": "Attack_1350",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1351,
+   "coreBoardIndexString": "Attack_1351_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1352,
+   "coreBoardIndexString": "Attack_1352",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1353,
+   "coreBoardIndexString": "Attack_1353_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1354,
+   "coreBoardIndexString": "Attack_1354_wiki",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1355,
+   "coreBoardIndexString": "Balance_1355",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1356,
+   "coreBoardIndexString": "Balance_1356",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1357,
+   "coreBoardIndexString": "Attack_1357",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1358,
+   "coreBoardIndexString": "Attack_1358",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1359,
+   "coreBoardIndexString": "Defence_1359",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1360,
+   "coreBoardIndexString": "Attack_1360",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1361,
+   "coreBoardIndexString": "Attack_1361",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1362,
+   "coreBoardIndexString": "Attack_1362_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1363,
+   "coreBoardIndexString": "Defence_1363",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1364,
+   "coreBoardIndexString": "Defence_1364_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1365,
+   "coreBoardIndexString": "Balance_1365_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1366,
+   "coreBoardIndexString": "Attack_1366_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1367,
+   "coreBoardIndexString": "Attack_1367_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1368,
+   "coreBoardIndexString": "Defence_1368_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1369,
+   "coreBoardIndexString": "Attack_1369_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1370,
+   "coreBoardIndexString": "Balance_1370",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1371,
+   "coreBoardIndexString": "Defence_1371_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1372,
+   "coreBoardIndexString": "Balance_1372_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1373,
+   "coreBoardIndexString": "Attack_1373_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1374,
+   "coreBoardIndexString": "Balance_1374",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1375,
+   "coreBoardIndexString": "Balance_1375_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1376,
+   "coreBoardIndexString": "Attack_1376_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1377,
+   "coreBoardIndexString": "Defence_1377_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1378,
+   "coreBoardIndexString": "Balance_1378_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1379,
+   "coreBoardIndexString": "Defence_1379_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1380,
+   "coreBoardIndexString": "Balance_1380_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1381,
+   "coreBoardIndexString": "Attack_1381_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1382,
+   "coreBoardIndexString": "Balance_1382_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1383,
+   "coreBoardIndexString": "Balance_1383_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1384,
+   "coreBoardIndexString": "Defence_1384_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1385,
+   "coreBoardIndexString": "Attack_1385_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1386,
+   "coreBoardIndexString": "Attack_1386_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1387,
+   "coreBoardIndexString": "Balance_1387_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1388,
+   "coreBoardIndexString": "Balance_1388_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1389,
+   "coreBoardIndexString": "Defence_1389_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1390,
+   "coreBoardIndexString": "Attack_1390_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1391,
+   "coreBoardIndexString": "Balance_1391_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1392,
+   "coreBoardIndexString": "Defence_1392_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1393,
+   "coreBoardIndexString": "Balance_1393_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1394,
+   "coreBoardIndexString": "Attack_1394_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1395,
+   "coreBoardIndexString": "Defence_1395_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1396,
+   "coreBoardIndexString": "Attack_1396_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1397,
+   "coreBoardIndexString": "Defence_1397_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1398,
+   "coreBoardIndexString": "Balance_1398_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1399,
+   "coreBoardIndexString": "Balance_1399_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1400,
+   "coreBoardIndexString": "Attack_1400_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1401,
+   "coreBoardIndexString": "Attack_1401_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1402,
+   "coreBoardIndexString": "Defence_1402_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1403,
+   "coreBoardIndexString": "Defence_1403_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1404,
+   "coreBoardIndexString": "Attack_1404_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1405,
+   "coreBoardIndexString": "Balance_1405_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1406,
+   "coreBoardIndexString": "Attack_1406_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1407,
+   "coreBoardIndexString": "Balance_1407_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1408,
+   "coreBoardIndexString": "Balance_1408_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1409,
+   "coreBoardIndexString": "Attack_1409_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1410,
+   "coreBoardIndexString": "Defence_1410_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1411,
+   "coreBoardIndexString": "Attack_1411_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1412,
+   "coreBoardIndexString": "Attack_1412_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1413,
+   "coreBoardIndexString": "Balance_1413_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1414,
+   "coreBoardIndexString": "Defence_1414_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1415,
+   "coreBoardIndexString": "Attack_1415_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1416,
+   "coreBoardIndexString": "Attack_1416_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1417,
+   "coreBoardIndexString": "Defence_1417_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1418,
+   "coreBoardIndexString": "Balance_1418_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1419,
+   "coreBoardIndexString": "Balance_1419",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1420,
+   "coreBoardIndexString": "Balance_1420_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1421,
+   "coreBoardIndexString": "Defence_1421_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1422,
+   "coreBoardIndexString": "Attack_1422_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1423,
+   "coreBoardIndexString": "Defence_1423_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1424,
+   "coreBoardIndexString": "Balance_1424_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1425,
+   "coreBoardIndexString": "Attack_1425_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1426,
+   "coreBoardIndexString": "Defence_1426_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1427,
+   "coreBoardIndexString": "Defence_1427_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1428,
+   "coreBoardIndexString": "Attack_1428_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1429,
+   "coreBoardIndexString": "Defence_1429_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1430,
+   "coreBoardIndexString": "Balance_1430_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1431,
+   "coreBoardIndexString": "Balance_1431_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1432,
+   "coreBoardIndexString": "Defence_1432_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1433,
+   "coreBoardIndexString": "Attack_1433_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1434,
+   "coreBoardIndexString": "Balance_1434_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1435,
+   "coreBoardIndexString": "Attack_1435_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1436,
+   "coreBoardIndexString": "Defence_1436_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1437,
+   "coreBoardIndexString": "Defence_1437_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1438,
+   "coreBoardIndexString": "Balance_1438_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1439,
+   "coreBoardIndexString": "Defence_1439_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1440,
+   "coreBoardIndexString": "Balance_1440_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1441,
+   "coreBoardIndexString": "Attack_1441_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1442,
+   "coreBoardIndexString": "Balance_1442_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1443,
+   "coreBoardIndexString": "Attack_1443_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1444,
+   "coreBoardIndexString": "Defence_1444_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1445,
+   "coreBoardIndexString": "Attack_1445_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1446,
+   "coreBoardIndexString": "Attack_1446_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1447,
+   "coreBoardIndexString": "Attack_1447_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1448,
+   "coreBoardIndexString": "Defence_1448_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1449,
+   "coreBoardIndexString": "Attack_1449_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1450,
+   "coreBoardIndexString": "Balance_1450_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1451,
+   "coreBoardIndexString": "Attack_1451_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1452,
+   "coreBoardIndexString": "Defence_1452_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1453,
+   "coreBoardIndexString": "Defence_1453_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1454,
+   "coreBoardIndexString": "Balance_1454_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1455,
+   "coreBoardIndexString": "Attack_1455_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1456,
+   "coreBoardIndexString": "Balance_1456_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1457,
+   "coreBoardIndexString": "Attack_1457_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1458,
+   "coreBoardIndexString": "Balance_1458_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1459,
+   "coreBoardIndexString": "Attack_1459_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.1.Desc"
+  },
+  {
+   "coreBoardIndex": 1460,
+   "coreBoardIndexString": "Defence_1460_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1461,
+   "coreBoardIndexString": "Defence_1461_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.2.Desc"
+  },
+  {
+   "coreBoardIndex": 1462,
+   "coreBoardIndexString": "Balance_1462_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 1463,
+   "coreBoardIndexString": "Balance_1463_ASMoves",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 101,
+   "coreBoardIndexString": "Balance_101",
+   "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  }
+ ]
+}

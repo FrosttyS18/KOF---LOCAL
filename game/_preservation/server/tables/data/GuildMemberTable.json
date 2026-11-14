@@ -1,0 +1,59 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildMemberIndex": 201,
+   "guildMemberNameTag": "Offline.GuildMember.201.Name",
+   "managementPopup": 0,
+   "closedEligibility": 0,
+   "masterTransfer": 0,
+   "memberManagementPopup": 0,
+   "memberExpulsion": 0,
+   "subMasterAppointment": 0,
+   "subMasterDismissal": 0,
+   "noticeEdit": 0,
+   "chattingBoardNoticeEdit": 0,
+   "boardNoticeEdit": 0,
+   "boardEdit": 1,
+   "introductionNoticeEdit": 0,
+   "dailyAvailableBoardPosts": 5,
+   "giftRequestTimeLimit": 0
+  },
+  {
+   "guildMemberIndex": 202,
+   "guildMemberNameTag": "Offline.GuildMember.202.Name",
+   "managementPopup": 1,
+   "closedEligibility": 0,
+   "masterTransfer": 0,
+   "memberManagementPopup": 1,
+   "memberExpulsion": 1,
+   "subMasterAppointment": 0,
+   "subMasterDismissal": 0,
+   "noticeEdit": 1,
+   "chattingBoardNoticeEdit": 1,
+   "boardNoticeEdit": 1,
+   "boardEdit": 1,
+   "introductionNoticeEdit": 1,
+   "dailyAvailableBoardPosts": 5,
+   "giftRequestTimeLimit": 0
+  },
+  {
+   "guildMemberIndex": 203,
+   "guildMemberNameTag": "Offline.GuildMember.203.Name",
+   "managementPopup": 1,
+   "closedEligibility": 1,
+   "masterTransfer": 1,
+   "memberManagementPopup": 1,
+   "memberExpulsion": 1,
+   "subMasterAppointment": 1,
+   "subMasterDismissal": 1,
+   "noticeEdit": 1,
+   "chattingBoardNoticeEdit": 1,
+   "boardNoticeEdit": 1,
+   "boardEdit": 1,
+   "introductionNoticeEdit": 1,
+   "dailyAvailableBoardPosts": 5,
+   "giftRequestTimeLimit": 0
+  }
+ ]
+}

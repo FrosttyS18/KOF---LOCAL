@@ -1,0 +1,45 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_colossal.py): Colossal Invasion from the client's own boss, script, maps and banner; numbers mostly ours (see the module notes).",
+ "rows": [
+  {
+   "guildCoopSupGroupIndex": 101,
+   "guildCoopSupGroup": 1,
+   "preparedBotIndex": 40301,
+   "supDamageBuffIndex": 9620001,
+   "supDamageBuffLevel": 1,
+   "supporterBuffIndex": 9620002
+  },
+  {
+   "guildCoopSupGroupIndex": 102,
+   "guildCoopSupGroup": 1,
+   "preparedBotIndex": 40302,
+   "supDamageBuffIndex": 9620001,
+   "supDamageBuffLevel": 1,
+   "supporterBuffIndex": 9620002
+  },
+  {
+   "guildCoopSupGroupIndex": 103,
+   "guildCoopSupGroup": 1,
+   "preparedBotIndex": 40303,
+   "supDamageBuffIndex": 9620001,
+   "supDamageBuffLevel": 1,
+   "supporterBuffIndex": 9620002
+  },
+  {
+   "guildCoopSupGroupIndex": 104,
+   "guildCoopSupGroup": 1,
+   "preparedBotIndex": 40304,
+   "supDamageBuffIndex": 9620001,
+   "supDamageBuffLevel": 1,
+   "supporterBuffIndex": 9620002
+  },
+  {
+   "guildCoopSupGroupIndex": 105,
+   "guildCoopSupGroup": 1,
+   "preparedBotIndex": 40305,
+   "supDamageBuffIndex": 9620001,
+   "supDamageBuffLevel": 1,
+   "supporterBuffIndex": 9620002
+  }
+ ]
+}

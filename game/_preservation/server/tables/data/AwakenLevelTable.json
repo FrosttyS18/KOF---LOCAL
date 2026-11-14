@@ -1,0 +1,815 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "awakenLevel": 1,
+   "reqAccumulatedExp1": 200,
+   "reqAccumulatedExp2": 200,
+   "reqAccumulatedExp3": 200,
+   "reqAccumulatedExp4": 200,
+   "reqAccumulatedExp5": 200,
+   "reqAccumulatedExp6": 200
+  },
+  {
+   "awakenLevel": 2,
+   "reqAccumulatedExp1": 683,
+   "reqAccumulatedExp2": 683,
+   "reqAccumulatedExp3": 683,
+   "reqAccumulatedExp4": 683,
+   "reqAccumulatedExp5": 683,
+   "reqAccumulatedExp6": 683
+  },
+  {
+   "awakenLevel": 3,
+   "reqAccumulatedExp1": 1450,
+   "reqAccumulatedExp2": 1450,
+   "reqAccumulatedExp3": 1450,
+   "reqAccumulatedExp4": 1450,
+   "reqAccumulatedExp5": 1450,
+   "reqAccumulatedExp6": 1450
+  },
+  {
+   "awakenLevel": 4,
+   "reqAccumulatedExp1": 2500,
+   "reqAccumulatedExp2": 2500,
+   "reqAccumulatedExp3": 2500,
+   "reqAccumulatedExp4": 2500,
+   "reqAccumulatedExp5": 2500,
+   "reqAccumulatedExp6": 2500
+  },
+  {
+   "awakenLevel": 5,
+   "reqAccumulatedExp1": 3833,
+   "reqAccumulatedExp2": 3833,
+   "reqAccumulatedExp3": 3833,
+   "reqAccumulatedExp4": 3833,
+   "reqAccumulatedExp5": 3833,
+   "reqAccumulatedExp6": 3833
+  },
+  {
+   "awakenLevel": 6,
+   "reqAccumulatedExp1": 5450,
+   "reqAccumulatedExp2": 5450,
+   "reqAccumulatedExp3": 5450,
+   "reqAccumulatedExp4": 5450,
+   "reqAccumulatedExp5": 5450,
+   "reqAccumulatedExp6": 5450
+  },
+  {
+   "awakenLevel": 7,
+   "reqAccumulatedExp1": 7350,
+   "reqAccumulatedExp2": 7350,
+   "reqAccumulatedExp3": 7350,
+   "reqAccumulatedExp4": 7350,
+   "reqAccumulatedExp5": 7350,
+   "reqAccumulatedExp6": 7350
+  },
+  {
+   "awakenLevel": 8,
+   "reqAccumulatedExp1": 9533,
+   "reqAccumulatedExp2": 9533,
+   "reqAccumulatedExp3": 9533,
+   "reqAccumulatedExp4": 9533,
+   "reqAccumulatedExp5": 9533,
+   "reqAccumulatedExp6": 9533
+  },
+  {
+   "awakenLevel": 9,
+   "reqAccumulatedExp1": 12000,
+   "reqAccumulatedExp2": 12000,
+   "reqAccumulatedExp3": 12000,
+   "reqAccumulatedExp4": 12000,
+   "reqAccumulatedExp5": 12000,
+   "reqAccumulatedExp6": 12000
+  },
+  {
+   "awakenLevel": 10,
+   "reqAccumulatedExp1": 14700,
+   "reqAccumulatedExp2": 14700,
+   "reqAccumulatedExp3": 14700,
+   "reqAccumulatedExp4": 14700,
+   "reqAccumulatedExp5": 14700,
+   "reqAccumulatedExp6": 14700
+  },
+  {
+   "awakenLevel": 11,
+   "reqAccumulatedExp1": 17800,
+   "reqAccumulatedExp2": 17800,
+   "reqAccumulatedExp3": 17800,
+   "reqAccumulatedExp4": 17800,
+   "reqAccumulatedExp5": 17800,
+   "reqAccumulatedExp6": 17800
+  },
+  {
+   "awakenLevel": 12,
+   "reqAccumulatedExp1": 21300,
+   "reqAccumulatedExp2": 21300,
+   "reqAccumulatedExp3": 21300,
+   "reqAccumulatedExp4": 21300,
+   "reqAccumulatedExp5": 21300,
+   "reqAccumulatedExp6": 21300
+  },
+  {
+   "awakenLevel": 13,
+   "reqAccumulatedExp1": 25200,
+   "reqAccumulatedExp2": 25200,
+   "reqAccumulatedExp3": 25200,
+   "reqAccumulatedExp4": 25200,
+   "reqAccumulatedExp5": 25200,
+   "reqAccumulatedExp6": 25200
+  },
+  {
+   "awakenLevel": 14,
+   "reqAccumulatedExp1": 29500,
+   "reqAccumulatedExp2": 29500,
+   "reqAccumulatedExp3": 29500,
+   "reqAccumulatedExp4": 29500,
+   "reqAccumulatedExp5": 29500,
+   "reqAccumulatedExp6": 29500
+  },
+  {
+   "awakenLevel": 15,
+   "reqAccumulatedExp1": 34200,
+   "reqAccumulatedExp2": 34200,
+   "reqAccumulatedExp3": 34200,
+   "reqAccumulatedExp4": 34200,
+   "reqAccumulatedExp5": 34200,
+   "reqAccumulatedExp6": 34200
+  },
+  {
+   "awakenLevel": 16,
+   "reqAccumulatedExp1": 39300,
+   "reqAccumulatedExp2": 39300,
+   "reqAccumulatedExp3": 39300,
+   "reqAccumulatedExp4": 39300,
+   "reqAccumulatedExp5": 39300,
+   "reqAccumulatedExp6": 39300
+  },
+  {
+   "awakenLevel": 17,
+   "reqAccumulatedExp1": 44800,
+   "reqAccumulatedExp2": 44800,
+   "reqAccumulatedExp3": 44800,
+   "reqAccumulatedExp4": 44800,
+   "reqAccumulatedExp5": 44800,
+   "reqAccumulatedExp6": 44800
+  },
+  {
+   "awakenLevel": 18,
+   "reqAccumulatedExp1": 50700,
+   "reqAccumulatedExp2": 50700,
+   "reqAccumulatedExp3": 50700,
+   "reqAccumulatedExp4": 50700,
+   "reqAccumulatedExp5": 50700,
+   "reqAccumulatedExp6": 50700
+  },
+  {
+   "awakenLevel": 19,
+   "reqAccumulatedExp1": 57000,
+   "reqAccumulatedExp2": 57000,
+   "reqAccumulatedExp3": 57000,
+   "reqAccumulatedExp4": 57000,
+   "reqAccumulatedExp5": 57000,
+   "reqAccumulatedExp6": 57000
+  },
+  {
+   "awakenLevel": 20,
+   "reqAccumulatedExp1": 62100,
+   "reqAccumulatedExp2": 62100,
+   "reqAccumulatedExp3": 62100,
+   "reqAccumulatedExp4": 62100,
+   "reqAccumulatedExp5": 62100,
+   "reqAccumulatedExp6": 62100
+  },
+  {
+   "awakenLevel": 21,
+   "reqAccumulatedExp1": 67956,
+   "reqAccumulatedExp2": 67956,
+   "reqAccumulatedExp3": 67956,
+   "reqAccumulatedExp4": 67956,
+   "reqAccumulatedExp5": 67956,
+   "reqAccumulatedExp6": 67956
+  },
+  {
+   "awakenLevel": 22,
+   "reqAccumulatedExp1": 74567,
+   "reqAccumulatedExp2": 74567,
+   "reqAccumulatedExp3": 74567,
+   "reqAccumulatedExp4": 74567,
+   "reqAccumulatedExp5": 74567,
+   "reqAccumulatedExp6": 74567
+  },
+  {
+   "awakenLevel": 23,
+   "reqAccumulatedExp1": 81933,
+   "reqAccumulatedExp2": 81933,
+   "reqAccumulatedExp3": 81933,
+   "reqAccumulatedExp4": 81933,
+   "reqAccumulatedExp5": 81933,
+   "reqAccumulatedExp6": 81933
+  },
+  {
+   "awakenLevel": 24,
+   "reqAccumulatedExp1": 90056,
+   "reqAccumulatedExp2": 90056,
+   "reqAccumulatedExp3": 90056,
+   "reqAccumulatedExp4": 90056,
+   "reqAccumulatedExp5": 90056,
+   "reqAccumulatedExp6": 90056
+  },
+  {
+   "awakenLevel": 25,
+   "reqAccumulatedExp1": 98933,
+   "reqAccumulatedExp2": 98933,
+   "reqAccumulatedExp3": 98933,
+   "reqAccumulatedExp4": 98933,
+   "reqAccumulatedExp5": 98933,
+   "reqAccumulatedExp6": 98933
+  },
+  {
+   "awakenLevel": 26,
+   "reqAccumulatedExp1": 108567,
+   "reqAccumulatedExp2": 108567,
+   "reqAccumulatedExp3": 108567,
+   "reqAccumulatedExp4": 108567,
+   "reqAccumulatedExp5": 108567,
+   "reqAccumulatedExp6": 108567
+  },
+  {
+   "awakenLevel": 27,
+   "reqAccumulatedExp1": 118956,
+   "reqAccumulatedExp2": 118956,
+   "reqAccumulatedExp3": 118956,
+   "reqAccumulatedExp4": 118956,
+   "reqAccumulatedExp5": 118956,
+   "reqAccumulatedExp6": 118956
+  },
+  {
+   "awakenLevel": 28,
+   "reqAccumulatedExp1": 130100,
+   "reqAccumulatedExp2": 130100,
+   "reqAccumulatedExp3": 130100,
+   "reqAccumulatedExp4": 130100,
+   "reqAccumulatedExp5": 130100,
+   "reqAccumulatedExp6": 130100
+  },
+  {
+   "awakenLevel": 29,
+   "reqAccumulatedExp1": 142000,
+   "reqAccumulatedExp2": 142000,
+   "reqAccumulatedExp3": 142000,
+   "reqAccumulatedExp4": 142000,
+   "reqAccumulatedExp5": 142000,
+   "reqAccumulatedExp6": 142000
+  },
+  {
+   "awakenLevel": 30,
+   "reqAccumulatedExp1": 151360,
+   "reqAccumulatedExp2": 151360,
+   "reqAccumulatedExp3": 151360,
+   "reqAccumulatedExp4": 151360,
+   "reqAccumulatedExp5": 151360,
+   "reqAccumulatedExp6": 151360
+  },
+  {
+   "awakenLevel": 31,
+   "reqAccumulatedExp1": 162107,
+   "reqAccumulatedExp2": 162107,
+   "reqAccumulatedExp3": 162107,
+   "reqAccumulatedExp4": 162107,
+   "reqAccumulatedExp5": 162107,
+   "reqAccumulatedExp6": 162107
+  },
+  {
+   "awakenLevel": 32,
+   "reqAccumulatedExp1": 174240,
+   "reqAccumulatedExp2": 174240,
+   "reqAccumulatedExp3": 174240,
+   "reqAccumulatedExp4": 174240,
+   "reqAccumulatedExp5": 174240,
+   "reqAccumulatedExp6": 174240
+  },
+  {
+   "awakenLevel": 33,
+   "reqAccumulatedExp1": 187760,
+   "reqAccumulatedExp2": 187760,
+   "reqAccumulatedExp3": 187760,
+   "reqAccumulatedExp4": 187760,
+   "reqAccumulatedExp5": 187760,
+   "reqAccumulatedExp6": 187760
+  },
+  {
+   "awakenLevel": 34,
+   "reqAccumulatedExp1": 202667,
+   "reqAccumulatedExp2": 202667,
+   "reqAccumulatedExp3": 202667,
+   "reqAccumulatedExp4": 202667,
+   "reqAccumulatedExp5": 202667,
+   "reqAccumulatedExp6": 202667
+  },
+  {
+   "awakenLevel": 35,
+   "reqAccumulatedExp1": 218960,
+   "reqAccumulatedExp2": 218960,
+   "reqAccumulatedExp3": 218960,
+   "reqAccumulatedExp4": 218960,
+   "reqAccumulatedExp5": 218960,
+   "reqAccumulatedExp6": 218960
+  },
+  {
+   "awakenLevel": 36,
+   "reqAccumulatedExp1": 236640,
+   "reqAccumulatedExp2": 236640,
+   "reqAccumulatedExp3": 236640,
+   "reqAccumulatedExp4": 236640,
+   "reqAccumulatedExp5": 236640,
+   "reqAccumulatedExp6": 236640
+  },
+  {
+   "awakenLevel": 37,
+   "reqAccumulatedExp1": 255707,
+   "reqAccumulatedExp2": 255707,
+   "reqAccumulatedExp3": 255707,
+   "reqAccumulatedExp4": 255707,
+   "reqAccumulatedExp5": 255707,
+   "reqAccumulatedExp6": 255707
+  },
+  {
+   "awakenLevel": 38,
+   "reqAccumulatedExp1": 276160,
+   "reqAccumulatedExp2": 276160,
+   "reqAccumulatedExp3": 276160,
+   "reqAccumulatedExp4": 276160,
+   "reqAccumulatedExp5": 276160,
+   "reqAccumulatedExp6": 276160
+  },
+  {
+   "awakenLevel": 39,
+   "reqAccumulatedExp1": 298000,
+   "reqAccumulatedExp2": 298000,
+   "reqAccumulatedExp3": 298000,
+   "reqAccumulatedExp4": 298000,
+   "reqAccumulatedExp5": 298000,
+   "reqAccumulatedExp6": 298000
+  },
+  {
+   "awakenLevel": 40,
+   "reqAccumulatedExp1": 313840,
+   "reqAccumulatedExp2": 313840,
+   "reqAccumulatedExp3": 313840,
+   "reqAccumulatedExp4": 313840,
+   "reqAccumulatedExp5": 313840,
+   "reqAccumulatedExp6": 313840
+  },
+  {
+   "awakenLevel": 41,
+   "reqAccumulatedExp1": 332027,
+   "reqAccumulatedExp2": 332027,
+   "reqAccumulatedExp3": 332027,
+   "reqAccumulatedExp4": 332027,
+   "reqAccumulatedExp5": 332027,
+   "reqAccumulatedExp6": 332027
+  },
+  {
+   "awakenLevel": 42,
+   "reqAccumulatedExp1": 352560,
+   "reqAccumulatedExp2": 352560,
+   "reqAccumulatedExp3": 352560,
+   "reqAccumulatedExp4": 352560,
+   "reqAccumulatedExp5": 352560,
+   "reqAccumulatedExp6": 352560
+  },
+  {
+   "awakenLevel": 43,
+   "reqAccumulatedExp1": 375440,
+   "reqAccumulatedExp2": 375440,
+   "reqAccumulatedExp3": 375440,
+   "reqAccumulatedExp4": 375440,
+   "reqAccumulatedExp5": 375440,
+   "reqAccumulatedExp6": 375440
+  },
+  {
+   "awakenLevel": 44,
+   "reqAccumulatedExp1": 400667,
+   "reqAccumulatedExp2": 400667,
+   "reqAccumulatedExp3": 400667,
+   "reqAccumulatedExp4": 400667,
+   "reqAccumulatedExp5": 400667,
+   "reqAccumulatedExp6": 400667
+  },
+  {
+   "awakenLevel": 45,
+   "reqAccumulatedExp1": 428240,
+   "reqAccumulatedExp2": 428240,
+   "reqAccumulatedExp3": 428240,
+   "reqAccumulatedExp4": 428240,
+   "reqAccumulatedExp5": 428240,
+   "reqAccumulatedExp6": 428240
+  },
+  {
+   "awakenLevel": 46,
+   "reqAccumulatedExp1": 458160,
+   "reqAccumulatedExp2": 458160,
+   "reqAccumulatedExp3": 458160,
+   "reqAccumulatedExp4": 458160,
+   "reqAccumulatedExp5": 458160,
+   "reqAccumulatedExp6": 458160
+  },
+  {
+   "awakenLevel": 47,
+   "reqAccumulatedExp1": 490427,
+   "reqAccumulatedExp2": 490427,
+   "reqAccumulatedExp3": 490427,
+   "reqAccumulatedExp4": 490427,
+   "reqAccumulatedExp5": 490427,
+   "reqAccumulatedExp6": 490427
+  },
+  {
+   "awakenLevel": 48,
+   "reqAccumulatedExp1": 525040,
+   "reqAccumulatedExp2": 525040,
+   "reqAccumulatedExp3": 525040,
+   "reqAccumulatedExp4": 525040,
+   "reqAccumulatedExp5": 525040,
+   "reqAccumulatedExp6": 525040
+  },
+  {
+   "awakenLevel": 49,
+   "reqAccumulatedExp1": 562000,
+   "reqAccumulatedExp2": 562000,
+   "reqAccumulatedExp3": 562000,
+   "reqAccumulatedExp4": 562000,
+   "reqAccumulatedExp5": 562000,
+   "reqAccumulatedExp6": 562000
+  },
+  {
+   "awakenLevel": 50,
+   "reqAccumulatedExp1": 585520,
+   "reqAccumulatedExp2": 585520,
+   "reqAccumulatedExp3": 585520,
+   "reqAccumulatedExp4": 585520,
+   "reqAccumulatedExp5": 585520,
+   "reqAccumulatedExp6": 585520
+  },
+  {
+   "awakenLevel": 51,
+   "reqAccumulatedExp1": 612524,
+   "reqAccumulatedExp2": 612524,
+   "reqAccumulatedExp3": 612524,
+   "reqAccumulatedExp4": 612524,
+   "reqAccumulatedExp5": 612524,
+   "reqAccumulatedExp6": 612524
+  },
+  {
+   "awakenLevel": 52,
+   "reqAccumulatedExp1": 643013,
+   "reqAccumulatedExp2": 643013,
+   "reqAccumulatedExp3": 643013,
+   "reqAccumulatedExp4": 643013,
+   "reqAccumulatedExp5": 643013,
+   "reqAccumulatedExp6": 643013
+  },
+  {
+   "awakenLevel": 53,
+   "reqAccumulatedExp1": 676987,
+   "reqAccumulatedExp2": 676987,
+   "reqAccumulatedExp3": 676987,
+   "reqAccumulatedExp4": 676987,
+   "reqAccumulatedExp5": 676987,
+   "reqAccumulatedExp6": 676987
+  },
+  {
+   "awakenLevel": 54,
+   "reqAccumulatedExp1": 714444,
+   "reqAccumulatedExp2": 714444,
+   "reqAccumulatedExp3": 714444,
+   "reqAccumulatedExp4": 714444,
+   "reqAccumulatedExp5": 714444,
+   "reqAccumulatedExp6": 714444
+  },
+  {
+   "awakenLevel": 55,
+   "reqAccumulatedExp1": 755387,
+   "reqAccumulatedExp2": 755387,
+   "reqAccumulatedExp3": 755387,
+   "reqAccumulatedExp4": 755387,
+   "reqAccumulatedExp5": 755387,
+   "reqAccumulatedExp6": 755387
+  },
+  {
+   "awakenLevel": 56,
+   "reqAccumulatedExp1": 799813,
+   "reqAccumulatedExp2": 799813,
+   "reqAccumulatedExp3": 799813,
+   "reqAccumulatedExp4": 799813,
+   "reqAccumulatedExp5": 799813,
+   "reqAccumulatedExp6": 799813
+  },
+  {
+   "awakenLevel": 57,
+   "reqAccumulatedExp1": 847724,
+   "reqAccumulatedExp2": 847724,
+   "reqAccumulatedExp3": 847724,
+   "reqAccumulatedExp4": 847724,
+   "reqAccumulatedExp5": 847724,
+   "reqAccumulatedExp6": 847724
+  },
+  {
+   "awakenLevel": 58,
+   "reqAccumulatedExp1": 899120,
+   "reqAccumulatedExp2": 899120,
+   "reqAccumulatedExp3": 899120,
+   "reqAccumulatedExp4": 899120,
+   "reqAccumulatedExp5": 899120,
+   "reqAccumulatedExp6": 899120
+  },
+  {
+   "awakenLevel": 59,
+   "reqAccumulatedExp1": 954000,
+   "reqAccumulatedExp2": 954000,
+   "reqAccumulatedExp3": 954000,
+   "reqAccumulatedExp4": 954000,
+   "reqAccumulatedExp5": 954000,
+   "reqAccumulatedExp6": 954000
+  },
+  {
+   "awakenLevel": 60,
+   "reqAccumulatedExp1": 986400,
+   "reqAccumulatedExp2": 986400,
+   "reqAccumulatedExp3": 986400,
+   "reqAccumulatedExp4": 986400,
+   "reqAccumulatedExp5": 986400,
+   "reqAccumulatedExp6": 986400
+  },
+  {
+   "awakenLevel": 61,
+   "reqAccumulatedExp1": 1023600,
+   "reqAccumulatedExp2": 1023600,
+   "reqAccumulatedExp3": 1023600,
+   "reqAccumulatedExp4": 1023600,
+   "reqAccumulatedExp5": 1023600,
+   "reqAccumulatedExp6": 1023600
+  },
+  {
+   "awakenLevel": 62,
+   "reqAccumulatedExp1": 1065600,
+   "reqAccumulatedExp2": 1065600,
+   "reqAccumulatedExp3": 1065600,
+   "reqAccumulatedExp4": 1065600,
+   "reqAccumulatedExp5": 1065600,
+   "reqAccumulatedExp6": 1065600
+  },
+  {
+   "awakenLevel": 63,
+   "reqAccumulatedExp1": 1112400,
+   "reqAccumulatedExp2": 1112400,
+   "reqAccumulatedExp3": 1112400,
+   "reqAccumulatedExp4": 1112400,
+   "reqAccumulatedExp5": 1112400,
+   "reqAccumulatedExp6": 1112400
+  },
+  {
+   "awakenLevel": 64,
+   "reqAccumulatedExp1": 1164000,
+   "reqAccumulatedExp2": 1164000,
+   "reqAccumulatedExp3": 1164000,
+   "reqAccumulatedExp4": 1164000,
+   "reqAccumulatedExp5": 1164000,
+   "reqAccumulatedExp6": 1164000
+  },
+  {
+   "awakenLevel": 65,
+   "reqAccumulatedExp1": 1220400,
+   "reqAccumulatedExp2": 1220400,
+   "reqAccumulatedExp3": 1220400,
+   "reqAccumulatedExp4": 1220400,
+   "reqAccumulatedExp5": 1220400,
+   "reqAccumulatedExp6": 1220400
+  },
+  {
+   "awakenLevel": 66,
+   "reqAccumulatedExp1": 1281600,
+   "reqAccumulatedExp2": 1281600,
+   "reqAccumulatedExp3": 1281600,
+   "reqAccumulatedExp4": 1281600,
+   "reqAccumulatedExp5": 1281600,
+   "reqAccumulatedExp6": 1281600
+  },
+  {
+   "awakenLevel": 67,
+   "reqAccumulatedExp1": 1347600,
+   "reqAccumulatedExp2": 1347600,
+   "reqAccumulatedExp3": 1347600,
+   "reqAccumulatedExp4": 1347600,
+   "reqAccumulatedExp5": 1347600,
+   "reqAccumulatedExp6": 1347600
+  },
+  {
+   "awakenLevel": 68,
+   "reqAccumulatedExp1": 1418400,
+   "reqAccumulatedExp2": 1418400,
+   "reqAccumulatedExp3": 1418400,
+   "reqAccumulatedExp4": 1418400,
+   "reqAccumulatedExp5": 1418400,
+   "reqAccumulatedExp6": 1418400
+  },
+  {
+   "awakenLevel": 69,
+   "reqAccumulatedExp1": 1494000,
+   "reqAccumulatedExp2": 1494000,
+   "reqAccumulatedExp3": 1494000,
+   "reqAccumulatedExp4": 1494000,
+   "reqAccumulatedExp5": 1494000,
+   "reqAccumulatedExp6": 1494000
+  },
+  {
+   "awakenLevel": 70,
+   "reqAccumulatedExp1": 1529400,
+   "reqAccumulatedExp2": 1529400,
+   "reqAccumulatedExp3": 1529400,
+   "reqAccumulatedExp4": 1529400,
+   "reqAccumulatedExp5": 1529400,
+   "reqAccumulatedExp6": 1529400
+  },
+  {
+   "awakenLevel": 71,
+   "reqAccumulatedExp1": 1570044,
+   "reqAccumulatedExp2": 1570044,
+   "reqAccumulatedExp3": 1570044,
+   "reqAccumulatedExp4": 1570044,
+   "reqAccumulatedExp5": 1570044,
+   "reqAccumulatedExp6": 1570044
+  },
+  {
+   "awakenLevel": 72,
+   "reqAccumulatedExp1": 1615933,
+   "reqAccumulatedExp2": 1615933,
+   "reqAccumulatedExp3": 1615933,
+   "reqAccumulatedExp4": 1615933,
+   "reqAccumulatedExp5": 1615933,
+   "reqAccumulatedExp6": 1615933
+  },
+  {
+   "awakenLevel": 73,
+   "reqAccumulatedExp1": 1667067,
+   "reqAccumulatedExp2": 1667067,
+   "reqAccumulatedExp3": 1667067,
+   "reqAccumulatedExp4": 1667067,
+   "reqAccumulatedExp5": 1667067,
+   "reqAccumulatedExp6": 1667067
+  },
+  {
+   "awakenLevel": 74,
+   "reqAccumulatedExp1": 1723444,
+   "reqAccumulatedExp2": 1723444,
+   "reqAccumulatedExp3": 1723444,
+   "reqAccumulatedExp4": 1723444,
+   "reqAccumulatedExp5": 1723444,
+   "reqAccumulatedExp6": 1723444
+  },
+  {
+   "awakenLevel": 75,
+   "reqAccumulatedExp1": 1785067,
+   "reqAccumulatedExp2": 1785067,
+   "reqAccumulatedExp3": 1785067,
+   "reqAccumulatedExp4": 1785067,
+   "reqAccumulatedExp5": 1785067,
+   "reqAccumulatedExp6": 1785067
+  },
+  {
+   "awakenLevel": 76,
+   "reqAccumulatedExp1": 1851933,
+   "reqAccumulatedExp2": 1851933,
+   "reqAccumulatedExp3": 1851933,
+   "reqAccumulatedExp4": 1851933,
+   "reqAccumulatedExp5": 1851933,
+   "reqAccumulatedExp6": 1851933
+  },
+  {
+   "awakenLevel": 77,
+   "reqAccumulatedExp1": 1924044,
+   "reqAccumulatedExp2": 1924044,
+   "reqAccumulatedExp3": 1924044,
+   "reqAccumulatedExp4": 1924044,
+   "reqAccumulatedExp5": 1924044,
+   "reqAccumulatedExp6": 1924044
+  },
+  {
+   "awakenLevel": 78,
+   "reqAccumulatedExp1": 2001400,
+   "reqAccumulatedExp2": 2001400,
+   "reqAccumulatedExp3": 2001400,
+   "reqAccumulatedExp4": 2001400,
+   "reqAccumulatedExp5": 2001400,
+   "reqAccumulatedExp6": 2001400
+  },
+  {
+   "awakenLevel": 79,
+   "reqAccumulatedExp1": 2084000,
+   "reqAccumulatedExp2": 2084000,
+   "reqAccumulatedExp3": 2084000,
+   "reqAccumulatedExp4": 2084000,
+   "reqAccumulatedExp5": 2084000,
+   "reqAccumulatedExp6": 2084000
+  },
+  {
+   "awakenLevel": 80,
+   "reqAccumulatedExp1": 2122400,
+   "reqAccumulatedExp2": 2122400,
+   "reqAccumulatedExp3": 2122400,
+   "reqAccumulatedExp4": 2122400,
+   "reqAccumulatedExp5": 2122400,
+   "reqAccumulatedExp6": 2122400
+  },
+  {
+   "awakenLevel": 81,
+   "reqAccumulatedExp1": 2166489,
+   "reqAccumulatedExp2": 2166489,
+   "reqAccumulatedExp3": 2166489,
+   "reqAccumulatedExp4": 2166489,
+   "reqAccumulatedExp5": 2166489,
+   "reqAccumulatedExp6": 2166489
+  },
+  {
+   "awakenLevel": 82,
+   "reqAccumulatedExp1": 2216267,
+   "reqAccumulatedExp2": 2216267,
+   "reqAccumulatedExp3": 2216267,
+   "reqAccumulatedExp4": 2216267,
+   "reqAccumulatedExp5": 2216267,
+   "reqAccumulatedExp6": 2216267
+  },
+  {
+   "awakenLevel": 83,
+   "reqAccumulatedExp1": 2271733,
+   "reqAccumulatedExp2": 2271733,
+   "reqAccumulatedExp3": 2271733,
+   "reqAccumulatedExp4": 2271733,
+   "reqAccumulatedExp5": 2271733,
+   "reqAccumulatedExp6": 2271733
+  },
+  {
+   "awakenLevel": 84,
+   "reqAccumulatedExp1": 2332889,
+   "reqAccumulatedExp2": 2332889,
+   "reqAccumulatedExp3": 2332889,
+   "reqAccumulatedExp4": 2332889,
+   "reqAccumulatedExp5": 2332889,
+   "reqAccumulatedExp6": 2332889
+  },
+  {
+   "awakenLevel": 85,
+   "reqAccumulatedExp1": 2399733,
+   "reqAccumulatedExp2": 2399733,
+   "reqAccumulatedExp3": 2399733,
+   "reqAccumulatedExp4": 2399733,
+   "reqAccumulatedExp5": 2399733,
+   "reqAccumulatedExp6": 2399733
+  },
+  {
+   "awakenLevel": 86,
+   "reqAccumulatedExp1": 2472267,
+   "reqAccumulatedExp2": 2472267,
+   "reqAccumulatedExp3": 2472267,
+   "reqAccumulatedExp4": 2472267,
+   "reqAccumulatedExp5": 2472267,
+   "reqAccumulatedExp6": 2472267
+  },
+  {
+   "awakenLevel": 87,
+   "reqAccumulatedExp1": 2550489,
+   "reqAccumulatedExp2": 2550489,
+   "reqAccumulatedExp3": 2550489,
+   "reqAccumulatedExp4": 2550489,
+   "reqAccumulatedExp5": 2550489,
+   "reqAccumulatedExp6": 2550489
+  },
+  {
+   "awakenLevel": 88,
+   "reqAccumulatedExp1": 2634400,
+   "reqAccumulatedExp2": 2634400,
+   "reqAccumulatedExp3": 2634400,
+   "reqAccumulatedExp4": 2634400,
+   "reqAccumulatedExp5": 2634400,
+   "reqAccumulatedExp6": 2634400
+  },
+  {
+   "awakenLevel": 89,
+   "reqAccumulatedExp1": 2724000,
+   "reqAccumulatedExp2": 2724000,
+   "reqAccumulatedExp3": 2724000,
+   "reqAccumulatedExp4": 2724000,
+   "reqAccumulatedExp5": 2724000,
+   "reqAccumulatedExp6": 2724000
+  },
+  {
+   "awakenLevel": 90,
+   "reqAccumulatedExp1": 2813600,
+   "reqAccumulatedExp2": 2813600,
+   "reqAccumulatedExp3": 2813600,
+   "reqAccumulatedExp4": 2813600,
+   "reqAccumulatedExp5": 2813600,
+   "reqAccumulatedExp6": 2813600
+  }
+ ]
+}

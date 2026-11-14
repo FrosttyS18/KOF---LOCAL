@@ -1,0 +1,53 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "profileIndex": 1,
+   "profileIndexString": "Noah",
+   "sexTag": "Offline.Profile.Female",
+   "bloodTypeTag": "Offline.Profile.AB",
+   "heightTag": "Offline.Profile.1.Height",
+   "weightTag": "Offline.Profile.1.Weight",
+   "fighterNameMainTag": "Offline.Profile.1.Name",
+   "fighterNameEngTag": "Offline.Profile.1.Name",
+   "height": 159,
+   "weight": 46
+  },
+  {
+   "profileIndex": 2,
+   "profileIndexString": "Athena",
+   "sexTag": "Offline.Profile.Female",
+   "bloodTypeTag": "Offline.Profile.B",
+   "heightTag": "Offline.Profile.2.Height",
+   "weightTag": "Offline.Profile.2.Weight",
+   "fighterNameMainTag": "Offline.Profile.2.Name",
+   "fighterNameEngTag": "Offline.Profile.2.Name",
+   "height": 163,
+   "weight": 49
+  },
+  {
+   "profileIndex": 3,
+   "profileIndexString": "Sie",
+   "sexTag": "Offline.Profile.Male",
+   "bloodTypeTag": "Offline.Profile.B",
+   "heightTag": "Offline.Profile.3.Height",
+   "weightTag": "Offline.Profile.3.Weight",
+   "fighterNameMainTag": "Offline.Profile.3.Name",
+   "fighterNameEngTag": "Offline.Profile.3.Name",
+   "height": 172,
+   "weight": 61
+  },
+  {
+   "profileIndex": 4,
+   "profileIndexString": "Chin",
+   "sexTag": "Offline.Profile.Male",
+   "bloodTypeTag": "Offline.Profile.A",
+   "heightTag": "Offline.Profile.4.Height",
+   "weightTag": "Offline.Profile.4.Weight",
+   "fighterNameMainTag": "Offline.Profile.4.Name",
+   "fighterNameEngTag": "Offline.Profile.4.Name",
+   "height": 164,
+   "weight": 53
+  }
+ ]
+}

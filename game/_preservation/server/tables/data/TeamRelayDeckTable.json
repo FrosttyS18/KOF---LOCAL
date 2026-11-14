@@ -1,0 +1,45 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_teamrelay.py): Team Relay from the client's reads, the guides and recon/teamrelay_spec.md; HP, ATK, rewards, ids and unlisted texts are ours.",
+ "rows": [
+  {
+   "teamRelayDeckIndex": 5011,
+   "teamRelayDeckGroup": 501,
+   "order": 1,
+   "formationCondition": "",
+   "openConditionType": 0,
+   "openConditionValue": 0
+  },
+  {
+   "teamRelayDeckIndex": 5012,
+   "teamRelayDeckGroup": 501,
+   "order": 2,
+   "formationCondition": "",
+   "openConditionType": 1,
+   "openConditionValue": 1
+  },
+  {
+   "teamRelayDeckIndex": 5013,
+   "teamRelayDeckGroup": 501,
+   "order": 3,
+   "formationCondition": "",
+   "openConditionType": 1,
+   "openConditionValue": 2
+  },
+  {
+   "teamRelayDeckIndex": 5014,
+   "teamRelayDeckGroup": 501,
+   "order": 4,
+   "formationCondition": "",
+   "openConditionType": 1,
+   "openConditionValue": 3
+  },
+  {
+   "teamRelayDeckIndex": 5015,
+   "teamRelayDeckGroup": 501,
+   "order": 5,
+   "formationCondition": "",
+   "openConditionType": 1,
+   "openConditionValue": 4
+  }
+ ]
+}

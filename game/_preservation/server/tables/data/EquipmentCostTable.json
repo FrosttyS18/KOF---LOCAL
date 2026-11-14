@@ -1,0 +1,65 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentCostIndex": 1,
+   "costGoodsType": 1,
+   "costGoodsIndex": 0,
+   "costGoodsValue": 0,
+   "materialItem01Index": 7300001,
+   "materialItem01Count": 3,
+   "materialItem02Index": 0,
+   "materialItem02Count": 0,
+   "materialItem03Index": 0,
+   "materialItem03Count": 0
+  },
+  {
+   "equipmentCostIndex": 2,
+   "costGoodsType": 1,
+   "costGoodsIndex": 0,
+   "costGoodsValue": 0,
+   "materialItem01Index": 7300001,
+   "materialItem01Count": 6,
+   "materialItem02Index": 7300002,
+   "materialItem02Count": 3,
+   "materialItem03Index": 0,
+   "materialItem03Count": 0
+  },
+  {
+   "equipmentCostIndex": 3,
+   "costGoodsType": 1,
+   "costGoodsIndex": 0,
+   "costGoodsValue": 0,
+   "materialItem01Index": 7300001,
+   "materialItem01Count": 12,
+   "materialItem02Index": 7300002,
+   "materialItem02Count": 6,
+   "materialItem03Index": 7300003,
+   "materialItem03Count": 2
+  },
+  {
+   "equipmentCostIndex": 4,
+   "costGoodsType": 1,
+   "costGoodsIndex": 0,
+   "costGoodsValue": 0,
+   "materialItem01Index": 7300001,
+   "materialItem01Count": 20,
+   "materialItem02Index": 7300002,
+   "materialItem02Count": 10,
+   "materialItem03Index": 7300003,
+   "materialItem03Count": 4
+  },
+  {
+   "equipmentCostIndex": 5,
+   "costGoodsType": 1,
+   "costGoodsIndex": 0,
+   "costGoodsValue": 0,
+   "materialItem01Index": 7300001,
+   "materialItem01Count": 30,
+   "materialItem02Index": 7300002,
+   "materialItem02Count": 15,
+   "materialItem03Index": 7300003,
+   "materialItem03Count": 6
+  }
+ ]
+}

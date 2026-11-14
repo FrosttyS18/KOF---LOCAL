@@ -1,0 +1,1115 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "characterEvolveIndex": 111,
+   "characterEvolveIndexString": "11_1",
+   "evolveSetType": 11,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 112,
+   "characterEvolveIndexString": "11_2",
+   "evolveSetType": 11,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 113,
+   "characterEvolveIndexString": "11_3",
+   "evolveSetType": 11,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 114,
+   "characterEvolveIndexString": "11_4",
+   "evolveSetType": 11,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 115,
+   "characterEvolveIndexString": "11_5",
+   "evolveSetType": 11,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 121,
+   "characterEvolveIndexString": "12_1",
+   "evolveSetType": 12,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 122,
+   "characterEvolveIndexString": "12_2",
+   "evolveSetType": 12,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 123,
+   "characterEvolveIndexString": "12_3",
+   "evolveSetType": 12,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 124,
+   "characterEvolveIndexString": "12_4",
+   "evolveSetType": 12,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 125,
+   "characterEvolveIndexString": "12_5",
+   "evolveSetType": 12,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 131,
+   "characterEvolveIndexString": "13_1",
+   "evolveSetType": 13,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 132,
+   "characterEvolveIndexString": "13_2",
+   "evolveSetType": 13,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 133,
+   "characterEvolveIndexString": "13_3",
+   "evolveSetType": 13,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 134,
+   "characterEvolveIndexString": "13_4",
+   "evolveSetType": 13,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 135,
+   "characterEvolveIndexString": "13_5",
+   "evolveSetType": 13,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 141,
+   "characterEvolveIndexString": "14_1",
+   "evolveSetType": 14,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 142,
+   "characterEvolveIndexString": "14_2",
+   "evolveSetType": 14,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 143,
+   "characterEvolveIndexString": "14_3",
+   "evolveSetType": 14,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 144,
+   "characterEvolveIndexString": "14_4",
+   "evolveSetType": 14,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 145,
+   "characterEvolveIndexString": "14_5",
+   "evolveSetType": 14,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 151,
+   "characterEvolveIndexString": "15_1",
+   "evolveSetType": 15,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 152,
+   "characterEvolveIndexString": "15_2",
+   "evolveSetType": 15,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 153,
+   "characterEvolveIndexString": "15_3",
+   "evolveSetType": 15,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 154,
+   "characterEvolveIndexString": "15_4",
+   "evolveSetType": 15,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 155,
+   "characterEvolveIndexString": "15_5",
+   "evolveSetType": 15,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 211,
+   "characterEvolveIndexString": "21_1",
+   "evolveSetType": 21,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 212,
+   "characterEvolveIndexString": "21_2",
+   "evolveSetType": 21,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 213,
+   "characterEvolveIndexString": "21_3",
+   "evolveSetType": 21,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 214,
+   "characterEvolveIndexString": "21_4",
+   "evolveSetType": 21,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 215,
+   "characterEvolveIndexString": "21_5",
+   "evolveSetType": 21,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 221,
+   "characterEvolveIndexString": "22_1",
+   "evolveSetType": 22,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 222,
+   "characterEvolveIndexString": "22_2",
+   "evolveSetType": 22,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 223,
+   "characterEvolveIndexString": "22_3",
+   "evolveSetType": 22,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 224,
+   "characterEvolveIndexString": "22_4",
+   "evolveSetType": 22,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 225,
+   "characterEvolveIndexString": "22_5",
+   "evolveSetType": 22,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 231,
+   "characterEvolveIndexString": "23_1",
+   "evolveSetType": 23,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 232,
+   "characterEvolveIndexString": "23_2",
+   "evolveSetType": 23,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 233,
+   "characterEvolveIndexString": "23_3",
+   "evolveSetType": 23,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 234,
+   "characterEvolveIndexString": "23_4",
+   "evolveSetType": 23,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 235,
+   "characterEvolveIndexString": "23_5",
+   "evolveSetType": 23,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 241,
+   "characterEvolveIndexString": "24_1",
+   "evolveSetType": 24,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 242,
+   "characterEvolveIndexString": "24_2",
+   "evolveSetType": 24,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 243,
+   "characterEvolveIndexString": "24_3",
+   "evolveSetType": 24,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 244,
+   "characterEvolveIndexString": "24_4",
+   "evolveSetType": 24,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 245,
+   "characterEvolveIndexString": "24_5",
+   "evolveSetType": 24,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 251,
+   "characterEvolveIndexString": "25_1",
+   "evolveSetType": 25,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 252,
+   "characterEvolveIndexString": "25_2",
+   "evolveSetType": 25,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 253,
+   "characterEvolveIndexString": "25_3",
+   "evolveSetType": 25,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 254,
+   "characterEvolveIndexString": "25_4",
+   "evolveSetType": 25,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 255,
+   "characterEvolveIndexString": "25_5",
+   "evolveSetType": 25,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 311,
+   "characterEvolveIndexString": "31_1",
+   "evolveSetType": 31,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 312,
+   "characterEvolveIndexString": "31_2",
+   "evolveSetType": 31,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 313,
+   "characterEvolveIndexString": "31_3",
+   "evolveSetType": 31,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 314,
+   "characterEvolveIndexString": "31_4",
+   "evolveSetType": 31,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 315,
+   "characterEvolveIndexString": "31_5",
+   "evolveSetType": 31,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 321,
+   "characterEvolveIndexString": "32_1",
+   "evolveSetType": 32,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 322,
+   "characterEvolveIndexString": "32_2",
+   "evolveSetType": 32,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 323,
+   "characterEvolveIndexString": "32_3",
+   "evolveSetType": 32,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 324,
+   "characterEvolveIndexString": "32_4",
+   "evolveSetType": 32,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 325,
+   "characterEvolveIndexString": "32_5",
+   "evolveSetType": 32,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 331,
+   "characterEvolveIndexString": "33_1",
+   "evolveSetType": 33,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 332,
+   "characterEvolveIndexString": "33_2",
+   "evolveSetType": 33,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 333,
+   "characterEvolveIndexString": "33_3",
+   "evolveSetType": 33,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 334,
+   "characterEvolveIndexString": "33_4",
+   "evolveSetType": 33,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 335,
+   "characterEvolveIndexString": "33_5",
+   "evolveSetType": 33,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 341,
+   "characterEvolveIndexString": "34_1",
+   "evolveSetType": 34,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 342,
+   "characterEvolveIndexString": "34_2",
+   "evolveSetType": 34,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 343,
+   "characterEvolveIndexString": "34_3",
+   "evolveSetType": 34,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 344,
+   "characterEvolveIndexString": "34_4",
+   "evolveSetType": 34,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 345,
+   "characterEvolveIndexString": "34_5",
+   "evolveSetType": 34,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 351,
+   "characterEvolveIndexString": "35_1",
+   "evolveSetType": 35,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 352,
+   "characterEvolveIndexString": "35_2",
+   "evolveSetType": 35,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 353,
+   "characterEvolveIndexString": "35_3",
+   "evolveSetType": 35,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 354,
+   "characterEvolveIndexString": "35_4",
+   "evolveSetType": 35,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 355,
+   "characterEvolveIndexString": "35_5",
+   "evolveSetType": 35,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 411,
+   "characterEvolveIndexString": "41_1",
+   "evolveSetType": 41,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 412,
+   "characterEvolveIndexString": "41_2",
+   "evolveSetType": 41,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 413,
+   "characterEvolveIndexString": "41_3",
+   "evolveSetType": 41,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 414,
+   "characterEvolveIndexString": "41_4",
+   "evolveSetType": 41,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 415,
+   "characterEvolveIndexString": "41_5",
+   "evolveSetType": 41,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 421,
+   "characterEvolveIndexString": "42_1",
+   "evolveSetType": 42,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 422,
+   "characterEvolveIndexString": "42_2",
+   "evolveSetType": 42,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 423,
+   "characterEvolveIndexString": "42_3",
+   "evolveSetType": 42,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 424,
+   "characterEvolveIndexString": "42_4",
+   "evolveSetType": 42,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 425,
+   "characterEvolveIndexString": "42_5",
+   "evolveSetType": 42,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 431,
+   "characterEvolveIndexString": "43_1",
+   "evolveSetType": 43,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 432,
+   "characterEvolveIndexString": "43_2",
+   "evolveSetType": 43,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 433,
+   "characterEvolveIndexString": "43_3",
+   "evolveSetType": 43,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 434,
+   "characterEvolveIndexString": "43_4",
+   "evolveSetType": 43,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 435,
+   "characterEvolveIndexString": "43_5",
+   "evolveSetType": 43,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 441,
+   "characterEvolveIndexString": "44_1",
+   "evolveSetType": 44,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 442,
+   "characterEvolveIndexString": "44_2",
+   "evolveSetType": 44,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 443,
+   "characterEvolveIndexString": "44_3",
+   "evolveSetType": 44,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 444,
+   "characterEvolveIndexString": "44_4",
+   "evolveSetType": 44,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 445,
+   "characterEvolveIndexString": "44_5",
+   "evolveSetType": 44,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 451,
+   "characterEvolveIndexString": "45_1",
+   "evolveSetType": 45,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 452,
+   "characterEvolveIndexString": "45_2",
+   "evolveSetType": 45,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 453,
+   "characterEvolveIndexString": "45_3",
+   "evolveSetType": 45,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 454,
+   "characterEvolveIndexString": "45_4",
+   "evolveSetType": 45,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 455,
+   "characterEvolveIndexString": "45_5",
+   "evolveSetType": 45,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 511,
+   "characterEvolveIndexString": "51_1",
+   "evolveSetType": 51,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 512,
+   "characterEvolveIndexString": "51_2",
+   "evolveSetType": 51,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 513,
+   "characterEvolveIndexString": "51_3",
+   "evolveSetType": 51,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 514,
+   "characterEvolveIndexString": "51_4",
+   "evolveSetType": 51,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 515,
+   "characterEvolveIndexString": "51_5",
+   "evolveSetType": 51,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 521,
+   "characterEvolveIndexString": "52_1",
+   "evolveSetType": 52,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 522,
+   "characterEvolveIndexString": "52_2",
+   "evolveSetType": 52,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 523,
+   "characterEvolveIndexString": "52_3",
+   "evolveSetType": 52,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 524,
+   "characterEvolveIndexString": "52_4",
+   "evolveSetType": 52,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 525,
+   "characterEvolveIndexString": "52_5",
+   "evolveSetType": 52,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 531,
+   "characterEvolveIndexString": "53_1",
+   "evolveSetType": 53,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 532,
+   "characterEvolveIndexString": "53_2",
+   "evolveSetType": 53,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 533,
+   "characterEvolveIndexString": "53_3",
+   "evolveSetType": 53,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 534,
+   "characterEvolveIndexString": "53_4",
+   "evolveSetType": 53,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 535,
+   "characterEvolveIndexString": "53_5",
+   "evolveSetType": 53,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 541,
+   "characterEvolveIndexString": "54_1",
+   "evolveSetType": 54,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 542,
+   "characterEvolveIndexString": "54_2",
+   "evolveSetType": 54,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 543,
+   "characterEvolveIndexString": "54_3",
+   "evolveSetType": 54,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 544,
+   "characterEvolveIndexString": "54_4",
+   "evolveSetType": 54,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 545,
+   "characterEvolveIndexString": "54_5",
+   "evolveSetType": 54,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 551,
+   "characterEvolveIndexString": "55_1",
+   "evolveSetType": 55,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 552,
+   "characterEvolveIndexString": "55_2",
+   "evolveSetType": 55,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 553,
+   "characterEvolveIndexString": "55_3",
+   "evolveSetType": 55,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 554,
+   "characterEvolveIndexString": "55_4",
+   "evolveSetType": 55,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 555,
+   "characterEvolveIndexString": "55_5",
+   "evolveSetType": 55,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 611,
+   "characterEvolveIndexString": "61_1",
+   "evolveSetType": 61,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 612,
+   "characterEvolveIndexString": "61_2",
+   "evolveSetType": 61,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 613,
+   "characterEvolveIndexString": "61_3",
+   "evolveSetType": 61,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 614,
+   "characterEvolveIndexString": "61_4",
+   "evolveSetType": 61,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 615,
+   "characterEvolveIndexString": "61_5",
+   "evolveSetType": 61,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1341,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 621,
+   "characterEvolveIndexString": "62_1",
+   "evolveSetType": 62,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 622,
+   "characterEvolveIndexString": "62_2",
+   "evolveSetType": 62,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 623,
+   "characterEvolveIndexString": "62_3",
+   "evolveSetType": 62,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 624,
+   "characterEvolveIndexString": "62_4",
+   "evolveSetType": 62,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 625,
+   "characterEvolveIndexString": "62_5",
+   "evolveSetType": 62,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1342,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 631,
+   "characterEvolveIndexString": "63_1",
+   "evolveSetType": 63,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 632,
+   "characterEvolveIndexString": "63_2",
+   "evolveSetType": 63,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 633,
+   "characterEvolveIndexString": "63_3",
+   "evolveSetType": 63,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 634,
+   "characterEvolveIndexString": "63_4",
+   "evolveSetType": 63,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 635,
+   "characterEvolveIndexString": "63_5",
+   "evolveSetType": 63,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1343,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 641,
+   "characterEvolveIndexString": "64_1",
+   "evolveSetType": 64,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 642,
+   "characterEvolveIndexString": "64_2",
+   "evolveSetType": 64,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 643,
+   "characterEvolveIndexString": "64_3",
+   "evolveSetType": 64,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 644,
+   "characterEvolveIndexString": "64_4",
+   "evolveSetType": 64,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 645,
+   "characterEvolveIndexString": "64_5",
+   "evolveSetType": 64,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1344,
+   "evoMaterial1Count": 30
+  },
+  {
+   "characterEvolveIndex": 651,
+   "characterEvolveIndexString": "65_1",
+   "evolveSetType": 65,
+   "evolveProgressGrade": 1,
+   "evolveUseGold": 10000
+  },
+  {
+   "characterEvolveIndex": 652,
+   "characterEvolveIndexString": "65_2",
+   "evolveSetType": 65,
+   "evolveProgressGrade": 2,
+   "evolveUseGold": 20000
+  },
+  {
+   "characterEvolveIndex": 653,
+   "characterEvolveIndexString": "65_3",
+   "evolveSetType": 65,
+   "evolveProgressGrade": 3,
+   "evolveUseGold": 30000
+  },
+  {
+   "characterEvolveIndex": 654,
+   "characterEvolveIndexString": "65_4",
+   "evolveSetType": 65,
+   "evolveProgressGrade": 4,
+   "evolveUseGold": 40000
+  },
+  {
+   "characterEvolveIndex": 655,
+   "characterEvolveIndexString": "65_5",
+   "evolveSetType": 65,
+   "evolveProgressGrade": 5,
+   "evolveUseGold": 50000,
+   "evoMaterial1ItemIndex": 1345,
+   "evoMaterial1Count": 30
+  }
+ ]
+}

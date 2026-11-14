@@ -1,0 +1,26 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "dispatchMainIndex": 1,
+   "dispatchSpotGroup": "1",
+   "dispatchSpotMax": 3,
+   "dispatchSpotKeyMax": 5,
+   "dispatchSpotKeyThumbnail": "Prefabs/UI_Data/UI_Texture/Icon/global/n_item_dispatch_ticket",
+   "dispatchSpotKeyRecoveryType": 1,
+   "dispatchSpotKeyRecoveryTime": 240,
+   "dispatchKeyItemIndex": 1326,
+   "dispatchSpotResetFree": 2,
+   "dispatchSpotResetPrice": 30,
+   "dispatchSpotResetItem": 1327,
+   "dispatchSpotClearPrice": 20,
+   "dispatchSpotClearItem": "1325,1313,1314",
+   "dispatchSpotNameTag": "Offline.Dispatch.Main.Name",
+   "dispatchSortOrder": 1,
+   "dispatchSpotCountMax": 7,
+   "dispatchSpotRate": 0,
+   "dispatchAdd": 0,
+   "dispatchAddCount": 0
+  }
+ ]
+}

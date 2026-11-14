@@ -1,0 +1,53 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_affinity.py): fighter affinity gifts, levels and rewards",
+ "rows": [
+  {
+   "affectionDailyRewardIndex": 1,
+   "needSumAffectionLevel": 1,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 10
+  },
+  {
+   "affectionDailyRewardIndex": 2,
+   "needSumAffectionLevel": 10,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 20
+  },
+  {
+   "affectionDailyRewardIndex": 3,
+   "needSumAffectionLevel": 30,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 30
+  },
+  {
+   "affectionDailyRewardIndex": 4,
+   "needSumAffectionLevel": 60,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 40
+  },
+  {
+   "affectionDailyRewardIndex": 5,
+   "needSumAffectionLevel": 100,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 50
+  },
+  {
+   "affectionDailyRewardIndex": 6,
+   "needSumAffectionLevel": 150,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 60
+  },
+  {
+   "affectionDailyRewardIndex": 7,
+   "needSumAffectionLevel": 250,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 80
+  },
+  {
+   "affectionDailyRewardIndex": 8,
+   "needSumAffectionLevel": 400,
+   "rewardGoodsIndex": 5,
+   "rewardGoodsValue": 100
+  }
+ ]
+}

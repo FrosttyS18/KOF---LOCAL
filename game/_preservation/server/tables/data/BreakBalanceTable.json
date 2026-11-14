@@ -1,0 +1,26 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "breakBalanceIndex": 7001,
+   "breakBalance": 70,
+   "damageRangeMin": 0,
+   "damageRangeMax": 99999,
+   "breakReduceValue": 15
+  },
+  {
+   "breakBalanceIndex": 7002,
+   "breakBalance": 70,
+   "damageRangeMin": 100000,
+   "damageRangeMax": 999999,
+   "breakReduceValue": 30
+  },
+  {
+   "breakBalanceIndex": 7003,
+   "breakBalance": 70,
+   "damageRangeMin": 1000000,
+   "damageRangeMax": 2000000000,
+   "breakReduceValue": 60
+  }
+ ]
+}

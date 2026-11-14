@@ -1,0 +1,21 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "preparedCharacterIndex": 1,
+   "startDateTime": 1577836800000,
+   "endDateTime": 4102444800000,
+   "trialDisable": 0,
+   "sortOrder": 1,
+   "preparedBotIndex": 40101
+  },
+  {
+   "preparedCharacterIndex": 2,
+   "startDateTime": 1577836800000,
+   "endDateTime": 4102444800000,
+   "trialDisable": 0,
+   "sortOrder": 2,
+   "preparedBotIndex": 40102
+  }
+ ]
+}

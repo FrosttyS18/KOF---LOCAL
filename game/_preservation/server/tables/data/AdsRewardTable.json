@@ -1,0 +1,18 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "adsRewardIndex": 12,
+   "adsType": 12,
+   "adsContentsType": 0,
+   "adsLimitCount": 9999,
+   "adsCoolTime": 0,
+   "adsLimitCountResetType": 0,
+   "adsLimitCountResetValue": 0,
+   "adsRewardType": 0,
+   "adsRewardValue1": 0,
+   "adsRewardValue2": 0,
+   "placement": "Dispatch"
+  }
+ ]
+}

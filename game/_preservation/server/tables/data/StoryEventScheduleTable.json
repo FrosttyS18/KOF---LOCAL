@@ -1,0 +1,20 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "storyEventScheduleIndex": 1,
+   "eventType": 1,
+   "eventGroup": 1,
+   "sortOrder": 1,
+   "eventStartTime": 1577836800000,
+   "eventEndTime": 4102444800000,
+   "mondayOpen": 1,
+   "tuesdayOpen": 1,
+   "wednesdayOpen": 1,
+   "thursdayOpen": 1,
+   "fridayOpen": 1,
+   "saturdayOpen": 1,
+   "sundayOpen": 1
+  }
+ ]
+}

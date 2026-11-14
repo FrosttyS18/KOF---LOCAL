@@ -1,0 +1,55 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: minimal rows for the offline server, not the original data.",
+ "rows": [
+  {
+   "characterSynastryIndex": 1,
+   "characterSynastryIndexString": "1",
+   "synastryType1": 100,
+   "synastryType2": 150,
+   "synastryType3": 100,
+   "synastryType4": 100,
+   "synastryType5": 50,
+   "synastryType6": 100
+  },
+  {
+   "characterSynastryIndex": 2,
+   "characterSynastryIndexString": "2",
+   "synastryType1": 50,
+   "synastryType2": 100,
+   "synastryType3": 150,
+   "synastryType4": 100,
+   "synastryType5": 100,
+   "synastryType6": 100
+  },
+  {
+   "characterSynastryIndex": 3,
+   "characterSynastryIndexString": "3",
+   "synastryType1": 100,
+   "synastryType2": 50,
+   "synastryType3": 100,
+   "synastryType4": 150,
+   "synastryType5": 100,
+   "synastryType6": 100
+  },
+  {
+   "characterSynastryIndex": 4,
+   "characterSynastryIndexString": "4",
+   "synastryType1": 100,
+   "synastryType2": 100,
+   "synastryType3": 50,
+   "synastryType4": 100,
+   "synastryType5": 150,
+   "synastryType6": 100
+  },
+  {
+   "characterSynastryIndex": 5,
+   "characterSynastryIndexString": "5",
+   "synastryType1": 150,
+   "synastryType2": 100,
+   "synastryType3": 100,
+   "synastryType4": 50,
+   "synastryType5": 100,
+   "synastryType6": 100
+  }
+ ]
+}

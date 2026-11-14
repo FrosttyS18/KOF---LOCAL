@@ -1,0 +1,21 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: roulettes (gen_roulette.py); art/prizes from the 2023 video, rates ours.",
+ "rows": [
+  {
+   "rouletteGroupIndex": 1,
+   "rouletteType": 1,
+   "rouletteNeedItemType": 13,
+   "rouletteNeedItemIndex": 1321,
+   "rouletteNeedItemValue": 1,
+   "limitDailyPlayRoulette": 999
+  },
+  {
+   "rouletteGroupIndex": 2,
+   "rouletteType": 1,
+   "rouletteNeedItemType": 13,
+   "rouletteNeedItemIndex": 1324,
+   "rouletteNeedItemValue": 1,
+   "limitDailyPlayRoulette": 999
+  }
+ ]
+}

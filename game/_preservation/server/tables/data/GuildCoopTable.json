@@ -1,0 +1,17 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_colossal.py): Colossal Invasion from the client's own boss, script, maps and banner; numbers mostly ours (see the module notes).",
+ "rows": [
+  {
+   "guildCoopIndex": 1,
+   "seasonNameTag": "Offline.GuildCoop.1.Name",
+   "questEventIndex": 7101,
+   "guildCoopStageGroup": 1,
+   "guildRankingGroup": 1,
+   "soloRankingGroup": 2,
+   "firstPlayReward": 7100100,
+   "guildCoopSupGroup": 1,
+   "helpIndex": 0,
+   "seasonRewardItem": 0
+  }
+ ]
+}

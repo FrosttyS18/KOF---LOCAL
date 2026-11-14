@@ -1,0 +1,164 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: EXP dungeon (gen_dungeon.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "contentsUnlockIndex": 107,
+   "contentsUnlockIndexString": "AutoClear",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 110,
+   "contentsUnlockIndexString": "PowerUpDungeon",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0,
+   "contentsTitleNameTag": "System.V_QuestMenu.GrowthDungeon.Name"
+  },
+  {
+   "contentsUnlockIndex": 111,
+   "contentsUnlockIndexString": "CoreDungeon",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 5,
+   "unlockConditionTypeValue": "110599",
+   "useEffect": 0,
+   "contentsTitleNameTag": "Offline.QuestEvent.3501.Name"
+  },
+  {
+   "contentsUnlockIndex": 211,
+   "contentsUnlockIndexString": "BattleCardEvolution",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 212,
+   "contentsUnlockIndexString": "BattleCardEquip",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 213,
+   "contentsUnlockIndexString": "BattleCardLevelUp",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 215,
+   "contentsUnlockIndexString": "BattleCardSell",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 216,
+   "contentsUnlockIndexString": "BattleCardExchange",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 217,
+   "contentsUnlockIndexString": "BattleCardList",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 300,
+   "contentsUnlockIndexString": "UnlockGuildBuff",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 3,
+   "unlockConditionTypeValue": "1",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 301,
+   "contentsUnlockIndexString": "UnlockGuildShop",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 3,
+   "unlockConditionTypeValue": "15",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 302,
+   "contentsUnlockIndexString": "UnlockGuildBuff01",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 3,
+   "unlockConditionTypeValue": "1",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 303,
+   "contentsUnlockIndexString": "UnlockGuildBuff02",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 3,
+   "unlockConditionTypeValue": "1",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 304,
+   "contentsUnlockIndexString": "UnlockGuildBuff03",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 3,
+   "unlockConditionTypeValue": "1",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 501,
+   "contentsUnlockIndexString": "UnlockTeamRelay",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 5,
+   "unlockConditionTypeValue": "110204",
+   "useEffect": 0,
+   "contentsTitleNameTag": "Offline.Mode.TeamRelay.Name"
+  },
+  {
+   "contentsUnlockIndex": 502,
+   "contentsUnlockIndexString": "UnlockMetaTeamRelay",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 5,
+   "unlockConditionTypeValue": "110204",
+   "useEffect": 0,
+   "contentsTitleNameTag": "Offline.Mode.TeamRelayChallenge.Name"
+  },
+  {
+   "contentsUnlockIndex": 8001,
+   "contentsUnlockIndexString": "Dispatch",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0
+  },
+  {
+   "contentsUnlockIndex": 9000,
+   "contentsUnlockIndexString": "EquipmentDungeon",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 0,
+   "unlockConditionTypeValue": "0",
+   "useEffect": 0,
+   "contentsTitleNameTag": "Offline.Mode.PluginPlant.Name",
+   "unlockDescriptionTag": "Offline.ContentsUnlock.9000.Desc"
+  },
+  {
+   "contentsUnlockIndex": 105,
+   "contentsUnlockIndexString": "UnlockFighterQuest",
+   "uiMenuVisible": 1,
+   "unlockConditionType": 5,
+   "unlockConditionTypeValue": "110204",
+   "useEffect": 0,
+   "contentsTitleNameTag": "Offline.Mode.SoulQuest.Name"
+  }
+ ]
+}

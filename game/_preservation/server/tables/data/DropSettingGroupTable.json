@@ -1,0 +1,98 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "dropSettingGroupIndex": 1000,
+   "dropSettingGroupIndexString": "Gold",
+   "dropSettingGroup": 1000,
+   "dropGrade": 0,
+   "goldRatio": 100,
+   "goldArrayCount": 1,
+   "goldObjectMin": 2,
+   "goldObjectMax": 5,
+   "objectResourcePath": "Prefabs/DropItem/coin_gold",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "dropPriority": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Gold"
+  },
+  {
+   "dropSettingGroupIndex": 300,
+   "dropSettingGroupIndexString": "Item_0",
+   "dropSettingGroup": 300,
+   "dropGrade": 0,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_bronze",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 301,
+   "dropSettingGroupIndexString": "Item_1",
+   "dropSettingGroup": 300,
+   "dropGrade": 1,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_bronze",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 302,
+   "dropSettingGroupIndexString": "Item_2",
+   "dropSettingGroup": 300,
+   "dropGrade": 2,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_silver",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 303,
+   "dropSettingGroupIndexString": "Item_3",
+   "dropSettingGroup": 300,
+   "dropGrade": 3,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_gold",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 304,
+   "dropSettingGroupIndexString": "Item_4",
+   "dropSettingGroup": 300,
+   "dropGrade": 4,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_purple",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 305,
+   "dropSettingGroupIndexString": "Item_5",
+   "dropSettingGroup": 300,
+   "dropGrade": 5,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_purple",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  },
+  {
+   "dropSettingGroupIndex": 306,
+   "dropSettingGroupIndexString": "Item_6",
+   "dropSettingGroup": 300,
+   "dropGrade": 6,
+   "objectResourcePath": "Prefabs/DropItem/dropitembox2_purple",
+   "dropItemGetDistance": 1.5,
+   "dropObjectMin": 1,
+   "dropObjectMax": 1,
+   "soundResourcePath": "Prefabs/SND/UI/UI_Eff_Drop_Item"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "modeIndex": 101,
+   "modeIndexString": "Single_Story",
+   "modeNameTag": "Offline.Mode.Story.Name",
+   "modeType": 101,
+   "order": 1,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/Texture_Btn_StoryQuest",
+   "enableReplay": 1,
+   "enableAutoReplay": 1,
+   "contentsType": 101,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 401,
+   "modeIndexString": "Single_GuildDungeon",
+   "modeNameTag": "Offline.Mode.GuildRaid.Name",
+   "modeType": 401,
+   "order": 1,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/Texture_Btn_GuildRaid",
+   "modeDescriptionTag": "Offline.Mode.GuildRaid.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 401,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 402,
+   "modeIndexString": "Single_GuildCoop",
+   "modeNameTag": "Offline.Mode.GuildCoop.Name",
+   "modeType": 402,
+   "order": 2,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/Texture_Btn_GuildCoop",
+   "modeDescriptionTag": "Offline.Mode.GuildCoop.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 402,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 501,
+   "modeIndexString": "Single_TeamRelay",
+   "modeNameTag": "Offline.Mode.TeamRelay.Name",
+   "modeType": 501,
+   "order": 1,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_trdungeon",
+   "modeDescriptionTag": "Offline.Mode.TeamRelay.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 501,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 502,
+   "modeIndexString": "Single_MetaTeamRelay",
+   "modeNameTag": "Offline.Mode.TeamRelayChallenge.Name",
+   "modeType": 502,
+   "order": 2,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_trchallenge",
+   "modeDescriptionTag": "Offline.Mode.TeamRelayChallenge.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 502,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 701,
+   "modeIndexString": "Single_CrucibleTower",
+   "modeNameTag": "Offline.Mode.CrucibleTower.Name",
+   "modeType": 701,
+   "order": 6,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_crucibletower",
+   "modeDescriptionTag": "Offline.Mode.CrucibleTower.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 701,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 801,
+   "modeIndexString": "Single_EquipmentDungeon",
+   "modeNameTag": "Offline.Mode.PluginPlant.Name",
+   "modeType": 103,
+   "order": 4,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/texture_btn_pluginquest",
+   "modeDescriptionTag": "Offline.Mode.PluginPlant.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 1,
+   "contentsType": 801,
+   "displayContentsCondition": 1
+  },
+  {
+   "modeIndex": 103,
+   "modeIndexString": "Single_FighterQuest",
+   "modeNameTag": "Offline.Mode.SoulQuest.Name",
+   "modeType": 103,
+   "order": 3,
+   "thumbnail": "Prefabs/UI_Data/UI_Texture/ModeBanner/Texture_Btn_SoulQuest",
+   "modeDescriptionTag": "Offline.Mode.SoulQuest.Desc",
+   "enableReplay": 1,
+   "enableAutoReplay": 0,
+   "contentsType": 103,
+   "displayContentsCondition": 1
+  }
+ ]
+}

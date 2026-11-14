@@ -1,0 +1,1505 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentStatGroupIndex": 111001,
+   "equipmentStatGroup": 111001,
+   "statIndex": 11,
+   "statValue": 16.0
+  },
+  {
+   "equipmentStatGroupIndex": 111010,
+   "equipmentStatGroup": 111010,
+   "statIndex": 11,
+   "statValue": 160.0
+  },
+  {
+   "equipmentStatGroupIndex": 111020,
+   "equipmentStatGroup": 111020,
+   "statIndex": 11,
+   "statValue": 320.0
+  },
+  {
+   "equipmentStatGroupIndex": 111030,
+   "equipmentStatGroup": 111030,
+   "statIndex": 11,
+   "statValue": 480.0
+  },
+  {
+   "equipmentStatGroupIndex": 111040,
+   "equipmentStatGroup": 111040,
+   "statIndex": 11,
+   "statValue": 640.0
+  },
+  {
+   "equipmentStatGroupIndex": 111050,
+   "equipmentStatGroup": 111050,
+   "statIndex": 11,
+   "statValue": 800.0
+  },
+  {
+   "equipmentStatGroupIndex": 111060,
+   "equipmentStatGroup": 111060,
+   "statIndex": 11,
+   "statValue": 960.0
+  },
+  {
+   "equipmentStatGroupIndex": 111070,
+   "equipmentStatGroup": 111070,
+   "statIndex": 11,
+   "statValue": 1120.0
+  },
+  {
+   "equipmentStatGroupIndex": 111080,
+   "equipmentStatGroup": 111080,
+   "statIndex": 11,
+   "statValue": 1280.0
+  },
+  {
+   "equipmentStatGroupIndex": 111090,
+   "equipmentStatGroup": 111090,
+   "statIndex": 11,
+   "statValue": 1440.0
+  },
+  {
+   "equipmentStatGroupIndex": 112001,
+   "equipmentStatGroup": 112001,
+   "statIndex": 31,
+   "statValue": 10.0
+  },
+  {
+   "equipmentStatGroupIndex": 112010,
+   "equipmentStatGroup": 112010,
+   "statIndex": 31,
+   "statValue": 100.0
+  },
+  {
+   "equipmentStatGroupIndex": 112020,
+   "equipmentStatGroup": 112020,
+   "statIndex": 31,
+   "statValue": 200.0
+  },
+  {
+   "equipmentStatGroupIndex": 112030,
+   "equipmentStatGroup": 112030,
+   "statIndex": 31,
+   "statValue": 300.0
+  },
+  {
+   "equipmentStatGroupIndex": 112040,
+   "equipmentStatGroup": 112040,
+   "statIndex": 31,
+   "statValue": 400.0
+  },
+  {
+   "equipmentStatGroupIndex": 112050,
+   "equipmentStatGroup": 112050,
+   "statIndex": 31,
+   "statValue": 500.0
+  },
+  {
+   "equipmentStatGroupIndex": 112060,
+   "equipmentStatGroup": 112060,
+   "statIndex": 31,
+   "statValue": 600.0
+  },
+  {
+   "equipmentStatGroupIndex": 112070,
+   "equipmentStatGroup": 112070,
+   "statIndex": 31,
+   "statValue": 700.0
+  },
+  {
+   "equipmentStatGroupIndex": 112080,
+   "equipmentStatGroup": 112080,
+   "statIndex": 31,
+   "statValue": 800.0
+  },
+  {
+   "equipmentStatGroupIndex": 112090,
+   "equipmentStatGroup": 112090,
+   "statIndex": 31,
+   "statValue": 900.0
+  },
+  {
+   "equipmentStatGroupIndex": 113001,
+   "equipmentStatGroup": 113001,
+   "statIndex": 811,
+   "statValue": 12.0
+  },
+  {
+   "equipmentStatGroupIndex": 113010,
+   "equipmentStatGroup": 113010,
+   "statIndex": 811,
+   "statValue": 120.0
+  },
+  {
+   "equipmentStatGroupIndex": 113020,
+   "equipmentStatGroup": 113020,
+   "statIndex": 811,
+   "statValue": 240.0
+  },
+  {
+   "equipmentStatGroupIndex": 113030,
+   "equipmentStatGroup": 113030,
+   "statIndex": 811,
+   "statValue": 360.0
+  },
+  {
+   "equipmentStatGroupIndex": 113040,
+   "equipmentStatGroup": 113040,
+   "statIndex": 811,
+   "statValue": 480.0
+  },
+  {
+   "equipmentStatGroupIndex": 113050,
+   "equipmentStatGroup": 113050,
+   "statIndex": 811,
+   "statValue": 600.0
+  },
+  {
+   "equipmentStatGroupIndex": 113060,
+   "equipmentStatGroup": 113060,
+   "statIndex": 811,
+   "statValue": 720.0
+  },
+  {
+   "equipmentStatGroupIndex": 113070,
+   "equipmentStatGroup": 113070,
+   "statIndex": 811,
+   "statValue": 840.0
+  },
+  {
+   "equipmentStatGroupIndex": 113080,
+   "equipmentStatGroup": 113080,
+   "statIndex": 811,
+   "statValue": 960.0
+  },
+  {
+   "equipmentStatGroupIndex": 113090,
+   "equipmentStatGroup": 113090,
+   "statIndex": 811,
+   "statValue": 1080.0
+  },
+  {
+   "equipmentStatGroupIndex": 114001,
+   "equipmentStatGroup": 114001,
+   "statIndex": 811,
+   "statValue": 12.0
+  },
+  {
+   "equipmentStatGroupIndex": 114010,
+   "equipmentStatGroup": 114010,
+   "statIndex": 811,
+   "statValue": 120.0
+  },
+  {
+   "equipmentStatGroupIndex": 114020,
+   "equipmentStatGroup": 114020,
+   "statIndex": 811,
+   "statValue": 240.0
+  },
+  {
+   "equipmentStatGroupIndex": 114030,
+   "equipmentStatGroup": 114030,
+   "statIndex": 811,
+   "statValue": 360.0
+  },
+  {
+   "equipmentStatGroupIndex": 114040,
+   "equipmentStatGroup": 114040,
+   "statIndex": 811,
+   "statValue": 480.0
+  },
+  {
+   "equipmentStatGroupIndex": 114050,
+   "equipmentStatGroup": 114050,
+   "statIndex": 811,
+   "statValue": 600.0
+  },
+  {
+   "equipmentStatGroupIndex": 114060,
+   "equipmentStatGroup": 114060,
+   "statIndex": 811,
+   "statValue": 720.0
+  },
+  {
+   "equipmentStatGroupIndex": 114070,
+   "equipmentStatGroup": 114070,
+   "statIndex": 811,
+   "statValue": 840.0
+  },
+  {
+   "equipmentStatGroupIndex": 114080,
+   "equipmentStatGroup": 114080,
+   "statIndex": 811,
+   "statValue": 960.0
+  },
+  {
+   "equipmentStatGroupIndex": 114090,
+   "equipmentStatGroup": 114090,
+   "statIndex": 811,
+   "statValue": 1080.0
+  },
+  {
+   "equipmentStatGroupIndex": 115001,
+   "equipmentStatGroup": 115001,
+   "statIndex": 21,
+   "statValue": 200.0
+  },
+  {
+   "equipmentStatGroupIndex": 115010,
+   "equipmentStatGroup": 115010,
+   "statIndex": 21,
+   "statValue": 2000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115020,
+   "equipmentStatGroup": 115020,
+   "statIndex": 21,
+   "statValue": 4000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115030,
+   "equipmentStatGroup": 115030,
+   "statIndex": 21,
+   "statValue": 6000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115040,
+   "equipmentStatGroup": 115040,
+   "statIndex": 21,
+   "statValue": 8000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115050,
+   "equipmentStatGroup": 115050,
+   "statIndex": 21,
+   "statValue": 10000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115060,
+   "equipmentStatGroup": 115060,
+   "statIndex": 21,
+   "statValue": 12000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115070,
+   "equipmentStatGroup": 115070,
+   "statIndex": 21,
+   "statValue": 14000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115080,
+   "equipmentStatGroup": 115080,
+   "statIndex": 21,
+   "statValue": 16000.0
+  },
+  {
+   "equipmentStatGroupIndex": 115090,
+   "equipmentStatGroup": 115090,
+   "statIndex": 21,
+   "statValue": 18000.0
+  },
+  {
+   "equipmentStatGroupIndex": 121001,
+   "equipmentStatGroup": 121001,
+   "statIndex": 11,
+   "statValue": 22.0
+  },
+  {
+   "equipmentStatGroupIndex": 121010,
+   "equipmentStatGroup": 121010,
+   "statIndex": 11,
+   "statValue": 220.0
+  },
+  {
+   "equipmentStatGroupIndex": 121020,
+   "equipmentStatGroup": 121020,
+   "statIndex": 11,
+   "statValue": 440.0
+  },
+  {
+   "equipmentStatGroupIndex": 121030,
+   "equipmentStatGroup": 121030,
+   "statIndex": 11,
+   "statValue": 660.0
+  },
+  {
+   "equipmentStatGroupIndex": 121040,
+   "equipmentStatGroup": 121040,
+   "statIndex": 11,
+   "statValue": 880.0
+  },
+  {
+   "equipmentStatGroupIndex": 121050,
+   "equipmentStatGroup": 121050,
+   "statIndex": 11,
+   "statValue": 1100.0
+  },
+  {
+   "equipmentStatGroupIndex": 121060,
+   "equipmentStatGroup": 121060,
+   "statIndex": 11,
+   "statValue": 1320.0
+  },
+  {
+   "equipmentStatGroupIndex": 121070,
+   "equipmentStatGroup": 121070,
+   "statIndex": 11,
+   "statValue": 1540.0
+  },
+  {
+   "equipmentStatGroupIndex": 121080,
+   "equipmentStatGroup": 121080,
+   "statIndex": 11,
+   "statValue": 1760.0
+  },
+  {
+   "equipmentStatGroupIndex": 121090,
+   "equipmentStatGroup": 121090,
+   "statIndex": 11,
+   "statValue": 1980.0
+  },
+  {
+   "equipmentStatGroupIndex": 122001,
+   "equipmentStatGroup": 122001,
+   "statIndex": 31,
+   "statValue": 14.0
+  },
+  {
+   "equipmentStatGroupIndex": 122010,
+   "equipmentStatGroup": 122010,
+   "statIndex": 31,
+   "statValue": 138.0
+  },
+  {
+   "equipmentStatGroupIndex": 122020,
+   "equipmentStatGroup": 122020,
+   "statIndex": 31,
+   "statValue": 275.0
+  },
+  {
+   "equipmentStatGroupIndex": 122030,
+   "equipmentStatGroup": 122030,
+   "statIndex": 31,
+   "statValue": 413.0
+  },
+  {
+   "equipmentStatGroupIndex": 122040,
+   "equipmentStatGroup": 122040,
+   "statIndex": 31,
+   "statValue": 550.0
+  },
+  {
+   "equipmentStatGroupIndex": 122050,
+   "equipmentStatGroup": 122050,
+   "statIndex": 31,
+   "statValue": 688.0
+  },
+  {
+   "equipmentStatGroupIndex": 122060,
+   "equipmentStatGroup": 122060,
+   "statIndex": 31,
+   "statValue": 825.0
+  },
+  {
+   "equipmentStatGroupIndex": 122070,
+   "equipmentStatGroup": 122070,
+   "statIndex": 31,
+   "statValue": 963.0
+  },
+  {
+   "equipmentStatGroupIndex": 122080,
+   "equipmentStatGroup": 122080,
+   "statIndex": 31,
+   "statValue": 1100.0
+  },
+  {
+   "equipmentStatGroupIndex": 122090,
+   "equipmentStatGroup": 122090,
+   "statIndex": 31,
+   "statValue": 1238.0
+  },
+  {
+   "equipmentStatGroupIndex": 123001,
+   "equipmentStatGroup": 123001,
+   "statIndex": 811,
+   "statValue": 16.0
+  },
+  {
+   "equipmentStatGroupIndex": 123010,
+   "equipmentStatGroup": 123010,
+   "statIndex": 811,
+   "statValue": 165.0
+  },
+  {
+   "equipmentStatGroupIndex": 123020,
+   "equipmentStatGroup": 123020,
+   "statIndex": 811,
+   "statValue": 330.0
+  },
+  {
+   "equipmentStatGroupIndex": 123030,
+   "equipmentStatGroup": 123030,
+   "statIndex": 811,
+   "statValue": 495.0
+  },
+  {
+   "equipmentStatGroupIndex": 123040,
+   "equipmentStatGroup": 123040,
+   "statIndex": 811,
+   "statValue": 660.0
+  },
+  {
+   "equipmentStatGroupIndex": 123050,
+   "equipmentStatGroup": 123050,
+   "statIndex": 811,
+   "statValue": 825.0
+  },
+  {
+   "equipmentStatGroupIndex": 123060,
+   "equipmentStatGroup": 123060,
+   "statIndex": 811,
+   "statValue": 990.0
+  },
+  {
+   "equipmentStatGroupIndex": 123070,
+   "equipmentStatGroup": 123070,
+   "statIndex": 811,
+   "statValue": 1155.0
+  },
+  {
+   "equipmentStatGroupIndex": 123080,
+   "equipmentStatGroup": 123080,
+   "statIndex": 811,
+   "statValue": 1320.0
+  },
+  {
+   "equipmentStatGroupIndex": 123090,
+   "equipmentStatGroup": 123090,
+   "statIndex": 811,
+   "statValue": 1485.0
+  },
+  {
+   "equipmentStatGroupIndex": 124001,
+   "equipmentStatGroup": 124001,
+   "statIndex": 811,
+   "statValue": 16.0
+  },
+  {
+   "equipmentStatGroupIndex": 124010,
+   "equipmentStatGroup": 124010,
+   "statIndex": 811,
+   "statValue": 165.0
+  },
+  {
+   "equipmentStatGroupIndex": 124020,
+   "equipmentStatGroup": 124020,
+   "statIndex": 811,
+   "statValue": 330.0
+  },
+  {
+   "equipmentStatGroupIndex": 124030,
+   "equipmentStatGroup": 124030,
+   "statIndex": 811,
+   "statValue": 495.0
+  },
+  {
+   "equipmentStatGroupIndex": 124040,
+   "equipmentStatGroup": 124040,
+   "statIndex": 811,
+   "statValue": 660.0
+  },
+  {
+   "equipmentStatGroupIndex": 124050,
+   "equipmentStatGroup": 124050,
+   "statIndex": 811,
+   "statValue": 825.0
+  },
+  {
+   "equipmentStatGroupIndex": 124060,
+   "equipmentStatGroup": 124060,
+   "statIndex": 811,
+   "statValue": 990.0
+  },
+  {
+   "equipmentStatGroupIndex": 124070,
+   "equipmentStatGroup": 124070,
+   "statIndex": 811,
+   "statValue": 1155.0
+  },
+  {
+   "equipmentStatGroupIndex": 124080,
+   "equipmentStatGroup": 124080,
+   "statIndex": 811,
+   "statValue": 1320.0
+  },
+  {
+   "equipmentStatGroupIndex": 124090,
+   "equipmentStatGroup": 124090,
+   "statIndex": 811,
+   "statValue": 1485.0
+  },
+  {
+   "equipmentStatGroupIndex": 125001,
+   "equipmentStatGroup": 125001,
+   "statIndex": 21,
+   "statValue": 275.0
+  },
+  {
+   "equipmentStatGroupIndex": 125010,
+   "equipmentStatGroup": 125010,
+   "statIndex": 21,
+   "statValue": 2750.0
+  },
+  {
+   "equipmentStatGroupIndex": 125020,
+   "equipmentStatGroup": 125020,
+   "statIndex": 21,
+   "statValue": 5500.0
+  },
+  {
+   "equipmentStatGroupIndex": 125030,
+   "equipmentStatGroup": 125030,
+   "statIndex": 21,
+   "statValue": 8250.0
+  },
+  {
+   "equipmentStatGroupIndex": 125040,
+   "equipmentStatGroup": 125040,
+   "statIndex": 21,
+   "statValue": 11000.0
+  },
+  {
+   "equipmentStatGroupIndex": 125050,
+   "equipmentStatGroup": 125050,
+   "statIndex": 21,
+   "statValue": 13750.0
+  },
+  {
+   "equipmentStatGroupIndex": 125060,
+   "equipmentStatGroup": 125060,
+   "statIndex": 21,
+   "statValue": 16500.0
+  },
+  {
+   "equipmentStatGroupIndex": 125070,
+   "equipmentStatGroup": 125070,
+   "statIndex": 21,
+   "statValue": 19250.0
+  },
+  {
+   "equipmentStatGroupIndex": 125080,
+   "equipmentStatGroup": 125080,
+   "statIndex": 21,
+   "statValue": 22000.0
+  },
+  {
+   "equipmentStatGroupIndex": 125090,
+   "equipmentStatGroup": 125090,
+   "statIndex": 21,
+   "statValue": 24750.0
+  },
+  {
+   "equipmentStatGroupIndex": 131001,
+   "equipmentStatGroup": 131001,
+   "statIndex": 11,
+   "statValue": 28.0
+  },
+  {
+   "equipmentStatGroupIndex": 131010,
+   "equipmentStatGroup": 131010,
+   "statIndex": 11,
+   "statValue": 280.0
+  },
+  {
+   "equipmentStatGroupIndex": 131020,
+   "equipmentStatGroup": 131020,
+   "statIndex": 11,
+   "statValue": 560.0
+  },
+  {
+   "equipmentStatGroupIndex": 131030,
+   "equipmentStatGroup": 131030,
+   "statIndex": 11,
+   "statValue": 840.0
+  },
+  {
+   "equipmentStatGroupIndex": 131040,
+   "equipmentStatGroup": 131040,
+   "statIndex": 11,
+   "statValue": 1120.0
+  },
+  {
+   "equipmentStatGroupIndex": 131050,
+   "equipmentStatGroup": 131050,
+   "statIndex": 11,
+   "statValue": 1400.0
+  },
+  {
+   "equipmentStatGroupIndex": 131060,
+   "equipmentStatGroup": 131060,
+   "statIndex": 11,
+   "statValue": 1680.0
+  },
+  {
+   "equipmentStatGroupIndex": 131070,
+   "equipmentStatGroup": 131070,
+   "statIndex": 11,
+   "statValue": 1960.0
+  },
+  {
+   "equipmentStatGroupIndex": 131080,
+   "equipmentStatGroup": 131080,
+   "statIndex": 11,
+   "statValue": 2240.0
+  },
+  {
+   "equipmentStatGroupIndex": 131090,
+   "equipmentStatGroup": 131090,
+   "statIndex": 11,
+   "statValue": 2520.0
+  },
+  {
+   "equipmentStatGroupIndex": 132001,
+   "equipmentStatGroup": 132001,
+   "statIndex": 31,
+   "statValue": 18.0
+  },
+  {
+   "equipmentStatGroupIndex": 132010,
+   "equipmentStatGroup": 132010,
+   "statIndex": 31,
+   "statValue": 175.0
+  },
+  {
+   "equipmentStatGroupIndex": 132020,
+   "equipmentStatGroup": 132020,
+   "statIndex": 31,
+   "statValue": 350.0
+  },
+  {
+   "equipmentStatGroupIndex": 132030,
+   "equipmentStatGroup": 132030,
+   "statIndex": 31,
+   "statValue": 525.0
+  },
+  {
+   "equipmentStatGroupIndex": 132040,
+   "equipmentStatGroup": 132040,
+   "statIndex": 31,
+   "statValue": 700.0
+  },
+  {
+   "equipmentStatGroupIndex": 132050,
+   "equipmentStatGroup": 132050,
+   "statIndex": 31,
+   "statValue": 875.0
+  },
+  {
+   "equipmentStatGroupIndex": 132060,
+   "equipmentStatGroup": 132060,
+   "statIndex": 31,
+   "statValue": 1050.0
+  },
+  {
+   "equipmentStatGroupIndex": 132070,
+   "equipmentStatGroup": 132070,
+   "statIndex": 31,
+   "statValue": 1225.0
+  },
+  {
+   "equipmentStatGroupIndex": 132080,
+   "equipmentStatGroup": 132080,
+   "statIndex": 31,
+   "statValue": 1400.0
+  },
+  {
+   "equipmentStatGroupIndex": 132090,
+   "equipmentStatGroup": 132090,
+   "statIndex": 31,
+   "statValue": 1575.0
+  },
+  {
+   "equipmentStatGroupIndex": 133001,
+   "equipmentStatGroup": 133001,
+   "statIndex": 811,
+   "statValue": 21.0
+  },
+  {
+   "equipmentStatGroupIndex": 133010,
+   "equipmentStatGroup": 133010,
+   "statIndex": 811,
+   "statValue": 210.0
+  },
+  {
+   "equipmentStatGroupIndex": 133020,
+   "equipmentStatGroup": 133020,
+   "statIndex": 811,
+   "statValue": 420.0
+  },
+  {
+   "equipmentStatGroupIndex": 133030,
+   "equipmentStatGroup": 133030,
+   "statIndex": 811,
+   "statValue": 630.0
+  },
+  {
+   "equipmentStatGroupIndex": 133040,
+   "equipmentStatGroup": 133040,
+   "statIndex": 811,
+   "statValue": 840.0
+  },
+  {
+   "equipmentStatGroupIndex": 133050,
+   "equipmentStatGroup": 133050,
+   "statIndex": 811,
+   "statValue": 1050.0
+  },
+  {
+   "equipmentStatGroupIndex": 133060,
+   "equipmentStatGroup": 133060,
+   "statIndex": 811,
+   "statValue": 1260.0
+  },
+  {
+   "equipmentStatGroupIndex": 133070,
+   "equipmentStatGroup": 133070,
+   "statIndex": 811,
+   "statValue": 1470.0
+  },
+  {
+   "equipmentStatGroupIndex": 133080,
+   "equipmentStatGroup": 133080,
+   "statIndex": 811,
+   "statValue": 1680.0
+  },
+  {
+   "equipmentStatGroupIndex": 133090,
+   "equipmentStatGroup": 133090,
+   "statIndex": 811,
+   "statValue": 1890.0
+  },
+  {
+   "equipmentStatGroupIndex": 134001,
+   "equipmentStatGroup": 134001,
+   "statIndex": 811,
+   "statValue": 21.0
+  },
+  {
+   "equipmentStatGroupIndex": 134010,
+   "equipmentStatGroup": 134010,
+   "statIndex": 811,
+   "statValue": 210.0
+  },
+  {
+   "equipmentStatGroupIndex": 134020,
+   "equipmentStatGroup": 134020,
+   "statIndex": 811,
+   "statValue": 420.0
+  },
+  {
+   "equipmentStatGroupIndex": 134030,
+   "equipmentStatGroup": 134030,
+   "statIndex": 811,
+   "statValue": 630.0
+  },
+  {
+   "equipmentStatGroupIndex": 134040,
+   "equipmentStatGroup": 134040,
+   "statIndex": 811,
+   "statValue": 840.0
+  },
+  {
+   "equipmentStatGroupIndex": 134050,
+   "equipmentStatGroup": 134050,
+   "statIndex": 811,
+   "statValue": 1050.0
+  },
+  {
+   "equipmentStatGroupIndex": 134060,
+   "equipmentStatGroup": 134060,
+   "statIndex": 811,
+   "statValue": 1260.0
+  },
+  {
+   "equipmentStatGroupIndex": 134070,
+   "equipmentStatGroup": 134070,
+   "statIndex": 811,
+   "statValue": 1470.0
+  },
+  {
+   "equipmentStatGroupIndex": 134080,
+   "equipmentStatGroup": 134080,
+   "statIndex": 811,
+   "statValue": 1680.0
+  },
+  {
+   "equipmentStatGroupIndex": 134090,
+   "equipmentStatGroup": 134090,
+   "statIndex": 811,
+   "statValue": 1890.0
+  },
+  {
+   "equipmentStatGroupIndex": 135001,
+   "equipmentStatGroup": 135001,
+   "statIndex": 21,
+   "statValue": 350.0
+  },
+  {
+   "equipmentStatGroupIndex": 135010,
+   "equipmentStatGroup": 135010,
+   "statIndex": 21,
+   "statValue": 3500.0
+  },
+  {
+   "equipmentStatGroupIndex": 135020,
+   "equipmentStatGroup": 135020,
+   "statIndex": 21,
+   "statValue": 7000.0
+  },
+  {
+   "equipmentStatGroupIndex": 135030,
+   "equipmentStatGroup": 135030,
+   "statIndex": 21,
+   "statValue": 10500.0
+  },
+  {
+   "equipmentStatGroupIndex": 135040,
+   "equipmentStatGroup": 135040,
+   "statIndex": 21,
+   "statValue": 14000.0
+  },
+  {
+   "equipmentStatGroupIndex": 135050,
+   "equipmentStatGroup": 135050,
+   "statIndex": 21,
+   "statValue": 17500.0
+  },
+  {
+   "equipmentStatGroupIndex": 135060,
+   "equipmentStatGroup": 135060,
+   "statIndex": 21,
+   "statValue": 21000.0
+  },
+  {
+   "equipmentStatGroupIndex": 135070,
+   "equipmentStatGroup": 135070,
+   "statIndex": 21,
+   "statValue": 24500.0
+  },
+  {
+   "equipmentStatGroupIndex": 135080,
+   "equipmentStatGroup": 135080,
+   "statIndex": 21,
+   "statValue": 28000.0
+  },
+  {
+   "equipmentStatGroupIndex": 135090,
+   "equipmentStatGroup": 135090,
+   "statIndex": 21,
+   "statValue": 31500.0
+  },
+  {
+   "equipmentStatGroupIndex": 141001,
+   "equipmentStatGroup": 141001,
+   "statIndex": 11,
+   "statValue": 34.0
+  },
+  {
+   "equipmentStatGroupIndex": 141010,
+   "equipmentStatGroup": 141010,
+   "statIndex": 11,
+   "statValue": 340.0
+  },
+  {
+   "equipmentStatGroupIndex": 141020,
+   "equipmentStatGroup": 141020,
+   "statIndex": 11,
+   "statValue": 680.0
+  },
+  {
+   "equipmentStatGroupIndex": 141030,
+   "equipmentStatGroup": 141030,
+   "statIndex": 11,
+   "statValue": 1020.0
+  },
+  {
+   "equipmentStatGroupIndex": 141040,
+   "equipmentStatGroup": 141040,
+   "statIndex": 11,
+   "statValue": 1360.0
+  },
+  {
+   "equipmentStatGroupIndex": 141050,
+   "equipmentStatGroup": 141050,
+   "statIndex": 11,
+   "statValue": 1700.0
+  },
+  {
+   "equipmentStatGroupIndex": 141060,
+   "equipmentStatGroup": 141060,
+   "statIndex": 11,
+   "statValue": 2040.0
+  },
+  {
+   "equipmentStatGroupIndex": 141070,
+   "equipmentStatGroup": 141070,
+   "statIndex": 11,
+   "statValue": 2380.0
+  },
+  {
+   "equipmentStatGroupIndex": 141080,
+   "equipmentStatGroup": 141080,
+   "statIndex": 11,
+   "statValue": 2720.0
+  },
+  {
+   "equipmentStatGroupIndex": 141090,
+   "equipmentStatGroup": 141090,
+   "statIndex": 11,
+   "statValue": 3060.0
+  },
+  {
+   "equipmentStatGroupIndex": 142001,
+   "equipmentStatGroup": 142001,
+   "statIndex": 31,
+   "statValue": 21.0
+  },
+  {
+   "equipmentStatGroupIndex": 142010,
+   "equipmentStatGroup": 142010,
+   "statIndex": 31,
+   "statValue": 212.0
+  },
+  {
+   "equipmentStatGroupIndex": 142020,
+   "equipmentStatGroup": 142020,
+   "statIndex": 31,
+   "statValue": 425.0
+  },
+  {
+   "equipmentStatGroupIndex": 142030,
+   "equipmentStatGroup": 142030,
+   "statIndex": 31,
+   "statValue": 638.0
+  },
+  {
+   "equipmentStatGroupIndex": 142040,
+   "equipmentStatGroup": 142040,
+   "statIndex": 31,
+   "statValue": 850.0
+  },
+  {
+   "equipmentStatGroupIndex": 142050,
+   "equipmentStatGroup": 142050,
+   "statIndex": 31,
+   "statValue": 1062.0
+  },
+  {
+   "equipmentStatGroupIndex": 142060,
+   "equipmentStatGroup": 142060,
+   "statIndex": 31,
+   "statValue": 1275.0
+  },
+  {
+   "equipmentStatGroupIndex": 142070,
+   "equipmentStatGroup": 142070,
+   "statIndex": 31,
+   "statValue": 1488.0
+  },
+  {
+   "equipmentStatGroupIndex": 142080,
+   "equipmentStatGroup": 142080,
+   "statIndex": 31,
+   "statValue": 1700.0
+  },
+  {
+   "equipmentStatGroupIndex": 142090,
+   "equipmentStatGroup": 142090,
+   "statIndex": 31,
+   "statValue": 1912.0
+  },
+  {
+   "equipmentStatGroupIndex": 143001,
+   "equipmentStatGroup": 143001,
+   "statIndex": 811,
+   "statValue": 26.0
+  },
+  {
+   "equipmentStatGroupIndex": 143010,
+   "equipmentStatGroup": 143010,
+   "statIndex": 811,
+   "statValue": 255.0
+  },
+  {
+   "equipmentStatGroupIndex": 143020,
+   "equipmentStatGroup": 143020,
+   "statIndex": 811,
+   "statValue": 510.0
+  },
+  {
+   "equipmentStatGroupIndex": 143030,
+   "equipmentStatGroup": 143030,
+   "statIndex": 811,
+   "statValue": 765.0
+  },
+  {
+   "equipmentStatGroupIndex": 143040,
+   "equipmentStatGroup": 143040,
+   "statIndex": 811,
+   "statValue": 1020.0
+  },
+  {
+   "equipmentStatGroupIndex": 143050,
+   "equipmentStatGroup": 143050,
+   "statIndex": 811,
+   "statValue": 1275.0
+  },
+  {
+   "equipmentStatGroupIndex": 143060,
+   "equipmentStatGroup": 143060,
+   "statIndex": 811,
+   "statValue": 1530.0
+  },
+  {
+   "equipmentStatGroupIndex": 143070,
+   "equipmentStatGroup": 143070,
+   "statIndex": 811,
+   "statValue": 1785.0
+  },
+  {
+   "equipmentStatGroupIndex": 143080,
+   "equipmentStatGroup": 143080,
+   "statIndex": 811,
+   "statValue": 2040.0
+  },
+  {
+   "equipmentStatGroupIndex": 143090,
+   "equipmentStatGroup": 143090,
+   "statIndex": 811,
+   "statValue": 2295.0
+  },
+  {
+   "equipmentStatGroupIndex": 144001,
+   "equipmentStatGroup": 144001,
+   "statIndex": 811,
+   "statValue": 26.0
+  },
+  {
+   "equipmentStatGroupIndex": 144010,
+   "equipmentStatGroup": 144010,
+   "statIndex": 811,
+   "statValue": 255.0
+  },
+  {
+   "equipmentStatGroupIndex": 144020,
+   "equipmentStatGroup": 144020,
+   "statIndex": 811,
+   "statValue": 510.0
+  },
+  {
+   "equipmentStatGroupIndex": 144030,
+   "equipmentStatGroup": 144030,
+   "statIndex": 811,
+   "statValue": 765.0
+  },
+  {
+   "equipmentStatGroupIndex": 144040,
+   "equipmentStatGroup": 144040,
+   "statIndex": 811,
+   "statValue": 1020.0
+  },
+  {
+   "equipmentStatGroupIndex": 144050,
+   "equipmentStatGroup": 144050,
+   "statIndex": 811,
+   "statValue": 1275.0
+  },
+  {
+   "equipmentStatGroupIndex": 144060,
+   "equipmentStatGroup": 144060,
+   "statIndex": 811,
+   "statValue": 1530.0
+  },
+  {
+   "equipmentStatGroupIndex": 144070,
+   "equipmentStatGroup": 144070,
+   "statIndex": 811,
+   "statValue": 1785.0
+  },
+  {
+   "equipmentStatGroupIndex": 144080,
+   "equipmentStatGroup": 144080,
+   "statIndex": 811,
+   "statValue": 2040.0
+  },
+  {
+   "equipmentStatGroupIndex": 144090,
+   "equipmentStatGroup": 144090,
+   "statIndex": 811,
+   "statValue": 2295.0
+  },
+  {
+   "equipmentStatGroupIndex": 145001,
+   "equipmentStatGroup": 145001,
+   "statIndex": 21,
+   "statValue": 425.0
+  },
+  {
+   "equipmentStatGroupIndex": 145010,
+   "equipmentStatGroup": 145010,
+   "statIndex": 21,
+   "statValue": 4250.0
+  },
+  {
+   "equipmentStatGroupIndex": 145020,
+   "equipmentStatGroup": 145020,
+   "statIndex": 21,
+   "statValue": 8500.0
+  },
+  {
+   "equipmentStatGroupIndex": 145030,
+   "equipmentStatGroup": 145030,
+   "statIndex": 21,
+   "statValue": 12750.0
+  },
+  {
+   "equipmentStatGroupIndex": 145040,
+   "equipmentStatGroup": 145040,
+   "statIndex": 21,
+   "statValue": 17000.0
+  },
+  {
+   "equipmentStatGroupIndex": 145050,
+   "equipmentStatGroup": 145050,
+   "statIndex": 21,
+   "statValue": 21250.0
+  },
+  {
+   "equipmentStatGroupIndex": 145060,
+   "equipmentStatGroup": 145060,
+   "statIndex": 21,
+   "statValue": 25500.0
+  },
+  {
+   "equipmentStatGroupIndex": 145070,
+   "equipmentStatGroup": 145070,
+   "statIndex": 21,
+   "statValue": 29750.0
+  },
+  {
+   "equipmentStatGroupIndex": 145080,
+   "equipmentStatGroup": 145080,
+   "statIndex": 21,
+   "statValue": 34000.0
+  },
+  {
+   "equipmentStatGroupIndex": 145090,
+   "equipmentStatGroup": 145090,
+   "statIndex": 21,
+   "statValue": 38250.0
+  },
+  {
+   "equipmentStatGroupIndex": 151001,
+   "equipmentStatGroup": 151001,
+   "statIndex": 11,
+   "statValue": 40.0
+  },
+  {
+   "equipmentStatGroupIndex": 151010,
+   "equipmentStatGroup": 151010,
+   "statIndex": 11,
+   "statValue": 400.0
+  },
+  {
+   "equipmentStatGroupIndex": 151020,
+   "equipmentStatGroup": 151020,
+   "statIndex": 11,
+   "statValue": 800.0
+  },
+  {
+   "equipmentStatGroupIndex": 151030,
+   "equipmentStatGroup": 151030,
+   "statIndex": 11,
+   "statValue": 1200.0
+  },
+  {
+   "equipmentStatGroupIndex": 151040,
+   "equipmentStatGroup": 151040,
+   "statIndex": 11,
+   "statValue": 1600.0
+  },
+  {
+   "equipmentStatGroupIndex": 151050,
+   "equipmentStatGroup": 151050,
+   "statIndex": 11,
+   "statValue": 2000.0
+  },
+  {
+   "equipmentStatGroupIndex": 151060,
+   "equipmentStatGroup": 151060,
+   "statIndex": 11,
+   "statValue": 2400.0
+  },
+  {
+   "equipmentStatGroupIndex": 151070,
+   "equipmentStatGroup": 151070,
+   "statIndex": 11,
+   "statValue": 2800.0
+  },
+  {
+   "equipmentStatGroupIndex": 151080,
+   "equipmentStatGroup": 151080,
+   "statIndex": 11,
+   "statValue": 3200.0
+  },
+  {
+   "equipmentStatGroupIndex": 151090,
+   "equipmentStatGroup": 151090,
+   "statIndex": 11,
+   "statValue": 3600.0
+  },
+  {
+   "equipmentStatGroupIndex": 152001,
+   "equipmentStatGroup": 152001,
+   "statIndex": 31,
+   "statValue": 25.0
+  },
+  {
+   "equipmentStatGroupIndex": 152010,
+   "equipmentStatGroup": 152010,
+   "statIndex": 31,
+   "statValue": 250.0
+  },
+  {
+   "equipmentStatGroupIndex": 152020,
+   "equipmentStatGroup": 152020,
+   "statIndex": 31,
+   "statValue": 500.0
+  },
+  {
+   "equipmentStatGroupIndex": 152030,
+   "equipmentStatGroup": 152030,
+   "statIndex": 31,
+   "statValue": 750.0
+  },
+  {
+   "equipmentStatGroupIndex": 152040,
+   "equipmentStatGroup": 152040,
+   "statIndex": 31,
+   "statValue": 1000.0
+  },
+  {
+   "equipmentStatGroupIndex": 152050,
+   "equipmentStatGroup": 152050,
+   "statIndex": 31,
+   "statValue": 1250.0
+  },
+  {
+   "equipmentStatGroupIndex": 152060,
+   "equipmentStatGroup": 152060,
+   "statIndex": 31,
+   "statValue": 1500.0
+  },
+  {
+   "equipmentStatGroupIndex": 152070,
+   "equipmentStatGroup": 152070,
+   "statIndex": 31,
+   "statValue": 1750.0
+  },
+  {
+   "equipmentStatGroupIndex": 152080,
+   "equipmentStatGroup": 152080,
+   "statIndex": 31,
+   "statValue": 2000.0
+  },
+  {
+   "equipmentStatGroupIndex": 152090,
+   "equipmentStatGroup": 152090,
+   "statIndex": 31,
+   "statValue": 2250.0
+  },
+  {
+   "equipmentStatGroupIndex": 153001,
+   "equipmentStatGroup": 153001,
+   "statIndex": 811,
+   "statValue": 30.0
+  },
+  {
+   "equipmentStatGroupIndex": 153010,
+   "equipmentStatGroup": 153010,
+   "statIndex": 811,
+   "statValue": 300.0
+  },
+  {
+   "equipmentStatGroupIndex": 153020,
+   "equipmentStatGroup": 153020,
+   "statIndex": 811,
+   "statValue": 600.0
+  },
+  {
+   "equipmentStatGroupIndex": 153030,
+   "equipmentStatGroup": 153030,
+   "statIndex": 811,
+   "statValue": 900.0
+  },
+  {
+   "equipmentStatGroupIndex": 153040,
+   "equipmentStatGroup": 153040,
+   "statIndex": 811,
+   "statValue": 1200.0
+  },
+  {
+   "equipmentStatGroupIndex": 153050,
+   "equipmentStatGroup": 153050,
+   "statIndex": 811,
+   "statValue": 1500.0
+  },
+  {
+   "equipmentStatGroupIndex": 153060,
+   "equipmentStatGroup": 153060,
+   "statIndex": 811,
+   "statValue": 1800.0
+  },
+  {
+   "equipmentStatGroupIndex": 153070,
+   "equipmentStatGroup": 153070,
+   "statIndex": 811,
+   "statValue": 2100.0
+  },
+  {
+   "equipmentStatGroupIndex": 153080,
+   "equipmentStatGroup": 153080,
+   "statIndex": 811,
+   "statValue": 2400.0
+  },
+  {
+   "equipmentStatGroupIndex": 153090,
+   "equipmentStatGroup": 153090,
+   "statIndex": 811,
+   "statValue": 2700.0
+  },
+  {
+   "equipmentStatGroupIndex": 154001,
+   "equipmentStatGroup": 154001,
+   "statIndex": 811,
+   "statValue": 30.0
+  },
+  {
+   "equipmentStatGroupIndex": 154010,
+   "equipmentStatGroup": 154010,
+   "statIndex": 811,
+   "statValue": 300.0
+  },
+  {
+   "equipmentStatGroupIndex": 154020,
+   "equipmentStatGroup": 154020,
+   "statIndex": 811,
+   "statValue": 600.0
+  },
+  {
+   "equipmentStatGroupIndex": 154030,
+   "equipmentStatGroup": 154030,
+   "statIndex": 811,
+   "statValue": 900.0
+  },
+  {
+   "equipmentStatGroupIndex": 154040,
+   "equipmentStatGroup": 154040,
+   "statIndex": 811,
+   "statValue": 1200.0
+  },
+  {
+   "equipmentStatGroupIndex": 154050,
+   "equipmentStatGroup": 154050,
+   "statIndex": 811,
+   "statValue": 1500.0
+  },
+  {
+   "equipmentStatGroupIndex": 154060,
+   "equipmentStatGroup": 154060,
+   "statIndex": 811,
+   "statValue": 1800.0
+  },
+  {
+   "equipmentStatGroupIndex": 154070,
+   "equipmentStatGroup": 154070,
+   "statIndex": 811,
+   "statValue": 2100.0
+  },
+  {
+   "equipmentStatGroupIndex": 154080,
+   "equipmentStatGroup": 154080,
+   "statIndex": 811,
+   "statValue": 2400.0
+  },
+  {
+   "equipmentStatGroupIndex": 154090,
+   "equipmentStatGroup": 154090,
+   "statIndex": 811,
+   "statValue": 2700.0
+  },
+  {
+   "equipmentStatGroupIndex": 155001,
+   "equipmentStatGroup": 155001,
+   "statIndex": 21,
+   "statValue": 500.0
+  },
+  {
+   "equipmentStatGroupIndex": 155010,
+   "equipmentStatGroup": 155010,
+   "statIndex": 21,
+   "statValue": 5000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155020,
+   "equipmentStatGroup": 155020,
+   "statIndex": 21,
+   "statValue": 10000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155030,
+   "equipmentStatGroup": 155030,
+   "statIndex": 21,
+   "statValue": 15000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155040,
+   "equipmentStatGroup": 155040,
+   "statIndex": 21,
+   "statValue": 20000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155050,
+   "equipmentStatGroup": 155050,
+   "statIndex": 21,
+   "statValue": 25000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155060,
+   "equipmentStatGroup": 155060,
+   "statIndex": 21,
+   "statValue": 30000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155070,
+   "equipmentStatGroup": 155070,
+   "statIndex": 21,
+   "statValue": 35000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155080,
+   "equipmentStatGroup": 155080,
+   "statIndex": 21,
+   "statValue": 40000.0
+  },
+  {
+   "equipmentStatGroupIndex": 155090,
+   "equipmentStatGroup": 155090,
+   "statIndex": 21,
+   "statValue": 45000.0
+  }
+ ]
+}

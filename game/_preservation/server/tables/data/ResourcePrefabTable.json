@@ -1,0 +1,10 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "resourcePrefabIndex": 1,
+   "resourcePrefabIndexString": "UI.Break.UIUnit.BreakSystemSlider",
+   "resourcePrefab": "Prefabs/UI_Data/UI_Unit/BreakSystem/UIUnit_BreakSystemSlider"
+  }
+ ]
+}

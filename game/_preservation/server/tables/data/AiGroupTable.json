@@ -1,0 +1,702 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "aiGroupIndex": 1011,
+   "aiGroup": 101,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Normal/normal_short_easy"
+  },
+  {
+   "aiGroupIndex": 1021,
+   "aiGroup": 102,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/FighterBoss/Normal/fighterboss_normal"
+  },
+  {
+   "aiGroupIndex": 2011,
+   "aiGroup": 201,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Boss/boss_short"
+  },
+  {
+   "aiGroupIndex": 4011,
+   "aiGroup": 401,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Event/Gold/Daruma_01"
+  },
+  {
+   "aiGroupIndex": 1031,
+   "aiGroup": 103,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Normal/normal_long_guardroll_easy"
+  },
+  {
+   "aiGroupIndex": 3011,
+   "aiGroup": 301,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3012,
+   "aiGroup": 301,
+   "aiGrade": 2,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3013,
+   "aiGroup": 301,
+   "aiGrade": 3,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3014,
+   "aiGroup": 301,
+   "aiGrade": 4,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3015,
+   "aiGroup": 301,
+   "aiGrade": 5,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 7111,
+   "aiGroup": 711,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss"
+  },
+  {
+   "aiGroupIndex": 7121,
+   "aiGroup": 712,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss_normal"
+  },
+  {
+   "aiGroupIndex": 7131,
+   "aiGroup": 713,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss_hard"
+  },
+  {
+   "aiGroupIndex": 7141,
+   "aiGroup": 714,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss_expert"
+  },
+  {
+   "aiGroupIndex": 7151,
+   "aiGroup": 715,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss_lunatic"
+  },
+  {
+   "aiGroupIndex": 7161,
+   "aiGroup": 716,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/omegarugal_guildboss/omegarugal_guildboss_lunatic"
+  },
+  {
+   "aiGroupIndex": 7211,
+   "aiGroup": 721,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_easy"
+  },
+  {
+   "aiGroupIndex": 7221,
+   "aiGroup": 722,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_normal"
+  },
+  {
+   "aiGroupIndex": 7231,
+   "aiGroup": 723,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_hard"
+  },
+  {
+   "aiGroupIndex": 7241,
+   "aiGroup": 724,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_expert"
+  },
+  {
+   "aiGroupIndex": 7251,
+   "aiGroup": 725,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_lunatic"
+  },
+  {
+   "aiGroupIndex": 7261,
+   "aiGroup": 726,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/nightmaregeese_guildboss/nightmaregeese_guildboss_lunatic"
+  },
+  {
+   "aiGroupIndex": 7321,
+   "aiGroup": 732,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/tf_chang_guildboss/tf_chang_guildboss_normal"
+  },
+  {
+   "aiGroupIndex": 7421,
+   "aiGroup": 742,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/sfv_ryu/sfv_ryu"
+  },
+  {
+   "aiGroupIndex": 7521,
+   "aiGroup": 752,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildBoss/ggx_baiken/ggx_baiken_event"
+  },
+  {
+   "aiGroupIndex": 8011,
+   "aiGroup": 801,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8021,
+   "aiGroup": 802,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8031,
+   "aiGroup": 803,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8041,
+   "aiGroup": 804,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8051,
+   "aiGroup": 805,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8061,
+   "aiGroup": 806,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8071,
+   "aiGroup": 807,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8081,
+   "aiGroup": 808,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8091,
+   "aiGroup": 809,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8101,
+   "aiGroup": 810,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_1"
+  },
+  {
+   "aiGroupIndex": 8111,
+   "aiGroup": 811,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8121,
+   "aiGroup": 812,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8131,
+   "aiGroup": 813,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8141,
+   "aiGroup": 814,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8151,
+   "aiGroup": 815,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8161,
+   "aiGroup": 816,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8171,
+   "aiGroup": 817,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8181,
+   "aiGroup": 818,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8191,
+   "aiGroup": 819,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8201,
+   "aiGroup": 820,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_2"
+  },
+  {
+   "aiGroupIndex": 8211,
+   "aiGroup": 821,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3"
+  },
+  {
+   "aiGroupIndex": 8221,
+   "aiGroup": 822,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3"
+  },
+  {
+   "aiGroupIndex": 8231,
+   "aiGroup": 823,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3"
+  },
+  {
+   "aiGroupIndex": 8241,
+   "aiGroup": 824,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3"
+  },
+  {
+   "aiGroupIndex": 8251,
+   "aiGroup": 825,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3"
+  },
+  {
+   "aiGroupIndex": 8261,
+   "aiGroup": 826,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_1"
+  },
+  {
+   "aiGroupIndex": 8271,
+   "aiGroup": 827,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_1"
+  },
+  {
+   "aiGroupIndex": 8281,
+   "aiGroup": 828,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_1"
+  },
+  {
+   "aiGroupIndex": 8291,
+   "aiGroup": 829,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_1"
+  },
+  {
+   "aiGroupIndex": 8301,
+   "aiGroup": 830,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_1"
+  },
+  {
+   "aiGroupIndex": 8311,
+   "aiGroup": 831,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_2"
+  },
+  {
+   "aiGroupIndex": 8321,
+   "aiGroup": 832,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_2"
+  },
+  {
+   "aiGroupIndex": 8331,
+   "aiGroup": 833,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_2"
+  },
+  {
+   "aiGroupIndex": 8341,
+   "aiGroup": 834,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_2"
+  },
+  {
+   "aiGroupIndex": 8351,
+   "aiGroup": 835,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_2"
+  },
+  {
+   "aiGroupIndex": 8361,
+   "aiGroup": 836,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+  },
+  {
+   "aiGroupIndex": 8371,
+   "aiGroup": 837,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+  },
+  {
+   "aiGroupIndex": 8381,
+   "aiGroup": 838,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+  },
+  {
+   "aiGroupIndex": 8391,
+   "aiGroup": 839,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+  },
+  {
+   "aiGroupIndex": 8401,
+   "aiGroup": 840,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+  },
+  {
+   "aiGroupIndex": 8411,
+   "aiGroup": 841,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+  },
+  {
+   "aiGroupIndex": 8421,
+   "aiGroup": 842,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+  },
+  {
+   "aiGroupIndex": 8431,
+   "aiGroup": 843,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+  },
+  {
+   "aiGroupIndex": 8441,
+   "aiGroup": 844,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+  },
+  {
+   "aiGroupIndex": 8451,
+   "aiGroup": 845,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+  },
+  {
+   "aiGroupIndex": 8461,
+   "aiGroup": 846,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_5"
+  },
+  {
+   "aiGroupIndex": 8471,
+   "aiGroup": 847,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_5"
+  },
+  {
+   "aiGroupIndex": 8481,
+   "aiGroup": 848,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_5"
+  },
+  {
+   "aiGroupIndex": 8491,
+   "aiGroup": 849,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_5"
+  },
+  {
+   "aiGroupIndex": 8501,
+   "aiGroup": 850,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_5"
+  },
+  {
+   "aiGroupIndex": 11011,
+   "aiGroup": 1101,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_mightymost/giant_mightymost_ai_light"
+  },
+  {
+   "aiGroupIndex": 11021,
+   "aiGroup": 1102,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_welder/giant_welder_ai"
+  },
+  {
+   "aiGroupIndex": 11031,
+   "aiGroup": 1103,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_gastank/giant_gastank_ai"
+  },
+  {
+   "aiGroupIndex": 11041,
+   "aiGroup": 1104,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_workerchief/giant_workerchief_ai"
+  },
+  {
+   "aiGroupIndex": 11051,
+   "aiGroup": 1105,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_armsblack/giant_armsblack_ai_light"
+  },
+  {
+   "aiGroupIndex": 11061,
+   "aiGroup": 1106,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_punk/giant_punk"
+  },
+  {
+   "aiGroupIndex": 11071,
+   "aiGroup": 1107,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_poison/giant_poison"
+  },
+  {
+   "aiGroupIndex": 11081,
+   "aiGroup": 1108,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_kang/giant_kang"
+  },
+  {
+   "aiGroupIndex": 11091,
+   "aiGroup": 1109,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_kingpole/giant_kingpole"
+  },
+  {
+   "aiGroupIndex": 11101,
+   "aiGroup": 1110,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_punk_b/giant_punk_b"
+  },
+  {
+   "aiGroupIndex": 11111,
+   "aiGroup": 1111,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/giant_big_stand/giant_big_stand"
+  },
+  {
+   "aiGroupIndex": 11121,
+   "aiGroup": 1112,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/sevenknights_cowking/sevenknights_cowking"
+  },
+  {
+   "aiGroupIndex": 11131,
+   "aiGroup": 1113,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/cherryblossom_billy/cherryblossom_billy"
+  },
+  {
+   "aiGroupIndex": 11511,
+   "aiGroup": 1151,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Monster/bottle/bottle"
+  },
+  {
+   "aiGroupIndex": 11521,
+   "aiGroup": 1152,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Monster/bottle/bottle"
+  },
+  {
+   "aiGroupIndex": 11141,
+   "aiGroup": 1114,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/vd_kasumi_tr/vd_kasumi_tr"
+  },
+  {
+   "aiGroupIndex": 11531,
+   "aiGroup": 1153,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Monster/josei/josei"
+  },
+  {
+   "aiGroupIndex": 11151,
+   "aiGroup": 1115,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/vd_mukai_tr/vd_mukai_tr"
+  },
+  {
+   "aiGroupIndex": 11161,
+   "aiGroup": 1116,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/zombiekrod/zombiekrod_ai"
+  },
+  {
+   "aiGroupIndex": 11171,
+   "aiGroup": 1117,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/zombiekrod/zombiekrod_ai"
+  },
+  {
+   "aiGroupIndex": 11181,
+   "aiGroup": 1118,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/gintama_eli_tr/gintama_eli_tr"
+  },
+  {
+   "aiGroupIndex": 11191,
+   "aiGroup": 1119,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/christmaschang_tr/christmaschang_tr"
+  },
+  {
+   "aiGroupIndex": 11201,
+   "aiGroup": 1120,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/sds_guardian/sds_guardian"
+  },
+  {
+   "aiGroupIndex": 11211,
+   "aiGroup": 1121,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/gw_iori/gw_iori"
+  },
+  {
+   "aiGroupIndex": 11541,
+   "aiGroup": 1154,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/gw_iori/tr_gw_monster"
+  },
+  {
+   "aiGroupIndex": 11221,
+   "aiGroup": 1122,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/TeamRelay/sc_amakusa_tr/sc_amakusa_tr"
+  },
+  {
+   "aiGroupIndex": 12011,
+   "aiGroup": 1201,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Tower_Namaiki_Hard"
+  },
+  {
+   "aiGroupIndex": 12021,
+   "aiGroup": 1202,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Comedown/MightyMost/MightyMost_AI_Tower60",
+   "blackBoardPrefabName": "Prefabs/BlackboardPrefab/ComDown_MightyMost/ComDown_MightyMost_Tower60_Blackboard"
+  },
+  {
+   "aiGroupIndex": 13011,
+   "aiGroup": 1301,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Event/BattleCard/Boss_Rakshasa_Easy"
+  },
+  {
+   "aiGroupIndex": 13021,
+   "aiGroup": 1302,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Event/BattleCard/Boss_Rakshasa_Normal"
+  },
+  {
+   "aiGroupIndex": 13031,
+   "aiGroup": 1303,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Event/BattleCard/Boss_Rakshasa_Hard"
+  },
+  {
+   "aiGroupIndex": 13111,
+   "aiGroup": 1311,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/AwakenExp/AwakenExpBoss01"
+  },
+  {
+   "aiGroupIndex": 13121,
+   "aiGroup": 1312,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/AwakenExp/AwakenExpBoss02"
+  },
+  {
+   "aiGroupIndex": 13131,
+   "aiGroup": 1313,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/AwakenExp/AwakenExpBoss03"
+  },
+  {
+   "aiGroupIndex": 13141,
+   "aiGroup": 1314,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/AwakenExp/AwakenExpBoss04"
+  },
+  {
+   "aiGroupIndex": 9011,
+   "aiGroup": 301,
+   "aiGrade": 9011,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 9111,
+   "aiGroup": 9011,
+   "aiGrade": 9011,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 9013,
+   "aiGroup": 301,
+   "aiGrade": 9013,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 9113,
+   "aiGroup": 9013,
+   "aiGrade": 9013,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 9015,
+   "aiGroup": 301,
+   "aiGrade": 9015,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 9115,
+   "aiGroup": 9015,
+   "aiGrade": 9015,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "cameraSetIndex": 101,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_Story_2"
+  },
+  {
+   "cameraSetIndex": 201,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_Story_2"
+  },
+  {
+   "cameraSetIndex": 7001,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_GuildBoss"
+  },
+  {
+   "cameraSetIndex": 7002,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_GuildCoop_OuterGod"
+  },
+  {
+   "cameraSetIndex": 7300,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_TeamRelay_Hard"
+  },
+  {
+   "cameraSetIndex": 7301,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_TeamRelay_CherryBlossom_Billy"
+  },
+  {
+   "cameraSetIndex": 7302,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_SevenKnights_CowKing"
+  },
+  {
+   "cameraSetIndex": 7303,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_TeamRelay_SDS_King"
+  },
+  {
+   "cameraSetIndex": 401,
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_VS"
+  }
+ ]
+}

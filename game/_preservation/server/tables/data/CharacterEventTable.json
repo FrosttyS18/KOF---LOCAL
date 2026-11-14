@@ -1,0 +1,15 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written for the offline server by tools/gen_roster.py; ids and numbers are not the original data.",
+ "rows": [
+  {
+   "characterEventIndex": 1,
+   "characterEventGroupIndex": 1,
+   "characterEventType": 1,
+   "characterEventResource": "Prefabs/UI_Data/UI_Unit/BattleInterface/UIUnit_StageIntro",
+   "characterEventConditionType": 0,
+   "characterEventConditionTypeValue": 0,
+   "resourceMapIndex": 0,
+   "characterEventSetIndex": 0
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentGradeIndex": 1,
+   "grade": 1,
+   "equipmentGradeName": "Offline.Plugin.Grade.1.Name",
+   "isAbleExtract": 0,
+   "isAbleImprint": 0,
+   "optionChangeCostIndex": 1,
+   "sellEarnGoodsValue": 2000,
+   "disassembleCostValue": 500,
+   "disassembleRewardGroup": 75300001,
+   "colorHex": "B87333"
+  },
+  {
+   "equipmentGradeIndex": 2,
+   "grade": 2,
+   "equipmentGradeName": "Offline.Plugin.Grade.2.Name",
+   "isAbleExtract": 0,
+   "isAbleImprint": 0,
+   "optionChangeCostIndex": 2,
+   "sellEarnGoodsValue": 5000,
+   "disassembleCostValue": 1500,
+   "disassembleRewardGroup": 75300002,
+   "colorHex": "C0C0C0"
+  },
+  {
+   "equipmentGradeIndex": 3,
+   "grade": 3,
+   "equipmentGradeName": "Offline.Plugin.Grade.3.Name",
+   "isAbleExtract": 0,
+   "isAbleImprint": 0,
+   "optionChangeCostIndex": 3,
+   "sellEarnGoodsValue": 12000,
+   "disassembleCostValue": 4000,
+   "disassembleRewardGroup": 75300003,
+   "colorHex": "FFD700"
+  },
+  {
+   "equipmentGradeIndex": 4,
+   "grade": 4,
+   "equipmentGradeName": "Offline.Plugin.Grade.4.Name",
+   "isAbleExtract": 0,
+   "isAbleImprint": 0,
+   "optionChangeCostIndex": 4,
+   "sellEarnGoodsValue": 30000,
+   "disassembleCostValue": 10000,
+   "disassembleRewardGroup": 75300004,
+   "colorHex": "3C8CFF"
+  },
+  {
+   "equipmentGradeIndex": 5,
+   "grade": 5,
+   "equipmentGradeName": "Offline.Plugin.Grade.5.Name",
+   "isAbleExtract": 0,
+   "isAbleImprint": 0,
+   "optionChangeCostIndex": 5,
+   "sellEarnGoodsValue": 80000,
+   "disassembleCostValue": 25000,
+   "disassembleRewardGroup": 75300005,
+   "colorHex": "A040FF"
+  }
+ ]
+}

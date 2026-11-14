@@ -1,0 +1,545 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildBossRewardIndex": 1011,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 101,
+   "guildBossDamageMin": 11250000,
+   "guildBossDamageMax": 15750000,
+   "guildBossReward": 7000001,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1012,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 101,
+   "guildBossDamageMin": 15750000,
+   "guildBossDamageMax": 40500000,
+   "guildBossReward": 7000001,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1013,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 101,
+   "guildBossDamageMin": 40500000,
+   "guildBossDamageMax": 48600000,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1014,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 101,
+   "guildBossDamageMin": 48600000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1021,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 102,
+   "guildBossDamageMin": 27818676,
+   "guildBossDamageMax": 38946146,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1022,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 102,
+   "guildBossDamageMin": 38946146,
+   "guildBossDamageMax": 55637352,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1023,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 102,
+   "guildBossDamageMin": 55637352,
+   "guildBossDamageMax": 66764822,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1024,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 102,
+   "guildBossDamageMin": 66764822,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1031,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 103,
+   "guildBossDamageMin": 68789220,
+   "guildBossDamageMax": 96304908,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1032,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 103,
+   "guildBossDamageMin": 96304908,
+   "guildBossDamageMax": 137578439,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1033,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 103,
+   "guildBossDamageMin": 137578439,
+   "guildBossDamageMax": 165094127,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1034,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 103,
+   "guildBossDamageMin": 165094127,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1041,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 104,
+   "guildBossDamageMin": 170100000,
+   "guildBossDamageMax": 238140000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1042,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 104,
+   "guildBossDamageMin": 238140000,
+   "guildBossDamageMax": 340200000,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1043,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 104,
+   "guildBossDamageMin": 340200000,
+   "guildBossDamageMax": 408240000,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1044,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 104,
+   "guildBossDamageMin": 408240000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1051,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 105,
+   "guildBossDamageMin": 297674643,
+   "guildBossDamageMax": 416744500,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1052,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 105,
+   "guildBossDamageMin": 416744500,
+   "guildBossDamageMax": 595349286,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1053,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 105,
+   "guildBossDamageMin": 595349286,
+   "guildBossDamageMax": 714419143,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1054,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 105,
+   "guildBossDamageMin": 714419143,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000008,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1061,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 106,
+   "guildBossDamageMin": 520930000,
+   "guildBossDamageMax": 729302000,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1062,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 106,
+   "guildBossDamageMin": 729302000,
+   "guildBossDamageMax": 1041860000,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1063,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 106,
+   "guildBossDamageMin": 1041860000,
+   "guildBossDamageMax": 1250232000,
+   "guildBossReward": 7000008,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 1064,
+   "guildBossRewardGroup": 1,
+   "guildBossRewardDifficulty": 106,
+   "guildBossDamageMin": 1250232000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000009,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2011,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 201,
+   "guildBossDamageMin": 11250000,
+   "guildBossDamageMax": 15750000,
+   "guildBossReward": 7000001,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2012,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 201,
+   "guildBossDamageMin": 15750000,
+   "guildBossDamageMax": 40500000,
+   "guildBossReward": 7000001,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2013,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 201,
+   "guildBossDamageMin": 40500000,
+   "guildBossDamageMax": 48600000,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2014,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 201,
+   "guildBossDamageMin": 48600000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2021,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 202,
+   "guildBossDamageMin": 27818676,
+   "guildBossDamageMax": 38946146,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2022,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 202,
+   "guildBossDamageMin": 38946146,
+   "guildBossDamageMax": 55637352,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2023,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 202,
+   "guildBossDamageMin": 55637352,
+   "guildBossDamageMax": 66764822,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2024,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 202,
+   "guildBossDamageMin": 66764822,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2031,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 203,
+   "guildBossDamageMin": 68789220,
+   "guildBossDamageMax": 96304908,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2032,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 203,
+   "guildBossDamageMin": 96304908,
+   "guildBossDamageMax": 137578439,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2033,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 203,
+   "guildBossDamageMin": 137578439,
+   "guildBossDamageMax": 165094127,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2034,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 203,
+   "guildBossDamageMin": 165094127,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2041,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 204,
+   "guildBossDamageMin": 170100000,
+   "guildBossDamageMax": 238140000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2042,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 204,
+   "guildBossDamageMin": 238140000,
+   "guildBossDamageMax": 340200000,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2043,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 204,
+   "guildBossDamageMin": 340200000,
+   "guildBossDamageMax": 408240000,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2044,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 204,
+   "guildBossDamageMin": 408240000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2051,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 205,
+   "guildBossDamageMin": 297674643,
+   "guildBossDamageMax": 416744500,
+   "guildBossReward": 7000005,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2052,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 205,
+   "guildBossDamageMin": 416744500,
+   "guildBossDamageMax": 595349286,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2053,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 205,
+   "guildBossDamageMin": 595349286,
+   "guildBossDamageMax": 714419143,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2054,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 205,
+   "guildBossDamageMin": 714419143,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000008,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2061,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 206,
+   "guildBossDamageMin": 520930000,
+   "guildBossDamageMax": 729302000,
+   "guildBossReward": 7000006,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2062,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 206,
+   "guildBossDamageMin": 729302000,
+   "guildBossDamageMax": 1041860000,
+   "guildBossReward": 7000007,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2063,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 206,
+   "guildBossDamageMin": 1041860000,
+   "guildBossDamageMax": 1250232000,
+   "guildBossReward": 7000008,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 2064,
+   "guildBossRewardGroup": 2,
+   "guildBossRewardDifficulty": 206,
+   "guildBossDamageMin": 1250232000,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000009,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 3021,
+   "guildBossRewardGroup": 3,
+   "guildBossRewardDifficulty": 302,
+   "guildBossDamageMin": 27818676,
+   "guildBossDamageMax": 38946146,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 3022,
+   "guildBossRewardGroup": 3,
+   "guildBossRewardDifficulty": 302,
+   "guildBossDamageMin": 38946146,
+   "guildBossDamageMax": 55637352,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 3023,
+   "guildBossRewardGroup": 3,
+   "guildBossRewardDifficulty": 302,
+   "guildBossDamageMin": 55637352,
+   "guildBossDamageMax": 66764822,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 3024,
+   "guildBossRewardGroup": 3,
+   "guildBossRewardDifficulty": 302,
+   "guildBossDamageMin": 66764822,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 4021,
+   "guildBossRewardGroup": 4,
+   "guildBossRewardDifficulty": 402,
+   "guildBossDamageMin": 27818676,
+   "guildBossDamageMax": 38946146,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 4022,
+   "guildBossRewardGroup": 4,
+   "guildBossRewardDifficulty": 402,
+   "guildBossDamageMin": 38946146,
+   "guildBossDamageMax": 55637352,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 4023,
+   "guildBossRewardGroup": 4,
+   "guildBossRewardDifficulty": 402,
+   "guildBossDamageMin": 55637352,
+   "guildBossDamageMax": 66764822,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 4024,
+   "guildBossRewardGroup": 4,
+   "guildBossRewardDifficulty": 402,
+   "guildBossDamageMin": 66764822,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 5021,
+   "guildBossRewardGroup": 5,
+   "guildBossRewardDifficulty": 502,
+   "guildBossDamageMin": 27818676,
+   "guildBossDamageMax": 38946146,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 5022,
+   "guildBossRewardGroup": 5,
+   "guildBossRewardDifficulty": 502,
+   "guildBossDamageMin": 38946146,
+   "guildBossDamageMax": 55637352,
+   "guildBossReward": 7000002,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 5023,
+   "guildBossRewardGroup": 5,
+   "guildBossRewardDifficulty": 502,
+   "guildBossDamageMin": 55637352,
+   "guildBossDamageMax": 66764822,
+   "guildBossReward": 7000003,
+   "guildBossClearBonus": 200
+  },
+  {
+   "guildBossRewardIndex": 5024,
+   "guildBossRewardGroup": 5,
+   "guildBossRewardDifficulty": 502,
+   "guildBossDamageMin": 66764822,
+   "guildBossDamageMax": 9999990000,
+   "guildBossReward": 7000004,
+   "guildBossClearBonus": 200
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: team relations (gen_relations.py); keys, matches and buff sizes ours.",
+ "rows": [
+  {
+   "attributeIndex": 1,
+   "attributeIndexString": "Japan",
+   "attributeNameTag": "Offline.Attribute.Japan",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Japan"
+  },
+  {
+   "attributeIndex": 2,
+   "attributeIndexString": "Male",
+   "attributeNameTag": "Offline.Attribute.Male",
+   "attributeIconType": 3,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Male"
+  },
+  {
+   "attributeIndex": 3,
+   "attributeIndexString": "Female",
+   "attributeNameTag": "Offline.Attribute.Female",
+   "attributeIconType": 4,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Female"
+  },
+  {
+   "attributeIndex": 4,
+   "attributeIndexString": "Korea",
+   "attributeNameTag": "Offline.Attribute.Korea",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Korea"
+  },
+  {
+   "attributeIndex": 5,
+   "attributeIndexString": "Ultimate",
+   "attributeNameTag": "Offline.Attribute.Ultimate",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Ultimate"
+  },
+  {
+   "attributeIndex": 6,
+   "attributeIndexString": "AllStar",
+   "attributeNameTag": "Offline.Attribute.AllStar",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.AllStar"
+  },
+  {
+   "attributeIndex": 7,
+   "attributeIndexString": "WeaponMaster",
+   "attributeNameTag": "Offline.Attribute.WeaponMaster",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.WeaponMaster"
+  },
+  {
+   "attributeIndex": 8,
+   "attributeIndexString": "DefenseType",
+   "attributeNameTag": "Offline.Attribute.DefenseType",
+   "attributeIconType": 7,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.DefenseType"
+  },
+  {
+   "attributeIndex": 9,
+   "attributeIndexString": "AttackType",
+   "attributeNameTag": "Offline.Attribute.AttackType",
+   "attributeIconType": 7,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.AttackType"
+  },
+  {
+   "attributeIndex": 10,
+   "attributeIndexString": "BalanceType",
+   "attributeNameTag": "Offline.Attribute.BalanceType",
+   "attributeIconType": 7,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.BalanceType"
+  },
+  {
+   "attributeIndex": 11,
+   "attributeIndexString": "FinalRound",
+   "attributeNameTag": "Offline.Attribute.FinalRound",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.FinalRound"
+  },
+  {
+   "attributeIndex": 12,
+   "attributeIndexString": "BossFighter",
+   "attributeNameTag": "Offline.Attribute.BossFighter",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.BossFighter"
+  },
+  {
+   "attributeIndex": 13,
+   "attributeIndexString": "BloodyFate",
+   "attributeNameTag": "Offline.Attribute.BloodyFate",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.BloodyFate"
+  },
+  {
+   "attributeIndex": 14,
+   "attributeIndexString": "NationalityUnknown",
+   "attributeNameTag": "Offline.Attribute.NationalityUnknown",
+   "attributeIconType": 5,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.NationalityUnknown"
+  },
+  {
+   "attributeIndex": 15,
+   "attributeIndexString": "KOFXIII",
+   "attributeNameTag": "Offline.Attribute.KOFXIII",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.KOFXIII"
+  },
+  {
+   "attributeIndex": 16,
+   "attributeIndexString": "NewBeginnings",
+   "attributeNameTag": "Offline.Attribute.NewBeginnings",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.NewBeginnings"
+  },
+  {
+   "attributeIndex": 17,
+   "attributeIndexString": "KOF2003",
+   "attributeNameTag": "Offline.Attribute.KOF2003",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.KOF2003"
+  },
+  {
+   "attributeIndex": 18,
+   "attributeIndexString": "KOFXI",
+   "attributeNameTag": "Offline.Attribute.KOFXI",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.KOFXI"
+  },
+  {
+   "attributeIndex": 19,
+   "attributeIndexString": "KOF98",
+   "attributeNameTag": "Offline.Attribute.KOF98",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.KOF98"
+  },
+  {
+   "attributeIndex": 20,
+   "attributeIndexString": "StreetFighter6",
+   "attributeNameTag": "Offline.Attribute.StreetFighter6",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.StreetFighter6"
+  },
+  {
+   "attributeIndex": 21,
+   "attributeIndexString": "America",
+   "attributeNameTag": "Offline.Attribute.America",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.America"
+  },
+  {
+   "attributeIndex": 22,
+   "attributeIndexString": "HongKong",
+   "attributeNameTag": "Offline.Attribute.HongKong",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.HongKong"
+  },
+  {
+   "attributeIndex": 23,
+   "attributeIndexString": "England",
+   "attributeNameTag": "Offline.Attribute.England",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.England"
+  },
+  {
+   "attributeIndex": 24,
+   "attributeIndexString": "France",
+   "attributeNameTag": "Offline.Attribute.France",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.France"
+  },
+  {
+   "attributeIndex": 25,
+   "attributeIndexString": "Chile",
+   "attributeNameTag": "Offline.Attribute.Chile",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Chile"
+  },
+  {
+   "attributeIndex": 26,
+   "attributeIndexString": "Queen",
+   "attributeNameTag": "Offline.Attribute.Queen",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Queen"
+  },
+  {
+   "attributeIndex": 27,
+   "attributeIndexString": "FatherTeam",
+   "attributeNameTag": "Offline.Attribute.FatherTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.FatherTeam"
+  },
+  {
+   "attributeIndex": 28,
+   "attributeIndexString": "IkariTeam",
+   "attributeNameTag": "Offline.Attribute.IkariTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.IkariTeam"
+  },
+  {
+   "attributeIndex": 29,
+   "attributeIndexString": "NESTS",
+   "attributeNameTag": "Offline.Attribute.NESTS",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.NESTS"
+  },
+  {
+   "attributeIndex": 30,
+   "attributeIndexString": "GraffitiArtist",
+   "attributeNameTag": "Offline.Attribute.GraffitiArtist",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.GraffitiArtist"
+  },
+  {
+   "attributeIndex": 31,
+   "attributeIndexString": "ShermieApproved",
+   "attributeNameTag": "Offline.Attribute.ShermieApproved",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.ShermieApproved"
+  },
+  {
+   "attributeIndex": 32,
+   "attributeIndexString": "Ireland",
+   "attributeNameTag": "Offline.Attribute.Ireland",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Ireland"
+  },
+  {
+   "attributeIndex": 33,
+   "attributeIndexString": "WildCard",
+   "attributeNameTag": "Offline.Attribute.WildCard",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.WildCard"
+  },
+  {
+   "attributeIndex": 34,
+   "attributeIndexString": "HeroTeam",
+   "attributeNameTag": "Offline.Attribute.HeroTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.HeroTeam"
+  },
+  {
+   "attributeIndex": 35,
+   "attributeIndexString": "Extreme",
+   "attributeNameTag": "Offline.Attribute.Extreme",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Extreme"
+  },
+  {
+   "attributeIndex": 36,
+   "attributeIndexString": "Mexico",
+   "attributeNameTag": "Offline.Attribute.Mexico",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Mexico"
+  },
+  {
+   "attributeIndex": 37,
+   "attributeIndexString": "OperationKitty",
+   "attributeNameTag": "Offline.Attribute.OperationKitty",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.OperationKitty"
+  },
+  {
+   "attributeIndex": 38,
+   "attributeIndexString": "KOFXV",
+   "attributeNameTag": "Offline.Attribute.KOFXV",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.KOFXV"
+  },
+  {
+   "attributeIndex": 39,
+   "attributeIndexString": "PsychoSoldierTeam",
+   "attributeNameTag": "Offline.Attribute.PsychoSoldierTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.PsychoSoldierTeam"
+  },
+  {
+   "attributeIndex": 40,
+   "attributeIndexString": "China",
+   "attributeNameTag": "Offline.Attribute.China",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.China"
+  },
+  {
+   "attributeIndex": 41,
+   "attributeIndexString": "ThreeSacredTreasures",
+   "attributeNameTag": "Offline.Attribute.ThreeSacredTreasures",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.ThreeSacredTreasures"
+  },
+  {
+   "attributeIndex": 42,
+   "attributeIndexString": "BoSSyndrome",
+   "attributeNameTag": "Offline.Attribute.BoSSyndrome",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.BoSSyndrome"
+  },
+  {
+   "attributeIndex": 43,
+   "attributeIndexString": "Lady",
+   "attributeNameTag": "Offline.Attribute.Lady",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Lady"
+  },
+  {
+   "attributeIndex": 44,
+   "attributeIndexString": "OrochiClan",
+   "attributeNameTag": "Offline.Attribute.OrochiClan",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.OrochiClan"
+  },
+  {
+   "attributeIndex": 45,
+   "attributeIndexString": "FatalFury",
+   "attributeNameTag": "Offline.Attribute.FatalFury",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.FatalFury"
+  },
+  {
+   "attributeIndex": 46,
+   "attributeIndexString": "NewWomenFightersTeam",
+   "attributeNameTag": "Offline.Attribute.NewWomenFightersTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.NewWomenFightersTeam"
+  },
+  {
+   "attributeIndex": 47,
+   "attributeIndexString": "19999",
+   "attributeNameTag": "Offline.Attribute.19999",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.19999"
+  },
+  {
+   "attributeIndex": 48,
+   "attributeIndexString": "SoldierAndAgent",
+   "attributeNameTag": "Offline.Attribute.SoldierAndAgent",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.SoldierAndAgent"
+  },
+  {
+   "attributeIndex": 49,
+   "attributeIndexString": "SeriousMusicians",
+   "attributeNameTag": "Offline.Attribute.SeriousMusicians",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.SeriousMusicians"
+  },
+  {
+   "attributeIndex": 50,
+   "attributeIndexString": "BOSSFIGHTER",
+   "attributeNameTag": "Offline.Attribute.BOSSFIGHTER",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.BOSSFIGHTER"
+  },
+  {
+   "attributeIndex": 51,
+   "attributeIndexString": "Sweden",
+   "attributeNameTag": "Offline.Attribute.Sweden",
+   "attributeIconType": 1,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Sweden"
+  },
+  {
+   "attributeIndex": 52,
+   "attributeIndexString": "SamuraiTeam",
+   "attributeNameTag": "Offline.Attribute.SamuraiTeam",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.SamuraiTeam"
+  },
+  {
+   "attributeIndex": 53,
+   "attributeIndexString": "Polygon",
+   "attributeNameTag": "Offline.Attribute.Polygon",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Polygon"
+  },
+  {
+   "attributeIndex": 54,
+   "attributeIndexString": "ShermieApprovedHandsome",
+   "attributeNameTag": "Offline.Attribute.ShermieApprovedHandsome",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.ShermieApprovedHandsome"
+  },
+  {
+   "attributeIndex": 55,
+   "attributeIndexString": "VillainConfirmed",
+   "attributeNameTag": "Offline.Attribute.VillainConfirmed",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.VillainConfirmed"
+  },
+  {
+   "attributeIndex": 56,
+   "attributeIndexString": "TemporalMystery",
+   "attributeNameTag": "Offline.Attribute.TemporalMystery",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.TemporalMystery"
+  },
+  {
+   "attributeIndex": 57,
+   "attributeIndexString": "SOULCALIBURVI",
+   "attributeNameTag": "Offline.Attribute.SOULCALIBURVI",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.SOULCALIBURVI"
+  },
+  {
+   "attributeIndex": 58,
+   "attributeIndexString": "Genius",
+   "attributeNameTag": "Offline.Attribute.Genius",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Genius"
+  },
+  {
+   "attributeIndex": 59,
+   "attributeIndexString": "VF5FS",
+   "attributeNameTag": "Offline.Attribute.VF5FS",
+   "attributeIconType": 6,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.VF5FS"
+  },
+  {
+   "attributeIndex": 60,
+   "attributeIndexString": "Tekken",
+   "attributeNameTag": "Offline.Attribute.Tekken",
+   "attributeIconType": 2,
+   "attributeDisplay": 0,
+   "attributeTipTag": "Offline.Attribute.Tekken"
+  },
+  {
+   "attributeIndex": 61,
+   "attributeIndexString": "OnePlus9999",
+   "attributeNameTag": "Offline.Attribute.OnePlus9999",
+   "attributeIconType": 0,
+   "attributeDisplay": 1,
+   "attributeTipTag": "Offline.Attribute.OnePlus9999"
+  }
+ ]
+}

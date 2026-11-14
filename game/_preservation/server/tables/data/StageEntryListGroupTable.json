@@ -1,0 +1,83 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "stageEntryListGroupIndex": 9300900,
+   "stageEntryListGroup": "9300900",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 11,
+   "contentSubType": 1,
+   "contentValue": "1000,1001,1002,1003,1004,1005,1006,1007,1008,1009",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  },
+  {
+   "stageEntryListGroupIndex": 9101001,
+   "stageEntryListGroup": "9101001",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9101",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  },
+  {
+   "stageEntryListGroupIndex": 9101002,
+   "stageEntryListGroup": "9101002",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9102",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  },
+  {
+   "stageEntryListGroupIndex": 9101003,
+   "stageEntryListGroup": "9101003",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9103",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  },
+  {
+   "stageEntryListGroupIndex": 9101004,
+   "stageEntryListGroup": "9101004",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9104",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  },
+  {
+   "stageEntryListGroupIndex": 9101005,
+   "stageEntryListGroup": "9101005",
+   "resetTime": 0,
+   "resetTimeStandard": 0,
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9105",
+   "startTime": 0,
+   "endTime": 0,
+   "stageEntryListStrikerGroup": "0",
+   "showDontHave": 0
+  }
+ ]
+}

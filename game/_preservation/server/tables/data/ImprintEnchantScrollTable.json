@@ -1,0 +1,29 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_imprint.py): imprint stone enhancing hammers",
+ "rows": [
+  {
+   "imprintEnchantScrollIndex": 1,
+   "scrollCategory": -1,
+   "scrollGrade": -1,
+   "imprintEnchantRatioGroup": 1
+  },
+  {
+   "imprintEnchantScrollIndex": 2,
+   "scrollCategory": -1,
+   "scrollGrade": -1,
+   "imprintEnchantRatioGroup": 2
+  },
+  {
+   "imprintEnchantScrollIndex": 3,
+   "scrollCategory": -1,
+   "scrollGrade": -1,
+   "imprintEnchantRatioGroup": 3
+  },
+  {
+   "imprintEnchantScrollIndex": 4,
+   "scrollCategory": -1,
+   "scrollGrade": -1,
+   "imprintEnchantRatioGroup": 4
+  }
+ ]
+}

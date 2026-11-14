@@ -1,0 +1,126 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentRewardIndex": 1,
+   "equipmentRewardGroup": 1,
+   "grade01Prob": 3000,
+   "grade02Prob": 3000,
+   "grade03Prob": 2500,
+   "grade04Prob": 1200,
+   "grade05Prob": 300,
+   "equipmentLvMin": 20,
+   "equipmentLvMax": 60
+  },
+  {
+   "equipmentRewardIndex": 101,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 5000,
+   "grade02Prob": 3500,
+   "grade03Prob": 1500,
+   "grade04Prob": 0,
+   "grade05Prob": 0,
+   "equipmentLvMin": 24,
+   "equipmentLvMax": 30
+  },
+  {
+   "equipmentRewardIndex": 102,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 4444,
+   "grade02Prob": 3167,
+   "grade03Prob": 1611,
+   "grade04Prob": 444,
+   "grade05Prob": 333,
+   "equipmentLvMin": 44,
+   "equipmentLvMax": 50
+  },
+  {
+   "equipmentRewardIndex": 103,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 3889,
+   "grade02Prob": 2833,
+   "grade03Prob": 1722,
+   "grade04Prob": 889,
+   "grade05Prob": 667,
+   "equipmentLvMin": 64,
+   "equipmentLvMax": 70
+  },
+  {
+   "equipmentRewardIndex": 104,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 3333,
+   "grade02Prob": 2500,
+   "grade03Prob": 1833,
+   "grade04Prob": 1333,
+   "grade05Prob": 1000,
+   "equipmentLvMin": 84,
+   "equipmentLvMax": 90
+  },
+  {
+   "equipmentRewardIndex": 105,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 2778,
+   "grade02Prob": 2167,
+   "grade03Prob": 1944,
+   "grade04Prob": 1778,
+   "grade05Prob": 1333,
+   "equipmentLvMin": 104,
+   "equipmentLvMax": 110
+  },
+  {
+   "equipmentRewardIndex": 106,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 2222,
+   "grade02Prob": 1833,
+   "grade03Prob": 2056,
+   "grade04Prob": 2222,
+   "grade05Prob": 1667,
+   "equipmentLvMin": 124,
+   "equipmentLvMax": 130
+  },
+  {
+   "equipmentRewardIndex": 107,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 1667,
+   "grade02Prob": 1500,
+   "grade03Prob": 2167,
+   "grade04Prob": 2667,
+   "grade05Prob": 2000,
+   "equipmentLvMin": 144,
+   "equipmentLvMax": 150
+  },
+  {
+   "equipmentRewardIndex": 108,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 1111,
+   "grade02Prob": 1167,
+   "grade03Prob": 2278,
+   "grade04Prob": 3111,
+   "grade05Prob": 2333,
+   "equipmentLvMin": 164,
+   "equipmentLvMax": 170
+  },
+  {
+   "equipmentRewardIndex": 109,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 556,
+   "grade02Prob": 833,
+   "grade03Prob": 2389,
+   "grade04Prob": 3556,
+   "grade05Prob": 2667,
+   "equipmentLvMin": 184,
+   "equipmentLvMax": 190
+  },
+  {
+   "equipmentRewardIndex": 110,
+   "equipmentRewardGroup": 100,
+   "grade01Prob": 0,
+   "grade02Prob": 500,
+   "grade03Prob": 2500,
+   "grade04Prob": 4000,
+   "grade05Prob": 3000,
+   "equipmentLvMin": 204,
+   "equipmentLvMax": 210
+  }
+ ]
+}

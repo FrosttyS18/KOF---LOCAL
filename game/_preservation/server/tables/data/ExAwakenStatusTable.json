@@ -1,0 +1,124 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_changeup.py): Change Up from the user's video and the client's kit icons; the stat gains of fighters other than SS Kyo are ours.",
+ "rows": [
+  {
+   "characterIndex": 1203,
+   "maxHPBaseAdd": 3315,
+   "attackBaseAdd": 389,
+   "defenceBaseAdd": 25,
+   "penBaseAdd": 15
+  },
+  {
+   "characterIndex": 1192,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1100,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1209,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1258,
+   "maxHPBaseAdd": 3315,
+   "attackBaseAdd": 389,
+   "defenceBaseAdd": 25,
+   "penBaseAdd": 15
+  },
+  {
+   "characterIndex": 1262,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1136,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1074,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1207,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1257,
+   "maxHPBaseAdd": 3315,
+   "attackBaseAdd": 389,
+   "defenceBaseAdd": 25,
+   "penBaseAdd": 15
+  },
+  {
+   "characterIndex": 1261,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1442,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1444,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1440,
+   "maxHPBaseAdd": 9948,
+   "attackBaseAdd": 3274,
+   "defenceBaseAdd": 331,
+   "penBaseAdd": 188
+  },
+  {
+   "characterIndex": 1397,
+   "maxHPBaseAdd": 3732,
+   "attackBaseAdd": 268,
+   "defenceBaseAdd": 98,
+   "penBaseAdd": 12
+  },
+  {
+   "characterIndex": 1399,
+   "maxHPBaseAdd": 3245,
+   "attackBaseAdd": 298,
+   "defenceBaseAdd": 85,
+   "penBaseAdd": 13
+  },
+  {
+   "characterIndex": 1402,
+   "maxHPBaseAdd": 10755,
+   "attackBaseAdd": 2778,
+   "defenceBaseAdd": 394,
+   "penBaseAdd": 168
+  }
+ ]
+}

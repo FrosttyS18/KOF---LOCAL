@@ -1,0 +1,145 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaDirectionIndex": 13,
+   "gachaDirectionIndexString": "1_3",
+   "goodsGrade": 3,
+   "gachaDirectionType": 1,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 14,
+   "gachaDirectionIndexString": "1_4",
+   "goodsGrade": 4,
+   "gachaDirectionType": 1,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 15,
+   "gachaDirectionIndexString": "1_5",
+   "goodsGrade": 5,
+   "gachaDirectionType": 1,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 16,
+   "gachaDirectionIndexString": "1_6",
+   "goodsGrade": 6,
+   "gachaDirectionType": 1,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 23,
+   "gachaDirectionIndexString": "2_3",
+   "goodsGrade": 3,
+   "gachaDirectionType": 2,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 24,
+   "gachaDirectionIndexString": "2_4",
+   "goodsGrade": 4,
+   "gachaDirectionType": 2,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 25,
+   "gachaDirectionIndexString": "2_5",
+   "goodsGrade": 5,
+   "gachaDirectionType": 2,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 26,
+   "gachaDirectionIndexString": "2_6",
+   "goodsGrade": 6,
+   "gachaDirectionType": 2,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 33,
+   "gachaDirectionIndexString": "3_3",
+   "goodsGrade": 3,
+   "gachaDirectionType": 3,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 34,
+   "gachaDirectionIndexString": "3_4",
+   "goodsGrade": 4,
+   "gachaDirectionType": 3,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 35,
+   "gachaDirectionIndexString": "3_5",
+   "goodsGrade": 5,
+   "gachaDirectionType": 3,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 36,
+   "gachaDirectionIndexString": "3_6",
+   "goodsGrade": 6,
+   "gachaDirectionType": 3,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 43,
+   "gachaDirectionIndexString": "4_3",
+   "goodsGrade": 3,
+   "gachaDirectionType": 4,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 44,
+   "gachaDirectionIndexString": "4_4",
+   "goodsGrade": 4,
+   "gachaDirectionType": 4,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 45,
+   "gachaDirectionIndexString": "4_5",
+   "goodsGrade": 5,
+   "gachaDirectionType": 4,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 46,
+   "gachaDirectionIndexString": "4_6",
+   "goodsGrade": 6,
+   "gachaDirectionType": 4,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 1013,
+   "gachaDirectionIndexString": "101_3",
+   "goodsGrade": 3,
+   "gachaDirectionType": 101,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 1014,
+   "gachaDirectionIndexString": "101_4",
+   "goodsGrade": 4,
+   "gachaDirectionType": 101,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 1015,
+   "gachaDirectionIndexString": "101_5",
+   "goodsGrade": 5,
+   "gachaDirectionType": 101,
+   "direction1Rate": 100
+  },
+  {
+   "gachaDirectionIndex": 1016,
+   "gachaDirectionIndexString": "101_6",
+   "goodsGrade": 6,
+   "gachaDirectionType": 101,
+   "direction1Rate": 100
+  }
+ ]
+}

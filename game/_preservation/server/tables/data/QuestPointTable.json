@@ -1,0 +1,10 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: growth missions (gen_quest.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "questPointIndex": 1,
+   "pointResetType": 0,
+   "pointDescriptionTag": "Offline.QuestPoint.1.Desc"
+  }
+ ]
+}

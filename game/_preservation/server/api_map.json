@@ -1,0 +1,3597 @@
+{
+ "ads/adsReward": {
+  "request": "AdsRewardRequest",
+  "response": "AdsRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdsReward"
+  ]
+ },
+ "ads/adsStart": {
+  "request": "AdsStartRequest",
+  "response": "AdsStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdsStart",
+   "NetworkManagerWEB$$Send_AdsStart",
+   "AdsManager$$ShowRewardedVideoWithSkip"
+  ]
+ },
+ "adventure/adventureSoulDropEventStageList": {
+  "request": "AdventureSoulDropEventStageListRequest",
+  "response": "AdventureSoulDropEventStageListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSoulDropEventStageList",
+   "SoulEventManager$$RefreshSoulEvent"
+  ]
+ },
+ "adventure/adventureSoulDropEventTicketRecharge": {
+  "request": "AdventureSoulDropEventTicketRechargeRequest",
+  "response": "AdventureSoulDropEventTicketRechargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSoulDropEventTicketRecharge"
+  ]
+ },
+ "adventure/chapterMissionComplete": {
+  "request": "AdventureChapterMissionCompleteRequest",
+  "response": "AdventureChapterMissionCompleteResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureChapterMissionComplete"
+  ]
+ },
+ "adventure/sagaList": {
+  "request": "AdventureSagaListRequest",
+  "response": "AdventureSagaListResponse",
+  "senders": [
+   "TimeDriveShortcut$$Move",
+   "NetworkManagerWEB$$Send_AdventureSagaList"
+  ]
+ },
+ "adventure/sagaProduction": {
+  "request": "AdventureSagaProductionRequest",
+  "response": null,
+  "senders": [
+   "UIUnit_Saga$$CheckOpenAction",
+   "NetworkManagerWEB$$Send_AdventureSagaProduction",
+   "UIUnit_Saga$$SetSaga"
+  ]
+ },
+ "adventure/selectStageList": {
+  "request": "AdventureSelectStageListRequest",
+  "response": "AdventureSelectStageListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSelectStageList"
+  ]
+ },
+ "adventure/seriesList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSeriesList",
+   "UnityEngine.UIElements.TextElement$$UnityEngine.UIElements.INotifyValueChanged<System.String>.get_value"
+  ]
+ },
+ "adventure/seriesMissionComplete": {
+  "request": "AdventureSeriesMissionCompleteRequest",
+  "response": "AdventureSeriesMissionCompleteResponse",
+  "senders": [
+   "Scene_Single_StoryList$$HandleMessage",
+   "Controller_Single_StoryList$$SendSeriesMissionComplete",
+   "NetworkManagerWEB$$Send_AdventureSeriesMissionComplete"
+  ]
+ },
+ "adventure/seriesOpen": {
+  "request": "AdventureSeriesOpenRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSeriesOpen"
+  ]
+ },
+ "adventure/seriesProduction": {
+  "request": "AdventureSeriesProductionRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureSeriesProduction",
+   "Controller_Single_StoryTimeDrive$$ShowTimeDriveEffect"
+  ]
+ },
+ "adventure/stageEnd": {
+  "request": "AdventureStageEndRequest",
+  "response": "AdventureStageEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureStageEnd"
+  ]
+ },
+ "adventure/stageList": {
+  "request": "AdventureStageListRequest",
+  "response": "AdventureStageListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureStageList"
+  ]
+ },
+ "adventure/stageMopUp": {
+  "request": "AdventureStageMopUpRequest",
+  "response": "AdventureStageMopUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureStageMopUp"
+  ]
+ },
+ "adventure/stageStart": {
+  "request": "AdventureStageStartRequest",
+  "response": "AdventureStageStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureStageStart"
+  ]
+ },
+ "adventure/stageStory": {
+  "request": "AdventureStageStoryRequest",
+  "response": "AdventureStageStoryResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AdventureStageStory"
+  ]
+ },
+ "affection/giveGift": {
+  "request": "AffectionGiveGiftRequest",
+  "response": "AffectionGiveGiftResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AffectionGiveGift"
+  ]
+ },
+ "allOutFight/battleCoolTimeRefresh": {
+  "request": "AllOutFightRefreshRequest",
+  "response": "AllOutFightRefreshResponse",
+  "senders": [
+   "Model_AllOutFight$$ResetBattleTime",
+   "NetworkManagerWEB$$SendAllOutFightBattleCoolTimeRefresh"
+  ]
+ },
+ "allOutFight/end": {
+  "request": "AllOutFightEndRequest",
+  "response": "AllOutFightEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightEnd"
+  ]
+ },
+ "allOutFight/history": {
+  "request": "AllOutFightHistoryRequest",
+  "response": "AllOutFightHistoryResponse",
+  "senders": [
+   "UIPopup_InfiniteFightPlayRecord$$SetPlayRecordUI",
+   "NetworkManagerWEB$$SendAllOutFightHistory"
+  ]
+ },
+ "allOutFight/info": {
+  "request": "AllOUtFightInfoRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightInfo"
+  ]
+ },
+ "allOutFight/lobby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightSelect"
+  ]
+ },
+ "allOutFight/matchingRefresh": {
+  "request": "AllOutFightMatchingRefreshRequest",
+  "response": "AllOutFightMatchingRefreshResponse",
+  "senders": [
+   "Model_AllOutFight$$SendRefreshMatchUserList",
+   "NetworkManagerWEB$$SendAllOutFightMatchingRefresh"
+  ]
+ },
+ "allOutFight/matchingRefreshFree": {
+  "request": "AllOutFightMatchingRefreshRequest",
+  "response": "AllOutFightMatchingRefreshResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightMatchingRefreshFree",
+   "Model_AllOutFight$$SendRefreshMatchUserListFree"
+  ]
+ },
+ "allOutFight/presetUpdate": {
+  "request": "AllOutFightPresetUpdateRequest",
+  "response": "AllOutFightPresetUpdateResponse",
+  "senders": [
+   "Model_AllOutFight$$OnClickApplyTeamBattleCardEntrySetting",
+   "NetworkManagerWEB$$SendAllOutFightPresetUpdate"
+  ]
+ },
+ "allOutFight/rankingList": {
+  "request": "AllOutFightRankingListRequest",
+  "response": "AllOutFightRankingListResponse",
+  "senders": [
+   "UIUnit_InfiniteFightSeasonInfoListGroup$$SendAllOutFightRankingList",
+   "NetworkManagerWEB$$SendAllOutFightRankingList",
+   "UIUnit_InfiniteFightSeasonInfoListGroup.<>c__DisplayClass3_0$$<SetSeasonInfoListUI>b__0"
+  ]
+ },
+ "allOutFight/seasonChangeInfo": {
+  "request": "AllOutFightRefreshRequest",
+  "response": "AllOutFightRefreshResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightSeasonChangeInfo",
+   "NetworkManagerWEB$$RefreshAllOutFightSeasonChangeInfo"
+  ]
+ },
+ "allOutFight/start": {
+  "request": "AllOutFightStartRequest",
+  "response": "AllOutFightStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAllOutFightStart"
+  ]
+ },
+ "allOutFight/usedCharacterRefresh": {
+  "request": "AllOutFightRefreshRequest",
+  "response": "AllOutFightRefreshResponse",
+  "senders": [
+   "Controller_CharacterSelect_UX$$SendAllOutFightUsedCharacterRefresh",
+   "NetworkManagerWEB$$SendAllOutFightUsedCharacterRefresh"
+  ]
+ },
+ "application/cipher": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkRequest$$SetHTTPHeader",
+   "NetworkRequest$$.cctor"
+  ]
+ },
+ "application/json": {
+  "request": "KofHttpRequest",
+  "response": null,
+  "senders": [
+   "NetworkRequest$$SetHTTPHeader",
+   "Netmarble.CrashReporter.Util.HttpClient$$RequestGmc2",
+   "NetworkManagerWEB$$Initialize",
+   "Netmarble.CrashReporter.Util.HttpClient$$RequestCachedAppLoadLog",
+   "Netmarble.CrashReporter.Util.HttpClient$$RequestCrashLog",
+   "NetworkRequest$$.cctor",
+   "Netmarble.CrashReporter.Util.HttpClient$$RequestAppLoadLog",
+   "PlayerWithdraw.<ProcessTokenRevoke>d__6$$MoveNext",
+   "Netmarble.CrashReporter.Util.HttpClient$$RequestCachedCrashLog"
+  ]
+ },
+ "arenaLeague/arenaLeagueEnd": {
+  "request": "ArenaLeagueEndRequest",
+  "response": "ArenaLeagueEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ArenaLeagueEnd"
+  ]
+ },
+ "arenaLeague/arenaLeagueInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Scene_Single_DuelLeagueReady$$InitializeUI",
+   "NetworkManagerWEB$$Send_ArenaLeagueInfo",
+   "Scene_Single_DuelLeagueReady$$SendArenaLeagueInfo"
+  ]
+ },
+ "arenaLeague/arenaLeagueStart": {
+  "request": "ArenaLeagueStartRequest",
+  "response": "ArenaLeagueStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ArenaLeagueStart"
+  ]
+ },
+ "arenaLeague/dailyWinningReward": {
+  "request": "ArenaLeagueDailyWinningRewardRequest",
+  "response": "ArenaLeagueDailyWinningRewardResponse",
+  "senders": [
+   "UIView_ModeSingleDuelLeague$$SendSingleDuelLeagueGetDailyWinningReward",
+   "NetworkManagerWEB$$Send_ArenaLeagueDailyWinningReward",
+   "UIView_ModeSingleDuelLeague$$HandleMessage"
+  ]
+ },
+ "arenaLeague/matchingRefresh": {
+  "request": "ArenaLeagueMatchingRefreshRequest",
+  "response": "ArenaLeagueMatchingRefreshResponse",
+  "senders": [
+   "UIView_ModeSingleDuelLeague$$RefreshMatchingList",
+   "NetworkManagerWEB$$Send_ArenaLeagueMatchingRefresh",
+   "UIView_ModeSingleDuelLeague$$HandleMessage"
+  ]
+ },
+ "arenaLeague/rankingList": {
+  "request": "ArenaLeagueRankingListRequest",
+  "response": "ArenaLeagueRankingListResponse",
+  "senders": [
+   "UIPopup_SingleDuelLeagueSeasonInfo$$SendLeagueRankingList",
+   "NetworkManagerWEB$$Send_ArenaLeagueRankingList"
+  ]
+ },
+ "artifact/characterSet": {
+  "request": "ArtifactCharacterSetRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_UpdateArtifactMemberList",
+   "Controller_CharacterSelect_UX.<>c__DisplayClass10_0$$<SendUpdateArtifactMemberList>b__0"
+  ]
+ },
+ "artifact/info": {
+  "request": "ArtifactInfoRequest",
+  "response": null,
+  "senders": [
+   "Controller_EventSummary$$SendArtifactInfo",
+   "NetworkManagerWEB$$Send_ArtifactInfo"
+  ]
+ },
+ "artifact/levelup": {
+  "request": "ArtifactRequest",
+  "response": "ArtifactResponse",
+  "senders": [
+   "UIPopup_ArtifactSystem$$SendArtifactLevelUP",
+   "NetworkManagerWEB$$Send_ArtifactLevelUP"
+  ]
+ },
+ "artifact/pointReset": {
+  "request": "ArtifactResetRequest",
+  "response": null,
+  "senders": [
+   "ItemInventory.<>c__DisplayClass23_0$$<UseItem>b__5",
+   "NetworkManagerWEB$$Send_UsedArtifactResetItem"
+  ]
+ },
+ "attendance/give": {
+  "request": "AttendanceGiveRequest",
+  "response": "AttendanceGiveResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_AttendanceGive"
+  ]
+ },
+ "attendance/info": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_AttendanceInfo"
+  ]
+ },
+ "battle/battleFriendlyMatchEnd": {
+  "request": "BattleFriendlyMatchEndRequest",
+  "response": "BattleFriendlyMatchEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BattleFriendlyMatchEnd"
+  ]
+ },
+ "battle/battleFriendlyMatchRead": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Scene_Multi_DuelReady$$LoadingEnd",
+   "NetworkManagerWEB$$Send_BattleFriendlyMatchRead"
+  ]
+ },
+ "battle/battleFriendlyMatchStart": {
+  "request": "BattleFriendlyMatchStartRequest",
+  "response": "BattleFriendlyMatchStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BattleFriendlyMatchStart"
+  ]
+ },
+ "battle/battleLobby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_BattleLobby"
+  ]
+ },
+ "battle/hallOfFame": {
+  "request": "HallOfFameRequest",
+  "response": "HallOfFameResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendHallOfFame",
+   "UIPopup_HallOfFame$$UpdateHallOfFameSeason"
+  ]
+ },
+ "battle/hallOfFameRanking": {
+  "request": "HallOfFameRankingRequest",
+  "response": "HallOfFameRankingResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendHallOfFameRanking",
+   "UIPopup_HallOfFameRanking$$SendRankingList"
+  ]
+ },
+ "battle/matchUserInfo": {
+  "request": "MatchUserInfoRequest",
+  "response": "MatchUserInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_Multi",
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_Single",
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_Tournament",
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_FreeMatch",
+   "Controller_Multi_DuelTournamentReady$$SendTournamentMatchUserInfo",
+   "NetworkManagerWEB$$SendBattleMatchUserInfoAllOutFight",
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_League",
+   "NetworkManagerWEB$$Send_BattleMatchUserInfo_Championship",
+   "NetworkManagerWEB$$SendBattleMatchUserInfoInfiniteFight",
+   "Controller_Multi_DuelReady$$QueryBattleMatchUserInfo"
+  ]
+ },
+ "battle/tournamentEnd": {
+  "request": "TournamentEndRequest",
+  "response": "TournamentEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendTournamentEnd"
+  ]
+ },
+ "battle/tournamentFirstPlayReward": {
+  "request": "TournamentFirstPlayRewardRequest",
+  "response": "TournamentFirstPlayRewardResponse",
+  "senders": [
+   "Controller_Multi_DuelTournamentReady$$SendTournamentFirstPlayReward",
+   "NetworkManagerWEB$$SendTournamentFirstPlayReward"
+  ]
+ },
+ "battle/tournamentInfo": {
+  "request": "TournamentInfoRequest",
+  "response": "TournamentInfoResponse",
+  "senders": [
+   "Controller_Multi_DuelTournamentReady$$SendTournamentInfo",
+   "NetworkManagerWEB$$SendTournamentInfo"
+  ]
+ },
+ "battle/tournamentStart": {
+  "request": "TournamentStartRequest",
+  "response": "TournamentStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendTournamentStart"
+  ]
+ },
+ "battledungeon/charge": {
+  "request": "BattleFieldDungeonChargeRequest",
+  "response": "BattleFieldDungeonChargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldDungeonCharge",
+   "Controller_Single_BattleFieldDungeonReady$$<StartInGame>b__19_1"
+  ]
+ },
+ "battledungeon/deckUpdate": {
+  "request": "BattleFieldDungeonTeamDeckUpdateRequest",
+  "response": "BattleFieldDungeonTeamDeckUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldTeamDeckUpdate"
+  ]
+ },
+ "battledungeon/info": {
+  "request": "BattleFieldDungeonInfoRequest",
+  "response": "BattleFieldDungeonInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldDungeonInfo"
+  ]
+ },
+ "battledungeon/stageEnd": {
+  "request": "BattleFieldDungeonStageEndRequest",
+  "response": "BattleFieldDungeonStageEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldDungeonStageEnd"
+  ]
+ },
+ "battledungeon/stageMopUp": {
+  "request": "BattleFieldDungeonMopupRequest",
+  "response": "BattleFieldDungeonMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldDungeonMopup"
+  ]
+ },
+ "battledungeon/stageStart": {
+  "request": "BattleFieldDungeonStageStartRequest",
+  "response": "BattleFieldDungeonStageStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattleFieldDungeonStageStart"
+  ]
+ },
+ "billing/billrewardVerify": {
+  "request": "BillingVerifyBillrewardRequest",
+  "response": "BillingVerifyBillrewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopIAPRewardVerify"
+  ]
+ },
+ "billing/nmbillInitialize": {
+  "request": "BillingInitializeRequest",
+  "response": "BillingInitializeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopIAPInitialize"
+  ]
+ },
+ "billing/nmbillVerify": {
+  "request": "BillingVerifyNmbillRequest",
+  "response": "BillingVerifyNmbillResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopIAPVerify"
+  ]
+ },
+ "bingo/drawBingoInfo": {
+  "request": "RandomBingoInfoRequest",
+  "response": "RandomBingoInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_RandomBingoInfo"
+  ]
+ },
+ "bingo/drawBingoReward": {
+  "request": "RandomBingoInfoRequest",
+  "response": "RandomBingoInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_RandomBingoReward",
+   "UIPopup_RandomBingoGame$$SendRandomBingo",
+   "UIPopup_RandomBingoGame$$OnClickPlayRandomBingo"
+  ]
+ },
+ "bingo/info": {
+  "request": "BingoInfoRequest",
+  "response": "BingoInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BingoInfo"
+  ]
+ },
+ "bingo/nextBingo": {
+  "request": "BingoInfoRequest",
+  "response": "BingoInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_nextBingo",
+   "UIPopup_BingoGame$$SendNextBingo",
+   "System.Reflection.CustomAttributeData$$Equals"
+  ]
+ },
+ "bingo/reward": {
+  "request": "BingoRewardRequest",
+  "response": "BingoRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BingoReward",
+   "UIPopup_BingoGame$$SendBingoReward"
+  ]
+ },
+ "bingo/rewardHistory": {
+  "request": "BingoInfoRequest",
+  "response": "BingoInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BingoRewardHistory",
+   "UIPopup_BingoGame$$OnClickBingoIntermediatePopup"
+  ]
+ },
+ "book/bookReward": {
+  "request": "BookRewardRequest",
+  "response": "BookRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BookReward"
+  ]
+ },
+ "book/bookRewardAll": {
+  "request": "BookRewardAllRequest",
+  "response": "BookRewardAllResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BookRewardAll"
+  ]
+ },
+ "bossChallengeDungeon/end": {
+  "request": "BossChallengeEndRequest",
+  "response": "BossChallengeEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BossChallengeEnd"
+  ]
+ },
+ "bossChallengeDungeon/info": {
+  "request": "BossChallengeInfoRequest",
+  "response": "BossChallengeInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBossChallengeInfo",
+   "Controller_BossChallenge$$Initialize"
+  ]
+ },
+ "bossChallengeDungeon/list": {
+  "request": "BossChallengeListRequest",
+  "response": "BossChallengeListResponse",
+  "senders": [
+   "Controller_BossChallengeSelector$$SendBossChallengeSelectorList",
+   "Scene_BossChallengeSelector$$InitializeUI",
+   "NetworkManagerWEB$$SendBossChallengeList",
+   "BossChallengeSelectorModel$$SendBossChallengeSelectorList"
+  ]
+ },
+ "bossChallengeDungeon/start": {
+  "request": "BossChallengeStartRequest",
+  "response": "BossChallengeStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BossChallengeStart"
+  ]
+ },
+ "bossChallengeDungeon/updatePenalty": {
+  "request": "BossChallengeUpdateRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendBossChallengeUpdatePenalty"
+  ]
+ },
+ "carnival/info": {
+  "request": "CarnivalInfoRequest",
+  "response": "CarnivalInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendCarnivalInfo"
+  ]
+ },
+ "carnival/rankingList": {
+  "request": "CarnivalRankingListRequest",
+  "response": "CarnivalRankingListResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendCarnivalRankingList",
+   "CarnivalController$$OnRequestRanking"
+  ]
+ },
+ "carnival/reward": {
+  "request": "CarnivalRewardRequest",
+  "response": "CarnivalRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendCarnivalReward"
+  ]
+ },
+ "challenge/eventEnd": {
+  "request": "ChallengeEndRequest",
+  "response": "ChallengeEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendChallengeModeEnd"
+  ]
+ },
+ "challenge/eventInfo": {
+  "request": "ChallengeInfoRequest",
+  "response": "ChallengeInfoResponse",
+  "senders": [
+   "Controller_Single_ChallengeModeReady$$SendChallengeInfo",
+   "NetworkManagerWEB$$SendChallengeEventInfo",
+   "Scene_Single_ChallengeModeReady$$InitializeUI"
+  ]
+ },
+ "challenge/eventStart": {
+  "request": "ChallengeStartRequest",
+  "response": "ChallengeStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendChallengeModeStart"
+  ]
+ },
+ "challenge/rankingCharacterInfo": {
+  "request": "ChallengeRankingCharacterInfoRequest",
+  "response": "ChallengeRankingCharacterInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendChallengeRankingCharacterInfo"
+  ]
+ },
+ "challenge/rankingList": {
+  "request": "ChallengeRankingListRequest",
+  "response": "ChallengeRankingListResponse",
+  "senders": [
+   "Controller_Single_ChallengeModeReady$$SendChallengeRankingList",
+   "NetworkManagerWEB$$SendChallengeRankingList"
+  ]
+ },
+ "championship/history": {
+  "request": "ChampionshipHistoryRequest",
+  "response": "ChampionshipHistoryResponse",
+  "senders": [
+   "UIUnit_ChampionshipRecentBattleInfoList$$OnClickDetail",
+   "NetworkManagerWEB$$Send_ChampionshipHistory"
+  ]
+ },
+ "championship/inGameEnter": {
+  "request": "ChampionshipInGameEnterRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipInGameEnter"
+  ]
+ },
+ "championship/inGameStep": {
+  "request": "ChampionshipInGameStepRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipInGameStep"
+  ]
+ },
+ "championship/info": {
+  "request": "ChampionshipInfoRequest",
+  "response": "ChampionshipInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipInfo"
+  ]
+ },
+ "championship/lobby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "System.__Il2CppComObject$$Finalize",
+   "NetworkManagerWEB$$Send_ChampionshipLobby"
+  ]
+ },
+ "championship/matchingCheck": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Controller_Championship$$OnClickGameStartOK",
+   "NetworkManagerWEB$$Send_ChampionShipMatchingCheck"
+  ]
+ },
+ "championship/playEnd": {
+  "request": "ChampionshipEndRequest",
+  "response": "ChampionshipEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipPlayEnd"
+  ]
+ },
+ "championship/playStart": {
+  "request": "ChampionshipStartRequest",
+  "response": "ChampionshipStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipPlayStart"
+  ]
+ },
+ "championship/rankingList": {
+  "request": "ChampionshipRankingListRequest",
+  "response": "ChampionshipRankingListResponse",
+  "senders": [
+   "UIUnit_ChampionshipSeasonInfoListGroup$$SendChampionshipRankingList",
+   "NetworkManagerWEB$$Send_ChampionshipRankingList"
+  ]
+ },
+ "championship/stats": {
+  "request": "ChampionshipStatsRequest",
+  "response": "ChampionshipStatsResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ChampionshipStats",
+   "UIPopup_ChampionshipPlayRecord$$SetPlayRecordData"
+  ]
+ },
+ "channelSinkProviders/clientProviders": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "System.Runtime.Remoting.ConfigHandler$$ParseElement"
+  ]
+ },
+ "channelSinkProviders/serverProviders": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "System.Runtime.Remoting.ConfigHandler$$ParseElement"
+  ]
+ },
+ "character/awaken": {
+  "request": "AwakenRequest",
+  "response": "AwakenResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_Awaken",
+   "Controller_AwakenMaterial$$SendAwaken"
+  ]
+ },
+ "character/awakenEnchant": {
+  "request": "CharacterAwakenEnchantRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterAwakenEnchant"
+  ]
+ },
+ "character/awakenLevelUp": {
+  "request": "CharacterAwakenLevelUpRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterAwakenLevelUp"
+  ]
+ },
+ "character/battleCardEquipUpdate": {
+  "request": "BattleCardEquipUpdateRequest",
+  "response": "BattleCardEquipUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterBattleCardEquipUpdate"
+  ]
+ },
+ "character/changeUp": {
+  "request": "CharacterChangeUpRequest",
+  "response": null,
+  "senders": [
+   "UIPage_Awaken$$SendRedFrameChangeUp",
+   "NetworkManagerWEB$$SendChangeUp"
+  ]
+ },
+ "character/characterEnchant": {
+  "request": "CharacterEnchantRequest",
+  "response": "CharacterEnchantResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterEnchant"
+  ]
+ },
+ "character/characterGradeUp": {
+  "request": "CharacterGradeUpRequest",
+  "response": "CharacterGradeUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterGradeUp"
+  ]
+ },
+ "character/characterLevelUp": {
+  "request": "CharacterLevelUpRequest",
+  "response": "CharacterLevelUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterLevelUp"
+  ]
+ },
+ "character/characterLike": {
+  "request": "CharacterLikeRequest",
+  "response": "CharacterLikeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterLike",
+   "NetworkManagerWEB$$Send_CharacterLike"
+  ]
+ },
+ "character/characterLimitBreak": {
+  "request": "CharacterLimitBreakRequest",
+  "response": "CharacterLimitBreakResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterLimitBreak"
+  ]
+ },
+ "character/equipmentEquipUpdate": {
+  "request": "EquipmentEquipUpdateRequest",
+  "response": "EquipmentEquipUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentEquip",
+   "NetworkManagerWEB$$SendEquipmentUnEquip"
+  ]
+ },
+ "character/firstGet": {
+  "request": "CharacterFirstGetRequest",
+  "response": "CharacterFirstGetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterFirstGet",
+   "CharacterCardManager$$AddOrUpdateCharacterCards"
+  ]
+ },
+ "character/getTeamDeck": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterGetTeamDeck",
+   "NetworkManagerWEB.<>c$$<HandleCommonServerError>b__50_19"
+  ]
+ },
+ "character/groupGrowthEquip": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GroupGrowthEquipUpdate"
+  ]
+ },
+ "character/groupGrowthInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GroupGrowthInfo",
+   "Controller_GroupGrowthList$$InitializeUI"
+  ]
+ },
+ "character/groupGrowthOpen": {
+  "request": "GroupGrowthEquipRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GroupGrowthOpen",
+   "Controller_GroupGrowthList.<>c__DisplayClass9_0$$<OpenUnlockPopup>b__1"
+  ]
+ },
+ "character/groupGrowthRemove": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GroupGrowthEquipUpdate"
+  ]
+ },
+ "character/imprintEquip": {
+  "request": "ImprintEquipRequest",
+  "response": "ImprintEquipResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ImprintEquip"
+  ]
+ },
+ "character/memoryChange": {
+  "request": "ExMemoryExchangeRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterExMemoryExchange"
+  ]
+ },
+ "character/memoryCombine": {
+  "request": "MemoryCombineRequest",
+  "response": "MemoryCombineResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterMemoryCombine"
+  ]
+ },
+ "character/memoryDimensionTrade": {
+  "request": "MemoryExchangeRequest",
+  "response": "MemoryExchangeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterMemoryExchange"
+  ]
+ },
+ "character/memoryDimensionTradeInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIView_FighterList$$SendMemoryExchangeInfo",
+   "NetworkManagerWEB$$Send_CharacterMemoryExchangeInfo"
+  ]
+ },
+ "character/memoryShardCombine": {
+  "request": "MemoryPiceCombineRequest",
+  "response": "MemoryPiceCombineResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterMemoryPiceCombine"
+  ]
+ },
+ "character/primeMemory": {
+  "request": "PrimeMemoryExchangeRequest",
+  "response": "PrimeMemoryExchangeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterPrimeMemoryExchange",
+   "Controller_FighterList$$StartMemoryExchange"
+  ]
+ },
+ "character/skillDeckUpdate": {
+  "request": "CharacterSkillRequest",
+  "response": "CharacterSkillResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterSkillDeckUpdate"
+  ]
+ },
+ "character/soulDecomposition": {
+  "request": "CharacterSoulDecompositionRequest",
+  "response": "CharacterSoulDecompositionResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterSoulDecomposition"
+  ]
+ },
+ "character/stageEntryList": {
+  "request": "StageEntryListRequest",
+  "response": "StageEntryListResponse",
+  "senders": [
+   "FighterEntryManager$$SetData",
+   "FighterEntryManager$$SendStagEntry",
+   "NetworkManagerWEB$$Send_CharacterStageEntryList"
+  ]
+ },
+ "character/teamDeckSizeUp": {
+  "request": "TeamDeckSizeUpRequest",
+  "response": "TeamDeckSizeUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterTeamDeckSizeUp",
+   "UIPopup_ExtraTeamDeck$$OnClickOk"
+  ]
+ },
+ "character/teamDeckUpdate": {
+  "request": "CharacterTeamDeckUpdateRequest",
+  "response": "CharacterTeamDeckUpdateResponse",
+  "senders": [
+   "Controller_GroupGrowthList$$ClickSlot",
+   "NetworkManagerWEB$$Send_CharacterTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_CharacterTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_CharacterTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_CharacterTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_CharacterTeamDeckUpdate"
+  ]
+ },
+ "character/useTeamDeck": {
+  "request": "CharacterUseTeamDeckRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CharacterUseTeamDeck"
+  ]
+ },
+ "characterSelection/selectCharacter": {
+  "request": "SelectCharacterRequest",
+  "response": "SelectCharacterResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SelectCharacterRequest",
+   "UIPage_SelectFighterSuperMission$$OnSelectComfirm"
+  ]
+ },
+ "collectionroom/badge": {
+  "request": "CollectionRoomBadgeRequest",
+  "response": "CollectionRoomBadgeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CollectionRoomBadge"
+  ]
+ },
+ "collectionroom/display": {
+  "request": "CollectionRoomDisplayRequest",
+  "response": "CollectionRoomDisplayResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CollectionRoomDisplay"
+  ]
+ },
+ "collectionroom/friendInfo": {
+  "request": "CollectionRoomFriendInfoRequest",
+  "response": "CollectionRoomFriendInfoResponse",
+  "senders": [
+   "Controller_CollectionRoom$$SendCollectionRoomInfo",
+   "NetworkManagerWEB$$Send_CollectionRoomFriendInfo",
+   "Model_CollectionRoom$$SendCollectionRoomFriendInfo"
+  ]
+ },
+ "collectionroom/info": {
+  "request": "CollectionRoomInfoRequest",
+  "response": "CollectionRoomInfoResponse",
+  "senders": [
+   "Controller_CollectionRoom$$SendCollectionRoomInfo",
+   "NetworkManagerWEB$$Send_CollectionRoomInfoRequest",
+   "Model_CollectionRoom$$SendCollectionRoomInfo"
+  ]
+ },
+ "colosseum/colosseumEnd": {
+  "request": "ColosseumEndRequest",
+  "response": "ColosseumEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ColosseumEnd"
+  ]
+ },
+ "colosseum/colosseumInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_ColosseumInfo",
+   "Scene_Single_DuelReady$$SendColosseumInfo"
+  ]
+ },
+ "colosseum/colosseumStart": {
+  "request": "ColosseumStartRequest",
+  "response": "ColosseumStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ColosseumStart"
+  ]
+ },
+ "colosseum/dailyRankingReward": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIView_ModeSingleDuel$$HandleMessage",
+   "NetworkManagerWEB$$Send_ColosseumDailyRankingReward",
+   "UIView_ModeSingleDuel$$SendDailyRankingReward"
+  ]
+ },
+ "colosseum/matchingRefresh": {
+  "request": "ColosseumMatchingRefreshRequest",
+  "response": "ColosseumMatchingRefreshResponse",
+  "senders": [
+   "UIView_ModeSingleDuel$$HandleMessage",
+   "UIView_ModeSingleDuel$$RefreshMatchingList",
+   "NetworkManagerWEB$$Send_ColosseumMatchingRefresh"
+  ]
+ },
+ "colosseum/rankingList": {
+  "request": "ColosseumRankingListRequest",
+  "response": "ColosseumRankingListResponse",
+  "senders": [
+   "UIPopup_SingleDuelSeasonInfo$$SendArenaRankingList",
+   "NetworkManagerWEB$$Send_ColosseumRankingList"
+  ]
+ },
+ "coop/coopEventEnd": {
+  "request": "CoopEventEndRequest",
+  "response": "CoopEventEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CoopEventEnd"
+  ]
+ },
+ "coop/coopEventRandomBoss": {
+  "request": "CoopEventRandomBossRequest",
+  "response": "CoopEventRandomBossResponse",
+  "senders": [
+   "Controller_Multi_CoopReady$$ReqBossInfo",
+   "NetworkManagerWEB$$Send_CoopEventRandomBoss"
+  ]
+ },
+ "coop/coopEventRandomStage": {
+  "request": "CoopEventRandomStageRequest",
+  "response": "CoopEventRandomStageResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CoopEventRandomStage",
+   "Controller_Multi_CoopReady$$ReqRandomStage"
+  ]
+ },
+ "coop/coopEventStart": {
+  "request": "CoopEventStartRequest",
+  "response": "CoopEventStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CoopEventStart"
+  ]
+ },
+ "coop/matchUserInfo": {
+  "request": "CoopMatchUserInfoRequest",
+  "response": "CoopMatchUserInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ListCoopMatchUserInfo"
+  ]
+ },
+ "core/awakenCoreLevelUp": {
+  "request": "AwakenCoreLevelUpRequest",
+  "response": "AwakenCoreLevelUpResponse",
+  "senders": [
+   "UIPage_CharacterAwakenCoreBoard$$HandleMessage",
+   "Controller_CharacterCorePage$$SendAwakenCoreLevel",
+   "NetworkManagerWEB$$Send_AwakenCoreLevelUp"
+  ]
+ },
+ "core/awakenCoreReset": {
+  "request": "ResetAwakenCoreLevelRequest",
+  "response": "ResetAwakenCoreLevelResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ResetAwakenCoreLevel",
+   "Controller_CharacterCorePage$$SendAwakenCoreLevelReset",
+   "UIPage_CharacterAwakenCoreBoard$$HandleMessage"
+  ]
+ },
+ "core/coreAcquire": {
+  "request": "CoreAcquireRequest",
+  "response": "CoreAcquireResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CoreAcquire",
+   "NetworkManagerWEB$$Send_CoreAcquireAuto"
+  ]
+ },
+ "core/coreAcquireAll": {
+  "request": "CoreAcquireAllRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CoreAcquireAll"
+  ]
+ },
+ "core/coreInfo": {
+  "request": "CoreInfoRequest",
+  "response": "CoreInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CoreInfo"
+  ]
+ },
+ "craft/list": {
+  "request": "CraftListRequest",
+  "response": "CraftListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CraftList"
+  ]
+ },
+ "craft/make": {
+  "request": "CraftMakeRequest",
+  "response": "CraftMakeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_CraftMake"
+  ]
+ },
+ "diceMiniGame/info": {
+  "request": "DiceInfoRequest",
+  "response": "DiceInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_DiceInfo",
+   "UIPopup_DiceGame$$LoadingEnd"
+  ]
+ },
+ "diceMiniGame/play": {
+  "request": "DicePlayRequest",
+  "response": "DicePlayResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_DiceGamePlay",
+   "UIPopup_DiceGame$$SendGamePlay"
+  ]
+ },
+ "dispatch/acceleration": {
+  "request": "DispatchAccelerationRequest",
+  "response": "DispatchAccelerationResponse",
+  "senders": [
+   "UIPopup_DispatchTimeAcceleration$$SendOnClickDispatchTimeAcc",
+   "NetworkManagerWEB$$Send_DispatchAccelerationRequest"
+  ]
+ },
+ "dispatch/complete": {
+  "request": "DispatchCompleteRequest",
+  "response": "DispatchCompleteResponse",
+  "senders": [
+   "Controller_DispatchLobby$$SendDispatchComplete",
+   "NetworkManagerWEB$$Send_DispatchComplete"
+  ]
+ },
+ "dispatch/list": {
+  "request": "DispatchAPIRequest",
+  "response": null,
+  "senders": [
+   "Controller_DispatchLobby$$SendDispatchList",
+   "NetworkManagerWEB$$Send_DispatchList",
+   "Model_DispatchLobby$$SendDispatchList"
+  ]
+ },
+ "dispatch/reset": {
+  "request": "DispatchResetRequest",
+  "response": "DispatchResetResponse",
+  "senders": [
+   "Model_DispatchLobby$$SendResetReq",
+   "NetworkManagerWEB$$Send_DispatchResetRequest"
+  ]
+ },
+ "dispatch/start": {
+  "request": "DispatchStartRequest",
+  "response": "DispatchStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_DispatchSpotStartRequest"
+  ]
+ },
+ "dispatch/ticketRecharge": {
+  "request": "DispatchTicketRechargeRequest",
+  "response": "DispatchTicketRechargeResponse",
+  "senders": [
+   "Model_DispatchLobby$$SendTicketAdd",
+   "NetworkManagerWEB$$Send_DispatchClearTicketRechargeRequest"
+  ]
+ },
+ "dreamMatch/info": {
+  "request": "DreamMatchInfoRequest",
+  "response": "DreamMatchInfoResponse",
+  "senders": [
+   "Controller_DreamMatch$$Initialize",
+   "NetworkManagerWEB$$SendDreamMatchInfo"
+  ]
+ },
+ "dreamMatch/playEnd": {
+  "request": "DreamMatchPlayEndRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendDreamMatchPlayEnd"
+  ]
+ },
+ "dreamMatch/playStart": {
+  "request": "DreamMatchPlayStartRequest",
+  "response": "DreamMatchPlayStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendDreamMatchPlayStart",
+   "UnityEngine.UIElements.StylePropertyName$$.ctor"
+  ]
+ },
+ "dreamMatch/targetInfo": {
+  "request": "DreamMatchOtherUserInfoRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendDreamMatchOtherUserInfo",
+   "Controller_DreamMatch$$SendOtherUserInfo"
+  ]
+ },
+ "epicQuest/chapterList": {
+  "request": "EpicQuestChapterListRequest",
+  "response": "EpicQuestChapterListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestChapterList"
+  ]
+ },
+ "epicQuest/epicList": {
+  "request": "EpicQuestListRequest",
+  "response": "EpicQuestListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestEpisodeList"
+  ]
+ },
+ "epicQuest/mopUp": {
+  "request": "EpicQuestMopUpRequest",
+  "response": "EpicQuestMopUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestMopUp"
+  ]
+ },
+ "epicQuest/playEnd": {
+  "request": "EpicQuestEndRequest",
+  "response": "EpicQuestEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestStageEnd"
+  ]
+ },
+ "epicQuest/playStart": {
+  "request": "EpicQuestStartRequest",
+  "response": "EpicQuestStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestStageStart"
+  ]
+ },
+ "epicQuest/stageList": {
+  "request": "EpicQuestStageListRequest",
+  "response": "EpicQuestStageListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EpicQuestStageList"
+  ]
+ },
+ "equipment/bulkDeleteTempEquipment": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIView_EquipmentInventory.<>c__DisplayClass45_0$$<OpenBatchDeletePopup>b__0",
+   "NetworkManagerWEB$$SendBulkDeleteTempInventory"
+  ]
+ },
+ "equipment/bulkMoveTempInventory": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIView_EquipmentInventory.<>c__DisplayClass43_0$$<OnClickBatchAcquireBtn>b__1",
+   "NetworkManagerWEB$$SendBulkMoveTemplInventory"
+  ]
+ },
+ "equipment/changeOption": {
+  "request": "EquipmentChangeOptionRequest",
+  "response": "EquipmentChangeOptionResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentChangeOption",
+   "UIPopup_EquipmentOptionChange$$OnClickChangeStart"
+  ]
+ },
+ "equipment/changeOptionFixed": {
+  "request": "EquipmentChangeOptionFixedRequest",
+  "response": "EquipmentChangeOptionFixedResponse",
+  "senders": [
+   "UIPopup_EquipmentOptionChange$$OnClickChangeEnd",
+   "NetworkManagerWEB$$SendEquipmentChangeOptionFixed"
+  ]
+ },
+ "equipment/deleteTempEquipment": {
+  "request": "EquipmentDeleteTempInventoryRequest",
+  "response": "EquipmentDeleteTempInventoryResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDeleteTempInventory"
+  ]
+ },
+ "equipment/disassemble": {
+  "request": "EquipmentDisassembleRequest",
+  "response": "EquipmentDisassembleResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDisassemble"
+  ]
+ },
+ "equipment/inventorySizeUp": {
+  "request": "EquipmentInventorySizeUpRequest",
+  "response": "EquipmentInventorySizeUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentInventorySizeUp",
+   "UIPopup_ExtendEquipmentSlot$$OnClickOk"
+  ]
+ },
+ "equipment/like": {
+  "request": "EquipmentLikeRequest",
+  "response": "EquipmentLikeResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentLike",
+   "NetworkManagerWEB$$SendEquipmentLike"
+  ]
+ },
+ "equipment/list": {
+  "request": "EquipmentInfoListRequest",
+  "response": "EquipmentInfoListResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentInfo",
+   "EquipmentManager$$ResetItemListOnWebRequest"
+  ]
+ },
+ "equipment/moveTempInventory": {
+  "request": "EquipmentMoveTempInventoryRequest",
+  "response": "EquipmentMoveTempInventoryResponse",
+  "senders": [
+   "UIUnit_EquipmentItemInfo$$OnClickObtain",
+   "NetworkManagerWEB$$SendEquipmentMoveTempInventory"
+  ]
+ },
+ "equipment/openBox": {
+  "request": "EquipmentItemBoxOpenRequest",
+  "response": "EquipmentItemBoxOpenResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentBoxOpen",
+   "GachaModel$$SendGachaTicketReward"
+  ]
+ },
+ "equipment/sell": {
+  "request": "EquipmentSellRequest",
+  "response": "EquipmentSellResponse",
+  "senders": [
+   "UIUnit_EquipmentItemInfo$$OnSellOkItem",
+   "NetworkManagerWEB$$SendEquipmentSell"
+  ]
+ },
+ "equipmentDungeon/deckReset": {
+  "request": "EquipmentDungeonTeamDeckResetRequest",
+  "response": "EquipmentDungeonTeamDeckResetResponse",
+  "senders": [
+   "Controller_EquipmentDungeonLobby$$SendTeamDeckReset",
+   "NetworkManagerWEB$$SendEquipmentDungeonTeamDeckReset"
+  ]
+ },
+ "equipmentDungeon/deckUpdate": {
+  "request": "EquipmentDungeonDeckUpdateRequest",
+  "response": "EquipmentDungeonDeckUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDungeonDeckUpdate"
+  ]
+ },
+ "equipmentDungeon/end": {
+  "request": "EquipmentDungeonEndRequest",
+  "response": "EquipmentDungeonEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDungeonEnd"
+  ]
+ },
+ "equipmentDungeon/info": {
+  "request": "EquipmentDungeonInfoRequest",
+  "response": "EquipmentDungeonInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDungeonInfo",
+   "ShortCutManager$$EnterEquipmentDungeonLobby",
+   "System.Threading.ThreadPoolWorkQueue.WorkStealingQueue$$LocalPop"
+  ]
+ },
+ "equipmentDungeon/reset": {
+  "request": "EquipmentDungeonResetRequest",
+  "response": "EquipmentDungeonResetResponse",
+  "senders": [
+   "Controller_EquipmentDungeonLobby$$SendReset",
+   "NetworkManagerWEB$$SendEquipmentDungeonReset"
+  ]
+ },
+ "equipmentDungeon/start": {
+  "request": "EquipmentDungeonStartRequest",
+  "response": "EquipmentDungeonStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendEquipmentDungeonStart"
+  ]
+ },
+ "event/paymentEventInfo": {
+  "request": "PaymentEventInfoRequest",
+  "response": "PaymentEventInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PaymentEventInfo",
+   "UIPopup_PaymentEvent$$SendPaymentInfo"
+  ]
+ },
+ "event/paymentEventReward": {
+  "request": "PaymentEventRewardRequest",
+  "response": "PaymentEventRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PaymentEventReward",
+   "UIPopup_PaymentEvent$$OnClickGetReward"
+  ]
+ },
+ "event/rouletteInfo": {
+  "request": "RouletteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_EventRouletteInfo"
+  ]
+ },
+ "event/roulettePlay": {
+  "request": "RoulettePlayRequest",
+  "response": "RoulettePlayResponse",
+  "senders": [
+   "Controller_Roulette$$RoulettePlay",
+   "NetworkManagerWEB$$Send_EventRoulettePlay"
+  ]
+ },
+ "event/rouletteRewardBonus": {
+  "request": "RouletteRewardRequest",
+  "response": "RouletteRewardResponse",
+  "senders": [
+   "Controller_Roulette$$RouletteRewardBonus",
+   "NetworkManagerWEB$$Send_EventRouletteRewardBonus"
+  ]
+ },
+ "event/rouletteRewardSlot": {
+  "request": "RouletteRewardRequest",
+  "response": "RouletteRewardResponse",
+  "senders": [
+   "Controller_Roulette$$RouletteRewardSlot",
+   "NetworkManagerWEB$$Send_EventRouletteRewardSlot"
+  ]
+ },
+ "fighterQuest/charge": {
+  "request": "FighterQuestChargeRequest",
+  "response": "FighterQuestChargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendFighterQuestCharge",
+   "UIPage_FighterQuest_Select$$SendCharge"
+  ]
+ },
+ "fighterQuest/fighterQuestMopUp": {
+  "request": "FighterQuestMopUpRequest",
+  "response": "FighterQuestMopUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestMopUp"
+  ]
+ },
+ "fighterQuest/giveUp": {
+  "request": "FighterQuestGiveUpRequest",
+  "response": "FighterQuestGiveUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestGiveUp"
+  ]
+ },
+ "fighterQuest/pickupPlayList": {
+  "request": "FighterQuestPickupPlayListRequest",
+  "response": "FighterQuestPickupPlayListResponse",
+  "senders": [
+   "Scene_Single_FighterQuest_Select$$HandleMessage",
+   "NetworkManagerWEB$$Send_FighterQuestPickupPlayList"
+  ]
+ },
+ "fighterQuest/playEnd": {
+  "request": "FighterQuestPlayEndRequest",
+  "response": "FighterQuestPlayEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestPlayEnd"
+  ]
+ },
+ "fighterQuest/playInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestPlayInfo"
+  ]
+ },
+ "fighterQuest/playList": {
+  "request": "FighterQuestPlayListRequest",
+  "response": "FighterQuestPlayListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestPlayList"
+  ]
+ },
+ "fighterQuest/playStart": {
+  "request": "FighterQuestPlayStartRequest",
+  "response": "FighterQuestPlayStartResponse",
+  "senders": [
+   "Controller_Single_FighterQuest_Select$$SendFighterQuestPlayStart",
+   "NetworkManagerWEB$$Send_FighterQuestPlayStart"
+  ]
+ },
+ "fighterQuest/randomPick": {
+  "request": "FighterQuestRandomPickRequest",
+  "response": "FighterQuestRandomPickResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterQuestRandomPick"
+  ]
+ },
+ "freeMatch/info": {
+  "request": "FreeMatchPlayInfoRequest",
+  "response": null,
+  "senders": [
+   "Controller_FreeMatch$$Initialize",
+   "NetworkManagerWEB$$Send_FreeMatchInfo"
+  ]
+ },
+ "freeMatch/playEnd": {
+  "request": "FreeMatchPlayEndRequest",
+  "response": "FreeMatchPlayEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FreeMatchPlayEnd"
+  ]
+ },
+ "freeMatch/playStart": {
+  "request": "FreeMatchPlayStartRequest",
+  "response": "FreeMatchPlayStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FreeMatchPlayStart"
+  ]
+ },
+ "friend/detail": {
+  "request": "FriendDetailRequest",
+  "response": "FriendDetailResponse",
+  "senders": [
+   "UIView_UserProfile$$SendFriendProfile",
+   "NetworkManagerWEB$$Send_FriendDetail"
+  ]
+ },
+ "friend/facebookFriendsList": {
+  "request": "FacebookFriendListRequest",
+  "response": "FacebookFriendListResponse",
+  "senders": [
+   "SNSFriendsData.<>c__DisplayClass26_0$$<RequestGameData>b__0",
+   "NetworkManagerWEB$$Send_SNSFriendsList"
+  ]
+ },
+ "friend/find": {
+  "request": "FriendFindRequest",
+  "response": "FriendFindResponse",
+  "senders": [
+   "Controller_FriendManagement$$SendFriendFind",
+   "NetworkManagerWEB$$Send_FriendFind"
+  ]
+ },
+ "friend/findNickName": {
+  "request": "FriendFindNicknameRequest",
+  "response": "FriendFindNicknameResponse",
+  "senders": [
+   "Controller_FriendManagement$$SendFriendFind",
+   "NetworkManagerWEB$$Send_FriendFindNickName"
+  ]
+ },
+ "friend/friendDelete": {
+  "request": "FriendDeleteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendDelete"
+  ]
+ },
+ "friend/friendList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendList"
+  ]
+ },
+ "friend/friendReceiveAccept": {
+  "request": "FriendReceiveAcceptRequest",
+  "response": "FriendReceiveAcceptResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendReceiveAccept"
+  ]
+ },
+ "friend/friendReceiveDeny": {
+  "request": "FriendReceiveDenyRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendReceiveDeny"
+  ]
+ },
+ "friend/friendReceiveList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendReceiveList"
+  ]
+ },
+ "friend/friendSend": {
+  "request": "FriendSendRequest",
+  "response": "FriendSendResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendSend"
+  ]
+ },
+ "friend/friendSendCancel": {
+  "request": "FriendSendCancelRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendSendCancel"
+  ]
+ },
+ "friend/friendSendList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FriendSendList"
+  ]
+ },
+ "friend/rankerCharacterInfo": {
+  "request": "FriendRankerCharacterInfoRequest",
+  "response": null,
+  "senders": [
+   "System.Net.Http.Headers.StringWithQualityHeaderValue$$TryParseElement",
+   "NetworkManagerWEB$$Send_RankerCharacterInfo"
+  ]
+ },
+ "friend/recommendList": {
+  "request": "FriendRecommendRequest",
+  "response": "FriendRecommendResponse",
+  "senders": [
+   "Controller_FriendManagement$$SendFriendRecommendList",
+   "NetworkManagerWEB$$Send_FriendRecommendList"
+  ]
+ },
+ "friend/strikerList": {
+  "request": "FriendStrikerListRequest",
+  "response": "FriendStrikerListResponse",
+  "senders": [
+   "Controller_Single_Helper$$CheckHelperList",
+   "NetworkManagerWEB$$Send_FriendStrikerList"
+  ]
+ },
+ "gacha/gachaTicketRandom": {
+  "request": "GachaTicketRandomRequest",
+  "response": "GachaTicketRandomResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GachaTicketRandom",
+   "UnityEngine.UIElements.StylePropertyAnimationSystem.ValuesRotate$$UpdateValues"
+  ]
+ },
+ "giftevent/info": {
+  "request": "GiftEventInfoRequest",
+  "response": "GiftEventInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GiftEventInfo"
+  ]
+ },
+ "giftevent/reward": {
+  "request": "GiftEventRewardRequest",
+  "response": "GiftEventRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GiftEventReward",
+   "UIPopup_GiftEvent$$HandleMessage"
+  ]
+ },
+ "guild/applyItemTrade": {
+  "request": "ApplyItemTradeRequest",
+  "response": "ApplyItemTradeResponse",
+  "senders": [
+   "UIPage_AgreeItemTrade$$SendAgreeTradeItem",
+   "UIPopup_MarathonRewardInfo$$UpdateMyInfo",
+   "NetworkManagerWEB$$Send_ApplyItemTrade"
+  ]
+ },
+ "guild/attendanceInfo": {
+  "request": "GuildAttendanceInfoRequest",
+  "response": "GuildAttendanceInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildAttendanceInfo"
+  ]
+ },
+ "guild/attendanceReward": {
+  "request": "GuildAttendanceRewardRequest",
+  "response": "GuildAttendanceRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildAttendanceReward"
+  ]
+ },
+ "guild/boardCreate": {
+  "request": "GuildBoardRequest",
+  "response": "GuildBoardResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildBoardCreate"
+  ]
+ },
+ "guild/boardDelete": {
+  "request": "GuildBoardRequest",
+  "response": "GuildBoardResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildBoardDelete"
+  ]
+ },
+ "guild/boardLike": {
+  "request": "GuildBoardLikeRequest",
+  "response": null,
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildBoardLike"
+  ]
+ },
+ "guild/boardList": {
+  "request": "GuildBoardRequest",
+  "response": "GuildBoardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildBoardList"
+  ]
+ },
+ "guild/buffList": {
+  "request": "GuildBuffListRequest",
+  "response": "GuildBuffListResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$RecvGuildBuffOn",
+   "NetworkManagerWEB$$Send_GuildBuffList"
+  ]
+ },
+ "guild/buffOn": {
+  "request": "GuildBuffOnRequest",
+  "response": "GuildBuffOnResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildBuffOn"
+  ]
+ },
+ "guild/cancelItemTrade": {
+  "request": "ItemTradeCancelRequest",
+  "response": "ItemTradeCancelResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ItemTradeCancel",
+   "UIUnit_ChatTrade$$<OnClickTradeButton>b__17_0"
+  ]
+ },
+ "guild/cancelJoin": {
+  "request": "GuildCommonRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCancelJoin",
+   "SceneLobby_GuildJoin.<>c__DisplayClass12_0$$<HandleMessage>b__0"
+  ]
+ },
+ "guild/change": {
+  "request": "GuildChangeRequest",
+  "response": null,
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildChange"
+  ]
+ },
+ "guild/chattingPush": {
+  "request": "GuildChattingPushRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$_Send_GuildChattingPush_Proto"
+  ]
+ },
+ "guild/close": {
+  "request": "GuildCloseRequest",
+  "response": "GuildCloseResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildClose"
+  ]
+ },
+ "guild/create": {
+  "request": "GuildCreateRequest",
+  "response": "GuildCreateResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCreate"
+  ]
+ },
+ "guild/createItemTrade": {
+  "request": "ItemTradeRequestRequest",
+  "response": "ItemTradeRequestResponse",
+  "senders": [
+   "UIPage_RequestItemTrade$$SendReqeustTradItem",
+   "NetworkManagerWEB$$Send_ItemTradeRequest"
+  ]
+ },
+ "guild/donationGoods": {
+  "request": "GuildDonationGoodsRequest",
+  "response": "GuildDonationGoodsResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildDonationGoods"
+  ]
+ },
+ "guild/donationItem": {
+  "request": "GuildDonationItemRequest",
+  "response": "GuildDonationItemResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildDonationItem"
+  ]
+ },
+ "guild/expulsion": {
+  "request": "GuildExpulsionRequest",
+  "response": null,
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildExpulsion"
+  ]
+ },
+ "guild/expulsionInfo": {
+  "request": "GuildExpulsionRequest",
+  "response": null,
+  "senders": [
+   "CommunityManager$$Guild_MemberKick",
+   "NetworkManagerWEB$$Send_GuildExpulsionInfo"
+  ]
+ },
+ "guild/find": {
+  "request": "GuildFindRequest",
+  "response": "GuildFindResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildFind"
+  ]
+ },
+ "guild/greetList": {
+  "request": "GuildCommonRequest",
+  "response": null,
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$RecvGuildHistory_Init",
+   "NetworkManagerWEB$$Send_GuildGreetList"
+  ]
+ },
+ "guild/greeting": {
+  "request": "GuildGreetingRequest",
+  "response": "GuildGreetingResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildGreeting"
+  ]
+ },
+ "guild/guildInfo": {
+  "request": "GuildInfoRequest",
+  "response": "GuildInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildInfo"
+  ]
+ },
+ "guild/history": {
+  "request": "GuildCommonRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildHistory"
+  ]
+ },
+ "guild/itemTradeList": {
+  "request": "ItemTradeListRequest",
+  "response": "ItemTradeListResponse",
+  "senders": [
+   "ChatManager$$SendItemReqeustList",
+   "NetworkManagerWEB$$Send_ItemTradeLIstRequest"
+  ]
+ },
+ "guild/join": {
+  "request": "GuildJoinRequest",
+  "response": "GuildJoinResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildJoin"
+  ]
+ },
+ "guild/joinList": {
+  "request": "GuildListRequest",
+  "response": "GuildListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildJoinList"
+  ]
+ },
+ "guild/joinRequestList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildJoinRequestList"
+  ]
+ },
+ "guild/joinType": {
+  "request": "GuildJoinTypeRequest",
+  "response": "GuildJoinTypeResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$SendGuildJoinType",
+   "NetworkManagerWEB$$Send_GuildJoinType"
+  ]
+ },
+ "guild/masterAuth": {
+  "request": "GuildMasterAuthRequest",
+  "response": null,
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildMasterAuth"
+  ]
+ },
+ "guild/memberAccept": {
+  "request": "GuildMemberAcceptRequest",
+  "response": "GuildMemberAcceptResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildMemberAccept"
+  ]
+ },
+ "guild/memberList": {
+  "request": "GuildListRequest",
+  "response": "GuildListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildMemberList"
+  ]
+ },
+ "guild/notice": {
+  "request": "GuildBoardRequest",
+  "response": "GuildBoardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildNotice"
+  ]
+ },
+ "guild/noticeList": {
+  "request": "GuildBoardRequest",
+  "response": "GuildBoardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildNoticeList"
+  ]
+ },
+ "guild/recommandList": {
+  "request": "GuildFindRequest",
+  "response": "GuildFindResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildRecommandList"
+  ]
+ },
+ "guild/requestApply": {
+  "request": "GuildRequestApplyRequest",
+  "response": "GuildRequestApplyResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildRequestApply",
+   "UIPopup_Chatting$$HandleMessage"
+  ]
+ },
+ "guild/requestCreate": {
+  "request": "GuildRequestRequest",
+  "response": "GuildRequestResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildRequestCreate",
+   "UIPopup_Chatting$$HandleMessage"
+  ]
+ },
+ "guild/requestList": {
+  "request": "GuildRequestRequest",
+  "response": "GuildRequestResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildRequestList"
+  ]
+ },
+ "guild/tradeNoticeCompleted": {
+  "request": "ItemTradeNoticeCompletedRequest",
+  "response": "ItemTradeNoticeCompletedResponse",
+  "senders": [
+   "UIPopup_ItemTradeAlram$$OnClickClose",
+   "NetworkManagerWEB$$Send_ItemTradeNoticeCompleted"
+  ]
+ },
+ "guild/withdrawal": {
+  "request": "GuildCloseRequest",
+  "response": "GuildCloseResponse",
+  "senders": [
+   "SceneLobby_GuildLobbyMain$$HandleMessage",
+   "NetworkManagerWEB$$Send_GuildWithdrawal"
+  ]
+ },
+ "guildCoop/guildRanking": {
+  "request": "GuilCoopGuildRankingRequest",
+  "response": null,
+  "senders": [
+   "UIPage_GuildCoopGuildRank$$SetData",
+   "UIPage_GuildCoopGuildRank$$SendGuildRakning",
+   "NetworkManagerWEB$$Send_GuildCoopGuildRanking"
+  ]
+ },
+ "guildCoop/lobby": {
+  "request": "GuildCoopLobbyRequest",
+  "response": "GuildCoopLobbyResponse",
+  "senders": [
+   "Controller_GuildCoopLobby$$SendGuildCoopLobbyInfo",
+   "NetworkManagerWEB$$Send_GuildCoopLobby"
+  ]
+ },
+ "guildCoop/memberRanking": {
+  "request": "GuildCoopMemberRankingRequest",
+  "response": "GuildCoopMemberRankingResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCoopMemberRanking",
+   "UIPage_GuildCoopMemberRank$$SendMemberRakning",
+   "UIPopup_GuildCoopRanking$$SetMemberRanking",
+   "UIPopup_GuildCoopRanking$$OnClickMemberRanking",
+   "UIPage_GuildCoopMemberRank$$SetData"
+  ]
+ },
+ "guildCoop/playEnd": {
+  "request": "GuildCoopPlayEndRequest",
+  "response": "GuildCoopPlayEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCoopPlayEnd"
+  ]
+ },
+ "guildCoop/playStart": {
+  "request": "GuildCoopPlayStartRequest",
+  "response": "GuildCoopPlayStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCoopPlayStart"
+  ]
+ },
+ "guildCoop/recharge": {
+  "request": "GuildCoopRechargeRequest",
+  "response": "GuildCoopRechargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCoopRecharge",
+   "UIView_GuildCoopLobby.<>c__DisplayClass24_0$$<OpenChargePopup>b__1"
+  ]
+ },
+ "guildCoop/seasonResultHistory": {
+  "request": "GuilCoopSeasonResultHistoryRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildCoopSeasonResultHistory",
+   "UIPage_GuildCoopResultHistory$$SendResultHistory",
+   "UIPopup_GuildCoopRanking$$SetGuildResultHistory",
+   "UIPage_GuildCoopResultHistory$$SetData",
+   "UIPopup_GuildCoopRanking$$OnClickGuildResultHistory"
+  ]
+ },
+ "guildDungeon/guildRanking": {
+  "request": "GuildDungeonGuildRankingRequest",
+  "response": "GuildDungeonGuildRankingResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildDungeonGuildRanking",
+   "UIPopup_GuildDungeonGuildRanking$$SendGuildRanking"
+  ]
+ },
+ "guildDungeon/lobby": {
+  "request": "GuildDungeonLobbyRequest",
+  "response": "GuildDungeonLobbyResponse",
+  "senders": [
+   "Scene_GuildDungeonLobby$$SendGuildDungeonLobby",
+   "NetworkManagerWEB$$Send_GuildDungeonLobby"
+  ]
+ },
+ "guildDungeon/playEnd": {
+  "request": "GuildDungeonPlayEndRequest",
+  "response": "GuildDungeonPlayEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildDungeonPlayEnd"
+  ]
+ },
+ "guildDungeon/playMopup": {
+  "request": "GuildDungeonPlayMopupRequest",
+  "response": "GuildDungeonPlayMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildDungeonPlayMopup"
+  ]
+ },
+ "guildDungeon/playStart": {
+  "request": "GuildDungeonPlayStartRequest",
+  "response": "GuildDungeonPlayStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_GuildDungeonPlayStart"
+  ]
+ },
+ "guildDungeon/ranking": {
+  "request": "GuildDungeonRankingRequest",
+  "response": "GuildDungeonRankingResponse",
+  "senders": [
+   "Scene_GuildDungeonLobby$$SendGuildDungeonRankingList",
+   "NetworkManagerWEB$$Send_GuildDungeonRanking"
+  ]
+ },
+ "imprint/disassemble": {
+  "request": "ImprintDisassembleRequest",
+  "response": "ImprintDisassembleResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ImprintDisassemble"
+  ]
+ },
+ "imprint/enchant": {
+  "request": "ImprintEnchantRequest",
+  "response": "ImprintEnchantResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ImprintEnchant"
+  ]
+ },
+ "imprint/imprintInvenSizeUp": {
+  "request": "ImprintStoneInventorySizeUpRequest",
+  "response": "ImprintStoneInventorySizeUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendImprintStoneInventorySizeUp",
+   "UIPopup_ExtendImprintStone$$OnClickOk"
+  ]
+ },
+ "imprint/like": {
+  "request": "ImprintLikeRequest",
+  "response": "ImprintLikeResponse",
+  "senders": [
+   "Controller_ImprintStone_Inventory$$SendLike",
+   "NetworkManagerWEB$$Send_ImprintLike",
+   "NetworkManagerWEB$$Send_ImprintLike"
+  ]
+ },
+ "imprint/polishing": {
+  "request": "ImprintPolishingRequest",
+  "response": "ImprintPolishingResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendImprintStonePolishing",
+   "UIPopup_ImprintStonePolishing$$SendImrpintPolishing"
+  ]
+ },
+ "imprint/sell": {
+  "request": "ImprintSellRequest",
+  "response": "ImprintSellResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SellImprintStoneLIst",
+   "NetworkManagerWEB$$Send_ImprintSell",
+   "SceneLobby_ImprintStone_Inventory$$OpenSellPaybackCheckPopup",
+   "UIUnit_ImprintStoneSelectInfo$$SendImprintStoneSell"
+  ]
+ },
+ "imprint/upgrade": {
+  "request": "ImprintUpgradeRequest",
+  "response": "ImprintUpgradeResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendImprintStoneUpgrade"
+  ]
+ },
+ "imprint/vestedReset": {
+  "request": "ImprintVestedResetRequest",
+  "response": "ImprintVestedResetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ImprintVestedReset"
+  ]
+ },
+ "infiniteFight/dailyReward": {
+  "request": "InfiniteFightDailyRewardRequest",
+  "response": "InfiniteFightDailyRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightDailyReward",
+   "SceneLobby_InfiniteFightLobby$$HandleMessage",
+   "UnityEngine.UIElements.Panel$$Dispose",
+   "Controller_InfiniteFightLobby$$OnClickGetReward"
+  ]
+ },
+ "infiniteFight/end": {
+  "request": "InfiniteFightEndRequest",
+  "response": "InfiniteFightEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightEnd"
+  ]
+ },
+ "infiniteFight/history": {
+  "request": "InfiniteFightHistoryRequest",
+  "response": "InfiniteFightHistoryResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightHistory",
+   "UIPopup_InfiniteFightPlayRecord$$SetPlayRecordUI"
+  ]
+ },
+ "infiniteFight/info": {
+  "request": "InfiniteFightInfoRequest",
+  "response": "InfiniteFightInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightInfo"
+  ]
+ },
+ "infiniteFight/lobby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightSelect"
+  ]
+ },
+ "infiniteFight/matchingRefresh": {
+  "request": "InfiniteFightMatchingRefreshRequest",
+  "response": "InfiniteFightMatchingRefreshResponse",
+  "senders": [
+   "Controller_InfiniteFightLobby$$RefreshOtherListUI",
+   "NetworkManagerWEB$$SendInfiniteFightMatchingRefresh",
+   "SceneLobby_InfiniteFightLobby$$HandleMessage"
+  ]
+ },
+ "infiniteFight/presetUpdate": {
+  "request": "InfiniteFightPresetUpdateRequest",
+  "response": "InfiniteFightPresetUpdateResponse",
+  "senders": [
+   "Model_InfiniteFight$$OnClickApplyTeamBattleCardEntrySetting",
+   "NetworkManagerWEB$$SendInfiniteFightPresetUpdate"
+  ]
+ },
+ "infiniteFight/rankingList": {
+  "request": "InfiniteFightRankingListRequest",
+  "response": "InfiniteFightRankingListResponse",
+  "senders": [
+   "UIUnit_InfiniteFightSeasonInfoListGroup.<>c__DisplayClass0_0$$<SetSeasonInfoListUI>b__0",
+   "NetworkManagerWEB$$SendInfiniteFightRankingList",
+   "UIUnit_InfiniteFightSeasonInfoListGroup$$SendInfiniteFightRankingList"
+  ]
+ },
+ "infiniteFight/start": {
+  "request": "InfiniteFightStartRequest",
+  "response": "InfiniteFightStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendInfiniteFightStart"
+  ]
+ },
+ "item/itemSell": {
+  "request": "ItemSellRequest",
+  "response": "ItemSellResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ItemSell",
+   "UIPopup_ItemSell$$SendItemSell"
+  ]
+ },
+ "item/lockItem": {
+  "request": "ItemLockRequest",
+  "response": "ItemLockResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ItemLock",
+   "NetworkManagerWEB$$Send_ItemLike",
+   "UIPopup_MemoryInfo$$OnClickLike"
+  ]
+ },
+ "item/openBox": {
+  "request": "ItemOpenBoxRequest",
+  "response": "ItemOpenBoxResponse",
+  "senders": [
+   "GachaModel$$ItemBoxOpen",
+   "ItemInventory$$ItemBoxOpen",
+   "NetworkManagerWEB$$Send_ItemOpenBox"
+  ]
+ },
+ "item/pieceCombine": {
+  "request": "PieceCombineRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendPieceCombine"
+  ]
+ },
+ "item/pieceSell": {
+  "request": "PieceSellRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendPieceSell",
+   "UIPopup_SellPiece$$OnClickSell",
+   "ControllerSellPiece$$Sell"
+  ]
+ },
+ "item/removeItem": {
+  "request": "ItemRemoveRequest",
+  "response": "ItemRemoveResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ItemRemoveItem"
+  ]
+ },
+ "item/useItem": {
+  "request": "ItemUseRequest",
+  "response": "ItemUseResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ItemUseItem"
+  ]
+ },
+ "kofallstar/cipher": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkRequest$$SetHTTPHeader",
+   "NetworkRequest$$.cctor"
+  ]
+ },
+ "kofallstar/protobuf": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkRequest$$SetHTTPHeader",
+   "NetworkManagerWEB$$Initialize",
+   "NetworkRequest$$.cctor"
+  ]
+ },
+ "luckyChance/boardRefresh": {
+  "request": "LuckyChanceBoardRefreshRequest",
+  "response": "LuckyChanceBoardRefreshResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_LuckyChanceBoardRefresh",
+   "UIPopup_LuckyChance$$SendBoardReset"
+  ]
+ },
+ "luckyChance/info": {
+  "request": "LuckyChanceInfoRequest",
+  "response": "LuckyChanceInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_LuckyChanceInfo",
+   "UIPopup_LuckyChance$$SetData"
+  ]
+ },
+ "luckyChance/play": {
+  "request": "LuckyChancePlayRequest",
+  "response": "LuckyChancePlayResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_LuckyChancePlay",
+   "UIPopup_LuckyChance$$SendLuckyChancePlay"
+  ]
+ },
+ "memoryGame/info": {
+  "request": "MemoryCardGameInfoRequest",
+  "response": "MemoryCardGameInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendMemoryCardGameInfo"
+  ]
+ },
+ "memoryGame/openCard": {
+  "request": "MemoryCardGameOpenCardRequest",
+  "response": "MemoryCardGameOpenCardResponse",
+  "senders": [
+   "Controller_MemoryCardGame$$SendOpenCard",
+   "NetworkManagerWEB$$SendMemoryCardGameOpenCard"
+  ]
+ },
+ "memoryGame/openNextGame": {
+  "request": "MemoryCardGameOpenNextGameRequest",
+  "response": "MemoryCardGameOpenNextGameResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendMemoryCardGameOpenNextGame",
+   "Controller_MemoryCardGame$$SendNextGame"
+  ]
+ },
+ "n/a": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Ionic.Zip.SharedUtilities$$ReadSignature",
+   "Ionic.Zip.SharedUtilities$$ReadEntrySignature"
+  ]
+ },
+ "niminsl/send": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$InternalSend_NetmarbleS_Log_Json",
+   "NetworkManagerWEB$$InternalResolveNetmarbleSLogQueue",
+   "System.Xml.XmlTextReaderImpl$$DtdParserProxy_ParsePI"
+  ]
+ },
+ "operate/schedule": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "ServerContents$$DownloadScheduleAll"
+  ]
+ },
+ "pass/info": {
+  "request": "BattlePassInfoRequest",
+  "response": "BattlePassInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattlePassInfo"
+  ]
+ },
+ "pass/reward": {
+  "request": "BattlePassInfoRequest",
+  "response": "BattlePassInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBattlePassReward",
+   "UIPopup_BattlePass$$OnclickRewardReceive",
+   "UIPopup_BattlePass$$SendBattlePassReward"
+  ]
+ },
+ "personal/contentsList": {
+  "request": "PersonalContentsListRequest",
+  "response": "PersonalContentsListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PersonalContentsList"
+  ]
+ },
+ "personal/tagRenew": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$DoUpdateScheduleJob",
+   "NetworkManagerWEB$$Send_PersonalTagReset"
+  ]
+ },
+ "player/accountGrowthStatLevelUp": {
+  "request": "AccountStatLevelUpRequest",
+  "response": "AccountStatLevelUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAccountStatLevelUp"
+  ]
+ },
+ "player/activePointGive": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIUnit_GoodsMenu$$RequestRefresh",
+   "NetworkManagerWEB$$Send_PlayerActivePointGive",
+   "UIUnit_GoodsMenu$$UpdateTime"
+  ]
+ },
+ "player/ageLevelUpdate": {
+  "request": "AgeLevelUpdateRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerAgeLevelUpdate"
+  ]
+ },
+ "player/blockInfo": {
+  "request": "BlockInfoWebRequest",
+  "response": "BlockInfoWebResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_BlockInfo",
+   "Ionic.Zlib.InfTree$$huft_build"
+  ]
+ },
+ "player/buyActivePoint": {
+  "request": "BuyActivePointRequest",
+  "response": "BuyActivePointResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerBuyActivePoint"
+  ]
+ },
+ "player/cdnVersion": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerCdnVersion",
+   "DownloadManager$$CheckTableVersion"
+  ]
+ },
+ "player/checkWhiteList": {
+  "request": "CheckWhiteListRequest",
+  "response": "CheckWhiteListResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendCheckWhiteList"
+  ]
+ },
+ "player/commonLogUpdate": {
+  "request": "CommonlogUpdateRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_CommonLogUpdate",
+   "NetmarbleSLogic$$SetNetmarbleSLog"
+  ]
+ },
+ "player/contentsContinue": {
+  "request": "ContentsContinueRequest",
+  "response": "ContentsContinueResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerContentsContinue"
+  ]
+ },
+ "player/dailyRenew": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$DoUpdateScheduleJob",
+   "NetworkManagerWEB$$Send_PlayerDailyRenew",
+   "NetworkManagerWEB$$Get_PlayerDailyRenew",
+   "NetworkManagerWEB$$CheckRequestTime"
+  ]
+ },
+ "player/declarationSend": {
+  "request": "DeclarationRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_Declaration",
+   "UIPopup_Declaration$$OnClickDeclaration"
+  ]
+ },
+ "player/detail": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$_Send_PlayerDetail_Proto",
+   "NetworkManagerWEB$$_Send_PlayerDetail_Json",
+   "UIView_UserProfile$$SendMyProfile",
+   "NetworkManagerWEB$$Send_PlayerDetail"
+  ]
+ },
+ "player/detailAchieveRate": {
+  "request": "DetailAchieveRateRequest",
+  "response": "DetailAchieveRateResponse",
+  "senders": [
+   "UIView_UserProfile$$ChangeTab",
+   "UIView_UserProfile$$SendAchievelInfo",
+   "NetworkManagerWEB$$Send_PlayerDetailAchieveRate"
+  ]
+ },
+ "player/detailArenaLeagueInfo": {
+  "request": "DetailColosseumInfoRequest",
+  "response": "DetailColosseumInfoResponse",
+  "senders": [
+   "UIView_UserProfile$$ChangeTab",
+   "UIView_UserProfile$$SendLeagueInfo",
+   "NetworkManagerWEB$$Send_PlayerDetailArenaLeagueInfo"
+  ]
+ },
+ "player/detailColosseumInfo": {
+  "request": "DetailColosseumInfoRequest",
+  "response": "DetailColosseumInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerDetailSingleDuelInfo"
+  ]
+ },
+ "player/facebookInStreamReward": {
+  "request": "FacebookInStreamRewardRequest",
+  "response": "FacebookInStreamRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_FacebookISR"
+  ]
+ },
+ "player/fighterWithdrawClose": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_FighterWithdrawClose",
+   "UIPopup_FighterRepossession$$OnClickClose"
+  ]
+ },
+ "player/inventoryInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerInventoryInfo"
+  ]
+ },
+ "player/lobby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerLobby"
+  ]
+ },
+ "player/nickNameSet": {
+  "request": "AccountNickNameSetRequest",
+  "response": null,
+  "senders": [
+   "UIView_UserProfile$$ReWriteUserName",
+   "NetworkManagerWEB$$_Send_PlayerNickNameSet_Json",
+   "NetworkManagerWEB$$_Send_PlayerNickNameSet_Proto",
+   "NetworkManagerWEB$$Send_PlayerNickNameSet"
+  ]
+ },
+ "player/nmsswGet": {
+  "request": "NMSSWRequest",
+  "response": "NMSSWResponse",
+  "senders": [
+   "NetworkManagerWEB$$InternalLobbyRenew",
+   "NetworkManagerWEB$$SendNmsswGet"
+  ]
+ },
+ "player/optionUpdate": {
+  "request": "OptionUpdateRequest",
+  "response": "OptionUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerOptionUpdate"
+  ]
+ },
+ "player/pcBillReset": {
+  "request": "PCBillResetRequest",
+  "response": "PCBillResetResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPCBillReset",
+   "UIPopup_PCBillingProcess$$CancelBilling"
+  ]
+ },
+ "player/pcBillResult": {
+  "request": "PCBillResetRequest",
+  "response": "PCBillResetResponse",
+  "senders": [
+   "UIPopup_PCBillingProcess$$CheckBillingCompleted",
+   "NetworkManagerWEB$$SendPCBillResult"
+  ]
+ },
+ "player/pcBillStatus": {
+  "request": "PCBillStatusRequest",
+  "response": "PCBillStatusResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPCBillStatus"
+  ]
+ },
+ "player/poll": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIView_DescentEventInfo$$RefreshCraftInfo",
+   "SceneLobby_Craft$$LoadingEnd",
+   "SceneLobby_EventCraft$$LoadingEnd",
+   "NetworkManagerWEB$$InternalLobbyRenew",
+   "NetworkManagerWEB$$Send_GameOperateData",
+   "NetworkManagerWEB$$Send_GameOperateDataPoll",
+   "NetworkManagerWEB$$Parse_SessionCreate",
+   "SceneLogin$$RecvPlayerProfile",
+   "ControllerBattleTutorial$$RecvPlayerProfile",
+   "ControllerBattleTutorial$$SendOperateGameData"
+  ]
+ },
+ "player/profile": {
+  "request": "AccountProfileRequest",
+  "response": "AccountProfileResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerProfile"
+  ]
+ },
+ "player/profileCharacterSet": {
+  "request": "RepresentativeTeamDeckSetRequest",
+  "response": "RepresentativeTeamDeckSetResponse",
+  "senders": [
+   "Controller_CharacterSelect_UX$$SendRepresentativeTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_RepresentativeTeamDeckSet"
+  ]
+ },
+ "player/profileMessageUpdate": {
+  "request": "AccountProfileMessageUpdateRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$_Send_PlayerProfileMessageUpdate_Json",
+   "NetworkManagerWEB$$_Send_PlayerProfileMessageUpdate_Proto",
+   "UIView_UserProfile$$ReWriteProfileMesssage",
+   "NetworkManagerWEB$$Send_PlayerProfileMessageUpdate"
+  ]
+ },
+ "player/push": {
+  "request": "PlayerPushRequest",
+  "response": "PlayerPushResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPlayerPush"
+  ]
+ },
+ "player/renew": {
+  "request": "AccountRenewRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerRenew"
+  ]
+ },
+ "player/storageGet": {
+  "request": "PlayerStorageGetRequest",
+  "response": "PlayerStorageGetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerStorageGet"
+  ]
+ },
+ "player/storageSet": {
+  "request": "PlayerStorageSetRequest",
+  "response": "PlayerStorageSetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerStorageSet"
+  ]
+ },
+ "player/tutorialComplete": {
+  "request": "AccountTutorialCompleteRequest",
+  "response": "AccountTutorialCompleteResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PlayerTutorialComplete",
+   "NetworkManagerWEB$$_Send_PlayerTutorialComplete_Proto",
+   "NetworkManagerWEB$$_Send_PlayerTutorialComplete_Json"
+  ]
+ },
+ "player/withdraw": {
+  "request": "PlayerWithdrawRequest",
+  "response": "PlayerWithdrawResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendAccountDeleting",
+   "PlayerWithdraw$$Process"
+  ]
+ },
+ "post/buyPackageList": {
+  "request": "PackageBoxListRequest",
+  "response": "PackageBoxListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PackageBoxList"
+  ]
+ },
+ "post/buyPackageListRead": {
+  "request": "PackageBoxReadRequest",
+  "response": "PackageBoxReadResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PackageBoxRead"
+  ]
+ },
+ "post/friendMessageDelete": {
+  "request": "FriendMessageDeleteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PostFriendMessageDelete"
+  ]
+ },
+ "post/friendMessageList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$ChangeCategory",
+   "NetworkManagerWEB$$Send_PostFriendMessageList"
+  ]
+ },
+ "post/friendMessageLock": {
+  "request": "FriendMessageLockRequest",
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$LetterLock",
+   "NetworkManagerWEB$$Send_PostFriendMessageLock"
+  ]
+ },
+ "post/friendMessageSend": {
+  "request": "FriendMessageSendRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PostFriendMessageSend"
+  ]
+ },
+ "post/guildMessageDelete": {
+  "request": "GuildMessageDeleteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PostGuildMessageDelete"
+  ]
+ },
+ "post/guildMessageList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$ChangeCategory",
+   "NetworkManagerWEB$$Send_PostGuildMessageList"
+  ]
+ },
+ "post/guildMessageLock": {
+  "request": "GuildMessageLockRequest",
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$LetterLock",
+   "NetworkManagerWEB$$Send_PostGuildMessageLock"
+  ]
+ },
+ "post/guildMessageSend": {
+  "request": "GuildMessageSendRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PostGuildMessageSend"
+  ]
+ },
+ "post/noticePostDetail": {
+  "request": "NoticePostDetailRequest",
+  "response": "NoticePostDetailResponse",
+  "senders": [
+   "UIView_PostBox$$HandleMessage",
+   "Controller_PostBox$$RequestNoticePostDetail",
+   "NetworkManagerWEB$$Send_NoticePostDetail"
+  ]
+ },
+ "post/noticePostList": {
+  "request": "NoticePostListRequest",
+  "response": "NoticePostListResponse",
+  "senders": [
+   "Controller_PostBox$$RequestNoticeList",
+   "NetworkManagerWEB$$Send_NoticePostList"
+  ]
+ },
+ "post/noticePostReward": {
+  "request": "NoticePostRewardRequest",
+  "response": "NoticePostRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_NoticePostReward",
+   "Controller_PostBox$$RequestNoticePostReward"
+  ]
+ },
+ "post/postList": {
+  "request": "PostListRequest",
+  "response": "PostListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PostList"
+  ]
+ },
+ "post/postRead": {
+  "request": "PostReadRequest",
+  "response": "PostReadResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PostRead"
+  ]
+ },
+ "post/systemMessageDelete": {
+  "request": "SystemMessageDeleteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_PostSystemMessageDelete"
+  ]
+ },
+ "post/systemMessageList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$ChangeCategory",
+   "NetworkManagerWEB$$Send_PostSystemMessageList"
+  ]
+ },
+ "post/systemMessageLock": {
+  "request": "GuildMessageLockRequest",
+  "response": null,
+  "senders": [
+   "Controller_PostBox$$LetterLock",
+   "NetworkManagerWEB$$Send_PostSystemMessageLock"
+  ]
+ },
+ "prefabs/snd": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Skill$$CreateAddons",
+   "ProjectE.Tools$$GetSoundSettingTypeByFullPath"
+  ]
+ },
+ "proveDungeon/deckUpdate": {
+  "request": "ProveDungeonTeamDeckUpdateRequest",
+  "response": "ProveDungeonTeamDeckUpdateResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendProveDungeonTeamDeckUpdate",
+   "NetworkManagerWEB$$SendProveDungeonTeamDeckUpdate"
+  ]
+ },
+ "proveDungeon/info": {
+  "request": "ProveDungeonInfoRequest",
+  "response": "ProveDungeonInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendProveDungeonInfo"
+  ]
+ },
+ "proveDungeon/rematch": {
+  "request": "ProveDungeonRematchRequest",
+  "response": "ProveDungeonRematchResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendProveDungeonRematch",
+   "Controller_Single_ProveDungeonReady$$ProgressBossRematch"
+  ]
+ },
+ "proveDungeon/stageEnd": {
+  "request": "ProveDungeonStageEndRequest",
+  "response": "ProveDungeonStageEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendProveDungeonStageEnd"
+  ]
+ },
+ "proveDungeon/stageMopUp": {
+  "request": "ProveDungeonMopupRequest",
+  "response": "ProveDungeonMopupResponse",
+  "senders": [
+   "Controller_Single_Prove$$ProcessMopup",
+   "NetworkManagerWEB$$SendProveDungeonMopup"
+  ]
+ },
+ "proveDungeon/stageStart": {
+  "request": "ProveDungeonStageStartRequest",
+  "response": "ProveDungeonStageStartResponse",
+  "senders": [
+   "Controller_Single_ProveDungeonReady$$StartInGame",
+   "NetworkManagerWEB$$SendProveDungeonStageStart"
+  ]
+ },
+ "puzzle/info": {
+  "request": "PuzzleInfoRequest",
+  "response": "PuzzleInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PuzzleInfo",
+   "UIPopup_PuzzleEvent$$SetData"
+  ]
+ },
+ "puzzle/open": {
+  "request": "PuzzleOpenRequest",
+  "response": "PuzzleOpenResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PuzzleOpen",
+   "UIPopup_PuzzleEvent$$OnClickOpen"
+  ]
+ },
+ "puzzle/piece": {
+  "request": "PuzzlePieceRequest",
+  "response": "PuzzlePieceResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_PuzzlePiece",
+   "UIPopup_PuzzleEvent$$OnClickUsePuzzle"
+  ]
+ },
+ "quest/complete": {
+  "request": "QuestCompleteRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestComplete"
+  ]
+ },
+ "quest/list": {
+  "request": "QuestListRequest",
+  "response": "QuestListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestList"
+  ]
+ },
+ "quest/pointReward": {
+  "request": "QuestPointRewardRequest",
+  "response": "QuestPointRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestPointReward"
+  ]
+ },
+ "quest/reward": {
+  "request": "QuestRewardRequest",
+  "response": "QuestRewardResponse",
+  "senders": [
+   "QuestManager$$GetRewards",
+   "NetworkManagerWEB$$Send_QuestReward"
+  ]
+ },
+ "quest/rewardAll": {
+  "request": "QuestRewardAllRequest",
+  "response": "QuestRewardAllResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestRewardAll"
+  ]
+ },
+ "questEvent/buffDungeonCharacter": {
+  "request": "BuffSelectDungeonCharacterRequest",
+  "response": "BuffSelectDungeonCharacterResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonCharacter"
+  ]
+ },
+ "questEvent/buffDungeonEnd": {
+  "request": "BuffSelectDungeonEndRequest",
+  "response": "BuffSelectDungeonEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonEnd"
+  ]
+ },
+ "questEvent/buffDungeonFighterBuff": {
+  "request": "BuffSelectDungeonBuffSelectRequest",
+  "response": "BuffSelectDungeonBuffSelectResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonBuffSelect"
+  ]
+ },
+ "questEvent/buffDungeonInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonInfo"
+  ]
+ },
+ "questEvent/buffDungeonRankingInfoDetail": {
+  "request": "BuffSelectDungeonRankingDetailRequest",
+  "response": "BuffSelectDungeonRankingDetailResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonRankingDetail",
+   "Controller_Single_BuffSelectDungeonLobby$$ShowRankingUserDetail"
+  ]
+ },
+ "questEvent/buffDungeonRankingList": {
+  "request": "BuffSelectDungeonCharacterRequest",
+  "response": "BuffSelectDungeonCharacterResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonRanking",
+   "UIPopup_BuffSelectDungeonRankingInfo$$SendRankingList"
+  ]
+ },
+ "questEvent/buffDungeonRevive": {
+  "request": "BuffSelectDungeonRevivalRequest",
+  "response": "BuffSelectDungeonRevivalResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonRevival",
+   "Controller_CharacterSelect_UX$$RevivalCharacter"
+  ]
+ },
+ "questEvent/buffDungeonStart": {
+  "request": "BuffSelectDungeonStartRequest",
+  "response": "BuffSelectDungeonStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendBuffSelectDungeonStart"
+  ]
+ },
+ "questEvent/crucibleTowerEnd": {
+  "request": "QuestEventCrucibleTowerEndRequest",
+  "response": "QuestEventCrucibleTowerEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventCrucibleTowerEnd"
+  ]
+ },
+ "questEvent/crucibleTowerInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventCrucibleTowerInfo"
+  ]
+ },
+ "questEvent/crucibleTowerMopUp": {
+  "request": "QuestEventCrucibleTowerMopUpRequest",
+  "response": "QuestEventCrucibleTowerMopUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventCrucibleTowerMopUp"
+  ]
+ },
+ "questEvent/crucibleTowerStart": {
+  "request": "QuestEventCrucibleTowerStartRequest",
+  "response": "QuestEventCrucibleTowerStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventCrucibleTowerStart"
+  ]
+ },
+ "questEvent/eventTowerDeckUpdate": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_EventTowerDeckUpdate"
+  ]
+ },
+ "questEvent/eventTowerEnd": {
+  "request": "EventTowerEndRequest",
+  "response": "EventTowerEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EventTowerEnd"
+  ]
+ },
+ "questEvent/eventTowerInfo": {
+  "request": "EventTowerInfoRequest",
+  "response": "EventTowerInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EventTowerInfo",
+   "Controller_Single_EventTowerStageList$$OpenUI",
+   "Controller_Single_EventTowerStageList$$SendEventTowerInfo"
+  ]
+ },
+ "questEvent/eventTowerMission": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Scene_Single_EventTowerSelect$$InitializeUI",
+   "NetworkManagerWEB$$Send_OpenEventTowerMissionInfoList"
+  ]
+ },
+ "questEvent/eventTowerStart": {
+  "request": "EventTowerStartRequest",
+  "response": "EventTowerStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_EventTowerStart"
+  ]
+ },
+ "questEvent/exploreCancel": {
+  "request": "QuestEventExploreCancelRequest",
+  "response": "QuestEventExploreCancelResponse",
+  "senders": [
+   "Controller_Single_Explore.<>c__DisplayClass12_0$$<CancelExplore>b__0",
+   "NetworkManagerWEB$$Send_ExploreCancel"
+  ]
+ },
+ "questEvent/exploreDeckSetting": {
+  "request": "QuestEventExploreDeckSettingRequest",
+  "response": "QuestEventExploreDeckSettingResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ExploreDeckSetting"
+  ]
+ },
+ "questEvent/exploreList": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_ExploreList",
+   "Controller_Single_Explore$$SetUIData",
+   "Scene_Single_Explore$$InitializeUI"
+  ]
+ },
+ "questEvent/exploreOpen": {
+  "request": "QuestEventExploreOpenRequest",
+  "response": "QuestEventExploreOpenResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ExploreOpen",
+   "Controller_Single_Explore.<>c__DisplayClass10_0$$<OpenUnLockSpotPopup>b__0"
+  ]
+ },
+ "questEvent/exploreReward": {
+  "request": "QuestEventExploreRewardRequest",
+  "response": "QuestEventExploreRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ExploreReward",
+   "Controller_Single_Explore$$ComplteExplore"
+  ]
+ },
+ "questEvent/exploreStart": {
+  "request": "QuestEventExploreStartRequest",
+  "response": "QuestEventExploreStartResponse",
+  "senders": [
+   "Controller_Single_Explore$$StartExplore",
+   "NetworkManagerWEB$$Send_ExploreStart"
+  ]
+ },
+ "questEvent/marathonEnd": {
+  "request": "QuestEventMarathonEndRequest",
+  "response": "QuestEventMarathonEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMarathonEnd"
+  ]
+ },
+ "questEvent/marathonList": {
+  "request": "QuestEventMarathonListRequest",
+  "response": "QuestEventMarathonListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMarathonList"
+  ]
+ },
+ "questEvent/marathonRanking": {
+  "request": "QuestEventMarathonRankingRequest",
+  "response": "QuestEventMarathonRankingResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMarathonRanking",
+   "Scene_Single_MarathonReady$$LoadingEnd"
+  ]
+ },
+ "questEvent/marathonRankingList": {
+  "request": "QuestEventMarathonRankingListRequest",
+  "response": "QuestEventMarathonRankingListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMarathonRankingList",
+   "UIView_MarathonEventInfo$$OnClickMarathonRankInfo"
+  ]
+ },
+ "questEvent/marathonStart": {
+  "request": "QuestEventMarathonStartRequest",
+  "response": "QuestEventMarathonStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMarathonStart"
+  ]
+ },
+ "questEvent/marathonStory": {
+  "request": "QuestEventMarathonStoryRequest",
+  "response": "QuestEventMarathonStoryResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_MarathonStageStory",
+   "UIUnit_MarathonStage$$ScenarioDialogEnd"
+  ]
+ },
+ "questEvent/phantomTowerEnd": {
+  "request": "PhantomTowerEndRequest",
+  "response": "PhantomTowerEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPhantomTowerEnd"
+  ]
+ },
+ "questEvent/phantomTowerInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "Scene_Single_PhantomTowerStageList$$InitializeUI",
+   "NetworkManagerWEB$$SendPhantomTowerInfo",
+   "Controller_Single_PhantomTowerStageList$$SendPhantomTowerInfo"
+  ]
+ },
+ "questEvent/phantomTowerMopUp": {
+  "request": "PhantomTowerMopupRequest",
+  "response": "PhantomTowerMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPhantomTowerMopup",
+   "System.Xml.XmlTextReaderImpl$$ReadAttributeValue"
+  ]
+ },
+ "questEvent/phantomTowerStart": {
+  "request": "PhantomTowerStartRequest",
+  "response": "PhantomTowerStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$SendPhantomTowerStart"
+  ]
+ },
+ "questEvent/questEventEnd": {
+  "request": "QuestEventEndRequest",
+  "response": "QuestEventEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventEnd"
+  ]
+ },
+ "questEvent/questEventList": {
+  "request": "QuestEventListRequest",
+  "response": "QuestEventListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventList"
+  ]
+ },
+ "questEvent/questEventMopUp": {
+  "request": "QuestEventMopUpRequest",
+  "response": "QuestEventMopUpResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventMopup"
+  ]
+ },
+ "questEvent/questEventOpen": {
+  "request": "QuestEventOpenRequest",
+  "response": "QuestEventOpenResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventOpen"
+  ]
+ },
+ "questEvent/questEventRecharge": {
+  "request": "QuestEventRechargeRequest",
+  "response": "QuestEventRechargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventRecharge"
+  ]
+ },
+ "questEvent/questEventStart": {
+  "request": "QuestEventStartRequest",
+  "response": "QuestEventStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventStart"
+  ]
+ },
+ "questEvent/rankingCharacterInfo": {
+  "request": "QuestEventRankingCharacterInfoRequest",
+  "response": "QuestEventRankingCharacterInfoResponse",
+  "senders": [
+   "Controller_DescentRanking$$SendDetailInfo",
+   "NetworkManagerWEB$$Send_QuestEventRankingCharacterInfo"
+  ]
+ },
+ "questEvent/rankingList": {
+  "request": "QuestEventRankingListRequest",
+  "response": "QuestEventRankingListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_QuestEventRankingList",
+   "Controller_DescentRanking$$SendRankingList"
+  ]
+ },
+ "relayDungeon/dungeonEnd": {
+  "request": "RelayDungeonEndRequest",
+  "response": "RelayDungeonEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_HighScoreEnd",
+   "NetworkManagerWEB$$Send_TeamRelayEnd"
+  ]
+ },
+ "relayDungeon/dungeonInfo": {
+  "request": "RelayDungeonInfoRequest",
+  "response": "RelayDungeonInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_HighScoreInfo",
+   "NetworkManagerWEB$$Send_TeamRelayInfo",
+   "Controller_Single_HighScoreReady$$SetData",
+   "Controller_Single_TeamRelayReady$$SetData",
+   "Scene_Single_TeamRelayReady$$InitializeUI",
+   "Scene_Sinlge_HighScoreReady$$InitializeUI"
+  ]
+ },
+ "relayDungeon/dungeonInfoList": {
+  "request": "RelayDungeonInfoListRequest",
+  "response": "RelayDungeonInfoListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamRelayList"
+  ]
+ },
+ "relayDungeon/dungeonMopup": {
+  "request": "TeamRelayMopupRequest",
+  "response": "TeamRelayMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamRelayMopup",
+   "NetworkManagerWEB$$Send_HighScoreMopup"
+  ]
+ },
+ "relayDungeon/dungeonRecharge": {
+  "request": "RelayDungeonRechargeRequest",
+  "response": "RelayDungeonRechargeResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamRelayRecharge"
+  ]
+ },
+ "relayDungeon/dungeonStart": {
+  "request": "RelayDungeonStartRequest",
+  "response": "RelayDungeonStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamRelayStart",
+   "NetworkManagerWEB$$Send_HighScoreDungeonStart"
+  ]
+ },
+ "relayDungeon/rankingInfoDetail": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "UIUnit_TeamRelayRankingBoard$$OnClickDetailUserInfo",
+   "NetworkManagerWEB$$Send_TeamRelayRankingInfoDetail"
+  ]
+ },
+ "relayDungeon/rankingInfoList": {
+  "request": "TeamRelayRankingRequest",
+  "response": "TeamRelayRankingResponse",
+  "senders": [
+   "UIUnit_TeamRelayRankingBoard$$ClickTabButton",
+   "NetworkManagerWEB$$Send_TeamRelayRankingList",
+   "NetworkManagerWEB$$Send_HighScoreRankingList",
+   "UIUnit_TeamRelayRankingBoard$$SendTeamRelayRankingList"
+  ]
+ },
+ "relayDungeon/teamDeckUpdate": {
+  "request": "RelayDungeonTeamDeckUpdateRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamRelayTeamDeckUpdate",
+   "NetworkManagerWEB$$Send_HighScoreTeamDeckUpdate"
+  ]
+ },
+ "session/agree": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionAgree"
+  ]
+ },
+ "session/channelInfo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionInfo"
+  ]
+ },
+ "session/create": {
+  "request": "SessionCreateRequest",
+  "response": "SessionCreateResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionCreate"
+  ]
+ },
+ "session/info": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionInfo"
+  ]
+ },
+ "session/pcAuth": {
+  "request": "SessionPCAuthRequest",
+  "response": "SessionPCAuthResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionPcAuth",
+   "NetworkRequest$$.ctor"
+  ]
+ },
+ "session/poll": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "SceneLogin$$RecvSessionStart",
+   "NetworkManagerWEB$$Send_SessionPoll",
+   "NetworkManagerWEB$$Parse_SessionStart"
+  ]
+ },
+ "session/start": {
+  "request": "SessionStartRequest",
+  "response": "SessionStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SessionStart"
+  ]
+ },
+ "shop/shopGoodsBuy": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopGoodsBuy"
+  ]
+ },
+ "shop/shopGoodsQtyList": {
+  "request": "ShopGoodsQtyListRequest",
+  "response": "ShopGoodsQtyListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopGoodsQtyList"
+  ]
+ },
+ "shop/shopGoodsRefresh": {
+  "request": "ShopGoodsRefreshRequest",
+  "response": "ShopGoodsRefreshResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopGoodsRefresh"
+  ]
+ },
+ "shop/shopInAppGrowthGet": {
+  "request": "ShopInAppGrowthGetRequest",
+  "response": "ShopInAppGrowthGetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopInAppGrowthGet"
+  ]
+ },
+ "shop/shopInAppPackageInfo": {
+  "request": "ShopInAppPackageInfoRequest",
+  "response": "ShopInAppPackageInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_ShopInAppPackageInfo"
+  ]
+ },
+ "shop/tradeRuby": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$SendChangeRuby",
+   "UIPopup_ChangeRuby$$OnClickConfirm"
+  ]
+ },
+ "shopCoupon/shopCouponBuy": {
+  "request": "ShopCouponBuyRequest",
+  "response": "ShopCouponBuyResponse",
+  "senders": [
+   "UIPopup_ShopGoodsBuying$$SendGoodsBuying",
+   "NetworkManagerWEB$$Send_ShopCouponBuy"
+  ]
+ },
+ "smash/end": {
+  "request": "SmashEndRequest",
+  "response": "SmashEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashEnd",
+   "System.DomainNameHelper$$ParseCanonicalName"
+  ]
+ },
+ "smash/infoList": {
+  "request": "SmashInfoListRequest",
+  "response": "SmashInfoListResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashInfoList"
+  ]
+ },
+ "smash/mopUp": {
+  "request": "SmashMopupRequest",
+  "response": "SmashMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashMopup"
+  ]
+ },
+ "smash/resetPlayInfo": {
+  "request": "SmashResetRequest",
+  "response": "SmashResetResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashResetPlayInfo",
+   "Controller_Single_SmashDifficultySelect$$ResetSmashDifficulty"
+  ]
+ },
+ "smash/setDifficulty": {
+  "request": "SmashDifficultyRequest",
+  "response": "SmashDifficultyResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashSetDifficulty"
+  ]
+ },
+ "smash/start": {
+  "request": "SmashStartRequest",
+  "response": "SmashStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SmashStart",
+   "NetworkManagerWEB$$Send_SmashStart"
+  ]
+ },
+ "sound/soundlist": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "SoundManager$$LoadSoundList"
+  ]
+ },
+ "superMission/questList": {
+  "request": "SuperMissionQuestRequest",
+  "response": "SuperMissionQuestResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SuperMissionQuest"
+  ]
+ },
+ "superMission/reward": {
+  "request": "SuperMissionRewardRequest",
+  "response": "SuperMissionRewardResponse",
+  "senders": [
+   "NetworkManagerWEB$$OnSuperMissionReward",
+   "NetworkManagerWEB$$Send_SuperMissionReward"
+  ]
+ },
+ "suraDungeon/info": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_SuraDungeonInfoList"
+  ]
+ },
+ "suraDungeon/stageEnd": {
+  "request": "SuraDungeonStageEndRequest",
+  "response": "SuraDungeonStageEndResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SuraDungeonStageEnd"
+  ]
+ },
+ "suraDungeon/stageMopUp": {
+  "request": "SuraDungeonMopupRequest",
+  "response": "SuraDungeonMopupResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SuraDungeonMopup"
+  ]
+ },
+ "suraDungeon/stageStart": {
+  "request": "SuraDungeonStageStartRequest",
+  "response": "SuraDungeonStageStartResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_SuraDungeonStageStart"
+  ]
+ },
+ "table/lang_": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "DownloadManager$$GetTablePath"
+  ]
+ },
+ "teamevent/info": {
+  "request": "TeamEventInfoRequest",
+  "response": "TeamEventInfoResponse",
+  "senders": [
+   "NetworkManagerWEB$$Send_TeamEventInfo"
+  ]
+ },
+ "teamevent/reward": {
+  "request": "TeamEventRewardRequest",
+  "response": "TeamEventRewardResponse",
+  "senders": [
+   "UIPage_TeamEventAchievement$$OnClickGetReward",
+   "NetworkManagerWEB$$Send_TeamEventReward"
+  ]
+ },
+ "test/getCheat": {
+  "request": "TestGetCheatRequest",
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$Send_Cheat",
+   "NetworkManagerWEB$$Send_TestGetCheat",
+   "NetworkManagerWEB$$Send_Cheat",
+   "NetworkManagerWEB$$Send_Cheat",
+   "NetworkManagerWEB$$Send_Cheat"
+  ]
+ },
+ "test/memo": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "NetworkManagerWEB$$_Send_TestMemo_DeviceInfo_Json"
+  ]
+ },
+ "text/plain": {
+  "request": null,
+  "response": null,
+  "senders": [
+   "System.Net.Http.StringContent$$.ctor"
+  ]
+ }
+}

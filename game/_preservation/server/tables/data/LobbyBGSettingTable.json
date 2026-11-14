@@ -1,0 +1,10 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: minimal rows for the offline server, not the original data.",
+ "rows": [
+  {
+   "lobbyBGSettingIndex": 1,
+   "bGSortOrder": 1,
+   "bGThumbnail": "Prefabs/UI_Data/UI_Texture/CollectionRoom/LobbyBG/texture_lobby_kyo_big"
+  }
+ ]
+}

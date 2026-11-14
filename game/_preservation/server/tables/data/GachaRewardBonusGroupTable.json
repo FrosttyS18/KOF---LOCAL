@@ -1,0 +1,41 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaRewardBonusGroupIndex": 11,
+   "gachaRewardBonusGroup": 11,
+   "gachaRewardBonusGroupIndexString": "fighter x1",
+   "rewardType": 13,
+   "rewardItemIndexString": "211001",
+   "rewardItemIndex": 211001,
+   "itemCountValue": 25
+  },
+  {
+   "gachaRewardBonusGroupIndex": 12,
+   "gachaRewardBonusGroup": 12,
+   "gachaRewardBonusGroupIndexString": "fighter x10",
+   "rewardType": 13,
+   "rewardItemIndexString": "211001",
+   "rewardItemIndex": 211001,
+   "itemCountValue": 250
+  },
+  {
+   "gachaRewardBonusGroupIndex": 21,
+   "gachaRewardBonusGroup": 21,
+   "gachaRewardBonusGroupIndexString": "card x1",
+   "rewardType": 13,
+   "rewardItemIndexString": "211001",
+   "rewardItemIndex": 211001,
+   "itemCountValue": 15
+  },
+  {
+   "gachaRewardBonusGroupIndex": 22,
+   "gachaRewardBonusGroup": 22,
+   "gachaRewardBonusGroupIndexString": "card x10",
+   "rewardType": 13,
+   "rewardItemIndexString": "211001",
+   "rewardItemIndex": 211001,
+   "itemCountValue": 150
+  }
+ ]
+}

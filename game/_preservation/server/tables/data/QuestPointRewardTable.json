@@ -1,0 +1,35 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: growth missions (gen_quest.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "questPointRewardIndex": 311001,
+   "questPointIndex": 1,
+   "pointValue": 30,
+   "rewardGroupIndex": 311001
+  },
+  {
+   "questPointRewardIndex": 311002,
+   "questPointIndex": 1,
+   "pointValue": 60,
+   "rewardGroupIndex": 311002
+  },
+  {
+   "questPointRewardIndex": 311003,
+   "questPointIndex": 1,
+   "pointValue": 90,
+   "rewardGroupIndex": 311003
+  },
+  {
+   "questPointRewardIndex": 311004,
+   "questPointIndex": 1,
+   "pointValue": 120,
+   "rewardGroupIndex": 311004
+  },
+  {
+   "questPointRewardIndex": 311005,
+   "questPointIndex": 1,
+   "pointValue": 140,
+   "rewardGroupIndex": 311005
+  }
+ ]
+}

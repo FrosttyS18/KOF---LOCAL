@@ -1,0 +1,14 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "seriesIndex": 1,
+   "seriesIndexString": "94",
+   "seriesNameTag": "Offline.Series.94.Name",
+   "openType": 1,
+   "limitLevel": 0,
+   "storyBGPrefab": "Prefabs/UI_Data/UI_Unit/Unit_StoryChapterList94",
+   "normalSeriesMissionCompleteGroup": 1
+  }
+ ]
+}

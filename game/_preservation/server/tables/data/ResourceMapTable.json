@@ -1,0 +1,377 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: tutorial rows for the offline server; text from the original, ids/values ours.",
+ "rows": [
+  {
+   "resourceMapIndex": 153,
+   "resourceMapIndexString": "153",
+   "resourceMapScene": "T_Black_Noah_03",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Tutorial_01"
+  },
+  {
+   "resourceMapIndex": 201,
+   "resourceMapIndexString": "201",
+   "resourceMapScene": "S_95_Japan_Neogeo_Land_A_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 202,
+   "resourceMapIndexString": "T_95_Neogeo_Land_A_D_Story",
+   "resourceMapScene": "T_95_Neogeo_Land_A_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 203,
+   "resourceMapIndexString": "203",
+   "resourceMapScene": "S_Japan_Esaka_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 204,
+   "resourceMapIndexString": "204",
+   "resourceMapScene": "S_Japan_Backstreet_A1_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 205,
+   "resourceMapIndexString": "205",
+   "resourceMapScene": "S_Japan_Backstreet_A2_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 206,
+   "resourceMapIndexString": "206",
+   "resourceMapScene": "S_Japan_Backstreet_A3_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 207,
+   "resourceMapIndexString": "207",
+   "resourceMapScene": "S_Hongkong_Market_B1_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 208,
+   "resourceMapIndexString": "208",
+   "resourceMapScene": "S_Hongkong_Market_B2_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 209,
+   "resourceMapIndexString": "209",
+   "resourceMapScene": "S_Hongkong_Market_B3_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 210,
+   "resourceMapIndexString": "210",
+   "resourceMapScene": "S_MetroStation_Japan",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 220,
+   "resourceMapIndexString": "220",
+   "resourceMapScene": "C_Battle_Dojo_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 221,
+   "resourceMapIndexString": "221",
+   "resourceMapScene": "C_Rugals_Vault",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 222,
+   "resourceMapIndexString": "222",
+   "resourceMapScene": "E_Evolution_Monastry_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 223,
+   "resourceMapIndexString": "223",
+   "resourceMapScene": "E_Evolution_Monastry_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 224,
+   "resourceMapIndexString": "224",
+   "resourceMapScene": "E_Evolution_Monastry_C",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 225,
+   "resourceMapIndexString": "225",
+   "resourceMapScene": "E_Evolution_Monastry_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 226,
+   "resourceMapIndexString": "226",
+   "resourceMapScene": "E_Evolution_Monastry_E",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 7001,
+   "resourceMapIndexString": "C_Rugals_Vault",
+   "resourceMapScene": "C_Rugals_Vault",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Theme_Cha_Rugal"
+  },
+  {
+   "resourceMapIndex": 7002,
+   "resourceMapIndexString": "GuildRaid_NightmareGeese",
+   "resourceMapScene": "GuildRaid_NightmareGeese",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_BigBoss_01"
+  },
+  {
+   "resourceMapIndex": 7003,
+   "resourceMapIndexString": "C_Battle_Korea_Event_D",
+   "resourceMapScene": "C_Battle_Korea_Event_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_TF_01"
+  },
+  {
+   "resourceMapIndex": 7004,
+   "resourceMapIndexString": "E_SFV_Suzaku_Castle_N",
+   "resourceMapScene": "E_SFV_Suzaku_Castle_N",
+   "stageBgm": "Prefabs/SND/BGM/BGM_SFV_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7005,
+   "resourceMapIndexString": "E_GGX_Japan_D",
+   "resourceMapScene": "E_GGX_Japan_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_GGX_Theme_Cha_Baiken_01"
+  },
+  {
+   "resourceMapIndex": 7101,
+   "resourceMapIndexString": "GuildCoop_Dungeon_Purple",
+   "resourceMapScene": "GuildCoop_Dungeon_Purple",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7102,
+   "resourceMapIndexString": "GuildCoop_Dungeon_Blue",
+   "resourceMapScene": "GuildCoop_Dungeon_Blue",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7103,
+   "resourceMapIndexString": "GuildCoop_Dungeon_Red",
+   "resourceMapScene": "GuildCoop_Dungeon_Red",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7104,
+   "resourceMapIndexString": "GuildCoop_Dungeon_Green",
+   "resourceMapScene": "GuildCoop_Dungeon_Green",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7105,
+   "resourceMapIndexString": "GuildCoop_Dungeon_Yellow",
+   "resourceMapScene": "GuildCoop_Dungeon_Yellow",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "resourceMapIndex": 7301,
+   "resourceMapIndexString": "TR_Train_B",
+   "resourceMapScene": "TR_Train_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7302,
+   "resourceMapIndexString": "TR_Culvert_B",
+   "resourceMapScene": "TR_Culvert_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7303,
+   "resourceMapIndexString": "TR_Culvert_C",
+   "resourceMapScene": "TR_Culvert_C",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7304,
+   "resourceMapIndexString": "TR_Culvert_A",
+   "resourceMapScene": "TR_Culvert_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7305,
+   "resourceMapIndexString": "TR_Train_A",
+   "resourceMapScene": "TR_Train_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7306,
+   "resourceMapIndexString": "TR_META_BOSS_A",
+   "resourceMapScene": "TR_META_BOSS_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7307,
+   "resourceMapIndexString": "TR_META_BOSS_B",
+   "resourceMapScene": "TR_META_BOSS_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7308,
+   "resourceMapIndexString": "TR_META_BOSS_A",
+   "resourceMapScene": "TR_META_BOSS_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7309,
+   "resourceMapIndexString": "TR_META_BOSS_B",
+   "resourceMapScene": "TR_META_BOSS_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7310,
+   "resourceMapIndexString": "TR_META_BOSS_A",
+   "resourceMapScene": "TR_META_BOSS_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7311,
+   "resourceMapIndexString": "TR_META_BOSS_B",
+   "resourceMapScene": "TR_META_BOSS_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7312,
+   "resourceMapIndexString": "TR_Culvert_C",
+   "resourceMapScene": "TR_Culvert_C",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7313,
+   "resourceMapIndexString": "TR_META_BOSS_A",
+   "resourceMapScene": "TR_META_BOSS_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7314,
+   "resourceMapIndexString": "E_Valentine_Park_D",
+   "resourceMapScene": "E_Valentine_Park_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7315,
+   "resourceMapIndexString": "E_2003_Mukai_Stage",
+   "resourceMapScene": "E_2003_Mukai_Stage",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7316,
+   "resourceMapIndexString": "TR_Halloween_Snow",
+   "resourceMapScene": "TR_Halloween_Snow",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7317,
+   "resourceMapIndexString": "TR_Halloween_Snow",
+   "resourceMapScene": "TR_Halloween_Snow",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7318,
+   "resourceMapIndexString": "E_Gintama_Shinsengumi",
+   "resourceMapScene": "E_Gintama_Shinsengumi",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7319,
+   "resourceMapIndexString": "E_Theme_Park_2019Xmas",
+   "resourceMapScene": "E_Theme_Park_2019Xmas",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7320,
+   "resourceMapIndexString": "TR_META_BOSS_B",
+   "resourceMapScene": "TR_META_BOSS_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7321,
+   "resourceMapIndexString": "TR_Train_B",
+   "resourceMapScene": "TR_Train_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 7322,
+   "resourceMapIndexString": "E_Amakusa_Castle_N",
+   "resourceMapScene": "E_Amakusa_Castle_N",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Team_Relay_01"
+  },
+  {
+   "resourceMapIndex": 227,
+   "resourceMapIndexString": "E_Evolution_Budokan_A",
+   "resourceMapScene": "E_Evolution_Budokan_A",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 228,
+   "resourceMapIndexString": "E_Evolution_Budokan_B",
+   "resourceMapScene": "E_Evolution_Budokan_B",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 9101,
+   "resourceMapIndexString": "PluginPlant_1",
+   "resourceMapScene": "S_General_Chemical_plant_A_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Fighter",
+   "resourceMapGroupIndex": 91,
+   "orderNumber": 1
+  },
+  {
+   "resourceMapIndex": 9102,
+   "resourceMapIndexString": "PluginPlant_2",
+   "resourceMapScene": "S_Underground_Factory",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Fighter",
+   "resourceMapGroupIndex": 91,
+   "orderNumber": 2
+  },
+  {
+   "resourceMapIndex": 9103,
+   "resourceMapIndexString": "PluginPlant_3",
+   "resourceMapScene": "S_Clone_Lab",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Event_Fighter",
+   "resourceMapGroupIndex": 91,
+   "orderNumber": 3
+  },
+  {
+   "resourceMapIndex": 8001,
+   "resourceMapIndexString": "C_Battle_Arena",
+   "resourceMapScene": "C_Battle_Arena",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 8002,
+   "resourceMapIndexString": "C_Battle_Clock_Tower",
+   "resourceMapScene": "C_Battle_Clock_Tower",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 8003,
+   "resourceMapIndexString": "C_Battle_Dojo_D",
+   "resourceMapScene": "C_Battle_Dojo_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 8004,
+   "resourceMapIndexString": "C_Battle_UnderPassageway",
+   "resourceMapScene": "C_Battle_UnderPassageway",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 8005,
+   "resourceMapIndexString": "E_Arena_TK",
+   "resourceMapScene": "E_Arena_TK",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 8006,
+   "resourceMapIndexString": "E_KOFXIV_SuperArena_D",
+   "resourceMapScene": "E_KOFXIV_SuperArena_D",
+   "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  }
+ ]
+}

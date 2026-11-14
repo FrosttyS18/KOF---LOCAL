@@ -1,0 +1,89 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "stageEntryListIndex": 9300900,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "0",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "",
+   "entryYearType": 0,
+   "powerLevel": 0
+  },
+  {
+   "stageEntryListIndex": 9101001,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "1",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "Offline.EntryList.PluginPlant.Desc",
+   "entryYearType": 0,
+   "powerLevel": 1800
+  },
+  {
+   "stageEntryListIndex": 9101002,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "2",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "Offline.EntryList.PluginPlant.Desc",
+   "entryYearType": 0,
+   "powerLevel": 1800
+  },
+  {
+   "stageEntryListIndex": 9101003,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "3",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "Offline.EntryList.PluginPlant.Desc",
+   "entryYearType": 0,
+   "powerLevel": 1800
+  },
+  {
+   "stageEntryListIndex": 9101004,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "4",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "Offline.EntryList.PluginPlant.Desc",
+   "entryYearType": 0,
+   "powerLevel": 1800
+  },
+  {
+   "stageEntryListIndex": 9101005,
+   "entryListRandom": 0,
+   "entryListYear": "0",
+   "entryListGrade": "0",
+   "entryListFighterAttribute": "0",
+   "entryListSynastryType": "5",
+   "entryListFighter": "0",
+   "leveltype": 0,
+   "entryLevel": 1,
+   "entryListDesc": "Offline.EntryList.PluginPlant.Desc",
+   "entryYearType": 0,
+   "powerLevel": 1800
+  }
+ ]
+}

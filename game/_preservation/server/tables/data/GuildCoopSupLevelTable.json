@@ -1,0 +1,55 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_colossal.py): Colossal Invasion from the client's own boss, script, maps and banner; numbers mostly ours (see the module notes).",
+ "rows": [
+  {
+   "guildCoopSupLevelIndex": 1,
+   "needContributeValue": 0,
+   "level": 1
+  },
+  {
+   "guildCoopSupLevelIndex": 2,
+   "needContributeValue": 1000,
+   "level": 2
+  },
+  {
+   "guildCoopSupLevelIndex": 3,
+   "needContributeValue": 3000,
+   "level": 3
+  },
+  {
+   "guildCoopSupLevelIndex": 4,
+   "needContributeValue": 6000,
+   "level": 4
+  },
+  {
+   "guildCoopSupLevelIndex": 5,
+   "needContributeValue": 10000,
+   "level": 5
+  },
+  {
+   "guildCoopSupLevelIndex": 6,
+   "needContributeValue": 15000,
+   "level": 6
+  },
+  {
+   "guildCoopSupLevelIndex": 7,
+   "needContributeValue": 21000,
+   "level": 7
+  },
+  {
+   "guildCoopSupLevelIndex": 8,
+   "needContributeValue": 28000,
+   "level": 8
+  },
+  {
+   "guildCoopSupLevelIndex": 9,
+   "needContributeValue": 36000,
+   "level": 9
+  },
+  {
+   "guildCoopSupLevelIndex": 10,
+   "needContributeValue": 45000,
+   "level": 10
+  }
+ ]
+}

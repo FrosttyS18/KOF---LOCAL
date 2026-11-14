@@ -1,0 +1,225 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_affinity.py): fighter affinity gifts, levels and rewards",
+ "rows": [
+  {
+   "affectionBonusGroupIndex": 1010,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 1,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100010,
+   "rewardDisplayGroup": 75100010,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1020,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 2,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 11,
+   "addCharacterStatValue": 100.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.11"
+  },
+  {
+   "affectionBonusGroupIndex": 1030,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 3,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100030,
+   "rewardDisplayGroup": 75100030,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1040,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 4,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 21,
+   "addCharacterStatValue": 800.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.21"
+  },
+  {
+   "affectionBonusGroupIndex": 1050,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 5,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100050,
+   "rewardDisplayGroup": 75100050,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1060,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 6,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 41,
+   "addCharacterStatValue": 30.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.41"
+  },
+  {
+   "affectionBonusGroupIndex": 1070,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 7,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100070,
+   "rewardDisplayGroup": 75100070,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1080,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 8,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 11,
+   "addCharacterStatValue": 200.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.11"
+  },
+  {
+   "affectionBonusGroupIndex": 1090,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 9,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100090,
+   "rewardDisplayGroup": 75100090,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1100,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 10,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 11,
+   "addCharacterStatValue": 300.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.11"
+  },
+  {
+   "affectionBonusGroupIndex": 1101,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 10,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 21,
+   "addCharacterStatValue": 1600.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.21"
+  },
+  {
+   "affectionBonusGroupIndex": 1102,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 10,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 41,
+   "addCharacterStatValue": 50.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.41"
+  },
+  {
+   "affectionBonusGroupIndex": 1110,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 11,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100110,
+   "rewardDisplayGroup": 75100110,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1120,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 12,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 21,
+   "addCharacterStatValue": 2400.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.21"
+  },
+  {
+   "affectionBonusGroupIndex": 1121,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 12,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100121,
+   "rewardDisplayGroup": 75100121,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1130,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 13,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100130,
+   "rewardDisplayGroup": 75100130,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1140,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 14,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 11,
+   "addCharacterStatValue": 400.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.11"
+  },
+  {
+   "affectionBonusGroupIndex": 1141,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 14,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100141,
+   "rewardDisplayGroup": 75100141,
+   "affectionBonusNameTag": ""
+  },
+  {
+   "affectionBonusGroupIndex": 1150,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 15,
+   "affectionBonusType": 1,
+   "addCharacterStatIndex": 41,
+   "addCharacterStatValue": 80.0,
+   "rewardGroup": 0,
+   "rewardDisplayGroup": 0,
+   "affectionBonusNameTag": "Offline.Affinity.Bonus.41"
+  },
+  {
+   "affectionBonusGroupIndex": 1151,
+   "affectionBonusGroup": 1,
+   "needAffectionLevel": 15,
+   "affectionBonusType": 2,
+   "addCharacterStatIndex": 0,
+   "addCharacterStatValue": 0.0,
+   "rewardGroup": 75100151,
+   "rewardDisplayGroup": 75100151,
+   "affectionBonusNameTag": ""
+  }
+ ]
+}

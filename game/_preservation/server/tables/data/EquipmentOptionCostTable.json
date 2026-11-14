@@ -1,0 +1,59 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentOptionCostIndex": 1,
+   "equipmentChangeOptionCount": 0,
+   "equipmentChangeOptionGold1": 3060,
+   "equipmentChangeOptionGold2": 4207,
+   "equipmentChangeOptionGold3": 5355,
+   "equipmentChangeOptionGold4": 6502,
+   "equipmentChangeOptionGold5": 7650
+  },
+  {
+   "equipmentOptionCostIndex": 2,
+   "equipmentChangeOptionCount": 1,
+   "equipmentChangeOptionGold1": 4590,
+   "equipmentChangeOptionGold2": 6311,
+   "equipmentChangeOptionGold3": 8032,
+   "equipmentChangeOptionGold4": 9753,
+   "equipmentChangeOptionGold5": 11475
+  },
+  {
+   "equipmentOptionCostIndex": 3,
+   "equipmentChangeOptionCount": 2,
+   "equipmentChangeOptionGold1": 6120,
+   "equipmentChangeOptionGold2": 8415,
+   "equipmentChangeOptionGold3": 10710,
+   "equipmentChangeOptionGold4": 13005,
+   "equipmentChangeOptionGold5": 15300
+  },
+  {
+   "equipmentOptionCostIndex": 4,
+   "equipmentChangeOptionCount": 3,
+   "equipmentChangeOptionGold1": 7650,
+   "equipmentChangeOptionGold2": 10518,
+   "equipmentChangeOptionGold3": 13387,
+   "equipmentChangeOptionGold4": 16256,
+   "equipmentChangeOptionGold5": 19125
+  },
+  {
+   "equipmentOptionCostIndex": 5,
+   "equipmentChangeOptionCount": 4,
+   "equipmentChangeOptionGold1": 9180,
+   "equipmentChangeOptionGold2": 12622,
+   "equipmentChangeOptionGold3": 16065,
+   "equipmentChangeOptionGold4": 19507,
+   "equipmentChangeOptionGold5": 22950
+  },
+  {
+   "equipmentOptionCostIndex": 6,
+   "equipmentChangeOptionCount": 5,
+   "equipmentChangeOptionGold1": 10710,
+   "equipmentChangeOptionGold2": 14726,
+   "equipmentChangeOptionGold3": 18742,
+   "equipmentChangeOptionGold4": 22758,
+   "equipmentChangeOptionGold5": 26775
+  }
+ ]
+}

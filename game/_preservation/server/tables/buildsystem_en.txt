@@ -1,0 +1,291 @@
+BuildSystem.Common.Message.Button.Download.All.Name	DOWNLOAD ALL
+BuildSystem.Common.Message.Button.Download.Small.Name	DOWNLOAD
+BuildSystem.Common.Message.Button.Back.Name	RETURN
+BuildSystem.Common.Message.Button.Title.Name	GO TO TITLE
+BuildSystem.Common.Message.Button.Notice.Name	NOTIFICATION
+BuildSystem.Common.Message.Button.Retry.Name	RETRY
+BuildSystem.Common.Message.Button.ReStart.Name	START AGAIN
+BuildSystem.Common.Message.Button.Resume.Name	CONTINUE
+BuildSystem.Common.Message.Button.Confirm.Name	OK
+BuildSystem.Common.Message.Button.Update.Now.Name	UPDATE NOW
+BuildSystem.Common.Message.Button.Update.Later.Name	UPDATE LATER
+BuildSystem.Common.Message.Button.Cancel.Name	CANCEL
+BuildSystem.Download.Popup.Title.Name	DOWNLOAD NOTIFICATION
+BuildSystem.Download.Popup.Text1.Name	DOWNLOAD DATA TO PLAY GAME.
+BuildSystem.Download.Popup.Text2.Name	This may take some time depending on your network environment.
+BuildSystem.Download.Popup.Text3.Name	DOWNLOAD EXTRA GAME DATA.
+BuildSystem.Download.Popup.FileSize.Name	FILE SIZE
+BuildSystem.Download.Popup.RemainTime.Name	ESTIMATED TIME
+BuildSystem.Download.Popup.NetworkType1.Name	WIFI
+BuildSystem.Download.Popup.NetworkType2.Name	LTE
+BuildSystem.Download.Popup.NetworkType3.Name	3G
+BuildSystem.Download.Popup.TimeCheck1.Name	SECOND
+BuildSystem.Download.Popup.TimeCheck2.Name	MINUTE
+BuildSystem.Download.Popup.Text4.Name	This may take some time depending on your network environment.
+BuildSystem.Download.Cancel.Title.Name	CANCEL DOWNLOAD
+BuildSystem.Download.Cancel.Text1.Name	The game cannot run
+without finishing the download.
+
+Return to the Title Screen?
+BuildSystem.Maintenance.Title.Name	MAINTENANCE INFO.
+BuildSystem.Maintenance.Text1.Name	Server maintenance is underway.
+Please check the Notice for details.
+BuildSystem.Maintenance.Text2.Name	Please log in after the maintenance.
+BuildSystem.Maintenance.Text4.Name	CHECKING VERSION.
+BuildSystem.Maintenance.Text5.Name	PREPARING TO DOWNLOAD GAME DATA.
+BuildSystem.Maintenance.Text6.Name	COMPLETE
+BuildSystem.Maintenance.Text7.Name	DOWNLOAD THE LATEST GAME DATA.
+BuildSystem.Maintenance.Text8.Name	VERIFYING DATA.
+BuildSystem.Maintenance.Text9.Name	Failed to connect to server. Returning to start screen.
+BuildSystem.NetworkError.Title.Name	NETWORK ERROR
+BuildSystem.NetworkError.Text1.Name	Disconnecting due to a network error.
+Please restart the game.
+BuildSystem.NetworkError.Text2.Name	The download has halted due to an unstable network connection.
+Try to reconnect?
+BuildSystem.NetworkError.Text3.Name	There is no response from the server.
+Please wait one moment.
+BuildSystem.NetworkError.Text4.Name	The game ended because there was no response from the server.
+Please wait a moment and restart the game.
+BuildSystem.NetworkError.Text5.Name	The device’s network connection is not stable.
+Please check the Internet Connection Status and try again.
+BuildSystem.NetworkError.Text6.Name	There is no response from the server.
+Please wait a moment and try again.
+BuildSystem.NetworkError.Text7.Name	Your account is being used by another device. Returning to title screen.
+BuildSystem.NetworkError.Text8.Name	Network connection is unstable. Restarting the game.
+BuildSystem.NetworkError.Text9.Name	Data initializing has failed.
+BuildSystem.NetworkError.Text10.Name	DATA DOWNLOAD HAS FAILED.
+BuildSystem.NetworkError.Text11.Name	Could not retrieve data. Restarting game.
+BuildSystem.NetworkError.Text12.Name	Cannot initialize the game. Please try again later.
+BuildSystem.NetworkError.Text13.Name	Your account info has been transferred to another device. Starting with new game data.
+BuildSystem.NetworkError.Text14.Name	Initializing game.
+BuildSystem.NetworkError.Text15.Name	Failed to log in. Please try again later.
+BuildSystem.Download.Resume.Title.Name	RESUME DOWNLOAD NOTIFICATION
+BuildSystem.Download.Resume.Text1.Name	The file download has been paused.
+
+Continue with download?
+BuildSystem.Client.Update.Title.Name	UPDATE NOTIFICATION
+BuildSystem.Client.Update.Text1.Name	THE GAME HAS BEEN UPDATED.
+BuildSystem.Client.Update.Version.Name	CURRENT VERSION : {0}
+BuildSystem.Client.Update.Text2.Name	Please download the newest version from the Store.
+BuildSystem.Client.Update.Text3.Name	Please update to the newest version from the Store.
+BuildSystem.Hack.Detected.Title.Name	INITIAL STARTUP ERROR
+BuildSystem.Hack.Detected.Text1.Name	The app has been stopped due to suspected tampering.
+
+Try deleting the application(s) that may be interfering,
+or restore the device and try again.
+BuildSystem.Check.Wifi.Title.Name	DOWNLOAD DATA
+BuildSystem.Check.Wifi.Text1.Name	DOWNLOAD THE DATA?
+BuildSystem.Check.Wifi.Text2.Name	We recommend downloading while connected to Wifi.
+BuildSystem.Loading.Downloading.Text1.Name	DOWNLOADING…
+BuildSystem.Loading.Downloading.Text2.Name	DOWNLOADING…
+BuildSystem.Loading.DownloadFile.Name	{2} Files Downloaded ({0}/{1})
+BuildSystem.Loading.NowLoading.Name	NOW LOADING...
+BuildSystem.Check.FightTutorial.Title.Name	TUTORIAL
+BuildSystem.Check.FightTutorial.Text1.Name	Begin the Fighting Tutorial?
+BuildSystem.NoSpaceWarning.Popup.Title.Name	Device Storage Space Shortage Notification
+BuildSystem.NoSpaceWarning.Popup.Text1.Name	The download cannot be completed
+due to the lack of storage space in the device.
+BuildSystem.NoSpaceWarning.Popup.Text2.Name	The download cannot be completed
+due to the lack of storage space in the device.
+BuildSystem.NoSpaceWarning.Popup.Text3.Name	Please free up some space and try again.
+BuildSystem.NoSpaceWarning.Popup.NeedSpace.Name	REQUIRED SPACE
+BuildSystem.NoSpaceWarning.Popup.LeftSpace.Name	REMAINING SPACE
+BuildSystem.Title.Option.ButtonText.Name	SETTINGS
+BuildSystem.P_Setting.Text.31.Name	MENU
+BuildSystem.P_Setting.Text.34.Name	Downloads will have to be redownloaded before the game can start if the cache data is deleted.
+Delete?
+BuildSystem.V_Etc.Text.03.Name	LATEST INFO
+BuildSystem.V_Etc.Text.11.Name	LINK ACCOUNT
+BuildSystem.V_Etc.Text.12.Name	HELP
+BuildSystem.V_Etc.Text.13.Name	SUPPORT
+BuildSystem.V_Etc.Text.32.Name	DATA RESET
+BuildSystem.ClientCode.SystemWarning02.Name	NOTICE
+BuildSystem.ClientCode.SystemWarning11.Name	PREPARING
+BuildSystem.P_SystemMsgBox.Text.01.Name	OK
+BuildSystem.P_SystemMsgBox.Text.02.Name	CANCEL
+BuildSystem.V_ChapterSelect.Text.26.Name	RESTORE
+BuildSystem.V_ChapterSelect.Text.27.Name	CANCEL
+BuildSystem.P_StageInfo.Btn.Start.Battle.Name	START FIGHT
+BuildSystem.Network.Button02.Name	RETRY
+BuildSystem.PopUpUi.Skip.Confirm.Name	OK
+BuildSystem.PopUpUi.Skip.Cancel.Name	CANCEL
+BuildSystem.Sdk.ContinuePopup01.Name	CONTINUE WITH DATA
+BuildSystem.Sdk.ContinuePopup02.Name	Issue ID to Continue
+BuildSystem.Sdk.ContinuePopup03.Name	CONTINUE WITH DATA
+BuildSystem.Sdk.ContinuePopup04.Name	Set to continue with game data.
+BuildSystem.Sdk.ContinuePopup05.Name	ISSUE OTP
+BuildSystem.Sdk.ContinuePopup06.Name	OTP
+BuildSystem.Sdk.ContinuePopup07.Name	ENTER PASSWORD
+BuildSystem.Sdk.ContinuePopup08.Name	* Please enter a password between 6-14 characters using upper/lower case letters and numbers.
+BuildSystem.Sdk.ContinuePopup09.Name	* Forgotten passwords can be reset.
+BuildSystem.Sdk.ContinuePopup10.Name	Create a game data ID.
+BuildSystem.Sdk.ContinuePopup11.Name	Cancel
+BuildSystem.Sdk.ContinuePopup12.Name	SET
+BuildSystem.Sdk.ContinuePopup13.Name	RESET
+BuildSystem.Sdk.ContinuePopup14.Name	COPY
+BuildSystem.Sdk.ContinuePopup15.Name	Please take note a after entering it.
+BuildSystem.Sdk.ContinuePopup16.Name	Notification
+BuildSystem.Sdk.ContinuePopup17.Name	Exit the game?
+BuildSystem.Sdk.SnsContinuePopup01.Name	Please sign in
+to use a Facebook account in KOF.
+BuildSystem.Sdk.SnsContinuePopup02.Name	E-mail or Cellphone Number
+BuildSystem.Sdk.SnsContinuePopup03.Name	PASSWORD
+BuildSystem.Sdk.SnsContinuePopup04.Name	SIGN IN
+BuildSystem.Sdk.SnsContinuePopup05.Name	Other game data has been linked to the account.
+Please select the game data you want to use.
+BuildSystem.Sdk.SnsContinuePopup06.Name	Previously Linked Data
+BuildSystem.Sdk.SnsContinuePopup07.Name	Data Currently in Use
+BuildSystem.Sdk.SnsContinuePopup08.Name	Played {0} day(s) Ago
+BuildSystem.Sdk.SnsContinuePopup09.Name	Played less than {0} Hour(s)
+BuildSystem.Sdk.SnsContinuePopup10.Name	Would you like to load [{0}] game data?
+BuildSystem.Sdk.SnsContinuePopup11.Name	[{0}] Data can be loaded by linking an account.
+BuildSystem.Sdk.SnsContinuePopup12.Name	Please connect the account to other channel to save [{0}] data.
+BuildSystem.Sdk.ContinueTitlePopup01.Name	NICKNAME
+BuildSystem.Sdk.ContinueTitlePopup02.Name	LV.
+BuildSystem.Sdk.ContinueTitlePopup03.Name	Transfer the game data to the current device.
+Proceed to transfer?
+BuildSystem.Sdk.ContinueTitlePopup04.Name	Transferring the game data to the device...
+BuildSystem.Sdk.SnsContinuePopup14.Name	Please sign in
+to use a Facebook account in KOF.
+BuildSystem.Sdk.RulePopup01.Name	Terms of Use
+BuildSystem.Sdk.RulePopup02.Name	Please agree to the content below
+in order to play KOF All-Stars.
+BuildSystem.Sdk.RulePopup03.Name	PRIVACY
+BuildSystem.Sdk.RulePopup04.Name	AGREE AND START
+BuildSystem.Sdk.RulePopup05.Name	DISAGREE AND END
+BuildSystem.Sdk.SupportPopup01.Name	SUPPORT
+BuildSystem.Sdk.SupportPopup02.Name	FAQ
+BuildSystem.Sdk.SupportPopup03.Name	1:1 INQUIRY (Customer Center)
+BuildSystem.Sdk.SupportPopup04.Name	TERMS OF USE
+BuildSystem.Sdk.SupportPopup05.Name	Privacy Statement
+BuildSystem.Sdk.SupportPopup06.Name	Check Age and Payment Limit
+BuildSystem.Sdk.SupportPopup07.Name	Currently owned Ruby
+BuildSystem.Sdk.PaymentPopup01.Name	Check age and payment limit.
+BuildSystem.Sdk.PaymentPopup02.Name	AGE
+BuildSystem.Sdk.PaymentPopup03.Name	16 - 19 Years Old
+BuildSystem.Sdk.PaymentPopup04.Name	PAYMENT LIMIT
+BuildSystem.Sdk.PaymentPopup05.Name	Up to 20,000 yen per month.
+BuildSystem.Sdk.PaymentPopup06.Name	* Payment amount resets at 12 am. on the first day of every month.
+BuildSystem.Sdk.PaymentPopup07.Name	Currently owned Ruby
+BuildSystem.Sdk.PaymentPopup08.Name	PAID RUBY
+BuildSystem.Sdk.PaymentPopup09.Name	FREE RUBY
+BuildSystem.Sdk.PaymentPopup10.Name	x{0}
+BuildSystem.Sdk.ReviewPopup01.Name	Are you enjoying KOF All-Stars?
+Please review us
+to help us to provide better service!
+Would you like to leave us a review?
+BuildSystem.Sdk.ReviewPopup02.Name	LEAVE A RATING
+BuildSystem.Sdk.ReviewPopup03.Name	LEAVE COMMENTS
+BuildSystem.Sdk.ReviewPopup04.Name	REVIEW LATER
+BuildSystem.Sdk.ReviewPopup05.Name	The game is restarting
+due to a duplicate login from another device.
+BuildSystem.Sdk.ETC01.Name	Failed due to an error.
+BuildSystem.Sdk.ChannelConnect01.Name	[ffffff]Not Connected to Facebook[-]
+BuildSystem.Sdk.ChannelConnect02.Name	[757575]Connected to Facebook[-]
+BuildSystem.Sdk.ChannelConnect03.Name	[ffffff]Not Connected to Twitter[-]
+BuildSystem.Sdk.ChannelConnect04.Name	[757575]Connected to Twitter[-]
+BuildSystem.Sdk.ChannelConnect05.Name	Channel Connection Complete. Restarting the game.
+BuildSystem.Sdk.JA1ContinueCode01.Name	Code and Password successfully registered.
+BuildSystem.Sdk.JA1ContinueCode02.Name	Creating a new code due to duplicate codes.
+BuildSystem.Sdk.JA1ContinueCode03.Name	You already logged in on another device.
+BuildSystem.Sdk.JA1ContinueCode04.Name	The password does meet the requirements.
+BuildSystem.Sdk.JA1ContinueCode05.Name	Please enter your OTP and password.
+BuildSystem.Sdk.JA1ContinueCode06.Name	Continuing with Game Data.
+BuildSystem.Sdk.JA1ContinueCode07.Name	ENTER OTP.
+BuildSystem.Sdk.JA1ContinueCode08.Name	ENTER PASSWORD
+BuildSystem.Sdk.JA1ContinueCode09.Name	Cannot find a registered player.
+BuildSystem.Sdk.JA1ContinueCode10.Name	Incorrect code entry.
+BuildSystem.Sdk.JA1ContinueCode11.Name	The code is either too short or too long.
+BuildSystem.Sdk.JA1ContinueCode12.Name	Invalid character(s) is included in the code.
+BuildSystem.Sdk.JA1ContinueCode13.Name	Failed to search an account.
+BuildSystem.Sdk.JA1ContinueCode14.Name	Invalid password input.
+BuildSystem.Sdk.JA1ContinueCode15.Name	Failed to load Player ID.
+BuildSystem.Sdk.NewDataGameResetText.Name	New data has been retrieved. Restarting the game for smooth gameplay.
+BuildSystem.ConfirmPolicy.Popup.Title.Name	Terms of Use
+BuildSystem.ConfirmPolicy.Popup.Text1.Name	Please review the Terms of Service and your personal information before starting [00a2ff]THE KING OF FIGHTERS ALLSTAR[ffffff].
+Tap the [ff6000]Agree[ffffff]button to start the game.
+BuildSystem.ConfirmPolicy.Popup.AccessTerms.Button.Name	Terms of Use
+BuildSystem.ConfirmPolicy.Popup.PersonalInformationProtection.Button.Name	PRIVACY
+BuildSystem.ConfirmPolicy.Popup.Disagree.Button.Name	DISAGREE AND END
+BuildSystem.ConfirmPolicy.Popup.Agree.Button.Name	AGREE AND START
+BuildSystem.Shop.ChangeShop.Name	GO TO STORE
+BuildSystem.Shop.MsgShopRefresh.Name	REFRESH THE SHOP?
+BuildSystem.GraphicSet.PopUpTitle.Name	Graphics Settings
+BuildSystem.GraphicSet.Desc01.Name	Please select a Graphic Setting Type for smooth gameplay.
+BuildSystem.GraphicSet.BtnVisual.Name	HIGH
+BuildSystem.GraphicSet.BtnPerformance.Name	MEDIUM
+BuildSystem.GraphicSet.Desc02.Name	* You can configure settings through the in-game Options.
+BuildSystem.GraphicSet.BtnVisualDesc.Name	Smoother display of movement.
+May increase battery usage compared to Medium mode.
+BuildSystem.GraphicSet.BtnPerformanceDesc.Name	Average display of movement.
+May conserve battery.
+BuildSystem.Tutorial.CantUseFuntion.Name	Cannot go back from this screen.
+BuildSystem.NetworkError.MaintenanceTitle.Name	MAINTENANCE INFO.
+BuildSystem.NetworkError.MaintenanceMsg.Name	Server maintenance is underway.
+Please check the Notice for details.
+BuildSystem.NetworkError.MaintenanceNoticeButton.Name	NOTIFICATION
+BuildSystem.NetworkError.MaintenanceEndButton.Name	END
+BuildSystem.NetworkError.BanUserTitle.Name	LOGIN ERROR
+BuildSystem.NetworkError.BanUserMsg.Name	Account restricted.
+Please contact Customer Support for details.
+BuildSystem.NetworkError.BanUserCenterButton.Name	CUSTOMER SUPPORT
+BuildSystem.NetworkError.BanUserEndButton.Name	END
+BuildSystem.IDProtect.TitleText.Name	LINK ACCOUNT
+BuildSystem.IDProtect.PopupText.Name	Select account to link.
+BuildSystem.IDProtect.Guestmodeoffline.Name	GUEST MODE
+BuildSystem.IDProtect.Guestmodeonline.Name	Connected as a guest
+BuildSystem.IDProtect.Facebookoffline.Name	Connect to Facebook
+BuildSystem.IDProtect.Facebookonline.Name	Connected to Facebook
+BuildSystem.IDProtect.Twitteroffline.Name	Connect to Twitter
+BuildSystem.IDProtect.Twitteronline.Name	Connected to Twitter
+BuildSystem.IDProtect.Emailoffline.Name	Connect to E-mail
+BuildSystem.IDProtect.Emailonline.Name	Connected to E-mail
+BuildSystem.IDProtect.GameCenteroffline.Name	Connect to Game Center
+BuildSystem.IDProtect.GameCenteronline.Name	Connected to Game Center
+BuildSystem.IDProtect.Googleplayoffline.Name	Connect to Google Play
+BuildSystem.IDProtect.Googleplayonline.Name	Connected to Google Play
+BuildSystem.NetworkError.NetworkError001.Name	[{0}] An error occurred while communicating with the internal server.
+BuildSystem.Sdk.EmailIDConnectErorr.Name	Access to the linked email account
+has been restricted by another device.
+Please reset the device info\n and restart the game.
+BuildSystem.PC.Login.Text1.Name	Enter the linked code.
+BuildSystem.PC.Login.Text2.Name	Enter linked password.
+BuildSystem.PC.Login.Text3.Name	Enter the linked code and password.
+BuildSystem.PC.Login.Text4.Name	There must be a linked code to play the PC Version Beta Test.\nPlease access the Link Menu from the mobile device to create a linked code.
+BuildSystem.PC.Login.Text5.Name	Enter the email address.
+BuildSystem.PC.Login.Text6.Name	Enter the email password.
+BuildSystem.PC.Login.Text7.Name	Enter the linked email address and password.
+BuildSystem.PC.Login.Text8.Name	There must be a linked email to play the PC Version Beta Test.\nPlease access the Link Menu from the mobile device to link the email.
+BuildSystem.PC.Login.Text9.Name	Log in failed because the authentication information did not match. First, link the account on the mobile device.
+BuildSystem.PC_Shop.Push.Text3.Name	Purchase Complete
+BuildSystem.PC_Shop.Push.Text4.Name	Purchase has been made.\nPlease close the game.
+BuildSystem.PC_Shop.Push.Text5.Name	There are items that cannot be recovered after canceling the purchase.\nAccess the game from the market and proceed to repurchase to play again.
+BuildSystem.PC.Login.Text10.Name	Save Email ID
+BuildSystem.PC.Login.Text11.Name	Save Link Code
+BuildSystem.PC.Login.Text12.Name	Link Guide
+BuildSystem.PC.Login.Text13.Name	Fighter info is required to play on PC.\nPlease try creating a Fighter from the mobile version and then log into the PC.
+BuildSystem.ClientCode.SystemWarning03.Name	Exit the game?
+BuildSystem.Common.Message.Button.Logout.Name	Log Out
+BuildSystem.PC.Login.Text14.Name	Email cannot be linked.\nPlease link an email through the mobile device.
+BuildSystem.PC.Login.Text15.Name	Wrong password.\nPlease enter the correct password.
+BuildSystem.PC.Login.Text16.Name	Wrong authentication info.\nPlease check to see if the link code or password is correct.
+BuildSystem.Sdk.SDK.Account.Text.01.Name	Delete Account Info
+BuildSystem.Sdk.SDK.Account.Text.11.Name	Once the Game Account is deleted, you can't use this account to play the game. After a 30-day grace period, the game account deletion will be completed. Please read the information below.
+BuildSystem.Sdk.SDK.Account.Text.12.Name	During a 30-day grace period, the Game Account Deletion can be canceled.
+BuildSystem.Sdk.SDK.Account.Text.13.Name	When the Game Account Deletion is completed: 
+BuildSystem.Sdk.SDK.Account.Text.14.Name	all game-related data will be terminated and this can't be recovered.
+BuildSystem.Sdk.SDK.Account.Text.15.Name	all personal information will be terminated and this can't be recovered.
+BuildSystem.Sdk.SDK.Account.Text.16.Name	I read and agree with the information above.
+BuildSystem.Sdk.SDK.Account.Text.17.Name	Cancel
+BuildSystem.Sdk.SDK.Account.Text.18.Name	Delete Game Account
+BuildSystem.Sdk.SDK.Account.Text.19.Name	To verify, you must sign in with Apple to delete the account.
+BuildSystem.Sdk.SDK.Account.Text.21.Name	The Game Account Deletion request is submitted. All game-related data and personal information will be terminated in 30 days.
+BuildSystem.Sdk.SDK.Account.Text.31.Name	This account is pending game account deletion and will be deleted on the following date.
+BuildSystem.Sdk.SDK.Account.Text.32.Name	Deletion Requested: {0}
+BuildSystem.Sdk.SDK.Account.Text.33.Name	Information Termination Date: {0}
+BuildSystem.Sdk.SDK.Account.Text.34.Name	Are you sure you want to withdraw the deletion of your game account? Withdrawing will allow you to continue playing normally.
+BuildSystem.Sdk.SDK.Account.Text.35.Name	Do you want to start a new game?
+All existing data will be deleted when starting a new game.
+BuildSystem.Sdk.SDK.Account.Text.36.Name	Start a New Game
+BuildSystem.Sdk.SDK.Account.Text.37.Name	Cancel Deletion
+BuildSystem.Sdk.SDK.Account.Text.41.Name	Game Account Deletion has been canceled.

@@ -1,0 +1,3565 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_teamrelay.py): Team Relay from the client's reads, the guides and recon/teamrelay_spec.md; HP, ATK, rewards, ids and unlisted texts are ours.",
+ "rows": [
+  {
+   "teamRelayRewardIndex": 50111,
+   "teamRelayRewardGroup": 5011,
+   "conditionTotalDamage": 3000000,
+   "rewardGroup": 7200001,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50112,
+   "teamRelayRewardGroup": 5011,
+   "conditionTotalDamage": 9000000,
+   "rewardGroup": 7200002,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50113,
+   "teamRelayRewardGroup": 5011,
+   "conditionTotalDamage": 18000000,
+   "rewardGroup": 7200003,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50114,
+   "teamRelayRewardGroup": 5011,
+   "conditionTotalDamage": 36000000,
+   "rewardGroup": 7200004,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50115,
+   "teamRelayRewardGroup": 5011,
+   "conditionTotalDamage": 60000000,
+   "rewardGroup": 7200005,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50121,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 1200000,
+   "rewardGroup": 7200006,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50122,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 2400000,
+   "rewardGroup": 7200007,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50123,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 3600000,
+   "rewardGroup": 7200008,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50124,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 4800000,
+   "rewardGroup": 7200009,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50125,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 6000000,
+   "rewardGroup": 7200010,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50126,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 7200000,
+   "rewardGroup": 7200011,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50127,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 8400000,
+   "rewardGroup": 7200012,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50128,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 9600000,
+   "rewardGroup": 7200013,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50129,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 10800000,
+   "rewardGroup": 7200014,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50130,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 12000000,
+   "rewardGroup": 7200015,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50131,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 13200000,
+   "rewardGroup": 7200016,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50132,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 14400000,
+   "rewardGroup": 7200017,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50133,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 15600000,
+   "rewardGroup": 7200018,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50134,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 16800000,
+   "rewardGroup": 7200019,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50135,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 18000000,
+   "rewardGroup": 7200020,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50136,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 19200000,
+   "rewardGroup": 7200021,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50137,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 20400000,
+   "rewardGroup": 7200022,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50138,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 21600000,
+   "rewardGroup": 7200023,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50139,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 22800000,
+   "rewardGroup": 7200024,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50140,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 24000000,
+   "rewardGroup": 7200025,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50141,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 25200000,
+   "rewardGroup": 7200026,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50142,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 26400000,
+   "rewardGroup": 7200027,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50143,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 27600000,
+   "rewardGroup": 7200028,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50144,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 28800000,
+   "rewardGroup": 7200029,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50145,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 30000000,
+   "rewardGroup": 7200030,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50146,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 31200000,
+   "rewardGroup": 7200031,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50147,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 32400000,
+   "rewardGroup": 7200032,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50148,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 33600000,
+   "rewardGroup": 7200033,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50149,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 34800000,
+   "rewardGroup": 7200034,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50150,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 36000000,
+   "rewardGroup": 7200035,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50151,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 37200000,
+   "rewardGroup": 7200036,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50152,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 38400000,
+   "rewardGroup": 7200037,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50153,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 39600000,
+   "rewardGroup": 7200038,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50154,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 40800000,
+   "rewardGroup": 7200039,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50155,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 42000000,
+   "rewardGroup": 7200040,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50156,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 43200000,
+   "rewardGroup": 7200041,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50157,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 44400000,
+   "rewardGroup": 7200042,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50158,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 45600000,
+   "rewardGroup": 7200043,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50159,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 46800000,
+   "rewardGroup": 7200044,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50160,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 48000000,
+   "rewardGroup": 7200045,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50161,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 49200000,
+   "rewardGroup": 7200046,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50162,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 50400000,
+   "rewardGroup": 7200047,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50163,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 51600000,
+   "rewardGroup": 7200048,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50164,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 52800000,
+   "rewardGroup": 7200049,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50165,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 54000000,
+   "rewardGroup": 7200050,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50166,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 55200000,
+   "rewardGroup": 7200051,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50167,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 56400000,
+   "rewardGroup": 7200052,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50168,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 57600000,
+   "rewardGroup": 7200053,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50169,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 58800000,
+   "rewardGroup": 7200054,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50170,
+   "teamRelayRewardGroup": 5012,
+   "conditionTotalDamage": 60000000,
+   "rewardGroup": 7200055,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50211,
+   "teamRelayRewardGroup": 5021,
+   "conditionTotalDamage": 7000000,
+   "rewardGroup": 7200056,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50212,
+   "teamRelayRewardGroup": 5021,
+   "conditionTotalDamage": 21000000,
+   "rewardGroup": 7200057,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50213,
+   "teamRelayRewardGroup": 5021,
+   "conditionTotalDamage": 42000000,
+   "rewardGroup": 7200058,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50214,
+   "teamRelayRewardGroup": 5021,
+   "conditionTotalDamage": 84000000,
+   "rewardGroup": 7200059,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50215,
+   "teamRelayRewardGroup": 5021,
+   "conditionTotalDamage": 140000000,
+   "rewardGroup": 7200060,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50221,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 2800000,
+   "rewardGroup": 7200061,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50222,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 5600000,
+   "rewardGroup": 7200062,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50223,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 8400000,
+   "rewardGroup": 7200063,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50224,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 11200000,
+   "rewardGroup": 7200064,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50225,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 14000000,
+   "rewardGroup": 7200065,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50226,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 16800000,
+   "rewardGroup": 7200066,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50227,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 19600000,
+   "rewardGroup": 7200067,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50228,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 22400000,
+   "rewardGroup": 7200068,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50229,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 25200000,
+   "rewardGroup": 7200069,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50230,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 28000000,
+   "rewardGroup": 7200070,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50231,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 30800000,
+   "rewardGroup": 7200071,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50232,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 33600000,
+   "rewardGroup": 7200072,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50233,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 36400000,
+   "rewardGroup": 7200073,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50234,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 39200000,
+   "rewardGroup": 7200074,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50235,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 42000000,
+   "rewardGroup": 7200075,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50236,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 44800000,
+   "rewardGroup": 7200076,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50237,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 47600000,
+   "rewardGroup": 7200077,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50238,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 50400000,
+   "rewardGroup": 7200078,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50239,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 53200000,
+   "rewardGroup": 7200079,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50240,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 56000000,
+   "rewardGroup": 7200080,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50241,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 58800000,
+   "rewardGroup": 7200081,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50242,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 61600000,
+   "rewardGroup": 7200082,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50243,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 64400000,
+   "rewardGroup": 7200083,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50244,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 67200000,
+   "rewardGroup": 7200084,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50245,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 70000000,
+   "rewardGroup": 7200085,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50246,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 72800000,
+   "rewardGroup": 7200086,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50247,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 75600000,
+   "rewardGroup": 7200087,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50248,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 78400000,
+   "rewardGroup": 7200088,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50249,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 81200000,
+   "rewardGroup": 7200089,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50250,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 84000000,
+   "rewardGroup": 7200090,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50251,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 86800000,
+   "rewardGroup": 7200091,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50252,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 89600000,
+   "rewardGroup": 7200092,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50253,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 92400000,
+   "rewardGroup": 7200093,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50254,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 95200000,
+   "rewardGroup": 7200094,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50255,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 98000000,
+   "rewardGroup": 7200095,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50256,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 100800000,
+   "rewardGroup": 7200096,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50257,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 103600000,
+   "rewardGroup": 7200097,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50258,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 106400000,
+   "rewardGroup": 7200098,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50259,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 109200000,
+   "rewardGroup": 7200099,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50260,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 112000000,
+   "rewardGroup": 7200100,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50261,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 114800000,
+   "rewardGroup": 7200101,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50262,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 117600000,
+   "rewardGroup": 7200102,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50263,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 120400000,
+   "rewardGroup": 7200103,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50264,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 123200000,
+   "rewardGroup": 7200104,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50265,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 126000000,
+   "rewardGroup": 7200105,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50266,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 128800000,
+   "rewardGroup": 7200106,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50267,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 131600000,
+   "rewardGroup": 7200107,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50268,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 134400000,
+   "rewardGroup": 7200108,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50269,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 137200000,
+   "rewardGroup": 7200109,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50270,
+   "teamRelayRewardGroup": 5022,
+   "conditionTotalDamage": 140000000,
+   "rewardGroup": 7200110,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50311,
+   "teamRelayRewardGroup": 5031,
+   "conditionTotalDamage": 720000,
+   "rewardGroup": 7200111,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50312,
+   "teamRelayRewardGroup": 5031,
+   "conditionTotalDamage": 2160000,
+   "rewardGroup": 7200112,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50313,
+   "teamRelayRewardGroup": 5031,
+   "conditionTotalDamage": 4320000,
+   "rewardGroup": 7200113,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50314,
+   "teamRelayRewardGroup": 5031,
+   "conditionTotalDamage": 8640000,
+   "rewardGroup": 7200114,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50315,
+   "teamRelayRewardGroup": 5031,
+   "conditionTotalDamage": 14400000,
+   "rewardGroup": 7200115,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50321,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 288000,
+   "rewardGroup": 7200116,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50322,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 576000,
+   "rewardGroup": 7200117,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50323,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 864000,
+   "rewardGroup": 7200118,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50324,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 1152000,
+   "rewardGroup": 7200119,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50325,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 1440000,
+   "rewardGroup": 7200120,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50326,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 1728000,
+   "rewardGroup": 7200121,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50327,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 2016000,
+   "rewardGroup": 7200122,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50328,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 2304000,
+   "rewardGroup": 7200123,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50329,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 2592000,
+   "rewardGroup": 7200124,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50330,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 2880000,
+   "rewardGroup": 7200125,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50331,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 3168000,
+   "rewardGroup": 7200126,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50332,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 3456000,
+   "rewardGroup": 7200127,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50333,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 3744000,
+   "rewardGroup": 7200128,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50334,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 4032000,
+   "rewardGroup": 7200129,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50335,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 4320000,
+   "rewardGroup": 7200130,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50336,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 4608000,
+   "rewardGroup": 7200131,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50337,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 4896000,
+   "rewardGroup": 7200132,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50338,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 5184000,
+   "rewardGroup": 7200133,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50339,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 5472000,
+   "rewardGroup": 7200134,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50340,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 5760000,
+   "rewardGroup": 7200135,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50341,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 6048000,
+   "rewardGroup": 7200136,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50342,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 6336000,
+   "rewardGroup": 7200137,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50343,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 6624000,
+   "rewardGroup": 7200138,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50344,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 6912000,
+   "rewardGroup": 7200139,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50345,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 7200000,
+   "rewardGroup": 7200140,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50346,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 7488000,
+   "rewardGroup": 7200141,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50347,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 7776000,
+   "rewardGroup": 7200142,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50348,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 8064000,
+   "rewardGroup": 7200143,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50349,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 8352000,
+   "rewardGroup": 7200144,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50350,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 8640000,
+   "rewardGroup": 7200145,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50351,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 8928000,
+   "rewardGroup": 7200146,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50352,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 9216000,
+   "rewardGroup": 7200147,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50353,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 9504000,
+   "rewardGroup": 7200148,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50354,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 9792000,
+   "rewardGroup": 7200149,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50355,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 10080000,
+   "rewardGroup": 7200150,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50356,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 10368000,
+   "rewardGroup": 7200151,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50357,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 10656000,
+   "rewardGroup": 7200152,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50358,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 10944000,
+   "rewardGroup": 7200153,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50359,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 11232000,
+   "rewardGroup": 7200154,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50360,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 11520000,
+   "rewardGroup": 7200155,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50361,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 11808000,
+   "rewardGroup": 7200156,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50362,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 12096000,
+   "rewardGroup": 7200157,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50363,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 12384000,
+   "rewardGroup": 7200158,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50364,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 12672000,
+   "rewardGroup": 7200159,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50365,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 12960000,
+   "rewardGroup": 7200160,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50366,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 13248000,
+   "rewardGroup": 7200161,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50367,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 13536000,
+   "rewardGroup": 7200162,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50368,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 13824000,
+   "rewardGroup": 7200163,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50369,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 14112000,
+   "rewardGroup": 7200164,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50370,
+   "teamRelayRewardGroup": 5032,
+   "conditionTotalDamage": 14400000,
+   "rewardGroup": 7200165,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50411,
+   "teamRelayRewardGroup": 5041,
+   "conditionTotalDamage": 960000,
+   "rewardGroup": 7200166,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50412,
+   "teamRelayRewardGroup": 5041,
+   "conditionTotalDamage": 2880000,
+   "rewardGroup": 7200167,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50413,
+   "teamRelayRewardGroup": 5041,
+   "conditionTotalDamage": 5760000,
+   "rewardGroup": 7200168,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50414,
+   "teamRelayRewardGroup": 5041,
+   "conditionTotalDamage": 11520000,
+   "rewardGroup": 7200169,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50415,
+   "teamRelayRewardGroup": 5041,
+   "conditionTotalDamage": 19200000,
+   "rewardGroup": 7200170,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50421,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 384000,
+   "rewardGroup": 7200171,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50422,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 768000,
+   "rewardGroup": 7200172,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50423,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 1152000,
+   "rewardGroup": 7200173,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50424,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 1536000,
+   "rewardGroup": 7200174,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50425,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 1920000,
+   "rewardGroup": 7200175,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50426,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 2304000,
+   "rewardGroup": 7200176,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50427,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 2688000,
+   "rewardGroup": 7200177,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50428,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 3072000,
+   "rewardGroup": 7200178,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50429,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 3456000,
+   "rewardGroup": 7200179,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50430,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 3840000,
+   "rewardGroup": 7200180,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50431,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 4224000,
+   "rewardGroup": 7200181,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50432,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 4608000,
+   "rewardGroup": 7200182,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50433,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 4992000,
+   "rewardGroup": 7200183,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50434,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 5376000,
+   "rewardGroup": 7200184,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50435,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 5760000,
+   "rewardGroup": 7200185,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50436,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 6144000,
+   "rewardGroup": 7200186,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50437,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 6528000,
+   "rewardGroup": 7200187,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50438,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 6912000,
+   "rewardGroup": 7200188,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50439,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 7296000,
+   "rewardGroup": 7200189,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50440,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 7680000,
+   "rewardGroup": 7200190,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50441,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 8064000,
+   "rewardGroup": 7200191,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50442,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 8448000,
+   "rewardGroup": 7200192,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50443,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 8832000,
+   "rewardGroup": 7200193,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50444,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 9216000,
+   "rewardGroup": 7200194,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50445,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 9600000,
+   "rewardGroup": 7200195,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50446,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 9984000,
+   "rewardGroup": 7200196,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50447,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 10368000,
+   "rewardGroup": 7200197,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50448,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 10752000,
+   "rewardGroup": 7200198,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50449,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 11136000,
+   "rewardGroup": 7200199,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50450,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 11520000,
+   "rewardGroup": 7200200,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50451,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 11904000,
+   "rewardGroup": 7200201,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50452,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 12288000,
+   "rewardGroup": 7200202,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50453,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 12672000,
+   "rewardGroup": 7200203,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50454,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 13056000,
+   "rewardGroup": 7200204,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50455,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 13440000,
+   "rewardGroup": 7200205,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50456,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 13824000,
+   "rewardGroup": 7200206,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50457,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 14208000,
+   "rewardGroup": 7200207,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50458,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 14592000,
+   "rewardGroup": 7200208,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50459,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 14976000,
+   "rewardGroup": 7200209,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50460,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 15360000,
+   "rewardGroup": 7200210,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50461,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 15744000,
+   "rewardGroup": 7200211,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50462,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 16128000,
+   "rewardGroup": 7200212,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50463,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 16512000,
+   "rewardGroup": 7200213,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50464,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 16896000,
+   "rewardGroup": 7200214,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50465,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 17280000,
+   "rewardGroup": 7200215,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50466,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 17664000,
+   "rewardGroup": 7200216,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50467,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 18048000,
+   "rewardGroup": 7200217,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50468,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 18432000,
+   "rewardGroup": 7200218,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50469,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 18816000,
+   "rewardGroup": 7200219,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50470,
+   "teamRelayRewardGroup": 5042,
+   "conditionTotalDamage": 19200000,
+   "rewardGroup": 7200220,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50511,
+   "teamRelayRewardGroup": 5051,
+   "conditionTotalDamage": 1710000,
+   "rewardGroup": 7200221,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50512,
+   "teamRelayRewardGroup": 5051,
+   "conditionTotalDamage": 5130000,
+   "rewardGroup": 7200222,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50513,
+   "teamRelayRewardGroup": 5051,
+   "conditionTotalDamage": 10260000,
+   "rewardGroup": 7200223,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50514,
+   "teamRelayRewardGroup": 5051,
+   "conditionTotalDamage": 20520000,
+   "rewardGroup": 7200224,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50515,
+   "teamRelayRewardGroup": 5051,
+   "conditionTotalDamage": 34200000,
+   "rewardGroup": 7200225,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50521,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 684000,
+   "rewardGroup": 7200226,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50522,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 1368000,
+   "rewardGroup": 7200227,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50523,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 2052000,
+   "rewardGroup": 7200228,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50524,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 2736000,
+   "rewardGroup": 7200229,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50525,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 3420000,
+   "rewardGroup": 7200230,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50526,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 4104000,
+   "rewardGroup": 7200231,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50527,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 4788000,
+   "rewardGroup": 7200232,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50528,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 5472000,
+   "rewardGroup": 7200233,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50529,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 6156000,
+   "rewardGroup": 7200234,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50530,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 6840000,
+   "rewardGroup": 7200235,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50531,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 7524000,
+   "rewardGroup": 7200236,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50532,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 8208000,
+   "rewardGroup": 7200237,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50533,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 8892000,
+   "rewardGroup": 7200238,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50534,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 9576000,
+   "rewardGroup": 7200239,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50535,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 10260000,
+   "rewardGroup": 7200240,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50536,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 10944000,
+   "rewardGroup": 7200241,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50537,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 11628000,
+   "rewardGroup": 7200242,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50538,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 12312000,
+   "rewardGroup": 7200243,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50539,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 12996000,
+   "rewardGroup": 7200244,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50540,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 13680000,
+   "rewardGroup": 7200245,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50541,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 14364000,
+   "rewardGroup": 7200246,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50542,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 15048000,
+   "rewardGroup": 7200247,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50543,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 15732000,
+   "rewardGroup": 7200248,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50544,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 16416000,
+   "rewardGroup": 7200249,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50545,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 17100000,
+   "rewardGroup": 7200250,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50546,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 17784000,
+   "rewardGroup": 7200251,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50547,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 18468000,
+   "rewardGroup": 7200252,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50548,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 19152000,
+   "rewardGroup": 7200253,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50549,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 19836000,
+   "rewardGroup": 7200254,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50550,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 20520000,
+   "rewardGroup": 7200255,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50551,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 21204000,
+   "rewardGroup": 7200256,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50552,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 21888000,
+   "rewardGroup": 7200257,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50553,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 22572000,
+   "rewardGroup": 7200258,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50554,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 23256000,
+   "rewardGroup": 7200259,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50555,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 23940000,
+   "rewardGroup": 7200260,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50556,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 24624000,
+   "rewardGroup": 7200261,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50557,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 25308000,
+   "rewardGroup": 7200262,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50558,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 25992000,
+   "rewardGroup": 7200263,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50559,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 26676000,
+   "rewardGroup": 7200264,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50560,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 27360000,
+   "rewardGroup": 7200265,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50561,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 28044000,
+   "rewardGroup": 7200266,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50562,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 28728000,
+   "rewardGroup": 7200267,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50563,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 29412000,
+   "rewardGroup": 7200268,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50564,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 30096000,
+   "rewardGroup": 7200269,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50565,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 30780000,
+   "rewardGroup": 7200270,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50566,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 31464000,
+   "rewardGroup": 7200271,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50567,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 32148000,
+   "rewardGroup": 7200272,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50568,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 32832000,
+   "rewardGroup": 7200273,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50569,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 33516000,
+   "rewardGroup": 7200274,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50570,
+   "teamRelayRewardGroup": 5052,
+   "conditionTotalDamage": 34200000,
+   "rewardGroup": 7200275,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60111,
+   "teamRelayRewardGroup": 6011,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200276,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60112,
+   "teamRelayRewardGroup": 6011,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200277,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60113,
+   "teamRelayRewardGroup": 6011,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200278,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60114,
+   "teamRelayRewardGroup": 6011,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200279,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60115,
+   "teamRelayRewardGroup": 6011,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200280,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60121,
+   "teamRelayRewardGroup": 6012,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200281,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60122,
+   "teamRelayRewardGroup": 6012,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200282,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60123,
+   "teamRelayRewardGroup": 6012,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200283,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60124,
+   "teamRelayRewardGroup": 6012,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200284,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60125,
+   "teamRelayRewardGroup": 6012,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200285,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60211,
+   "teamRelayRewardGroup": 6021,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200286,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60212,
+   "teamRelayRewardGroup": 6021,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200287,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60213,
+   "teamRelayRewardGroup": 6021,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200288,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60214,
+   "teamRelayRewardGroup": 6021,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200289,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60215,
+   "teamRelayRewardGroup": 6021,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200290,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60221,
+   "teamRelayRewardGroup": 6022,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200291,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60222,
+   "teamRelayRewardGroup": 6022,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200292,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60223,
+   "teamRelayRewardGroup": 6022,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200293,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60224,
+   "teamRelayRewardGroup": 6022,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200294,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60225,
+   "teamRelayRewardGroup": 6022,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200295,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60311,
+   "teamRelayRewardGroup": 6031,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200296,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60312,
+   "teamRelayRewardGroup": 6031,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200297,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60313,
+   "teamRelayRewardGroup": 6031,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200298,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60314,
+   "teamRelayRewardGroup": 6031,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200299,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60315,
+   "teamRelayRewardGroup": 6031,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200300,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60321,
+   "teamRelayRewardGroup": 6032,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200301,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60322,
+   "teamRelayRewardGroup": 6032,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200302,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60323,
+   "teamRelayRewardGroup": 6032,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200303,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60324,
+   "teamRelayRewardGroup": 6032,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200304,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60325,
+   "teamRelayRewardGroup": 6032,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200305,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60411,
+   "teamRelayRewardGroup": 6041,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200306,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60412,
+   "teamRelayRewardGroup": 6041,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200307,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60413,
+   "teamRelayRewardGroup": 6041,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200308,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60414,
+   "teamRelayRewardGroup": 6041,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200309,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60415,
+   "teamRelayRewardGroup": 6041,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200310,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60421,
+   "teamRelayRewardGroup": 6042,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200311,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60422,
+   "teamRelayRewardGroup": 6042,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200312,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60423,
+   "teamRelayRewardGroup": 6042,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200313,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60424,
+   "teamRelayRewardGroup": 6042,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200314,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60425,
+   "teamRelayRewardGroup": 6042,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200315,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60511,
+   "teamRelayRewardGroup": 6051,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200316,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60512,
+   "teamRelayRewardGroup": 6051,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200317,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60513,
+   "teamRelayRewardGroup": 6051,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200318,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60514,
+   "teamRelayRewardGroup": 6051,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200319,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60515,
+   "teamRelayRewardGroup": 6051,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200320,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60521,
+   "teamRelayRewardGroup": 6052,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200321,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60522,
+   "teamRelayRewardGroup": 6052,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200322,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60523,
+   "teamRelayRewardGroup": 6052,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200323,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60524,
+   "teamRelayRewardGroup": 6052,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200324,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60525,
+   "teamRelayRewardGroup": 6052,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200325,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60611,
+   "teamRelayRewardGroup": 6061,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200326,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60612,
+   "teamRelayRewardGroup": 6061,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200327,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60613,
+   "teamRelayRewardGroup": 6061,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200328,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60614,
+   "teamRelayRewardGroup": 6061,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200329,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60615,
+   "teamRelayRewardGroup": 6061,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200330,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60621,
+   "teamRelayRewardGroup": 6062,
+   "conditionTotalDamage": 100000000,
+   "rewardGroup": 7200331,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60622,
+   "teamRelayRewardGroup": 6062,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200332,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60623,
+   "teamRelayRewardGroup": 6062,
+   "conditionTotalDamage": 600000000,
+   "rewardGroup": 7200333,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60624,
+   "teamRelayRewardGroup": 6062,
+   "conditionTotalDamage": 1200000000,
+   "rewardGroup": 7200334,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 60625,
+   "teamRelayRewardGroup": 6062,
+   "conditionTotalDamage": 2000000000,
+   "rewardGroup": 7200335,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50611,
+   "teamRelayRewardGroup": 5061,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200336,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50612,
+   "teamRelayRewardGroup": 5061,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200337,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50613,
+   "teamRelayRewardGroup": 5061,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200338,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50614,
+   "teamRelayRewardGroup": 5061,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200339,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50615,
+   "teamRelayRewardGroup": 5061,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200340,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50621,
+   "teamRelayRewardGroup": 5062,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200341,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50622,
+   "teamRelayRewardGroup": 5062,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200342,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50623,
+   "teamRelayRewardGroup": 5062,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200343,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50624,
+   "teamRelayRewardGroup": 5062,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200344,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50625,
+   "teamRelayRewardGroup": 5062,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200345,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50711,
+   "teamRelayRewardGroup": 5071,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200346,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50712,
+   "teamRelayRewardGroup": 5071,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200347,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50713,
+   "teamRelayRewardGroup": 5071,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200348,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50714,
+   "teamRelayRewardGroup": 5071,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200349,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50715,
+   "teamRelayRewardGroup": 5071,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200350,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50721,
+   "teamRelayRewardGroup": 5072,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200351,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50722,
+   "teamRelayRewardGroup": 5072,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200352,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50723,
+   "teamRelayRewardGroup": 5072,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200353,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50724,
+   "teamRelayRewardGroup": 5072,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200354,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50725,
+   "teamRelayRewardGroup": 5072,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200355,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50811,
+   "teamRelayRewardGroup": 5081,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200356,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50812,
+   "teamRelayRewardGroup": 5081,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200357,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50813,
+   "teamRelayRewardGroup": 5081,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200358,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50814,
+   "teamRelayRewardGroup": 5081,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200359,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50815,
+   "teamRelayRewardGroup": 5081,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200360,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50821,
+   "teamRelayRewardGroup": 5082,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200361,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50822,
+   "teamRelayRewardGroup": 5082,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200362,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50823,
+   "teamRelayRewardGroup": 5082,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200363,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50824,
+   "teamRelayRewardGroup": 5082,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200364,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50825,
+   "teamRelayRewardGroup": 5082,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200365,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50911,
+   "teamRelayRewardGroup": 5091,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200366,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50912,
+   "teamRelayRewardGroup": 5091,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200367,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50913,
+   "teamRelayRewardGroup": 5091,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200368,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50914,
+   "teamRelayRewardGroup": 5091,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200369,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50915,
+   "teamRelayRewardGroup": 5091,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200370,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50921,
+   "teamRelayRewardGroup": 5092,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200371,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50922,
+   "teamRelayRewardGroup": 5092,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200372,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50923,
+   "teamRelayRewardGroup": 5092,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200373,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50924,
+   "teamRelayRewardGroup": 5092,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200374,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 50925,
+   "teamRelayRewardGroup": 5092,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200375,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51011,
+   "teamRelayRewardGroup": 5101,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200376,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51012,
+   "teamRelayRewardGroup": 5101,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200377,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51013,
+   "teamRelayRewardGroup": 5101,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200378,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51014,
+   "teamRelayRewardGroup": 5101,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200379,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51015,
+   "teamRelayRewardGroup": 5101,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200380,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51021,
+   "teamRelayRewardGroup": 5102,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200381,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51022,
+   "teamRelayRewardGroup": 5102,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200382,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51023,
+   "teamRelayRewardGroup": 5102,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200383,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51024,
+   "teamRelayRewardGroup": 5102,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200384,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51025,
+   "teamRelayRewardGroup": 5102,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200385,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51111,
+   "teamRelayRewardGroup": 5111,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200386,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51112,
+   "teamRelayRewardGroup": 5111,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200387,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51113,
+   "teamRelayRewardGroup": 5111,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200388,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51114,
+   "teamRelayRewardGroup": 5111,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200389,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51115,
+   "teamRelayRewardGroup": 5111,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200390,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51121,
+   "teamRelayRewardGroup": 5112,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200391,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51122,
+   "teamRelayRewardGroup": 5112,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200392,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51123,
+   "teamRelayRewardGroup": 5112,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200393,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51124,
+   "teamRelayRewardGroup": 5112,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200394,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51125,
+   "teamRelayRewardGroup": 5112,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200395,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51211,
+   "teamRelayRewardGroup": 5121,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200396,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51212,
+   "teamRelayRewardGroup": 5121,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200397,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51213,
+   "teamRelayRewardGroup": 5121,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200398,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51214,
+   "teamRelayRewardGroup": 5121,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200399,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51215,
+   "teamRelayRewardGroup": 5121,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200400,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51221,
+   "teamRelayRewardGroup": 5122,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200401,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51222,
+   "teamRelayRewardGroup": 5122,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200402,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51223,
+   "teamRelayRewardGroup": 5122,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200403,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51224,
+   "teamRelayRewardGroup": 5122,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200404,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51225,
+   "teamRelayRewardGroup": 5122,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200405,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51311,
+   "teamRelayRewardGroup": 5131,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200406,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51312,
+   "teamRelayRewardGroup": 5131,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200407,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51313,
+   "teamRelayRewardGroup": 5131,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200408,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51314,
+   "teamRelayRewardGroup": 5131,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200409,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51315,
+   "teamRelayRewardGroup": 5131,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200410,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51321,
+   "teamRelayRewardGroup": 5132,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200411,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51322,
+   "teamRelayRewardGroup": 5132,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200412,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51323,
+   "teamRelayRewardGroup": 5132,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200413,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51324,
+   "teamRelayRewardGroup": 5132,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200414,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51325,
+   "teamRelayRewardGroup": 5132,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200415,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51411,
+   "teamRelayRewardGroup": 5141,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200416,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51412,
+   "teamRelayRewardGroup": 5141,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200417,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51413,
+   "teamRelayRewardGroup": 5141,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200418,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51414,
+   "teamRelayRewardGroup": 5141,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200419,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51415,
+   "teamRelayRewardGroup": 5141,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200420,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51421,
+   "teamRelayRewardGroup": 5142,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200421,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51422,
+   "teamRelayRewardGroup": 5142,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200422,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51423,
+   "teamRelayRewardGroup": 5142,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200423,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51424,
+   "teamRelayRewardGroup": 5142,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200424,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51425,
+   "teamRelayRewardGroup": 5142,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200425,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51511,
+   "teamRelayRewardGroup": 5151,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200426,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51512,
+   "teamRelayRewardGroup": 5151,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200427,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51513,
+   "teamRelayRewardGroup": 5151,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200428,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51514,
+   "teamRelayRewardGroup": 5151,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200429,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51515,
+   "teamRelayRewardGroup": 5151,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200430,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51521,
+   "teamRelayRewardGroup": 5152,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200431,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51522,
+   "teamRelayRewardGroup": 5152,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200432,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51523,
+   "teamRelayRewardGroup": 5152,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200433,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51524,
+   "teamRelayRewardGroup": 5152,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200434,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51525,
+   "teamRelayRewardGroup": 5152,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200435,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51611,
+   "teamRelayRewardGroup": 5161,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200436,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51612,
+   "teamRelayRewardGroup": 5161,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200437,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51613,
+   "teamRelayRewardGroup": 5161,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200438,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51614,
+   "teamRelayRewardGroup": 5161,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200439,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51615,
+   "teamRelayRewardGroup": 5161,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200440,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51621,
+   "teamRelayRewardGroup": 5162,
+   "conditionTotalDamage": 25000000,
+   "rewardGroup": 7200441,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51622,
+   "teamRelayRewardGroup": 5162,
+   "conditionTotalDamage": 75000000,
+   "rewardGroup": 7200442,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51623,
+   "teamRelayRewardGroup": 5162,
+   "conditionTotalDamage": 150000000,
+   "rewardGroup": 7200443,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51624,
+   "teamRelayRewardGroup": 5162,
+   "conditionTotalDamage": 300000000,
+   "rewardGroup": 7200444,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  },
+  {
+   "teamRelayRewardIndex": 51625,
+   "teamRelayRewardGroup": 5162,
+   "conditionTotalDamage": 500000000,
+   "rewardGroup": 7200445,
+   "rewardGradeUse": 0,
+   "rewardGradeIcon": 0
+  }
+ ]
+}

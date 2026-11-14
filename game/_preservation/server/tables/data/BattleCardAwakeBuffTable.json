@@ -1,0 +1,113 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_builds.py): set / option cards, transcend and imprint stones from the user's build videos and the client's own art; values not shown there are ours.",
+ "rows": [
+  {
+   "awakeBuffIndex": 99001,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900031",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99002,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900032",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99003,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900033",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99004,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900034",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99005,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900035",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99006,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900036",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99007,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900037",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99008,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900038",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99009,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900039",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99010,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900040",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99011,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900041",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99012,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900042",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99013,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900043",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99014,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900044",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99015,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900045",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99016,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900046",
+   "awakeBuffGroupRate": 811
+  },
+  {
+   "awakeBuffIndex": 99017,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900047",
+   "awakeBuffGroupRate": 300
+  },
+  {
+   "awakeBuffIndex": 99018,
+   "awakeBuffGroup": 1,
+   "awakeBuffIndexString": "9900048",
+   "awakeBuffGroupRate": 811
+  }
+ ]
+}

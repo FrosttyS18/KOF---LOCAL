@@ -1,0 +1,35 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentPartsTypeIndex": 1,
+   "partsType": 1,
+   "partsTypeName": "Offline.Plugin.Part.1.Name",
+   "frameGradeForSlot": 0
+  },
+  {
+   "equipmentPartsTypeIndex": 2,
+   "partsType": 2,
+   "partsTypeName": "Offline.Plugin.Part.2.Name",
+   "frameGradeForSlot": 0
+  },
+  {
+   "equipmentPartsTypeIndex": 3,
+   "partsType": 3,
+   "partsTypeName": "Offline.Plugin.Part.3.Name",
+   "frameGradeForSlot": 0
+  },
+  {
+   "equipmentPartsTypeIndex": 4,
+   "partsType": 4,
+   "partsTypeName": "Offline.Plugin.Part.4.Name",
+   "frameGradeForSlot": 0
+  },
+  {
+   "equipmentPartsTypeIndex": 5,
+   "partsType": 5,
+   "partsTypeName": "Offline.Plugin.Part.5.Name",
+   "frameGradeForSlot": 100
+  }
+ ]
+}

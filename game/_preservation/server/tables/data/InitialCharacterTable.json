@@ -1,0 +1,44 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written for the offline server; numbering and values are not the original data.",
+ "rows": [
+  {
+   "initialCharacterIndex": 1,
+   "initialCharacterIndexString": "1",
+   "characterIndex": 1196,
+   "grade": 5,
+   "level": 1,
+   "introductionTitleTag": "Offline.CharacterSelect.kyo.Title",
+   "introductionDescTag": "Offline.CharacterSelect.kyo.Desc",
+   "power": 1000,
+   "characterHPPower": 8,
+   "characterAtkPower": 9,
+   "characterDefPower": 7
+  },
+  {
+   "initialCharacterIndex": 2,
+   "initialCharacterIndexString": "2",
+   "characterIndex": 1002,
+   "grade": 5,
+   "level": 1,
+   "introductionTitleTag": "Offline.CharacterSelect.chizuru.Title",
+   "introductionDescTag": "Offline.CharacterSelect.chizuru.Desc",
+   "power": 1000,
+   "characterHPPower": 9,
+   "characterAtkPower": 6,
+   "characterDefPower": 9
+  },
+  {
+   "initialCharacterIndex": 3,
+   "initialCharacterIndexString": "3",
+   "characterIndex": 1132,
+   "grade": 5,
+   "level": 1,
+   "introductionTitleTag": "Offline.CharacterSelect.iori.Title",
+   "introductionDescTag": "Offline.CharacterSelect.iori.Desc",
+   "power": 1000,
+   "characterHPPower": 8,
+   "characterAtkPower": 11,
+   "characterDefPower": 5
+  }
+ ]
+}

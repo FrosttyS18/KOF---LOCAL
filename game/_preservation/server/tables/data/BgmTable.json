@@ -1,0 +1,180 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (gen_lobbybgm.py): menu music per BGMFileType; tracks OURS by name",
+ "rows": [
+  {
+   "bgmIndex": 1001,
+   "bgmIndexString": "Lobby_Title",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Title_01"
+  },
+  {
+   "bgmIndex": 1002,
+   "bgmIndexString": "Lobby_Default",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Lobby_01"
+  },
+  {
+   "bgmIndex": 1003,
+   "bgmIndexString": "Lobby_FighterSetting",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Fighterui_01"
+  },
+  {
+   "bgmIndex": 1004,
+   "bgmIndexString": "Lobby_CardSetting",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Battlecardui_01"
+  },
+  {
+   "bgmIndex": 1005,
+   "bgmIndexString": "Lobby_ModeSelect",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Modeselect_01"
+  },
+  {
+   "bgmIndex": 1006,
+   "bgmIndexString": "Lobby_Story94",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_94"
+  },
+  {
+   "bgmIndex": 1007,
+   "bgmIndexString": "Lobby_Story95",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_95"
+  },
+  {
+   "bgmIndex": 1008,
+   "bgmIndexString": "Lobby_Story96",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_96"
+  },
+  {
+   "bgmIndex": 1009,
+   "bgmIndexString": "Lobby_Story97",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_97"
+  },
+  {
+   "bgmIndex": 1010,
+   "bgmIndexString": "Lobby_Story98",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_98"
+  },
+  {
+   "bgmIndex": 1011,
+   "bgmIndexString": "Lobby_EventQuest",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Event_01"
+  },
+  {
+   "bgmIndex": 1012,
+   "bgmIndexString": "Lobby_TowerMode",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Tower_01"
+  },
+  {
+   "bgmIndex": 1013,
+   "bgmIndexString": "Lobby_SideQuest",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Side_01"
+  },
+  {
+   "bgmIndex": 1014,
+   "bgmIndexString": "Lobby_CoopMode",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Coopui_Stagelist_01"
+  },
+  {
+   "bgmIndex": 1015,
+   "bgmIndexString": "Lobby_BattleMode",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Battleui_Main_01"
+  },
+  {
+   "bgmIndex": 1016,
+   "bgmIndexString": "Lobby_Shop",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Menuui_01"
+  },
+  {
+   "bgmIndex": 1017,
+   "bgmIndexString": "Lobby_Item",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Menuui_01"
+  },
+  {
+   "bgmIndex": 1018,
+   "bgmIndexString": "Lobby_SpecialQuest",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Special_01"
+  },
+  {
+   "bgmIndex": 1019,
+   "bgmIndexString": "Lobby_Collection",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Etc_01"
+  },
+  {
+   "bgmIndex": 1020,
+   "bgmIndexString": "Lobby_Guild",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Guild_01"
+  },
+  {
+   "bgmIndex": 1021,
+   "bgmIndexString": "Lobby_SpecialMatch",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Multiui_01"
+  },
+  {
+   "bgmIndex": 1022,
+   "bgmIndexString": "Saga_Select",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Modeselect_02"
+  },
+  {
+   "bgmIndex": 1023,
+   "bgmIndexString": "Lobby_Story99",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_99"
+  },
+  {
+   "bgmIndex": 1024,
+   "bgmIndexString": "Lobby_Story2000",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_00"
+  },
+  {
+   "bgmIndex": 1025,
+   "bgmIndexString": "Lobby_Story2001",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Story_01"
+  },
+  {
+   "bgmIndex": 5001,
+   "bgmIndexString": "Event_Roulette",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Event_01"
+  },
+  {
+   "bgmIndex": 5002,
+   "bgmIndexString": "Lobby_SuperMission",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Special_02"
+  },
+  {
+   "bgmIndex": 7001,
+   "bgmIndexString": "Growth_Mission",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Etc_01"
+  },
+  {
+   "bgmIndex": 8001,
+   "bgmIndexString": "EpicEpisodeSelect",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Epic_01"
+  },
+  {
+   "bgmIndex": 8002,
+   "bgmIndexString": "SuraSatgeSelect",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Sura_01"
+  },
+  {
+   "bgmIndex": 8003,
+   "bgmIndexString": "ProveDungeonLobby",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Prove_01"
+  },
+  {
+   "bgmIndex": 8004,
+   "bgmIndexString": "AwakenQuestLobby",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Soul_01"
+  },
+  {
+   "bgmIndex": 8005,
+   "bgmIndexString": "HighScoreLobby",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Aesgis_01"
+  },
+  {
+   "bgmIndex": 8006,
+   "bgmIndexString": "BuffSelectDungeon",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Questui_Etc_01"
+  },
+  {
+   "bgmIndex": 10001,
+   "bgmIndexString": "EquipmentDungeon",
+   "bgmFileName": "Prefabs/SND/BGM/BGM_Stage_Event_Factory_01"
+  }
+ ]
+}

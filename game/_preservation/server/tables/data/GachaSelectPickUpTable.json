@@ -1,0 +1,23 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_gacha.py): summon banners from the final update video, the guides and the game's cached banner art; lineups, rates beyond the guides' and ids are ours.",
+ "rows": [
+  {
+   "gachaSelectPickUpIndex": 1,
+   "selectPickUpCount": 2,
+   "selectPickUpGradeLimit": 5,
+   "gradeLimitCount": 2,
+   "selectPickUpTypeLimit": 1,
+   "typeLimitCount": "1",
+   "selectPickupFixedRate": 0.3
+  },
+  {
+   "gachaSelectPickUpIndex": 2,
+   "selectPickUpCount": 2,
+   "selectPickUpGradeLimit": 5,
+   "gradeLimitCount": 2,
+   "selectPickUpTypeLimit": 1,
+   "typeLimitCount": "1",
+   "selectPickupFixedRate": 0.3
+  }
+ ]
+}

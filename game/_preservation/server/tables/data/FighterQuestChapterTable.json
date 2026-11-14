@@ -1,0 +1,45 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_soulquest.py): Soul Quest from the client's reads, the guides and recon/soulquest_spec.md; levels, ids and unlisted texts are ours.",
+ "rows": [
+  {
+   "fighterQuestChapterIndex": 1,
+   "chapterNameTag": "Offline.FighterQuest.Chapter.1.Name",
+   "displaySortOrder": 1,
+   "chapterStageMaxValue": 9,
+   "chapterDescriptionTag": "Offline.FighterQuest.Chapter.1.Desc",
+   "serviceList": "0123456"
+  },
+  {
+   "fighterQuestChapterIndex": 2,
+   "chapterNameTag": "Offline.FighterQuest.Chapter.1.Name",
+   "displaySortOrder": 2,
+   "chapterStageMaxValue": 9,
+   "chapterDescriptionTag": "Offline.FighterQuest.Chapter.1.Desc",
+   "serviceList": "0123456"
+  },
+  {
+   "fighterQuestChapterIndex": 3,
+   "chapterNameTag": "Offline.FighterQuest.Chapter.1.Name",
+   "displaySortOrder": 3,
+   "chapterStageMaxValue": 9,
+   "chapterDescriptionTag": "Offline.FighterQuest.Chapter.1.Desc",
+   "serviceList": "0123456"
+  },
+  {
+   "fighterQuestChapterIndex": 4,
+   "chapterNameTag": "Offline.FighterQuest.Chapter.1.Name",
+   "displaySortOrder": 4,
+   "chapterStageMaxValue": 9,
+   "chapterDescriptionTag": "Offline.FighterQuest.Chapter.1.Desc",
+   "serviceList": "0123456"
+  },
+  {
+   "fighterQuestChapterIndex": 5,
+   "chapterNameTag": "Offline.FighterQuest.Chapter.1.Name",
+   "displaySortOrder": 5,
+   "chapterStageMaxValue": 9,
+   "chapterDescriptionTag": "Offline.FighterQuest.Chapter.1.Desc",
+   "serviceList": "0123456"
+  }
+ ]
+}

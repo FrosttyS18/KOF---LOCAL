@@ -1,0 +1,141 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "characterLimitBreakIndex": 11,
+   "characterLimitBreakIndexString": "1_1",
+   "characterGrade": 1,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 21,
+   "characterLimitBreakIndexString": "2_1",
+   "characterGrade": 2,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 31,
+   "characterLimitBreakIndexString": "3_1",
+   "characterGrade": 3,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 32,
+   "characterLimitBreakIndexString": "3_2",
+   "characterGrade": 3,
+   "limitBreakGrade": 2,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 41,
+   "characterLimitBreakIndexString": "4_1",
+   "characterGrade": 4,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 42,
+   "characterLimitBreakIndexString": "4_2",
+   "characterGrade": 4,
+   "limitBreakGrade": 2,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 43,
+   "characterLimitBreakIndexString": "4_3",
+   "characterGrade": 4,
+   "limitBreakGrade": 3,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 51,
+   "characterLimitBreakIndexString": "5_1",
+   "characterGrade": 5,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 52,
+   "characterLimitBreakIndexString": "5_2",
+   "characterGrade": 5,
+   "limitBreakGrade": 2,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 53,
+   "characterLimitBreakIndexString": "5_3",
+   "characterGrade": 5,
+   "limitBreakGrade": 3,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 54,
+   "characterLimitBreakIndexString": "5_4",
+   "characterGrade": 5,
+   "limitBreakGrade": 4,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 61,
+   "characterLimitBreakIndexString": "6_1",
+   "characterGrade": 6,
+   "limitBreakGrade": 1,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 62,
+   "characterLimitBreakIndexString": "6_2",
+   "characterGrade": 6,
+   "limitBreakGrade": 2,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 63,
+   "characterLimitBreakIndexString": "6_3",
+   "characterGrade": 6,
+   "limitBreakGrade": 3,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 64,
+   "characterLimitBreakIndexString": "6_4",
+   "characterGrade": 6,
+   "limitBreakGrade": 4,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 65,
+   "characterLimitBreakIndexString": "6_5",
+   "characterGrade": 6,
+   "limitBreakGrade": 5,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  },
+  {
+   "characterLimitBreakIndex": 66,
+   "characterLimitBreakIndexString": "6_6",
+   "characterGrade": 6,
+   "limitBreakGrade": 6,
+   "limitBreakProgressCount": 5,
+   "limitBreakSoulCount": 1
+  }
+ ]
+}

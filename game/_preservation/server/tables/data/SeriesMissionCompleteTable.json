@@ -1,0 +1,35 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "seriesMissionCompleteIndex": 101,
+   "seriesMissionCompleteGroup": 1,
+   "needMissionCompleteRatio": 33,
+   "seriesMissionCompleteRewardGroup": 1105,
+   "rewardThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/rewardbox1_close",
+   "rewardUiResourceScale": 1.0,
+   "rewardUiFrameThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/frame_c_rewardbox_on",
+   "rewardUiFrameScale": 1.0
+  },
+  {
+   "seriesMissionCompleteIndex": 102,
+   "seriesMissionCompleteGroup": 1,
+   "needMissionCompleteRatio": 67,
+   "seriesMissionCompleteRewardGroup": 1106,
+   "rewardThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/rewardbox2_close",
+   "rewardUiResourceScale": 1.0,
+   "rewardUiFrameThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/frame_c_rewardbox_on2",
+   "rewardUiFrameScale": 1.0
+  },
+  {
+   "seriesMissionCompleteIndex": 103,
+   "seriesMissionCompleteGroup": 1,
+   "needMissionCompleteRatio": 100,
+   "seriesMissionCompleteRewardGroup": 1107,
+   "rewardThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/rewardbox3_close",
+   "rewardUiResourceScale": 1.0,
+   "rewardUiFrameThumbnail": "Prefabs/UI_Data/UI_Texture/StoryResource/frame_c_rewardbox_on3",
+   "rewardUiFrameScale": 1.0
+  }
+ ]
+}

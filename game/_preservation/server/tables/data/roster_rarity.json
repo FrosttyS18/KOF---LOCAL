@@ -1,0 +1,2780 @@
+{
+ "adelheid_03": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Fes 3: Adelheid"
+ },
+ "adelheid_11": {
+  "rarity": "UE",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Adelheid"
+ },
+ "akira_cos_vf5": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (red frame) Virtua Fighter V: Original Style Akira"
+ },
+ "akira_vf5": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (red frame) Virtua Fighter V: Akira Yuki"
+ },
+ "alice_14": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Alice (XIV)"
+ },
+ "alice_hw": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: Halloween Gatecrasher Alice"
+ },
+ "alice_vd": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Valentine Alice"
+ },
+ "alisa_tk2": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Tekken7: Alisa Bosconovitch"
+ },
+ "amakusa_sc": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Samurai Showdown: Shiro Tokisada Amakusa"
+ },
+ "andy_01": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "andy_13": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "andy_94": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Andy Bogard ('94)"
+ },
+ "andy_95": {
+  "rarity": "BRZ",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Andy Bogard ('95)"
+ },
+ "andy_96": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Andy Bogard ('96)"
+ },
+ "andy_97": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Andy Bogard ('97)"
+ },
+ "andy_98": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Andy Bogard ('98)"
+ },
+ "andy_ny": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: New Year Andy Bogard"
+ },
+ "angel_01": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Angel ('01)"
+ },
+ "angel_15": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet EX1: Angel"
+ },
+ "angel_sp": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Halloween Angel"
+ },
+ "angel_sse": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Summer Beach Angel"
+ },
+ "armorking_tc": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Tekken7: Armor King"
+ },
+ "ash_03": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Fes 2: Ash Crimson"
+ },
+ "ash_ue": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet UE 1: Ash Crimson"
+ },
+ "athena_00": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Athena Asamiya ('00)"
+ },
+ "athena_03": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Athena Asamyia"
+ },
+ "athena_13": {
+  "rarity": "SS",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Special Signature: Athena Asamiya"
+ },
+ "athena_15": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet EX1: Athena Asamiya"
+ },
+ "athena_94": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Athena Asamiya ('94)"
+ },
+ "athena_95": {
+  "rarity": "BRZ",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Athena Asamiya ('95)"
+ },
+ "athena_96": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Athena Asamiya ('96)"
+ },
+ "athena_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Athena Asamiya ('97)"
+ },
+ "athena_98": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Athena Asamiya ('98)"
+ },
+ "athena_99": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Athena Asamiya ('99)"
+ },
+ "athena_gw": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Wonderland Athena (FES, not in the workbook's FES lists)"
+ },
+ "athena_sakura_sp": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "notes: Festival / Yukata Mai & Athena"
+ },
+ "baiken_ggx": {
+  "rarity": "SS",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Guilty Gear: Baiken"
+ },
+ "ban_sds": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Ban"
+ },
+ "bao_99": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Bao ('99)"
+ },
+ "becky_wwe": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook card (gold frame) WWE: Becky Lynch"
+ },
+ "benimaru_01": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "benimaru_11": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Benimaru Nikaido"
+ },
+ "benimaru_13": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "benimaru_94": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Benimaru Nikaido ('94)"
+ },
+ "benimaru_95": {
+  "rarity": "BRZ",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Benimaru Nikaido ('95)"
+ },
+ "benimaru_96": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Benimaru Nikaido ('96)"
+ },
+ "benimaru_97": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Benimaru Nikaido ('97)"
+ },
+ "benimaru_98": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Benimaru Nikaido ('98)"
+ },
+ "benimaru_99": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Benimaru Nikaido ('99)"
+ },
+ "billy_94": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "billy_95": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Billy Kane ('95)"
+ },
+ "billy_97": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Billy Kane ('97)"
+ },
+ "billy_98": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Billy Kane ('98)"
+ },
+ "billy_se": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Cherry Blossom Billy"
+ },
+ "billy_tf": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Pretty Billy (Lady Billy) (FES, not in the workbook's FES lists)"
+ },
+ "brian_94": {
+  "rarity": "BRZ",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Brian Battler ('94)"
+ },
+ "brian_98": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Brian Battler ('98)"
+ },
+ "brian_tf": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: Lady Brian"
+ },
+ "cammy_cos_sf6": {
+  "rarity": "UE",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook card (silver frame) Street Fighter 6: Cammy (Classic)"
+ },
+ "cammy_sf6": {
+  "rarity": "UE",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook card (ue frame) Street Fighter 6: Cammy White"
+ },
+ "cassandra_cos_sc6": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook card (red frame) Soul Calibur 6: War Maiden's Costume Cassandra Alexandra"
+ },
+ "cassandra_sc6": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (red frame) Soul Calibur 6: Cassandra Alexandra"
+ },
+ "chang_94": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Chang Koehan ('94)"
+ },
+ "chang_95": {
+  "rarity": "BRZ",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Chang Koehan ('95)"
+ },
+ "chang_96": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Chang Koehan ('96)"
+ },
+ "chang_97": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Chang Koehan ('97)"
+ },
+ "chang_99": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Chang Koehan ('99)"
+ },
+ "chang_tf": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook sheet Fes: Lady Chang Kohean"
+ },
+ "chang_tf_as": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet UE 2: Lady Chang Koehan"
+ },
+ "chang_tf_rc": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: EX Lady Chang (Pretty Chang EX) (EX, not in the workbook's EX lists)"
+ },
+ "chang_xm": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Winter Holiday Chang"
+ },
+ "charlotte_sc": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (gold frame) Samurai Showdown: Charlotte Christine de Colde"
+ },
+ "chin_94": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Chin Gentsai ('94)"
+ },
+ "chin_95": {
+  "rarity": "BRZ",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Chin Gentsai ('95)"
+ },
+ "chin_96": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Chin Gentsai ('96)"
+ },
+ "chin_97": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Chin Gentsai ('97)"
+ },
+ "chin_98": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Chin Gentsai ('98)"
+ },
+ "chin_99": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Chin Gentsai ('99)"
+ },
+ "chin_tf": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Lady CHIN GENTSAI"
+ },
+ "chizuru_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet EX2: Chizuru Kagura"
+ },
+ "chizuru_96": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Chizuru Kagura ('96)"
+ },
+ "chizuru_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Chizuru Kagura ('97)"
+ },
+ "chizuru_se": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "chizuru_sn": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Summer Beach Chizuru (FES, not in the workbook's FES lists)"
+ },
+ "chizuru_ss": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet Special Signature: Chizuru Kagura"
+ },
+ "chizuru_wrath": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "choi_94": {
+  "rarity": "BRZ",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Choi Bounge ('94)"
+ },
+ "choi_95": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "choi_96": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Choi Bounge ('96)"
+ },
+ "choi_97": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Choi Bounge ('97)"
+ },
+ "choi_99": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Choi Bounge ('99)"
+ },
+ "choi_tf": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Lady Choi Bounge"
+ },
+ "choi_xm": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Winter Holiday Choi"
+ },
+ "chris_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Chris ('97)"
+ },
+ "chris_98": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Chris ('98)"
+ },
+ "chris_hw": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet Fes 4: Halloween Gatecrasher Chris"
+ },
+ "chris_sp": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "chunli_cos_sfv": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Street Fighter V: Chun-Li (Nostalgia)"
+ },
+ "chunli_sfv": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (red frame) Street Fighter V: Chun-Li"
+ },
+ "clark_94": {
+  "rarity": "BRZ",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Clark Still ('94)"
+ },
+ "clark_95": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Clark Still ('95)"
+ },
+ "clark_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Clark Still ('96)"
+ },
+ "clark_97": {
+  "rarity": "BRZ",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Clark Still ('97)"
+ },
+ "clark_98": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Clark Still ('98)"
+ },
+ "clark_sp": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "darkash_bs": {
+  "rarity": "BS",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Ash Crazed by the Spiral of Blood"
+ },
+ "dellons_sk": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Seven Knights: Dellons"
+ },
+ "deviljin_tk2": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (red frame) Tekken7: Devil Jin"
+ },
+ "diane_sds": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Diane"
+ },
+ "dizzy_ggx": {
+  "rarity": "SS",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Guilty Gear: Dizzy"
+ },
+ "duolon_03": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Duo Lon"
+ },
+ "eiji_95": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Eiji Kisaragi ('95)"
+ },
+ "eileene_sk": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Seven Knights: Eileene"
+ },
+ "elisabeth_11": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: Elisabeth Branctorche"
+ },
+ "elisabeth_ue": {
+  "rarity": "UE",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet UE 1: Elisabeth Blanctorche"
+ },
+ "elisabeth_xm": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet Fes 3: Silent Night Elizabeth"
+ },
+ "elizabeth": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Gintama: Elizabeth"
+ },
+ "gato_15": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Special Signature: Gato"
+ },
+ "gato_2003": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Gato ('03)"
+ },
+ "geese_14": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Geese Howard"
+ },
+ "geese_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Geese Howard ('96)"
+ },
+ "geese_bs": {
+  "rarity": "BS",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Geese Howard"
+ },
+ "geese_ny": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: New Year Geese Howard"
+ },
+ "geese_tf": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Fes 3: Lady Geese"
+ },
+ "genjuro_sc": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Samurai Showdown: Genjuro Kibagami"
+ },
+ "gintoki": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Gintama: Gintoki Sakata"
+ },
+ "gintoki_cos": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Gintama: White Yaksha Gintoki Sakata"
+ },
+ "goenitz_96": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Goenitz"
+ },
+ "goenitz_bs": {
+  "rarity": "BS",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Goenitz"
+ },
+ "goenitz_statue_sp": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Mecha Goenitz"
+ },
+ "goenitz_tf": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet EX2: Lady Goenitz"
+ },
+ "goro_94": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Goro Daimon ('94)"
+ },
+ "goro_95": {
+  "rarity": "BRZ",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Goro Daimon ('95)"
+ },
+ "goro_96": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Goro Daimon ('96)"
+ },
+ "goro_97": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Goro Daimon ('97)"
+ },
+ "goro_98": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Goro Daimon ('98)"
+ },
+ "goro_xm": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: Winter Love Messenger Goro"
+ },
+ "gouki_sfv": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (red frame) Street Fighter V: Akuma"
+ },
+ "guile_cos_sf6": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (ue frame) Street Fighter 6: Guile (Classic)"
+ },
+ "guile_sf6": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (ue frame) Street Fighter 6: Guile"
+ },
+ "haomaru_15": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "notes: Haohmaru & Darli Dagger (XV) (EX, not in the workbook's EX lists)"
+ },
+ "haomaru_15_boss": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet EX1: Haohmaru"
+ },
+ "haomaru_sc": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Samurai Showdown: Haohmaru"
+ },
+ "harlequin_sds": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Seven Deadly Sins: King"
+ },
+ "hawk_sds": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "heavyd_94": {
+  "rarity": "BRZ",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Heavy D! ('94)"
+ },
+ "heavyd_98": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Heavy D! ('98)"
+ },
+ "heidern_01": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet UE 2: Heidern"
+ },
+ "heidern_94": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Heidern ('94)"
+ },
+ "heidern_95": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Heidern ('95)"
+ },
+ "heidern_98": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Heidern ('98)"
+ },
+ "heidern_hw": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Halloween Heidern"
+ },
+ "heihachi_tc": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Tekken7: Heihachi Mishima"
+ },
+ "hinako_00": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: Hinako Shijo"
+ },
+ "hinako_se": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Cherry Blossom Hinako"
+ },
+ "honoka_cos_doa": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Angel of Paradise Honoka"
+ },
+ "honoka_doa": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Honoka"
+ },
+ "hotaru_11": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: Hotaru Futaba"
+ },
+ "hotaru_vd": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Hopeful Hotaru"
+ },
+ "hwoarang_cos_tk2": {
+  "rarity": "SS",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Tekken7: Hwoarang (Classic)"
+ },
+ "hwoarang_tk2": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook card (red frame) Tekken7: Hwoarang"
+ },
+ "igniz_01": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet Fes 2: Igniz"
+ },
+ "igniz_bs": {
+  "rarity": "BS",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet Boss Syndrome: Igniz"
+ },
+ "igniz_ep3": {
+  "rarity": "BS",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Phantom Ruler Igniz"
+ },
+ "ino_ggx": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Guilty Gear: I-No"
+ },
+ "iori_13": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: Unshackled Instinct Iori"
+ },
+ "iori_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Iori Yagami"
+ },
+ "iori_95": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Iori Yagami ('95)"
+ },
+ "iori_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Iori Yagami ('96)"
+ },
+ "iori_97": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Iori Yagami ('97)"
+ },
+ "iori_98": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Iori Yagami ('98)"
+ },
+ "iori_gw": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Wonderland Iori (Mad Hatter)"
+ },
+ "iori_ss": {
+  "rarity": "SS",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet Special Signature: Iori Yagami"
+ },
+ "isla_15": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet UE 2: Isla"
+ },
+ "ivy_cos_sc6": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (red frame) Soul Calibur 6: Aristocrat Catsuit Ivy"
+ },
+ "ivy_sc6": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (red frame) Soul Calibur 6: Ivy"
+ },
+ "jacky_vf5": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (red frame) Virtua Fighter V: Jackie Bryant"
+ },
+ "jamie_sf6": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (ue frame) Street Fighter 6: Jamie Siu"
+ },
+ "jenet_11": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: B. Jenet (XI) (FES, not in the workbook's FES lists)"
+ },
+ "jenet_ti": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Glimmering Ocean Jenet"
+ },
+ "jenet_xm": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet Fes 4: Winter Love Messenger Jenet"
+ },
+ "jhun_99": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Jhun Hoon ('99)"
+ },
+ "jin_cos": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook card (gold frame) Tekken7: Jin Kazama (Classic)"
+ },
+ "jin_tc": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Tekken7: Jin Kazama"
+ },
+ "joe_13": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "joe_94": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Joe Higashi ('94)"
+ },
+ "joe_95": {
+  "rarity": "BRZ",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Joe Higashi ('95)"
+ },
+ "joe_96": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Joe Higashi ('96)"
+ },
+ "joe_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Joe Higashi ('97)"
+ },
+ "joe_98": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Joe Higashi ('98)"
+ },
+ "joe_99": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Joe Higashi ('99)"
+ },
+ "joe_se": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Cherry Blossom Joe"
+ },
+ "johncena_cos_wwe": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (gold frame) WWE: Doctor of Thogonamics John Cena"
+ },
+ "johncena_wwe": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (purple frame) WWE: John Cena"
+ },
+ "juri_sf6": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (ue frame) Street Fighter 6: Juri Han"
+ },
+ "kagura": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Gintama: Kagura"
+ },
+ "kamui": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Gintama: Kamui"
+ },
+ "kasumi_00": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "kasumi_02": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "kasumi_96": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "guide screenshot (Starting guide, Fighter Info: green Defense Type)"
+ },
+ "kasumi_ti": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet EX2: Glimmering Ocean Kasumi"
+ },
+ "kasumi_vd": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Valentine Kasumi"
+ },
+ "kasumi_xm": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Winter Holiday Kasumi (FES, not in the workbook's FES lists)"
+ },
+ "kasumid_cos_doa": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Angel of Paradise Kasumi"
+ },
+ "kasumid_doa": {
+  "rarity": "SS",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Kasumi"
+ },
+ "katsura": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Gintama: Kotarou Katsura"
+ },
+ "kazuya_tc": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (gold frame) Tekken7: Kazuya Mishima"
+ },
+ "kdash_13": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: K'"
+ },
+ "kdash_99": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: K' ('99) (FES, not in the workbook's FES lists)"
+ },
+ "kdash_ss": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet Special Signature: K'"
+ },
+ "kdash_sse": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Summer Beach K'"
+ },
+ "ken_sf6": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (ue frame) Street Fighter 6: Ken Masters"
+ },
+ "kensou_94": {
+  "rarity": "BRZ",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Sie Kensou ('94)"
+ },
+ "kensou_95": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Sie Kensou ('95)"
+ },
+ "kensou_96": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Sie Kensou ('96)"
+ },
+ "kensou_97": {
+  "rarity": "BRZ",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Sie Kensou ('97)"
+ },
+ "kensou_99": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Sie Kensou ('99)"
+ },
+ "kim_00": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "kim_01": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Fes 4: Kim Kaphwan"
+ },
+ "kim_94": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Kim Kaphwan ('94)"
+ },
+ "kim_95": {
+  "rarity": "BRZ",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Kim Kaphwan ('95)"
+ },
+ "kim_96": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Kim Kaphwan ('96)"
+ },
+ "kim_97": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Kim Kaphwan ('97)"
+ },
+ "kim_98": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Kim Kaphwan ('98)"
+ },
+ "kim_tf": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Fes 2: Lady Kim Kaphwan"
+ },
+ "kim_vf": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet EX2: Low Poly Style Kim Kaphwan"
+ },
+ "king_94": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: King ('94)"
+ },
+ "king_95": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: King ('95)"
+ },
+ "king_96": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: King ('96)"
+ },
+ "king_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "guide text (Starting guide S67: a yellow offensive unit)"
+ },
+ "king_98": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: King ('98)"
+ },
+ "king_99": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: King ('99)"
+ },
+ "king_ss": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Special Signature: King"
+ },
+ "king_vd": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Valentine King"
+ },
+ "kofi_wwe": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (gold frame) WWE: Kofi Kingston"
+ },
+ "kondo": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Gintama: Isao Kondou"
+ },
+ "krauser_96": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Wolfgang Krauser ('96)"
+ },
+ "krizalid_bs": {
+  "rarity": "BS",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Boss Syndrome: Krizalid"
+ },
+ "krizalid_takeoff_99": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet Fes: Krizalid"
+ },
+ "krohnen_15": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Krohnen"
+ },
+ "kula_00": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Kula Diamond ('00) (FES, not in the workbook's FES lists)"
+ },
+ "kula_15": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet EX2: Kula Diamond"
+ },
+ "kula_sp": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "notes: Halloween Kula (FES, not in the workbook's FES lists)"
+ },
+ "kula_ss": {
+  "rarity": "SS",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Special Signature: Kula Diamond"
+ },
+ "kula_sse": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Summer Beach Kula"
+ },
+ "kula_vd": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet Fes 2: Lovely Kula"
+ },
+ "kusanagi_03": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook sheet Special Signature: Kusanagi"
+ },
+ "kusanagi_ue": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet UE 1: Kusanagi"
+ },
+ "kyo_01": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Kyo Kusanagi ('01)"
+ },
+ "kyo_03": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Kyo Kusanagi ('03) (FES, not in the workbook's FES lists)"
+ },
+ "kyo_11": {
+  "rarity": "UE",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Kyo Kusanagi"
+ },
+ "kyo_13": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet Fes 2: NESTS Style Kyo"
+ },
+ "kyo_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet EX1: Kyo Kusanagi"
+ },
+ "kyo_94": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Kyo Kusanagi ('94)"
+ },
+ "kyo_95": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Kyo Kusanagi ('95)"
+ },
+ "kyo_96": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Kyo Kusanagi ('96)"
+ },
+ "kyo_97": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Kyo Kusanagi ('97)"
+ },
+ "kyo_98": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Kyo Kusanagi ('98)"
+ },
+ "kyo_ss": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Special Signature: Kyo Kusanagi"
+ },
+ "leona_12": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: Leona Heidern"
+ },
+ "leona_15": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Leona Heidern"
+ },
+ "leona_96": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Leona Heidern ('96)"
+ },
+ "leona_97": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Leona Heidern ('97)"
+ },
+ "leona_98": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Leona Heidern ('98)"
+ },
+ "leona_bs": {
+  "rarity": "BS",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Boss Syndrome: Leona Heidern"
+ },
+ "leona_xm": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Winter Holiday Leona"
+ },
+ "lin_00": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet Fes 4: Lin"
+ },
+ "liones_cos_sds": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Dancer Elizabeth"
+ },
+ "liones_sds": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Elizabeth"
+ },
+ "lucky_94": {
+  "rarity": "BRZ",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Lucky Glauber ('94)"
+ },
+ "lucky_98": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Lucky Glauber ('98)"
+ },
+ "luke_sfv": {
+  "rarity": "SS",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Street Fighter V: Luke"
+ },
+ "luong_15": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Luong"
+ },
+ "magaki_ue": {
+  "rarity": "UE",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet UE 1: Magaki"
+ },
+ "mai_13": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Special Signature: Mai Shiranui"
+ },
+ "mai_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet EX2: Mai Shiranui"
+ },
+ "mai_94": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Mai Shiranui ('94)"
+ },
+ "mai_95": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Mai Shiranui ('95)"
+ },
+ "mai_96": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Mai Shiranui ('96)"
+ },
+ "mai_97": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Mai Shiranui ('97)"
+ },
+ "mai_98": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Mai Shiranui ('98)"
+ },
+ "mai_ny": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: New Year Mai Shiranui"
+ },
+ "mai_sse": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Summer Beach Mai"
+ },
+ "maki_ue": {
+  "rarity": "UE",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet UE 1: Maki Kagura"
+ },
+ "marierose_cos_doa": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Angel of Paradise Marie Rose"
+ },
+ "marierose_doa": {
+  "rarity": "SS",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Marie Rose"
+ },
+ "mary_97": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Blue Mary ('97)"
+ },
+ "mary_98": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Blue Mary ('98)"
+ },
+ "mary_99": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Blue Mary ('99)"
+ },
+ "mary_envy": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "mary_hw": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Halloween Blue Mary (FES, not in the workbook's FES lists)"
+ },
+ "mary_sn": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "mary_ss": {
+  "rarity": "SS",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Special Signature: Blue Mary"
+ },
+ "mary_vd": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Valentine Blue Mary"
+ },
+ "mature_12": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "mature_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Mature ('96)"
+ },
+ "mature_98": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Mature ('98)"
+ },
+ "mature_as": {
+  "rarity": "UE",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet UE 1: Bizzare Nightmare Mature"
+ },
+ "mature_sn": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet Fes 3: Summer Night Mature"
+ },
+ "mature_sp": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Halloween Mature"
+ },
+ "maxima_99": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Maxima ('99)"
+ },
+ "maxima_ep3": {
+  "rarity": "BS",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet Boss Syndrome: Phantom Invader Maxima"
+ },
+ "maxima_tf": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet Fes 3: Lady Maxima"
+ },
+ "may_ggx": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Guilty Gear: May"
+ },
+ "maylee_01": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: May Lee ('01)"
+ },
+ "maylee_vd": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "meliodas_cos_sds": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Tavern Master Meliodas"
+ },
+ "meliodas_sds": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Meliodas"
+ },
+ "merlin_sds": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Seven Deadly Sins: Merlin"
+ },
+ "mian_14": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Fes 4: Mian"
+ },
+ "mrbig_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Mr. Big ('96)"
+ },
+ "mrbig_tf": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet Fes 2: Lady Mr. Big"
+ },
+ "mrkarate_13": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Fes 4: Me. KARATE"
+ },
+ "mukai_03": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet Fes 2: Mukai"
+ },
+ "mukai_ue": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet UE 1: Mukai"
+ },
+ "mukai_vd": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "nakoruru_14": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet Fes 2: Nakoruru"
+ },
+ "nakoruru_15": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet EX1: Nakoruru"
+ },
+ "nameless_02": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Fes 2: Nameless"
+ },
+ "nameless_bs": {
+  "rarity": "BS",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Boss Syndrome: Nameless"
+ },
+ "nina_cos_tk2": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Tekken7: Nina Williams (Classic)"
+ },
+ "nina_tk2": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (red frame) Tekken7: Nina Williams"
+ },
+ "nyotengu_cos_doa": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Angel of Paradise Nyotengu"
+ },
+ "nyotengu_doa": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Dead Or Alive 6: Nyotengu"
+ },
+ "omegarugal_95": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Omega Rugal ('95) (FES, not in the workbook's FES lists)"
+ },
+ "omegarugal_98": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Omega Rugal"
+ },
+ "omegarugal_bs": {
+  "rarity": "BS",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Omega Rugal"
+ },
+ "omegarugal_bs_15": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet EX1: Ω Rugal"
+ },
+ "omegarugal_ex_15": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet EX1: Omega Rugal"
+ },
+ "orochi_97": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet Fes: Orochi"
+ },
+ "orochi_bs": {
+  "rarity": "BS",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet Boss Syndrome: Orochi"
+ },
+ "orochi_sp": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: False Resurrection Orochi (FES, not in the workbook's FES lists)"
+ },
+ "orochichris_15": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Orochi Chris"
+ },
+ "orochichris_97": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Fes: Orochi Chris"
+ },
+ "orochichris_sp": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Fes 4: False Resurrection Chris"
+ },
+ "orochiiori_97": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Orochi Iori"
+ },
+ "orochiiori_98": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Orochi Iori"
+ },
+ "orochileona_97": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet Fes: Orochi Leona"
+ },
+ "orochileona_98": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook sheet UE 2: Orochi Leona"
+ },
+ "orochisaisyu_sp": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: False Saisyu Kusanagi"
+ },
+ "orochishermie_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Orochi Shermie"
+ },
+ "orochishermie_97": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Orochi Shermie"
+ },
+ "orochiyashiro_97": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "workbook sheet Fes: Orochi Yashiro"
+ },
+ "orochiyashiro_sp2": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: False Conspiracy Yashiro"
+ },
+ "oswald_11": {
+  "rarity": "UE",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet UE 2: Oswald"
+ },
+ "pai_vf5": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook card (red frame) Virtua Fighter V: Pai Chan"
+ },
+ "paul_tc": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Tekken7: Paul Phoenix"
+ },
+ "rachel_sk": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Seven Knights: Rachel"
+ },
+ "ralf_94": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Ralf Jones ('94)"
+ },
+ "ralf_95": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Ralf Jones ('95)"
+ },
+ "ralf_96": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Ralf Jones ('96)"
+ },
+ "ralf_97": {
+  "rarity": "BRZ",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Ralf Jones ('97)"
+ },
+ "ralf_98": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "notes: Ralf Jones ('98)"
+ },
+ "ralf_sp": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "ramlethal_ggx": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Guilty Gear: Ramlethal Valentine"
+ },
+ "ramon_00": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Ramon ('00)"
+ },
+ "rimururu_sc": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Samurai Showdown: Rimururu"
+ },
+ "robert_13": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Robert Garcia (XIII) (FES, not in the workbook's FES lists)"
+ },
+ "robert_94": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Robert Garcia ('94)"
+ },
+ "robert_95": {
+  "rarity": "BRZ",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Robert Garcia ('95)"
+ },
+ "robert_96": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Robert Garcia ('96)"
+ },
+ "robert_97": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Robert Garcia ('97)"
+ },
+ "robert_98": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Robert Garcia ('98)"
+ },
+ "rock_14": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook sheet Fes 3: Rock Howard"
+ },
+ "rudy_sk": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Seven Knights: Rudy"
+ },
+ "rugal_94": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Rugal Bernstein ('94)"
+ },
+ "rugal_greed": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "rugal_takeoff_94": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "rugal_vf": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet EX2: Low Poly Style Rugal"
+ },
+ "ryo_02": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "ryo_14": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet Fes 4: Ryo Sakazaki"
+ },
+ "ryo_94": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Ryo Sakazaki ('94)"
+ },
+ "ryo_95": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Ryo Sakazaki ('95)"
+ },
+ "ryo_96": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Ryo Sakazaki ('96)"
+ },
+ "ryo_97": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Ryo Sakazaki ('97)"
+ },
+ "ryo_98": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Ryo Sakazaki ('98)"
+ },
+ "ryu_sfv": {
+  "rarity": "EX",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (red frame) Street Fighter V: Ryu"
+ },
+ "saiki_13": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: Saiki"
+ },
+ "saiki_ue": {
+  "rarity": "UE",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet UE 1: ???"
+ },
+ "saisyu_95": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "saisyu_98": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Saisyu Kusanagi ('98)"
+ },
+ "sarah_cos_vf5": {
+  "rarity": "EX",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "workbook card (red frame) Virtua Fighter V: Original Style Sarah"
+ },
+ "sarah_vf5": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (red frame) Virtua Fighter V: Sarah Bryant"
+ },
+ "seong_sc6": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (red frame) Soul Calibur 6: Seong Mi-Na"
+ },
+ "seth_00": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Seth ('00)"
+ },
+ "sethrollins_wwe": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (gold frame) WWE: Seth Rollins"
+ },
+ "shane_sk": {
+  "rarity": "FES",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook card (purple frame) Seven Knights: Shane"
+ },
+ "shen_ue": {
+  "rarity": "UE",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet UE 1: Shen Woo"
+ },
+ "shermie_15": {
+  "rarity": "EX",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet EX1: Shermie"
+ },
+ "shermie_97": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Shermie ('97)"
+ },
+ "shermie_98": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Shermie ('98)"
+ },
+ "shermie_bsb": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "shermie_sp": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Halloween Shermie"
+ },
+ "shine": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Shine (Story Original) (FES, not in the workbook's FES lists)"
+ },
+ "shingo_97": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Shingo Yabuki ('97)"
+ },
+ "shingo_98": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Shingo Yabuki ('98)"
+ },
+ "shingo_xm": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "shinsuke": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Gintama: Shinsuke Takasugi"
+ },
+ "shion_11": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Fes 3: Shion"
+ },
+ "shunei_14": {
+  "rarity": "EX",
+  "element": "Green",
+  "role": "Balance",
+  "source": "workbook sheet EX2: Shun'ei"
+ },
+ "sol_ggx": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (purple frame) Guilty Gear: Sol Badguy"
+ },
+ "sougo": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Gintama: Sougo Okita"
+ },
+ "sylvie_14": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Sylvie Paula Paula (XIV)"
+ },
+ "sylvie_xm": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Winter Holiday Sylvie (EX, not in the workbook's EX lists)"
+ },
+ "taki_sc6": {
+  "rarity": "EX",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook card (red frame) Soul Calibur 6: Taki"
+ },
+ "takuma_94": {
+  "rarity": "BRZ",
+  "element": "Green",
+  "role": "Defense",
+  "source": "notes: Takuma Sakazaki ('94)"
+ },
+ "takuma_95": {
+  "rarity": "SLV",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "notes: Takuma Sakazaki ('95)"
+ },
+ "takuma_98": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Takuma Sakazaki ('98)"
+ },
+ "takuma_99": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Takuma Sakazaki ('99)"
+ },
+ "terry_03": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook sheet Fes: Terry Bogard"
+ },
+ "terry_11": {
+  "rarity": "UE",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet UE 2: Terry Bogard"
+ },
+ "terry_13": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "terry_94": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Terry Bogard ('94)"
+ },
+ "terry_95": {
+  "rarity": "BRZ",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Terry Bogard ('95)"
+ },
+ "terry_96": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Terry Bogard ('96)"
+ },
+ "terry_97": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Terry Bogard ('97)"
+ },
+ "terry_98": {
+  "rarity": "SLV",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Terry Bogard ('98)"
+ },
+ "terry_ss": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook sheet Special Signature: Terry Bogard"
+ },
+ "therock_cos_wwe": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "workbook card (gold frame) WWE: The People's Champion The Rock"
+ },
+ "therock_wwe": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Attack",
+  "source": "workbook card (purple frame) WWE: The Rock"
+ },
+ "toushirou": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook card (gold frame) Gintama: Toushirou Hijikata"
+ },
+ "ukyo_sc": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Balance",
+  "source": "workbook card (gold frame) Samurai Showdown: Ukyo Tachibana"
+ },
+ "undertaker_wwe": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Defense",
+  "source": "workbook card (purple frame) WWE: The Underaker"
+ },
+ "vanessa_00": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Vanessa ('00)"
+ },
+ "vanessa_bsb": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet Fes 2: Baseball Vanessa"
+ },
+ "vanessa_gw": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Wonderland Vanessa (Queen)"
+ },
+ "vega_sfv": {
+  "rarity": "SS",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook card (purple frame) Street Fighter V: M. Bison"
+ },
+ "vice_02": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "vice_96": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Vice ('96)"
+ },
+ "vice_98": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Balance",
+  "source": "notes: Vice ('98)"
+ },
+ "vice_as": {
+  "rarity": "UE",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet UE 1: Bizzare Nightmare Vice"
+ },
+ "vice_ny": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: New Year Vice"
+ },
+ "vice_sn": {
+  "rarity": "FES",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook sheet Fes 3: Midsummer Night Vice"
+ },
+ "whip_99": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Whip ('99)"
+ },
+ "whip_xm": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Balance",
+  "source": "notes: Winter Holiday Whip"
+ },
+ "xiangfei_99": {
+  "rarity": "GLD",
+  "element": "Red",
+  "role": "Defense",
+  "source": "notes: Li Xiangfei ('99)"
+ },
+ "xiangfei_hw": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Halloween Xiangfei"
+ },
+ "xiaoyu_cos": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "workbook card (gold frame) Tekken7: Ling Xiaoyu (Scchool Uniform)"
+ },
+ "xiaoyu_tc": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook card (gold frame) Tekken7: Ling Xiaoyu"
+ },
+ "yamazaki_97": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "guide screenshot (Starting guide, Fighter Info: Attack Type)"
+ },
+ "yamazaki_98": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Ryuji Yamazaki ('98)"
+ },
+ "yamazaki_gs": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "yashiro_97": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Yashiro Nanakase ('97)"
+ },
+ "yashiro_98": {
+  "rarity": "SLV",
+  "element": "Red",
+  "role": "Attack",
+  "source": "notes: Yashiro Nanakase ('98)"
+ },
+ "yashiro_sp": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Halloween Yashiro"
+ },
+ "yashiro_tf": {
+  "rarity": "GLD",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "notes: Pretty Yashiro (Lady Yashiro) (FES, not in the workbook's FES lists)"
+ },
+ "yuri_94": {
+  "rarity": "BRZ",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "notes: Yuri Sakazaki ('94)"
+ },
+ "yuri_95": {
+  "rarity": "GLD",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Yuri Sakazaki ('95)"
+ },
+ "yuri_96": {
+  "rarity": "SLV",
+  "element": "Purple",
+  "role": "Balance",
+  "source": "notes: Yuri Sakazaki ('96)"
+ },
+ "yuri_97": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Balance",
+  "source": "notes: Yuri Sakazaki ('97)"
+ },
+ "yuri_98": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "notes: Yuri Sakazaki ('98)"
+ },
+ "yuri_99": {
+  "rarity": "SLV",
+  "element": "Green",
+  "role": "Attack",
+  "source": "notes: Yuri Sakazaki ('99)"
+ },
+ "yuri_gw": {
+  "rarity": "GLD",
+  "element": "Blue",
+  "role": "Defense",
+  "source": "notes: Wonderland Yuri (White Rabbit)"
+ },
+ "yuri_rb": {
+  "rarity": "GLD",
+  "element": null,
+  "role": null,
+  "source": "default"
+ },
+ "yuri_softball": {
+  "rarity": "SLV",
+  "element": null,
+  "role": "Attack",
+  "source": "2023 video 3 (Baseball Yuri: 4 stars, AS, COST 36; Attack inferred from her stats)"
+ },
+ "yuri_ss": {
+  "rarity": "SS",
+  "element": "Green",
+  "role": "Attack",
+  "source": "workbook sheet Special Signature: Yuri Sakazaki"
+ },
+ "yuri_xm": {
+  "rarity": "GLD",
+  "element": "Purple",
+  "role": "Defense",
+  "source": "notes: Winter Holiday Yuri"
+ },
+ "zero_00": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Defense",
+  "source": "workbook sheet Fes 2: Zero (Clone)"
+ },
+ "zero_tf": {
+  "rarity": "FES",
+  "element": "Red",
+  "role": "Balance",
+  "source": "workbook sheet Fes 2: Lady Zero (Clone)"
+ },
+ "zerooriginal_01": {
+  "rarity": "FES",
+  "element": "Blue",
+  "role": "Attack",
+  "source": "workbook sheet Fes: Zero (Original)"
+ },
+ "zerooriginal_bs": {
+  "rarity": "BS",
+  "element": "Purple",
+  "role": "Attack",
+  "source": "workbook sheet Boss Syndrome: Zero (Original)"
+ },
+ "zerooriginal_ep3": {
+  "rarity": "BS",
+  "element": "Green",
+  "role": "Defense",
+  "source": "workbook sheet Boss Syndrome: Phantom Gatekeeper Zero (Original)"
+ },
+ "zerooriginal_tf": {
+  "rarity": "FES",
+  "element": "Yellow",
+  "role": "Attack",
+  "source": "workbook sheet Fes 2: Lady Zero (Original)"
+ }
+}

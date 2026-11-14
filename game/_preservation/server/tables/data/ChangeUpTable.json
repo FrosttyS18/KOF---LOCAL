@@ -1,0 +1,107 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_changeup.py): Change Up from the user's video and the client's kit icons; the stat gains of fighters other than SS Kyo are ours.",
+ "rows": [
+  {
+   "changeUpIndex": 1,
+   "changeUpFighterGroupIndex": 1,
+   "changeUpItemIndex": 210001,
+   "changeUpFighterIndex": 1203
+  },
+  {
+   "changeUpIndex": 2,
+   "changeUpFighterGroupIndex": 45,
+   "changeUpItemIndex": 210002,
+   "changeUpFighterIndex": 1192
+  },
+  {
+   "changeUpIndex": 3,
+   "changeUpFighterGroupIndex": 23,
+   "changeUpItemIndex": 210003,
+   "changeUpFighterIndex": 1100
+  },
+  {
+   "changeUpIndex": 4,
+   "changeUpFighterGroupIndex": 46,
+   "changeUpItemIndex": 210004,
+   "changeUpFighterIndex": 1209
+  },
+  {
+   "changeUpIndex": 5,
+   "changeUpFighterGroupIndex": 63,
+   "changeUpItemIndex": 210005,
+   "changeUpFighterIndex": 1258
+  },
+  {
+   "changeUpIndex": 6,
+   "changeUpFighterGroupIndex": 64,
+   "changeUpItemIndex": 210006,
+   "changeUpFighterIndex": 1262
+  },
+  {
+   "changeUpIndex": 7,
+   "changeUpFighterGroupIndex": 3,
+   "changeUpItemIndex": 210007,
+   "changeUpFighterIndex": 1136
+  },
+  {
+   "changeUpIndex": 8,
+   "changeUpFighterGroupIndex": 2,
+   "changeUpItemIndex": 210008,
+   "changeUpFighterIndex": 1074
+  },
+  {
+   "changeUpIndex": 9,
+   "changeUpFighterGroupIndex": 46,
+   "changeUpItemIndex": 210009,
+   "changeUpFighterIndex": 1207
+  },
+  {
+   "changeUpIndex": 10,
+   "changeUpFighterGroupIndex": 63,
+   "changeUpItemIndex": 210010,
+   "changeUpFighterIndex": 1257
+  },
+  {
+   "changeUpIndex": 11,
+   "changeUpFighterGroupIndex": 64,
+   "changeUpItemIndex": 210011,
+   "changeUpFighterIndex": 1261
+  },
+  {
+   "changeUpIndex": 12,
+   "changeUpFighterGroupIndex": 154,
+   "changeUpItemIndex": 210012,
+   "changeUpFighterIndex": 1442
+  },
+  {
+   "changeUpIndex": 13,
+   "changeUpFighterGroupIndex": 156,
+   "changeUpItemIndex": 210013,
+   "changeUpFighterIndex": 1444
+  },
+  {
+   "changeUpIndex": 14,
+   "changeUpFighterGroupIndex": 152,
+   "changeUpItemIndex": 210014,
+   "changeUpFighterIndex": 1440
+  },
+  {
+   "changeUpIndex": 15,
+   "changeUpFighterGroupIndex": 120,
+   "changeUpItemIndex": 210015,
+   "changeUpFighterIndex": 1397
+  },
+  {
+   "changeUpIndex": 16,
+   "changeUpFighterGroupIndex": 122,
+   "changeUpItemIndex": 210016,
+   "changeUpFighterIndex": 1399
+  },
+  {
+   "changeUpIndex": 17,
+   "changeUpFighterGroupIndex": 123,
+   "changeUpItemIndex": 210017,
+   "changeUpFighterIndex": 1402
+  }
+ ]
+}

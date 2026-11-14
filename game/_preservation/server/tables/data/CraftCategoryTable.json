@@ -1,0 +1,17 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_craft.py): Prime Memory crafts from the video's CRAFT page",
+ "rows": [
+  {
+   "categoryIndex": 2,
+   "sortOrder": 1,
+   "autoDisable": 0,
+   "categoryIcon": "icon_craft_character"
+  },
+  {
+   "categoryIndex": 4,
+   "sortOrder": 2,
+   "autoDisable": 0,
+   "categoryIcon": "icon_craft_item"
+  }
+ ]
+}

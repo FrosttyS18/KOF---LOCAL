@@ -1,0 +1,59 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "stageEntrySelectIndex": 9300900,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  },
+  {
+   "stageEntrySelectIndex": 9101001,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  },
+  {
+   "stageEntrySelectIndex": 9101002,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  },
+  {
+   "stageEntrySelectIndex": 9101003,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  },
+  {
+   "stageEntrySelectIndex": 9101004,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  },
+  {
+   "stageEntrySelectIndex": 9101005,
+   "maxTeamCount": 4,
+   "entryCharacterCostMax": 0,
+   "entryFighterAttribute": "0",
+   "entryGrade": "0",
+   "entrySynastryType": "0",
+   "entrySelectDesc": ""
+  }
+ ]
+}

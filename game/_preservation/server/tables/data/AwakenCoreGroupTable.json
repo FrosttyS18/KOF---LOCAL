@@ -1,0 +1,1965 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_uecore.py): the UE core board; its structure from the client, the numbers ours.",
+ "rows": [
+  {
+   "awakenCoreGroupIndex": 1005611,
+   "awakenCoreGroup": 1100510,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860001,9860002,9860003",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1005621,
+   "awakenCoreGroup": 1100511,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860004,9860005,9860006,9860007,9860008",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1005622,
+   "awakenCoreGroup": 1100511,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860009",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1005623,
+   "awakenCoreGroup": 1100511,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860010",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1005624,
+   "awakenCoreGroup": 1100511,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860011",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1005625,
+   "awakenCoreGroup": 1100511,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860012",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1005631,
+   "awakenCoreGroup": 1100512,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1005632,
+   "awakenCoreGroup": 1100512,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1005633,
+   "awakenCoreGroup": 1100512,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1005634,
+   "awakenCoreGroup": 1100512,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1022611,
+   "awakenCoreGroup": 1102210,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860013,9860014,9860015",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1022621,
+   "awakenCoreGroup": 1102211,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860016,9860017,9860018,9860019,9860020",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1022622,
+   "awakenCoreGroup": 1102211,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860021",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1022623,
+   "awakenCoreGroup": 1102211,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860022",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1022624,
+   "awakenCoreGroup": 1102211,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860023",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1022625,
+   "awakenCoreGroup": 1102211,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860024",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1022631,
+   "awakenCoreGroup": 1102212,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1022632,
+   "awakenCoreGroup": 1102212,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1022633,
+   "awakenCoreGroup": 1102212,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1022634,
+   "awakenCoreGroup": 1102212,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1030611,
+   "awakenCoreGroup": 1103010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860025,9860026,9860027",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1030621,
+   "awakenCoreGroup": 1103011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860028,9860029,9860030,9860031,9860032",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1030622,
+   "awakenCoreGroup": 1103011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860033",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1030623,
+   "awakenCoreGroup": 1103011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860034",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1030624,
+   "awakenCoreGroup": 1103011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860035",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1030625,
+   "awakenCoreGroup": 1103011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860036",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1030631,
+   "awakenCoreGroup": 1103012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1030632,
+   "awakenCoreGroup": 1103012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1030633,
+   "awakenCoreGroup": 1103012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1030634,
+   "awakenCoreGroup": 1103012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1043611,
+   "awakenCoreGroup": 1104310,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860037,9860038,9860039",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1043621,
+   "awakenCoreGroup": 1104311,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860040,9860041,9860042,9860043,9860044",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1043622,
+   "awakenCoreGroup": 1104311,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860045",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1043623,
+   "awakenCoreGroup": 1104311,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860046",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1043624,
+   "awakenCoreGroup": 1104311,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860047",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1043625,
+   "awakenCoreGroup": 1104311,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860048",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1043631,
+   "awakenCoreGroup": 1104312,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1043632,
+   "awakenCoreGroup": 1104312,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1043633,
+   "awakenCoreGroup": 1104312,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1043634,
+   "awakenCoreGroup": 1104312,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1060611,
+   "awakenCoreGroup": 1106010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860049,9860050,9860051",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1060621,
+   "awakenCoreGroup": 1106011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860052,9860053,9860054,9860055,9860056",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1060622,
+   "awakenCoreGroup": 1106011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860057",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1060623,
+   "awakenCoreGroup": 1106011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860058",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1060624,
+   "awakenCoreGroup": 1106011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860059",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1060625,
+   "awakenCoreGroup": 1106011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860060",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1060631,
+   "awakenCoreGroup": 1106012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1060632,
+   "awakenCoreGroup": 1106012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1060633,
+   "awakenCoreGroup": 1106012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1060634,
+   "awakenCoreGroup": 1106012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1097611,
+   "awakenCoreGroup": 1109710,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860061,9860062,9860063",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1097621,
+   "awakenCoreGroup": 1109711,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860064,9860065,9860066,9860067,9860068",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1097622,
+   "awakenCoreGroup": 1109711,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860069",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1097623,
+   "awakenCoreGroup": 1109711,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860070",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1097624,
+   "awakenCoreGroup": 1109711,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860071",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1097625,
+   "awakenCoreGroup": 1109711,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860072",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1097631,
+   "awakenCoreGroup": 1109712,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1097632,
+   "awakenCoreGroup": 1109712,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1097633,
+   "awakenCoreGroup": 1109712,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1097634,
+   "awakenCoreGroup": 1109712,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1121611,
+   "awakenCoreGroup": 1112110,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860073,9860074,9860075",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1121621,
+   "awakenCoreGroup": 1112111,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860076,9860077,9860078,9860079,9860080",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1121622,
+   "awakenCoreGroup": 1112111,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860081",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1121623,
+   "awakenCoreGroup": 1112111,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860082",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1121624,
+   "awakenCoreGroup": 1112111,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860083",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1121625,
+   "awakenCoreGroup": 1112111,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860084",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1121631,
+   "awakenCoreGroup": 1112112,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1121632,
+   "awakenCoreGroup": 1112112,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1121633,
+   "awakenCoreGroup": 1112112,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1121634,
+   "awakenCoreGroup": 1112112,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1137611,
+   "awakenCoreGroup": 1113710,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860085,9860086,9860087",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1137621,
+   "awakenCoreGroup": 1113711,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860088,9860089,9860090,9860091,9860092",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1137622,
+   "awakenCoreGroup": 1113711,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860093",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1137623,
+   "awakenCoreGroup": 1113711,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860094",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1137624,
+   "awakenCoreGroup": 1113711,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860095",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1137625,
+   "awakenCoreGroup": 1113711,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860096",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1137631,
+   "awakenCoreGroup": 1113712,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1137632,
+   "awakenCoreGroup": 1113712,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1137633,
+   "awakenCoreGroup": 1113712,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1137634,
+   "awakenCoreGroup": 1113712,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1193611,
+   "awakenCoreGroup": 1119310,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860097,9860098,9860099",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1193621,
+   "awakenCoreGroup": 1119311,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860100,9860101,9860102,9860103,9860104",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1193622,
+   "awakenCoreGroup": 1119311,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860105",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1193623,
+   "awakenCoreGroup": 1119311,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860106",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1193624,
+   "awakenCoreGroup": 1119311,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860107",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1193625,
+   "awakenCoreGroup": 1119311,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860108",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1193631,
+   "awakenCoreGroup": 1119312,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1193632,
+   "awakenCoreGroup": 1119312,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1193633,
+   "awakenCoreGroup": 1119312,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1193634,
+   "awakenCoreGroup": 1119312,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1200611,
+   "awakenCoreGroup": 1120010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860109,9860110,9860111",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1200621,
+   "awakenCoreGroup": 1120011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860112,9860113,9860114,9860115,9860116",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1200622,
+   "awakenCoreGroup": 1120011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860117",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1200623,
+   "awakenCoreGroup": 1120011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860118",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1200624,
+   "awakenCoreGroup": 1120011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860119",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1200625,
+   "awakenCoreGroup": 1120011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860120",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1200631,
+   "awakenCoreGroup": 1120012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1200632,
+   "awakenCoreGroup": 1120012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1200633,
+   "awakenCoreGroup": 1120012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1200634,
+   "awakenCoreGroup": 1120012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1215611,
+   "awakenCoreGroup": 1121510,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860121,9860122,9860123",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1215621,
+   "awakenCoreGroup": 1121511,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860124,9860125,9860126,9860127,9860128",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1215622,
+   "awakenCoreGroup": 1121511,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860129",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1215623,
+   "awakenCoreGroup": 1121511,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860130",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1215624,
+   "awakenCoreGroup": 1121511,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860131",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1215625,
+   "awakenCoreGroup": 1121511,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860132",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1215631,
+   "awakenCoreGroup": 1121512,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1215632,
+   "awakenCoreGroup": 1121512,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1215633,
+   "awakenCoreGroup": 1121512,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1215634,
+   "awakenCoreGroup": 1121512,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1225611,
+   "awakenCoreGroup": 1122510,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860133,9860134,9860135",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1225621,
+   "awakenCoreGroup": 1122511,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860136,9860137,9860138,9860139,9860140",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1225622,
+   "awakenCoreGroup": 1122511,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860141",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1225623,
+   "awakenCoreGroup": 1122511,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860142",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1225624,
+   "awakenCoreGroup": 1122511,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860143",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1225625,
+   "awakenCoreGroup": 1122511,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860144",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1225631,
+   "awakenCoreGroup": 1122512,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1225632,
+   "awakenCoreGroup": 1122512,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1225633,
+   "awakenCoreGroup": 1122512,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1225634,
+   "awakenCoreGroup": 1122512,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1237611,
+   "awakenCoreGroup": 1123710,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860145,9860146,9860147",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1237621,
+   "awakenCoreGroup": 1123711,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860148,9860149,9860150,9860151,9860152",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1237622,
+   "awakenCoreGroup": 1123711,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860153",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1237623,
+   "awakenCoreGroup": 1123711,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860154",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1237624,
+   "awakenCoreGroup": 1123711,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860155",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1237625,
+   "awakenCoreGroup": 1123711,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860156",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1237631,
+   "awakenCoreGroup": 1123712,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1237632,
+   "awakenCoreGroup": 1123712,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1237633,
+   "awakenCoreGroup": 1123712,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1237634,
+   "awakenCoreGroup": 1123712,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1250611,
+   "awakenCoreGroup": 1125010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860157,9860158,9860159",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1250621,
+   "awakenCoreGroup": 1125011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860160,9860161,9860162,9860163,9860164",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1250622,
+   "awakenCoreGroup": 1125011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860165",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1250623,
+   "awakenCoreGroup": 1125011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860166",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1250624,
+   "awakenCoreGroup": 1125011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860167",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1250625,
+   "awakenCoreGroup": 1125011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860168",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1250631,
+   "awakenCoreGroup": 1125012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1250632,
+   "awakenCoreGroup": 1125012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1250633,
+   "awakenCoreGroup": 1125012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1250634,
+   "awakenCoreGroup": 1125012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1268611,
+   "awakenCoreGroup": 1126810,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860169,9860170,9860171",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1268621,
+   "awakenCoreGroup": 1126811,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860172,9860173,9860174,9860175,9860176",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1268622,
+   "awakenCoreGroup": 1126811,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860177",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1268623,
+   "awakenCoreGroup": 1126811,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860178",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1268624,
+   "awakenCoreGroup": 1126811,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860179",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1268625,
+   "awakenCoreGroup": 1126811,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860180",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1268631,
+   "awakenCoreGroup": 1126812,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1268632,
+   "awakenCoreGroup": 1126812,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1268633,
+   "awakenCoreGroup": 1126812,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1268634,
+   "awakenCoreGroup": 1126812,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1270611,
+   "awakenCoreGroup": 1127010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860181,9860182,9860183",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1270621,
+   "awakenCoreGroup": 1127011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860184,9860185,9860186,9860187,9860188",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1270622,
+   "awakenCoreGroup": 1127011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860189",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1270623,
+   "awakenCoreGroup": 1127011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860190",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1270624,
+   "awakenCoreGroup": 1127011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860191",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1270625,
+   "awakenCoreGroup": 1127011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860192",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1270631,
+   "awakenCoreGroup": 1127012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1270632,
+   "awakenCoreGroup": 1127012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1270633,
+   "awakenCoreGroup": 1127012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1270634,
+   "awakenCoreGroup": 1127012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1276611,
+   "awakenCoreGroup": 1127610,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860193,9860194,9860195",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1276621,
+   "awakenCoreGroup": 1127611,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860196,9860197,9860198,9860199,9860200",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1276622,
+   "awakenCoreGroup": 1127611,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860201",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1276623,
+   "awakenCoreGroup": 1127611,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860202",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1276624,
+   "awakenCoreGroup": 1127611,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860203",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1276625,
+   "awakenCoreGroup": 1127611,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860204",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1276631,
+   "awakenCoreGroup": 1127612,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1276632,
+   "awakenCoreGroup": 1127612,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1276633,
+   "awakenCoreGroup": 1127612,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1276634,
+   "awakenCoreGroup": 1127612,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1303611,
+   "awakenCoreGroup": 1130310,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860205,9860206,9860207",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1303621,
+   "awakenCoreGroup": 1130311,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860208,9860209,9860210,9860211,9860212",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1303622,
+   "awakenCoreGroup": 1130311,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860213",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1303623,
+   "awakenCoreGroup": 1130311,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860214",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1303624,
+   "awakenCoreGroup": 1130311,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860215",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1303625,
+   "awakenCoreGroup": 1130311,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860216",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1303631,
+   "awakenCoreGroup": 1130312,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1303632,
+   "awakenCoreGroup": 1130312,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1303633,
+   "awakenCoreGroup": 1130312,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1303634,
+   "awakenCoreGroup": 1130312,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1307611,
+   "awakenCoreGroup": 1130710,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860217,9860218,9860219",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1307621,
+   "awakenCoreGroup": 1130711,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860220,9860221,9860222,9860223,9860224",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1307622,
+   "awakenCoreGroup": 1130711,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860225",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1307623,
+   "awakenCoreGroup": 1130711,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860226",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1307624,
+   "awakenCoreGroup": 1130711,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860227",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1307625,
+   "awakenCoreGroup": 1130711,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860228",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1307631,
+   "awakenCoreGroup": 1130712,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1307632,
+   "awakenCoreGroup": 1130712,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1307633,
+   "awakenCoreGroup": 1130712,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1307634,
+   "awakenCoreGroup": 1130712,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1330611,
+   "awakenCoreGroup": 1133010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860229,9860230,9860231",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1330621,
+   "awakenCoreGroup": 1133011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860232,9860233,9860234,9860235,9860236",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1330622,
+   "awakenCoreGroup": 1133011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860237",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1330623,
+   "awakenCoreGroup": 1133011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860238",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1330624,
+   "awakenCoreGroup": 1133011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860239",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1330625,
+   "awakenCoreGroup": 1133011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860240",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1330631,
+   "awakenCoreGroup": 1133012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1330632,
+   "awakenCoreGroup": 1133012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1330633,
+   "awakenCoreGroup": 1133012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1330634,
+   "awakenCoreGroup": 1133012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1339611,
+   "awakenCoreGroup": 1133910,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860241,9860242,9860243",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1339621,
+   "awakenCoreGroup": 1133911,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860244,9860245,9860246,9860247,9860248",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1339622,
+   "awakenCoreGroup": 1133911,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860249",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1339623,
+   "awakenCoreGroup": 1133911,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860250",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1339624,
+   "awakenCoreGroup": 1133911,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860251",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1339625,
+   "awakenCoreGroup": 1133911,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860252",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1339631,
+   "awakenCoreGroup": 1133912,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1339632,
+   "awakenCoreGroup": 1133912,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1339633,
+   "awakenCoreGroup": 1133912,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1339634,
+   "awakenCoreGroup": 1133912,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1445611,
+   "awakenCoreGroup": 1144510,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860253,9860254,9860255",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1445621,
+   "awakenCoreGroup": 1144511,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860256,9860257,9860258,9860259,9860260",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1445622,
+   "awakenCoreGroup": 1144511,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860261",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1445623,
+   "awakenCoreGroup": 1144511,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860262",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1445624,
+   "awakenCoreGroup": 1144511,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860263",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1445625,
+   "awakenCoreGroup": 1144511,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860264",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1445631,
+   "awakenCoreGroup": 1144512,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1445632,
+   "awakenCoreGroup": 1144512,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1445633,
+   "awakenCoreGroup": 1144512,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1445634,
+   "awakenCoreGroup": 1144512,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1446611,
+   "awakenCoreGroup": 1144610,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860265,9860266,9860267",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1446621,
+   "awakenCoreGroup": 1144611,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860268,9860269,9860270,9860271,9860272",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1446622,
+   "awakenCoreGroup": 1144611,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860273",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1446623,
+   "awakenCoreGroup": 1144611,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860274",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1446624,
+   "awakenCoreGroup": 1144611,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860275",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1446625,
+   "awakenCoreGroup": 1144611,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860276",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1446631,
+   "awakenCoreGroup": 1144612,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1446632,
+   "awakenCoreGroup": 1144612,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1446633,
+   "awakenCoreGroup": 1144612,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1446634,
+   "awakenCoreGroup": 1144612,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1447611,
+   "awakenCoreGroup": 1144710,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860277,9860278,9860279",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1447621,
+   "awakenCoreGroup": 1144711,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860280,9860281,9860282,9860283,9860284",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1447622,
+   "awakenCoreGroup": 1144711,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860285",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1447623,
+   "awakenCoreGroup": 1144711,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860286",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1447624,
+   "awakenCoreGroup": 1144711,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860287",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1447625,
+   "awakenCoreGroup": 1144711,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860288",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1447631,
+   "awakenCoreGroup": 1144712,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1447632,
+   "awakenCoreGroup": 1144712,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1447633,
+   "awakenCoreGroup": 1144712,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1447634,
+   "awakenCoreGroup": 1144712,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1448611,
+   "awakenCoreGroup": 1144810,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860289,9860290,9860291",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1448621,
+   "awakenCoreGroup": 1144811,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860292,9860293,9860294,9860295,9860296",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1448622,
+   "awakenCoreGroup": 1144811,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860297",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1448623,
+   "awakenCoreGroup": 1144811,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860298",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1448624,
+   "awakenCoreGroup": 1144811,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860299",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1448625,
+   "awakenCoreGroup": 1144811,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860300",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1448631,
+   "awakenCoreGroup": 1144812,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1448632,
+   "awakenCoreGroup": 1144812,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1448633,
+   "awakenCoreGroup": 1144812,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1448634,
+   "awakenCoreGroup": 1144812,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1449611,
+   "awakenCoreGroup": 1144910,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860301,9860302,9860303",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1449621,
+   "awakenCoreGroup": 1144911,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860304,9860305,9860306,9860307,9860308",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1449622,
+   "awakenCoreGroup": 1144911,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860309",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1449623,
+   "awakenCoreGroup": 1144911,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860310",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1449624,
+   "awakenCoreGroup": 1144911,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860311",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1449625,
+   "awakenCoreGroup": 1144911,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860312",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1449631,
+   "awakenCoreGroup": 1144912,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1449632,
+   "awakenCoreGroup": 1144912,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1449633,
+   "awakenCoreGroup": 1144912,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1449634,
+   "awakenCoreGroup": 1144912,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1450611,
+   "awakenCoreGroup": 1145010,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860313,9860314,9860315",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1450621,
+   "awakenCoreGroup": 1145011,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860316,9860317,9860318,9860319,9860320",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1450622,
+   "awakenCoreGroup": 1145011,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860321",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1450623,
+   "awakenCoreGroup": 1145011,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860322",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1450624,
+   "awakenCoreGroup": 1145011,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860323",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1450625,
+   "awakenCoreGroup": 1145011,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860324",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1450631,
+   "awakenCoreGroup": 1145012,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1450632,
+   "awakenCoreGroup": 1145012,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1450633,
+   "awakenCoreGroup": 1145012,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1450634,
+   "awakenCoreGroup": 1145012,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  },
+  {
+   "awakenCoreGroupIndex": 1451611,
+   "awakenCoreGroup": 1145110,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860325,9860326,9860327",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1451621,
+   "awakenCoreGroup": 1145111,
+   "coreGroupOrder": 1,
+   "coreBuff": "9860328,9860329,9860330,9860331,9860332",
+   "subUnlockLv": 50
+  },
+  {
+   "awakenCoreGroupIndex": 1451622,
+   "awakenCoreGroup": 1145111,
+   "coreGroupOrder": 2,
+   "coreBuff": "9860333",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1451623,
+   "awakenCoreGroup": 1145111,
+   "coreGroupOrder": 3,
+   "coreBuff": "9860334",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1451624,
+   "awakenCoreGroup": 1145111,
+   "coreGroupOrder": 4,
+   "coreBuff": "9860335",
+   "subUnlockLv": 80
+  },
+  {
+   "awakenCoreGroupIndex": 1451625,
+   "awakenCoreGroup": 1145111,
+   "coreGroupOrder": 5,
+   "coreBuff": "9860336",
+   "subUnlockLv": 90
+  },
+  {
+   "awakenCoreGroupIndex": 1451631,
+   "awakenCoreGroup": 1145112,
+   "coreGroupOrder": 1,
+   "coreBuff": "",
+   "subUnlockLv": 60
+  },
+  {
+   "awakenCoreGroupIndex": 1451632,
+   "awakenCoreGroup": 1145112,
+   "coreGroupOrder": 2,
+   "coreBuff": "",
+   "subUnlockLv": 65
+  },
+  {
+   "awakenCoreGroupIndex": 1451633,
+   "awakenCoreGroup": 1145112,
+   "coreGroupOrder": 3,
+   "coreBuff": "",
+   "subUnlockLv": 70
+  },
+  {
+   "awakenCoreGroupIndex": 1451634,
+   "awakenCoreGroup": 1145112,
+   "coreGroupOrder": 4,
+   "coreBuff": "",
+   "subUnlockLv": 75
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: minimal rows for the offline server, not the original data.",
+ "rows": [
+  {
+   "inventoryCategoryIndex": 1,
+   "inventoryTabIndex": 1,
+   "sortOrder": 1,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category1.Name"
+  },
+  {
+   "inventoryCategoryIndex": 9,
+   "inventoryTabIndex": 1,
+   "sortOrder": 2,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category9.Name"
+  },
+  {
+   "inventoryCategoryIndex": 3,
+   "inventoryTabIndex": 2,
+   "sortOrder": 3,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category3.Name"
+  },
+  {
+   "inventoryCategoryIndex": 11,
+   "inventoryTabIndex": 2,
+   "sortOrder": 4,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category11.Name"
+  },
+  {
+   "inventoryCategoryIndex": 4,
+   "inventoryTabIndex": 3,
+   "sortOrder": 5,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category4.Name"
+  },
+  {
+   "inventoryCategoryIndex": 8,
+   "inventoryTabIndex": 3,
+   "sortOrder": 6,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category8.Name"
+  },
+  {
+   "inventoryCategoryIndex": 25,
+   "inventoryTabIndex": 4,
+   "sortOrder": 7,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category25.Name"
+  },
+  {
+   "inventoryCategoryIndex": 16,
+   "inventoryTabIndex": 5,
+   "sortOrder": 8,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category16.Name"
+  },
+  {
+   "inventoryCategoryIndex": 5,
+   "inventoryTabIndex": 7,
+   "sortOrder": 9,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category5.Name"
+  },
+  {
+   "inventoryCategoryIndex": 18,
+   "inventoryTabIndex": 7,
+   "sortOrder": 10,
+   "inventoryCategoryNameTag": "System.V_ItemInventory.Category18.Name"
+  }
+ ]
+}

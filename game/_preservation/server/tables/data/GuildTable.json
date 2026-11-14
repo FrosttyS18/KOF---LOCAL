@@ -1,0 +1,29 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildIndex": 1,
+   "makeLevel": 1,
+   "makePriceType": 1,
+   "makePriceValue": 10000,
+   "joinLimit": 5,
+   "memberLimit": 50,
+   "subMasterLimit": 2,
+   "activePointSale": 0,
+   "historyDisplayLimit": 50,
+   "chatDisplayLimit": 50,
+   "postBoardDisplayLimit": 50,
+   "greetNumber": 10,
+   "greetRewardMineType": 30,
+   "greetRewardMineValue": 5,
+   "greetRewardOthersType": 30,
+   "greetRewardOthersValue": 5,
+   "closedPenaltyTime": 0,
+   "leavePenaltyTime": 0,
+   "itemRequestTime": 60,
+   "itemRequestRewardMineType": 1,
+   "itemRequestRewardMineValue": 5000,
+   "itemRequestEndTime": 1440
+  }
+ ]
+}

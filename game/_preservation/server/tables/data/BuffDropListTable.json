@@ -1,0 +1,17 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: EXP dungeon (gen_dungeon.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "buffDropListIndex": 9401,
+   "buffDropGroup": 9401,
+   "buffDropList": 9401,
+   "buffDropListProbability": 10000
+  },
+  {
+   "buffDropListIndex": 9402,
+   "buffDropGroup": 9402,
+   "buffDropList": 9402,
+   "buffDropListProbability": 10000
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written for the offline server by tools/gen_roster.py; ids and numbers are not the original data.",
+ "rows": [
+  {
+   "yearNameIndex": 1,
+   "yearNameStringTag": "YearName.94.String.Name",
+   "yearCollectionIndex": 1,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark1_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark1"
+  },
+  {
+   "yearNameIndex": 2,
+   "yearNameStringTag": "YearName.95.String.Name",
+   "yearCollectionIndex": 2,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark2_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark2"
+  },
+  {
+   "yearNameIndex": 3,
+   "yearNameStringTag": "YearName.96.String.Name",
+   "yearCollectionIndex": 3,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark3_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark3"
+  },
+  {
+   "yearNameIndex": 4,
+   "yearNameStringTag": "YearName.97.String.Name",
+   "yearCollectionIndex": 4,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark4_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark4"
+  },
+  {
+   "yearNameIndex": 5,
+   "yearNameStringTag": "YearName.98.String.Name",
+   "yearCollectionIndex": 5,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark5_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark5"
+  },
+  {
+   "yearNameIndex": 6,
+   "yearNameStringTag": "YearName.99.String.Name",
+   "yearCollectionIndex": 6,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark99_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark99"
+  },
+  {
+   "yearNameIndex": 7,
+   "yearNameStringTag": "YearName.2000.String.Name",
+   "yearCollectionIndex": 7,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark00_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark00"
+  },
+  {
+   "yearNameIndex": 8,
+   "yearNameStringTag": "YearName.2001.String.Name",
+   "yearCollectionIndex": 8,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark01_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark01"
+  },
+  {
+   "yearNameIndex": 9,
+   "yearNameStringTag": "YearName.2002.String.Name",
+   "yearCollectionIndex": 9,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark02_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark02"
+  },
+  {
+   "yearNameIndex": 10,
+   "yearNameStringTag": "YearName.2003.String.Name",
+   "yearCollectionIndex": 10,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark03_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark03"
+  },
+  {
+   "yearNameIndex": 11,
+   "yearNameStringTag": "YearName.XI.String.Name",
+   "yearCollectionIndex": 11,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark11_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark11"
+  },
+  {
+   "yearNameIndex": 12,
+   "yearNameStringTag": "YearName.XII.String.Name",
+   "yearCollectionIndex": 12,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark12_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark12"
+  },
+  {
+   "yearNameIndex": 13,
+   "yearNameStringTag": "YearName.XIII.String.Name",
+   "yearCollectionIndex": 13,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark13_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark13"
+  },
+  {
+   "yearNameIndex": 14,
+   "yearNameStringTag": "YearName.XIV.String.Name",
+   "yearCollectionIndex": 14,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark14_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark14"
+  },
+  {
+   "yearNameIndex": 15,
+   "yearNameStringTag": "YearName.XV.String.Name",
+   "yearCollectionIndex": 15,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark15_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmark15"
+  },
+  {
+   "yearNameIndex": 16,
+   "yearNameStringTag": "YearName.SS.String.Name",
+   "yearCollectionIndex": 16,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksps_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksps"
+  },
+  {
+   "yearNameIndex": 17,
+   "yearNameStringTag": "YearName.BS.String.Name",
+   "yearCollectionIndex": 17,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkbs_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkbs"
+  },
+  {
+   "yearNameIndex": 18,
+   "yearNameStringTag": "YearName.UE.String.Name",
+   "yearCollectionIndex": 18,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 19,
+   "yearNameStringTag": "YearName.ALLSTAR.String.Name",
+   "yearCollectionIndex": 19,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 20,
+   "yearNameStringTag": "YearName.TF.String.Name",
+   "yearCollectionIndex": 20,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 21,
+   "yearNameStringTag": "YearName.Phantom.String.Name",
+   "yearCollectionIndex": 21,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 22,
+   "yearNameStringTag": "YearName.HappyNewYear2019.String.Name",
+   "yearCollectionIndex": 22,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 23,
+   "yearNameStringTag": "YearName.ValentineDay2019.String.Name",
+   "yearCollectionIndex": 23,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 24,
+   "yearNameStringTag": "YearName.ValentineDay2020.String.Name",
+   "yearCollectionIndex": 24,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 25,
+   "yearNameStringTag": "YearName.SakuraEvent2019.String.Name",
+   "yearCollectionIndex": 25,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 26,
+   "yearNameStringTag": "YearName.GoldenWeek2019.String.Name",
+   "yearCollectionIndex": 26,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 27,
+   "yearNameStringTag": "YearName.SummerSwimsuitEvent.String.Name",
+   "yearCollectionIndex": 27,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 28,
+   "yearNameStringTag": "YearName.Baseball2020.String.Name",
+   "yearCollectionIndex": 28,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 29,
+   "yearNameStringTag": "YearName.Holloween2018.String.Name",
+   "yearCollectionIndex": 29,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 30,
+   "yearNameStringTag": "YearName.Holloween2019.String.Name",
+   "yearCollectionIndex": 30,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 31,
+   "yearNameStringTag": "YearName.Holloween2020.String.Name",
+   "yearCollectionIndex": 31,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 32,
+   "yearNameStringTag": "YearName.ChristMas2018.String.Name",
+   "yearCollectionIndex": 32,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 33,
+   "yearNameStringTag": "YearName.ChristMas2019.String.Name",
+   "yearCollectionIndex": 33,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 34,
+   "yearNameStringTag": "YearName.ChristMas2020.String.Name",
+   "yearCollectionIndex": 34,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkall"
+  },
+  {
+   "yearNameIndex": 35,
+   "yearNameStringTag": "YearName.Polygon.String.Name",
+   "yearCollectionIndex": 35,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkvf5_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkvf5"
+  },
+  {
+   "yearNameIndex": 36,
+   "yearNameStringTag": "YearName.Gintama.String.Name",
+   "yearCollectionIndex": 36,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarkgintama_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarkgintama"
+  },
+  {
+   "yearNameIndex": 37,
+   "yearNameStringTag": "YearName.Samurai.String.Name",
+   "yearCollectionIndex": 37,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarkss_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarkss"
+  },
+  {
+   "yearNameIndex": 38,
+   "yearNameStringTag": "YearName.Tekken.String.Name",
+   "yearCollectionIndex": 38,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarktekken_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarktekken_big"
+  },
+  {
+   "yearNameIndex": 39,
+   "yearNameStringTag": "YearName.WWE.String.Name",
+   "yearCollectionIndex": 39,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkwwe_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkwwe_big"
+  },
+  {
+   "yearNameIndex": 40,
+   "yearNameStringTag": "YearName.SK.String.Name",
+   "yearCollectionIndex": 40,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarksk_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarksk"
+  },
+  {
+   "yearNameIndex": 41,
+   "yearNameStringTag": "YearName.SDS.String.Name",
+   "yearCollectionIndex": 41,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarksds_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/{0}/seriesmarksds"
+  },
+  {
+   "yearNameIndex": 42,
+   "yearNameStringTag": "YearName.DOA.String.Name",
+   "yearCollectionIndex": 42,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkdoa_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkdoa"
+  },
+  {
+   "yearNameIndex": 43,
+   "yearNameStringTag": "YearName.GGX.String.Name",
+   "yearCollectionIndex": 43,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkggx_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkggx"
+  },
+  {
+   "yearNameIndex": 44,
+   "yearNameStringTag": "YearName.SFV.String.Name",
+   "yearCollectionIndex": 44,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksfv_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksfv"
+  },
+  {
+   "yearNameIndex": 45,
+   "yearNameStringTag": "YearName.SF6.String.Name",
+   "yearCollectionIndex": 45,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksf6_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksf6"
+  },
+  {
+   "yearNameIndex": 46,
+   "yearNameStringTag": "YearName.SC6.String.Name",
+   "yearCollectionIndex": 46,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksc6_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarksc6"
+  },
+  {
+   "yearNameIndex": 47,
+   "yearNameStringTag": "YearName.VF5.String.Name",
+   "yearCollectionIndex": 47,
+   "yearNameIconSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkvf5_small",
+   "yearNameIconBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/TimeDrive/seriesmarkvf5"
+  }
+ ]
+}

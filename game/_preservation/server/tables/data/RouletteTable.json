@@ -1,0 +1,35 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: roulettes (gen_roulette.py); art/prizes from the 2023 video, rates ours.",
+ "rows": [
+  {
+   "rouletteIndex": 1,
+   "rouletteIndexString": "Roulette1",
+   "rouletteNameTag": "Offline.Roulette.1.Name",
+   "rouletteBGImage": "Prefabs/UI_Data/UI_Texture/BackgroundStage/Roulette_Default",
+   "rouletteCharacterSpine": "Prefabs/SpineCharacter/Navigator_Spine",
+   "rouletteSubNameTag": "Offline.Roulette.1.Sub",
+   "rouletteTitle": "",
+   "rouletteTitleBG": "Prefabs/UI_Data/UI_Texture/Roulette/Shape_C_Roulette_TitleBg_Red",
+   "rouletteMainCover": "Prefabs/UI_Data/UI_Texture/Roulette/Frame_C_Roulette_MainCover_Red",
+   "rouletteBingoBox": "Prefabs/UI_Data/UI_Texture/Roulette/Frame_C_Roulette_Bingo_Box_Red",
+   "rouletteElapsedCount": "Prefabs/UI_Data/UI_Texture/Roulette/Frame_C_Roulette_ElapsedCount",
+   "rouletteSpeechBubble": "Prefabs/UI_Data/UI_Texture/Roulette/Shape_C_Roulette_TitleBg_Red",
+   "rouletteEventBGImagePosition": 0
+  },
+  {
+   "rouletteIndex": 2,
+   "rouletteIndexString": "Roulette2",
+   "rouletteNameTag": "Offline.Roulette.2.Name",
+   "rouletteBGImage": "Prefabs/UI_Data/UI_Texture/BackgroundStage/Texture_GroupGrowth_01",
+   "rouletteCharacterSpine": "Prefabs/SpineCharacter/Eru_Spine",
+   "rouletteSubNameTag": "Offline.Roulette.2.Sub",
+   "rouletteTitle": "",
+   "rouletteTitleBG": "Prefabs/UI_Data/UI_Texture/Roulette/Shape_C_Roulette_TitleBg_Festa",
+   "rouletteMainCover": "Prefabs/UI_Data/UI_Texture/Roulette/Frame_C_Roulette_MainCover_Festa",
+   "rouletteBingoBox": "Prefabs/UI_Data/UI_Texture/Roulette/Shape_C_Roulette_Bingo_Box_Festa",
+   "rouletteElapsedCount": "Prefabs/UI_Data/UI_Texture/Roulette/Frame_C_Roulette_ElapsedCount_Festa",
+   "rouletteSpeechBubble": "Prefabs/UI_Data/UI_Texture/Roulette/Shape_C_Roulette_TitleBg_Festa",
+   "rouletteEventBGImagePosition": 1
+  }
+ ]
+}

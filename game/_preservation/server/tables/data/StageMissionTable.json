@@ -1,0 +1,189 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "stageMissionIndex": 1101001,
+   "stageMissionIndexString": "1101001",
+   "stageMissionNameTag": "Offline.StageMission.1101001.Name",
+   "missionType": 2,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 180,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101002,
+   "stageMissionIndexString": "1101002",
+   "stageMissionNameTag": "Offline.StageMission.1101002.Name",
+   "missionType": 18,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 10,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101003,
+   "stageMissionIndexString": "1101003",
+   "stageMissionNameTag": "Offline.StageMission.1101003.Name",
+   "missionType": 5,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 30,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101004,
+   "stageMissionIndexString": "1101004",
+   "stageMissionNameTag": "Offline.StageMission.1101004.Name",
+   "missionType": 14,
+   "missionConditionValue1": 1,
+   "missionConditionValue3": 1,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101005,
+   "stageMissionIndexString": "1101005",
+   "stageMissionNameTag": "Offline.StageMission.1101005.Name",
+   "missionType": 3,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 1,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101006,
+   "stageMissionIndexString": "1101006",
+   "stageMissionNameTag": "Offline.StageMission.1101006.Name",
+   "missionType": 4,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 1,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 1101007,
+   "stageMissionIndexString": "1101007",
+   "stageMissionNameTag": "Offline.StageMission.1101007.Name",
+   "missionType": 18,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 15,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 3201001,
+   "stageMissionIndexString": "3201001",
+   "stageMissionNameTag": "Offline.StageMission.3201001.Name",
+   "missionType": 5,
+   "missionConditionValue3": 40,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1101
+  },
+  {
+   "stageMissionIndex": 3201002,
+   "stageMissionIndexString": "3201002",
+   "stageMissionNameTag": "Offline.StageMission.3201002.Name",
+   "missionType": 5,
+   "missionConditionValue3": 30,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1201
+  },
+  {
+   "stageMissionIndex": 3201003,
+   "stageMissionIndexString": "3201003",
+   "stageMissionNameTag": "Offline.StageMission.3201003.Name",
+   "missionType": 5,
+   "missionConditionValue3": 20,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 1202
+  },
+  {
+   "stageMissionIndex": 4100011,
+   "stageMissionIndexString": "4100011",
+   "stageMissionNameTag": "Offline.StageMission.4100011.Name",
+   "missionType": 5,
+   "missionConditionValue3": 30,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100011
+  },
+  {
+   "stageMissionIndex": 4100012,
+   "stageMissionIndexString": "4100012",
+   "stageMissionNameTag": "Offline.StageMission.4100012.Name",
+   "missionType": 2,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 150,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100012
+  },
+  {
+   "stageMissionIndex": 4100013,
+   "stageMissionIndexString": "4100013",
+   "stageMissionNameTag": "Offline.StageMission.4100013.Name",
+   "missionType": 18,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 10,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 4100013
+  },
+  {
+   "stageMissionIndex": 4100021,
+   "stageMissionIndexString": "4100021",
+   "stageMissionNameTag": "Offline.StageMission.4100021.Name",
+   "missionType": 5,
+   "missionConditionValue3": 20,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100021
+  },
+  {
+   "stageMissionIndex": 4100022,
+   "stageMissionIndexString": "4100022",
+   "stageMissionNameTag": "Offline.StageMission.4100022.Name",
+   "missionType": 2,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 120,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100022
+  },
+  {
+   "stageMissionIndex": 4100023,
+   "stageMissionIndexString": "4100023",
+   "stageMissionNameTag": "Offline.StageMission.4100023.Name",
+   "missionType": 18,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 15,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 4100023
+  },
+  {
+   "stageMissionIndex": 4100031,
+   "stageMissionIndexString": "4100031",
+   "stageMissionNameTag": "Offline.StageMission.4100031.Name",
+   "missionType": 5,
+   "missionConditionValue3": 10,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100031
+  },
+  {
+   "stageMissionIndex": 4100032,
+   "stageMissionIndexString": "4100032",
+   "stageMissionNameTag": "Offline.StageMission.4100032.Name",
+   "missionType": 2,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 90,
+   "missionCheckType": 2,
+   "missionCompleteRewardGroup": 4100032
+  },
+  {
+   "stageMissionIndex": 4100033,
+   "stageMissionIndexString": "4100033",
+   "stageMissionNameTag": "Offline.StageMission.4100033.Name",
+   "missionType": 18,
+   "missionConditionValue1": 0,
+   "missionConditionValue3": 20,
+   "missionCheckType": 3,
+   "missionCompleteRewardGroup": 4100033
+  }
+ ]
+}

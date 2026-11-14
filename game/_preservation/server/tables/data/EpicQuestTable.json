@@ -1,0 +1,15 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: growth missions (gen_quest.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "epicQuestIndex": 1,
+   "epicQuestNameTag": "Offline.EpicQuest.1.Name",
+   "epicQuestShortNameTag": "Offline.EpicQuest.1.Name",
+   "epicMissionNameTag": "Offline.EpicQuest.1.Name",
+   "episodeNum": 0,
+   "episodeStartTime": 1577836800000,
+   "episodeEndTime": 4102444800000,
+   "epicQuestOnOff": 1
+  }
+ ]
+}

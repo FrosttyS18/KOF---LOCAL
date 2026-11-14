@@ -1,0 +1,205 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: roulettes (gen_roulette.py); art/prizes from the 2023 video, rates ours.",
+ "rows": [
+  {
+   "eventDataIndex": 201,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.Event.Roulette.1.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_C_Roulette",
+   "lineUpOrderNum": 11,
+   "linkEvent": 1,
+   "eventDataType": 2,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 202,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.Event.Roulette.2.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_C_Roulette_Fighter",
+   "lineUpOrderNum": 12,
+   "linkEvent": 2,
+   "eventDataType": 2,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 301,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.1.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 31,
+   "linkEvent": 1,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 302,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.2.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 32,
+   "linkEvent": 2,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 303,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.3.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 33,
+   "linkEvent": 3,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 401,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.101.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 61,
+   "linkEvent": 101,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 402,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.102.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 62,
+   "linkEvent": 102,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 601,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.301.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 63,
+   "linkEvent": 301,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 602,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.302.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 64,
+   "linkEvent": 302,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 501,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.201.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 91,
+   "linkEvent": 201,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 502,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.202.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 92,
+   "linkEvent": 202,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 503,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.203.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 93,
+   "linkEvent": 203,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 504,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.204.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 94,
+   "linkEvent": 204,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 505,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.205.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 95,
+   "linkEvent": 205,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 506,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.206.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 96,
+   "linkEvent": 206,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 507,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.207.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 97,
+   "linkEvent": 207,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 508,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.208.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 98,
+   "linkEvent": 208,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 509,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.209.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 99,
+   "linkEvent": 209,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 510,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.210.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 100,
+   "linkEvent": 210,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  },
+  {
+   "eventDataIndex": 511,
+   "eventOnOffType": 1,
+   "eventNameTag": "Offline.EventBook.211.Name",
+   "eventDataIcon": "Prefabs/UI_Data/UI_Texture/Icon/global/EventIcon_EventBook_Normal",
+   "lineUpOrderNum": 101,
+   "linkEvent": 211,
+   "eventDataType": 19,
+   "lobbyIconLocation": 1
+  }
+ ]
+}

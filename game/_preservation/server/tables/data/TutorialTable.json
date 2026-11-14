@@ -1,0 +1,1202 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: 2023 new-player start (gen_story.py); text from the original, ids/values ours.",
+ "rows": [
+  {
+   "tutorialIndex": 10101,
+   "tutorialIndexString": "101_1",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 1,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20101,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10102,
+   "tutorialIndexString": "101_2",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 2,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20102,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10103,
+   "tutorialIndexString": "101_3",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 3,
+   "tutorialType": 26,
+   "tutorialTypeValue1": 110101,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10104,
+   "tutorialIndexString": "101_4",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 4,
+   "tutorialType": 31,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10105,
+   "tutorialIndexString": "101_5",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 5,
+   "tutorialType": 32,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10106,
+   "tutorialIndexString": "101_6",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 6,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10107,
+   "tutorialIndexString": "101_7",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 7,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/Top/Tutorial_set_bottom1"
+  },
+  {
+   "tutorialIndex": 10108,
+   "tutorialIndexString": "101_8",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 8,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_Controller_PcOnly/BottomRight/Tutorial_set_top2"
+  },
+  {
+   "tutorialIndex": 10109,
+   "tutorialIndexString": "101_9",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 9,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/None/Bottom/MyCharacterInfo/LeftCharacterInfo/CurrentCharacterInfo/Tutorial_set_top1"
+  },
+  {
+   "tutorialIndex": 10110,
+   "tutorialIndexString": "101_10",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 10,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10111,
+   "tutorialIndexString": "101_11",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 11,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/Top/Tutorial_set_bottom1"
+  },
+  {
+   "tutorialIndex": 10112,
+   "tutorialIndexString": "101_12",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 12,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_Controller_PcOnly/BottomRight/Tutorial_set_top2"
+  },
+  {
+   "tutorialIndex": 10113,
+   "tutorialIndexString": "101_13",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 13,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/None/Bottom/MyCharacterInfo/LeftCharacterInfo/CurrentCharacterInfo/Tutorial_set_top1"
+  },
+  {
+   "tutorialIndex": 10114,
+   "tutorialIndexString": "101_14",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 14,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10115,
+   "tutorialIndexString": "101_15",
+   "tutorialGroupIndex": 101,
+   "tutorialStepOrder": 15,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10201,
+   "tutorialIndexString": "102_1",
+   "tutorialGroupIndex": 102,
+   "tutorialStepOrder": 1,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20104,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10202,
+   "tutorialIndexString": "102_2",
+   "tutorialGroupIndex": 102,
+   "tutorialStepOrder": 2,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10301,
+   "tutorialIndexString": "103_1",
+   "tutorialGroupIndex": 103,
+   "tutorialStepOrder": 1,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20105,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10302,
+   "tutorialIndexString": "103_2",
+   "tutorialGroupIndex": 103,
+   "tutorialStepOrder": 2,
+   "tutorialType": 26,
+   "tutorialTypeValue1": 110102,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10303,
+   "tutorialIndexString": "103_3",
+   "tutorialGroupIndex": 103,
+   "tutorialStepOrder": 3,
+   "tutorialType": 31,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10304,
+   "tutorialIndexString": "103_4",
+   "tutorialGroupIndex": 103,
+   "tutorialStepOrder": 4,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10401,
+   "tutorialIndexString": "104_1",
+   "tutorialGroupIndex": 104,
+   "tutorialStepOrder": 1,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20106,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10402,
+   "tutorialIndexString": "104_2",
+   "tutorialGroupIndex": 104,
+   "tutorialStepOrder": 2,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10501,
+   "tutorialIndexString": "105_1",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 1,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_StageList",
+   "functionDelayTime": 1.2
+  },
+  {
+   "tutorialIndex": 10502,
+   "tutorialIndexString": "105_2",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 2,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10503,
+   "tutorialIndexString": "105_3",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 3,
+   "tutorialType": 5,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_StageList/StageListGroup/StageList/StageListScroll/ScrollView/UITable/StageType_2/Unit_Stage"
+  },
+  {
+   "tutorialIndex": 10504,
+   "tutorialIndexString": "105_4",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 4,
+   "tutorialType": 15,
+   "tutorialTypeValue1": 70,
+   "displayBtnName": "P_Tutorial/HighlightParent/Unit_Stage",
+   "tutorialTypeValue2": -50,
+   "tutorialTypeValue4": 1
+  },
+  {
+   "tutorialIndex": 10505,
+   "tutorialIndexString": "105_5",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 5,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.105.Text.5"
+  },
+  {
+   "tutorialIndex": 10506,
+   "tutorialIndexString": "105_6",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 6,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10507,
+   "tutorialIndexString": "105_7",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 7,
+   "tutorialType": 3,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10508,
+   "tutorialIndexString": "105_8",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 8,
+   "tutorialType": 6,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/Unit_Stage"
+  },
+  {
+   "tutorialIndex": 10509,
+   "tutorialIndexString": "105_9",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 9,
+   "tutorialType": 4,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10510,
+   "tutorialIndexString": "105_10",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 10,
+   "tutorialType": 16,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10511,
+   "tutorialIndexString": "105_11",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 11,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_StoryStageInfo_UX",
+   "functionDelayTime": 1.2
+  },
+  {
+   "tutorialIndex": 10512,
+   "tutorialIndexString": "105_12",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 12,
+   "tutorialType": 5,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_StoryStageInfo_UX/StartGroup/btnAPStart"
+  },
+  {
+   "tutorialIndex": 10513,
+   "tutorialIndexString": "105_13",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 13,
+   "tutorialType": 15,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/btnAPStart",
+   "tutorialTypeValue4": 1
+  },
+  {
+   "tutorialIndex": 10514,
+   "tutorialIndexString": "105_14",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 14,
+   "tutorialType": 3,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10515,
+   "tutorialIndexString": "105_15",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 15,
+   "tutorialType": 6,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/btnAPStart"
+  },
+  {
+   "tutorialIndex": 10516,
+   "tutorialIndexString": "105_16",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 16,
+   "tutorialType": 4,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10517,
+   "tutorialIndexString": "105_17",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 17,
+   "tutorialType": 16,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10518,
+   "tutorialIndexString": "105_18",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 18,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10519,
+   "tutorialIndexString": "105_19",
+   "tutorialGroupIndex": 105,
+   "tutorialStepOrder": 19,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10601,
+   "tutorialIndexString": "106_1",
+   "tutorialGroupIndex": 106,
+   "tutorialStepOrder": 1,
+   "tutorialType": 19,
+   "tutorialTypeValue1": 20108,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10602,
+   "tutorialIndexString": "106_2",
+   "tutorialGroupIndex": 106,
+   "tutorialStepOrder": 2,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10701,
+   "tutorialIndexString": "107_1",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 1,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_ChapterSelect",
+   "functionDelayTime": 2.0
+  },
+  {
+   "tutorialIndex": 10702,
+   "tutorialIndexString": "107_2",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 2,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10703,
+   "tutorialIndexString": "107_3",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 3,
+   "tutorialType": 5,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_TopMenu_Renew/Main/Right/Container/MenuGroup/HomeButtonGroup/Button_Small"
+  },
+  {
+   "tutorialIndex": 10704,
+   "tutorialIndexString": "107_4",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 4,
+   "tutorialType": 15,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/Button_Small",
+   "tutorialTypeValue2": -70,
+   "tutorialTypeValue3": 180,
+   "tutorialTypeValue4": 1
+  },
+  {
+   "tutorialIndex": 10705,
+   "tutorialIndexString": "107_5",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 5,
+   "tutorialType": 3,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10706,
+   "tutorialIndexString": "107_6",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 6,
+   "tutorialType": 6,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/Button_Small"
+  },
+  {
+   "tutorialIndex": 10707,
+   "tutorialIndexString": "107_7",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 7,
+   "tutorialType": 4,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10708,
+   "tutorialIndexString": "107_8",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 8,
+   "tutorialType": 16,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10709,
+   "tutorialIndexString": "107_9",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 9,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10710,
+   "tutorialIndexString": "107_10",
+   "tutorialGroupIndex": 107,
+   "tutorialStepOrder": 10,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10801,
+   "tutorialIndexString": "108_1",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 1,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_Lobby_Renew",
+   "functionDelayTime": 1.0
+  },
+  {
+   "tutorialIndex": 10802,
+   "tutorialIndexString": "108_2",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 2,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 1,
+   "tutorialTextTag": "Offline.Tutorial.108.Text.2"
+  },
+  {
+   "tutorialIndex": 10803,
+   "tutorialIndexString": "108_3",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 3,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.108.Text.3"
+  },
+  {
+   "tutorialIndex": 10804,
+   "tutorialIndexString": "108_4",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 4,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10805,
+   "tutorialIndexString": "108_5",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 5,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10806,
+   "tutorialIndexString": "108_6",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 6,
+   "tutorialType": 5,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_Lobby_Renew/BottomRightAnchor/ButtonRightOffset/ButtonMenu/Line1/4_btn_6_growthMission"
+  },
+  {
+   "tutorialIndex": 10807,
+   "tutorialIndexString": "108_7",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 7,
+   "tutorialType": 15,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/4_btn_6_growthMission",
+   "tutorialTypeValue4": 1
+  },
+  {
+   "tutorialIndex": 10808,
+   "tutorialIndexString": "108_8",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 8,
+   "tutorialType": 3,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10809,
+   "tutorialIndexString": "108_9",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 9,
+   "tutorialType": 6,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Tutorial/HighlightParent/4_btn_6_growthMission"
+  },
+  {
+   "tutorialIndex": 10810,
+   "tutorialIndexString": "108_10",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 10,
+   "tutorialType": 4,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10811,
+   "tutorialIndexString": "108_11",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 11,
+   "tutorialType": 16,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10812,
+   "tutorialIndexString": "108_12",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 12,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10813,
+   "tutorialIndexString": "108_13",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 13,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_Quest2",
+   "functionDelayTime": 0.6
+  },
+  {
+   "tutorialIndex": 10814,
+   "tutorialIndexString": "108_14",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 14,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 1,
+   "tutorialTextTag": "Offline.Tutorial.108.Text.14"
+  },
+  {
+   "tutorialIndex": 10815,
+   "tutorialIndexString": "108_15",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 15,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10816,
+   "tutorialIndexString": "108_16",
+   "tutorialGroupIndex": 108,
+   "tutorialStepOrder": 16,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10901,
+   "tutorialIndexString": "109_1",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 1,
+   "tutorialType": 31,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10902,
+   "tutorialIndexString": "109_2",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 2,
+   "tutorialType": 32,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10903,
+   "tutorialIndexString": "109_3",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 3,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10904,
+   "tutorialIndexString": "109_4",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 4,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set2_bottom"
+  },
+  {
+   "tutorialIndex": 10905,
+   "tutorialIndexString": "109_5",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 5,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10906,
+   "tutorialIndexString": "109_6",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 6,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set2_bottom"
+  },
+  {
+   "tutorialIndex": 10907,
+   "tutorialIndexString": "109_7",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 7,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 1,
+   "tutorialTextTag": "Offline.Tutorial.109.Text.7"
+  },
+  {
+   "tutorialIndex": 10908,
+   "tutorialIndexString": "109_8",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 8,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.109.Text.8"
+  },
+  {
+   "tutorialIndex": 10909,
+   "tutorialIndexString": "109_9",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 9,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10910,
+   "tutorialIndexString": "109_10",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 10,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 10911,
+   "tutorialIndexString": "109_11",
+   "tutorialGroupIndex": 109,
+   "tutorialStepOrder": 11,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11001,
+   "tutorialIndexString": "110_1",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 1,
+   "tutorialType": 31,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11002,
+   "tutorialIndexString": "110_2",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 2,
+   "tutorialType": 32,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11003,
+   "tutorialIndexString": "110_3",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 3,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11004,
+   "tutorialIndexString": "110_4",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 4,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set3_bottom"
+  },
+  {
+   "tutorialIndex": 11005,
+   "tutorialIndexString": "110_5",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 5,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set4_bottom"
+  },
+  {
+   "tutorialIndex": 11006,
+   "tutorialIndexString": "110_6",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 6,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11007,
+   "tutorialIndexString": "110_7",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 7,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set3_bottom"
+  },
+  {
+   "tutorialIndex": 11008,
+   "tutorialIndexString": "110_8",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 8,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set4_bottom"
+  },
+  {
+   "tutorialIndex": 11009,
+   "tutorialIndexString": "110_9",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 9,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 1,
+   "tutorialTextTag": "Offline.Tutorial.110.Text.9"
+  },
+  {
+   "tutorialIndex": 11010,
+   "tutorialIndexString": "110_10",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 10,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.110.Text.10"
+  },
+  {
+   "tutorialIndex": 11011,
+   "tutorialIndexString": "110_11",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 11,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11012,
+   "tutorialIndexString": "110_12",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 12,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11013,
+   "tutorialIndexString": "110_13",
+   "tutorialGroupIndex": 110,
+   "tutorialStepOrder": 13,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11101,
+   "tutorialIndexString": "111_1",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 1,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect",
+   "functionDelayTime": 0.5
+  },
+  {
+   "tutorialIndex": 11102,
+   "tutorialIndexString": "111_2",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 2,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11103,
+   "tutorialIndexString": "111_3",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 3,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/Tutorial_Title"
+  },
+  {
+   "tutorialIndex": 11104,
+   "tutorialIndexString": "111_4",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 4,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/HelperListGroup/ContentFrame/Top/FilterGroup/All_Btn/Tutorial_set_bottom"
+  },
+  {
+   "tutorialIndex": 11105,
+   "tutorialIndexString": "111_5",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 5,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/HelperListGroup/ContentFrame/Bottom/Button_AutoSelect/Tutorial_set_top"
+  },
+  {
+   "tutorialIndex": 11106,
+   "tutorialIndexString": "111_6",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 6,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11107,
+   "tutorialIndexString": "111_7",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 7,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/Tutorial_Title"
+  },
+  {
+   "tutorialIndex": 11108,
+   "tutorialIndexString": "111_8",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 8,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/HelperListGroup/ContentFrame/Top/FilterGroup/All_Btn/Tutorial_set_bottom"
+  },
+  {
+   "tutorialIndex": 11109,
+   "tutorialIndexString": "111_9",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 9,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "P_HelperSelect/HelperListGroup/ContentFrame/Bottom/Button_AutoSelect/Tutorial_set_top"
+  },
+  {
+   "tutorialIndex": 11110,
+   "tutorialIndexString": "111_10",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 10,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 2,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.111.Text.10"
+  },
+  {
+   "tutorialIndex": 11111,
+   "tutorialIndexString": "111_11",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 11,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11112,
+   "tutorialIndexString": "111_12",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 12,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11113,
+   "tutorialIndexString": "111_13",
+   "tutorialGroupIndex": 111,
+   "tutorialStepOrder": 13,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11201,
+   "tutorialIndexString": "112_1",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 1,
+   "tutorialType": 31,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11202,
+   "tutorialIndexString": "112_2",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 2,
+   "tutorialType": 32,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11203,
+   "tutorialIndexString": "112_3",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 3,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11204,
+   "tutorialIndexString": "112_4",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 4,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set5_bottom"
+  },
+  {
+   "tutorialIndex": 11205,
+   "tutorialIndexString": "112_5",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 5,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11206,
+   "tutorialIndexString": "112_6",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 6,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_BattleInterface/Static/TopLeft/Tutorial_set5_bottom"
+  },
+  {
+   "tutorialIndex": 11207,
+   "tutorialIndexString": "112_7",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 7,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 1,
+   "tutorialTextTag": "Offline.Tutorial.112.Text.7"
+  },
+  {
+   "tutorialIndex": 11208,
+   "tutorialIndexString": "112_8",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 8,
+   "tutorialType": 9,
+   "tutorialTypeValue1": 7,
+   "displayBtnName": "",
+   "tutorialTypeValue2": 4,
+   "tutorialTextTag": "Offline.Tutorial.112.Text.8"
+  },
+  {
+   "tutorialIndex": 11209,
+   "tutorialIndexString": "112_9",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 9,
+   "tutorialType": 10,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11210,
+   "tutorialIndexString": "112_10",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 10,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11211,
+   "tutorialIndexString": "112_11",
+   "tutorialGroupIndex": 112,
+   "tutorialStepOrder": 11,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11301,
+   "tutorialIndexString": "113_1",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 1,
+   "tutorialType": 17,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect",
+   "functionDelayTime": 0.5
+  },
+  {
+   "tutorialIndex": 11302,
+   "tutorialIndexString": "113_2",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 2,
+   "tutorialType": 1,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11303,
+   "tutorialIndexString": "113_3",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 3,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/Tutorial_Title"
+  },
+  {
+   "tutorialIndex": 11304,
+   "tutorialIndexString": "113_4",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 4,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/CommonGroup/Banner_Big/Tutorial_set_top1"
+  },
+  {
+   "tutorialIndex": 11305,
+   "tutorialIndexString": "113_5",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 5,
+   "tutorialType": 46,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/Right/Right/ScrollOffset/ScrollView/WrapContents/0/Tutorial_set_top2"
+  },
+  {
+   "tutorialIndex": 11306,
+   "tutorialIndexString": "113_6",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 6,
+   "tutorialType": 48,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11307,
+   "tutorialIndexString": "113_7",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 7,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/Tutorial_Title"
+  },
+  {
+   "tutorialIndex": 11308,
+   "tutorialIndexString": "113_8",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 8,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/CommonGroup/Banner_Big/Tutorial_set_top1"
+  },
+  {
+   "tutorialIndex": 11309,
+   "tutorialIndexString": "113_9",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 9,
+   "tutorialType": 47,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": "V_SPQuestModeSelect/Right/Right/ScrollOffset/ScrollView/WrapContents/0/Tutorial_set_top2"
+  },
+  {
+   "tutorialIndex": 11310,
+   "tutorialIndexString": "113_10",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 10,
+   "tutorialType": 2,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  },
+  {
+   "tutorialIndex": 11311,
+   "tutorialIndexString": "113_11",
+   "tutorialGroupIndex": 113,
+   "tutorialStepOrder": 11,
+   "tutorialType": 18,
+   "tutorialTypeValue1": 0,
+   "displayBtnName": ""
+  }
+ ]
+}

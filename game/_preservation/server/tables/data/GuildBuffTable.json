@@ -1,0 +1,38 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_guild.py; real facts in recon/guild_research.md, the rest ours.",
+ "rows": [
+  {
+   "guildBuffIndex": 1,
+   "needActiveCost": 100000,
+   "guildBuffIcon": "Prefabs/UI_Data/UI_Texture/Icon/icon_guildbuff01",
+   "guildBuffName": "Offline.GuildBuff.1.Name",
+   "guildBuffDesc": "Offline.GuildBuff.1.Desc",
+   "guildBuffActiveDesc": "Offline.GuildBuff.1.ActiveDesc",
+   "applyBuffIndex": 9600001,
+   "guildBuffKeepMinute": 660,
+   "contentsUnlockIndex": 302
+  },
+  {
+   "guildBuffIndex": 2,
+   "needActiveCost": 100000,
+   "guildBuffIcon": "Prefabs/UI_Data/UI_Texture/Icon/icon_guildbuff02",
+   "guildBuffName": "Offline.GuildBuff.2.Name",
+   "guildBuffDesc": "Offline.GuildBuff.2.Desc",
+   "guildBuffActiveDesc": "Offline.GuildBuff.2.ActiveDesc",
+   "applyBuffIndex": 9600002,
+   "guildBuffKeepMinute": 660,
+   "contentsUnlockIndex": 303
+  },
+  {
+   "guildBuffIndex": 3,
+   "needActiveCost": 100000,
+   "guildBuffIcon": "Prefabs/UI_Data/UI_Texture/Icon/icon_guildbuff03",
+   "guildBuffName": "Offline.GuildBuff.3.Name",
+   "guildBuffDesc": "Offline.GuildBuff.3.Desc",
+   "guildBuffActiveDesc": "Offline.GuildBuff.3.ActiveDesc",
+   "applyBuffIndex": 9600003,
+   "guildBuffKeepMinute": 660,
+   "contentsUnlockIndex": 304
+  }
+ ]
+}

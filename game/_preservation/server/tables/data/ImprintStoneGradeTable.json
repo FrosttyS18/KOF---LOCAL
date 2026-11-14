@@ -1,0 +1,15 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_builds.py): set / option cards, transcend and imprint stones from the user's build videos and the client's own art; values not shown there are ours.",
+ "rows": [
+  {
+   "imprintStoneGradeIndex": 1,
+   "grade": 1,
+   "upgradeAble": 0
+  },
+  {
+   "imprintStoneGradeIndex": 2,
+   "grade": 2,
+   "upgradeAble": 0
+  }
+ ]
+}

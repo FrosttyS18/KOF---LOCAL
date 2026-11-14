@@ -1,0 +1,315 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_builds.py): set / option cards, transcend and imprint stones from the user's build videos and the client's own art; values not shown there are ours.",
+ "rows": [
+  {
+   "imprintEnchantRatioGroupIndex": 0,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 0,
+   "enchantSuccWeight": 10000,
+   "failWeightLv0": 0
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 1,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 1,
+   "enchantSuccWeight": 9100,
+   "failWeightLv0": 900
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 2,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 2,
+   "enchantSuccWeight": 8200,
+   "failWeightLv0": 1800
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 3,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 3,
+   "enchantSuccWeight": 7300,
+   "failWeightLv0": 2700
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 4,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 4,
+   "enchantSuccWeight": 6400,
+   "failWeightLv0": 3600
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 5,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 5,
+   "enchantSuccWeight": 5500,
+   "failWeightLv0": 4500
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 6,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 6,
+   "enchantSuccWeight": 4600,
+   "failWeightLv0": 5400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 7,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 7,
+   "enchantSuccWeight": 3700,
+   "failWeightLv0": 6300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 8,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 8,
+   "enchantSuccWeight": 2800,
+   "failWeightLv0": 7200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 9,
+   "imprintEnchantRatioGroup": 1,
+   "enchantLevel": 9,
+   "enchantSuccWeight": 1900,
+   "failWeightLv0": 8100
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 200,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 0,
+   "enchantSuccWeight": 10000,
+   "failWeightLv0": 0,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 201,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 1,
+   "enchantSuccWeight": 9300,
+   "failWeightLv0": 700,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 202,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 2,
+   "enchantSuccWeight": 8600,
+   "failWeightLv0": 1400,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 203,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 3,
+   "enchantSuccWeight": 7900,
+   "failWeightLv0": 2100,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 204,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 4,
+   "enchantSuccWeight": 7200,
+   "failWeightLv0": 2800,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 205,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 5,
+   "enchantSuccWeight": 6500,
+   "failWeightLv0": 3500,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 206,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 6,
+   "enchantSuccWeight": 5800,
+   "failWeightLv0": 4200,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 207,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 7,
+   "enchantSuccWeight": 5100,
+   "failWeightLv0": 4900,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 208,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 8,
+   "enchantSuccWeight": 4400,
+   "failWeightLv0": 5600,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 209,
+   "imprintEnchantRatioGroup": 2,
+   "enchantLevel": 9,
+   "enchantSuccWeight": 3700,
+   "failWeightLv0": 6300,
+   "bonusSuccWeightWhenFailed": 200
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 300,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 0,
+   "enchantSuccWeight": 10000,
+   "failWeightLv0": 0,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 301,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 1,
+   "enchantSuccWeight": 9500,
+   "failWeightLv0": 500,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 302,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 2,
+   "enchantSuccWeight": 9000,
+   "failWeightLv0": 1000,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 303,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 3,
+   "enchantSuccWeight": 8500,
+   "failWeightLv0": 1500,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 304,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 4,
+   "enchantSuccWeight": 8000,
+   "failWeightLv0": 2000,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 305,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 5,
+   "enchantSuccWeight": 7500,
+   "failWeightLv0": 2500,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 306,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 6,
+   "enchantSuccWeight": 7000,
+   "failWeightLv0": 3000,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 307,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 7,
+   "enchantSuccWeight": 6500,
+   "failWeightLv0": 3500,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 308,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 8,
+   "enchantSuccWeight": 6000,
+   "failWeightLv0": 4000,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 309,
+   "imprintEnchantRatioGroup": 3,
+   "enchantLevel": 9,
+   "enchantSuccWeight": 5500,
+   "failWeightLv0": 4500,
+   "bonusSuccWeightWhenFailed": 300
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 400,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 0,
+   "enchantSuccWeight": 10000,
+   "failWeightLv0": 0,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 401,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 1,
+   "enchantSuccWeight": 9700,
+   "failWeightLv0": 300,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 402,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 2,
+   "enchantSuccWeight": 9400,
+   "failWeightLv0": 600,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 403,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 3,
+   "enchantSuccWeight": 9100,
+   "failWeightLv0": 900,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 404,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 4,
+   "enchantSuccWeight": 8800,
+   "failWeightLv0": 1200,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 405,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 5,
+   "enchantSuccWeight": 8500,
+   "failWeightLv0": 1500,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 406,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 6,
+   "enchantSuccWeight": 8200,
+   "failWeightLv0": 1800,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 407,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 7,
+   "enchantSuccWeight": 7900,
+   "failWeightLv0": 2100,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 408,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 8,
+   "enchantSuccWeight": 7600,
+   "failWeightLv0": 2400,
+   "bonusSuccWeightWhenFailed": 400
+  },
+  {
+   "imprintEnchantRatioGroupIndex": 409,
+   "imprintEnchantRatioGroup": 4,
+   "enchantLevel": 9,
+   "enchantSuccWeight": 7300,
+   "failWeightLv0": 2700,
+   "bonusSuccWeightWhenFailed": 400
+  }
+ ]
+}

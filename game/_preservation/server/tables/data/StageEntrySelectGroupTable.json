@@ -1,0 +1,77 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_dispatch.py): dispatch from the real client's tables and the guides",
+ "rows": [
+  {
+   "stageEntrySelectGroupIndex": 9300900,
+   "stageEntrySelectGroup": "9300900",
+   "contentMainType": 11,
+   "contentSubType": 1,
+   "contentValue": "1000,1001,1002,1003,1004,1005,1006,1007,1008,1009",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 0,
+   "useableAutoFormation": 1
+  },
+  {
+   "stageEntrySelectGroupIndex": 9101001,
+   "stageEntrySelectGroup": "9101001",
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9101",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 1,
+   "useableAutoFormation": 1
+  },
+  {
+   "stageEntrySelectGroupIndex": 9101002,
+   "stageEntrySelectGroup": "9101002",
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9102",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 1,
+   "useableAutoFormation": 1
+  },
+  {
+   "stageEntrySelectGroupIndex": 9101003,
+   "stageEntrySelectGroup": "9101003",
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9103",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 1,
+   "useableAutoFormation": 1
+  },
+  {
+   "stageEntrySelectGroupIndex": 9101004,
+   "stageEntrySelectGroup": "9101004",
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9104",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 1,
+   "useableAutoFormation": 1
+  },
+  {
+   "stageEntrySelectGroupIndex": 9101005,
+   "stageEntrySelectGroup": "9101005",
+   "contentMainType": 2,
+   "contentSubType": 1,
+   "contentValue": "9105",
+   "startTime": 0,
+   "endTime": 0,
+   "useableFighterLimit": 0,
+   "useableStriker": 1,
+   "useableAutoFormation": 1
+  }
+ ]
+}

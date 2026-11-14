@@ -1,0 +1,625 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "configIndex": 801,
+   "configIndexString": "max plus capsule points per stat",
+   "value1": "99"
+  },
+  {
+   "configIndex": 802,
+   "configIndexString": "HP per plus capsule",
+   "value1": "300"
+  },
+  {
+   "configIndex": 803,
+   "configIndexString": "ATK per plus capsule",
+   "value1": "20"
+  },
+  {
+   "configIndex": 804,
+   "configIndexString": "DEF per plus capsule",
+   "value1": "10"
+  },
+  {
+   "configIndex": 1101,
+   "configIndexString": "max level at 3*",
+   "value1": "30"
+  },
+  {
+   "configIndex": 1102,
+   "configIndexString": "max level at 4*",
+   "value1": "40"
+  },
+  {
+   "configIndex": 1103,
+   "configIndexString": "max level at 5*",
+   "value1": "50"
+  },
+  {
+   "configIndex": 1104,
+   "configIndexString": "max level at 6*",
+   "value1": "60"
+  },
+  {
+   "configIndex": 1310,
+   "configIndexString": "fighter type 1 CP weight atk",
+   "value1": "1.2"
+  },
+  {
+   "configIndex": 1311,
+   "configIndexString": "fighter type 1 CP weight def",
+   "value1": "1.2"
+  },
+  {
+   "configIndex": 1312,
+   "configIndexString": "fighter type 1 CP weight hp",
+   "value1": "0"
+  },
+  {
+   "configIndex": 1313,
+   "configIndexString": "fighter type 1 CP weight pen",
+   "value1": "1.2"
+  },
+  {
+   "configIndex": 1314,
+   "configIndexString": "fighter type 1 CP weight cri",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1320,
+   "configIndexString": "fighter type 2 CP weight atk",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1321,
+   "configIndexString": "fighter type 2 CP weight def",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1322,
+   "configIndexString": "fighter type 2 CP weight hp",
+   "value1": "0"
+  },
+  {
+   "configIndex": 1323,
+   "configIndexString": "fighter type 2 CP weight pen",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1324,
+   "configIndexString": "fighter type 2 CP weight cri",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1330,
+   "configIndexString": "fighter type 3 CP weight atk",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1331,
+   "configIndexString": "fighter type 3 CP weight def",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1332,
+   "configIndexString": "fighter type 3 CP weight hp",
+   "value1": "0"
+  },
+  {
+   "configIndex": 1333,
+   "configIndexString": "fighter type 3 CP weight pen",
+   "value1": "1"
+  },
+  {
+   "configIndex": 1334,
+   "configIndexString": "fighter type 3 CP weight cri",
+   "value1": "1"
+  },
+  {
+   "configIndex": 103,
+   "configIndexString": "max account rank",
+   "value1": "600"
+  },
+  {
+   "configIndex": 990100,
+   "configIndexString": "practice opens the training room",
+   "value1": "1"
+  },
+  {
+   "configIndex": 4501,
+   "configIndexString": "lobby Collection Room shortcut",
+   "value1": "1"
+  },
+  {
+   "configIndex": 211,
+   "configIndexString": "skill slot 1 open level",
+   "value1": "1"
+  },
+  {
+   "configIndex": 212,
+   "configIndexString": "skill slot 2 open level",
+   "value1": "1"
+  },
+  {
+   "configIndex": 213,
+   "configIndexString": "skill slot 3 open level",
+   "value1": "1"
+  },
+  {
+   "configIndex": 214,
+   "configIndexString": "skill slot 4 open level",
+   "value1": "1"
+  },
+  {
+   "configIndex": 117,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 118,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 119,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 120,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 121,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 122,
+   "configIndexString": "story team decks from account level 0",
+   "value1": "5",
+   "value2": "0"
+  },
+  {
+   "configIndex": 227,
+   "configIndexString": "story team deck cap",
+   "value1": "15"
+  },
+  {
+   "configIndex": 3101,
+   "configIndexString": "story battle power warning (percent)",
+   "value1": "70"
+  },
+  {
+   "configIndex": 20120,
+   "configIndexString": "modes without guild buff hot time",
+   "value1": "0"
+  },
+  {
+   "configIndex": 105,
+   "configIndexString": "seconds per regained AP",
+   "value1": "120"
+  },
+  {
+   "configIndex": 13003,
+   "configIndexString": "soul event entries a day",
+   "value1": "3"
+  },
+  {
+   "configIndex": 13004,
+   "configIndexString": "soul event recharge currency",
+   "value1": "2"
+  },
+  {
+   "configIndex": 13005,
+   "configIndexString": "soul event entries per recharge",
+   "value1": "3"
+  },
+  {
+   "configIndex": 13006,
+   "configIndexString": "soul event reset hour",
+   "value1": "5"
+  },
+  {
+   "configIndex": 701,
+   "configIndexString": "friendship points for a guest supporter",
+   "value1": "10"
+  },
+  {
+   "configIndex": 702,
+   "configIndexString": "friendship points for a friend supporter",
+   "value1": "20"
+  },
+  {
+   "configIndex": 703,
+   "configIndexString": "friendship points for an experience/guild supporter",
+   "value1": "20"
+  },
+  {
+   "configIndex": 710,
+   "configIndexString": "rank shown for an experience supporter",
+   "value1": "50"
+  },
+  {
+   "configIndex": 7601,
+   "configIndexString": "press-and-hold delay of card slots (seconds)",
+   "value1": "0.5"
+  },
+  {
+   "configIndex": 4031,
+   "configIndexString": "second special card skill slot in battle",
+   "value1": "1"
+  },
+  {
+   "configIndex": 2201,
+   "configIndexString": "card slot 1 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2202,
+   "configIndexString": "card slot 2 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2203,
+   "configIndexString": "card slot 3 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2204,
+   "configIndexString": "card slot 4 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2205,
+   "configIndexString": "card slot 5 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2206,
+   "configIndexString": "card slot 6 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2207,
+   "configIndexString": "card slot 7 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 2208,
+   "configIndexString": "card slot 8 open rule (0 = always)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 20003,
+   "configIndexString": "rank to create a guild (UIView_GuildIntro, GuildManager.get_CreateLimitRank)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 20004,
+   "configIndexString": "rank to join a guild",
+   "value1": "1"
+  },
+  {
+   "configIndex": 20006,
+   "configIndexString": "creation price: GoodsType, amount (UIPopup_GuildCreate.SetPriceInfo)",
+   "value1": "1",
+   "value2": "10000"
+  },
+  {
+   "configIndex": 20007,
+   "configIndexString": "highest join rank limit the create / manage popups offer",
+   "value1": "600"
+  },
+  {
+   "configIndex": 20011,
+   "configIndexString": "greetings a day (real: Today's Greet Count 10/10)",
+   "value1": "10"
+  },
+  {
+   "configIndex": 20021,
+   "configIndexString": "greeting reward: GoodsType, amount",
+   "value1": "30",
+   "value2": "5"
+  },
+  {
+   "configIndex": 20032,
+   "configIndexString": "hours before a disbanded guild's master may found or join again",
+   "value1": "0"
+  },
+  {
+   "configIndex": 20033,
+   "configIndexString": "hours before a leaver may join again",
+   "value1": "0"
+  },
+  {
+   "configIndex": 20041,
+   "configIndexString": "donated currency: GoodsTable row (GuildManager.get_DonationGoodsData)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 20042,
+   "configIndexString": "donation limit (real drives: 25K gold a day)",
+   "value1": "25000"
+  },
+  {
+   "configIndex": 20043,
+   "configIndexString": "guild EXP per donated gold (UIPopup_GuildDonationGoods)",
+   "value1": "0.04"
+  },
+  {
+   "configIndex": 20044,
+   "configIndexString": "contribution per donated gold",
+   "value1": "0.04"
+  },
+  {
+   "configIndex": 20206,
+   "configIndexString": "the guild fund's cap (GuildManager.get_GuildHaveCashLimit; a real fund: 1.9 billion)",
+   "value1": "9999999999"
+  },
+  {
+   "configIndex": 20207,
+   "configIndexString": "item donations a day",
+   "value1": "10"
+  },
+  {
+   "configIndex": 90004,
+   "configIndexString": "guild level that opens the Guild Raid (UIView_GuildLobbyMain_UX.CheckGuildDungeonOpenLevel)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 90003,
+   "configIndexString": "Guild Raid season length in days (GuildDungeonSeasonData; real: bosses rotate weekly)",
+   "value1": "7"
+  },
+  {
+   "configIndex": 90007,
+   "configIndexString": "Guild Raid open (GuildDungeonShorcut.Move: 0 = 'dungeon closed')",
+   "value1": "1"
+  },
+  {
+   "configIndex": 90011,
+   "configIndexString": "Guild Raid guild ranking size",
+   "value1": "100"
+  },
+  {
+   "configIndex": 4035,
+   "configIndexString": "BattleCardAwakenAddMaxLevel",
+   "value1": "5"
+  },
+  {
+   "configIndex": 4036,
+   "configIndexString": "BattleCardAwakenAddBuffLevel",
+   "value1": "1"
+  },
+  {
+   "configIndex": 4037,
+   "configIndexString": "BattleCardAwakenOpen",
+   "value1": "1"
+  },
+  {
+   "configIndex": 23201,
+   "configIndexString": "ImprintStoneSlotOpenLevel",
+   "value1": "1"
+  },
+  {
+   "configIndex": 23202,
+   "configIndexString": "ImprintStoneSlotOpenLevel",
+   "value1": "11"
+  },
+  {
+   "configIndex": 23203,
+   "configIndexString": "ImprintStoneSlotOpenLevel",
+   "value1": "21"
+  },
+  {
+   "configIndex": 23211,
+   "configIndexString": "ImprintStoneSlotOpenLevel",
+   "value1": "25"
+  },
+  {
+   "configIndex": 23212,
+   "configIndexString": "ImprintStoneSlotOpenLevel",
+   "value1": "30"
+  },
+  {
+   "configIndex": 401,
+   "configIndexString": "Tower of Trials challenges a day (gen_tower)",
+   "value1": "3"
+  },
+  {
+   "configIndex": 70001,
+   "configIndexString": "memories per combination",
+   "value1": "5"
+  },
+  {
+   "configIndex": 70002,
+   "configIndexString": "memory combine batch count min / max",
+   "value1": "1",
+   "value2": "99"
+  },
+  {
+   "configIndex": 70003,
+   "configIndexString": "memory tab buttons (combine) shown",
+   "value1": "1"
+  },
+  {
+   "configIndex": 5500,
+   "configIndexString": "dispatch content open",
+   "value1": "1"
+  },
+  {
+   "configIndex": 195004,
+   "configIndexString": "EX core board (gen_excore)",
+   "value1": "30"
+  },
+  {
+   "configIndex": 195005,
+   "configIndexString": "EX core board (gen_excore)",
+   "value1": "50"
+  },
+  {
+   "configIndex": 195006,
+   "configIndexString": "EX core board (gen_excore)",
+   "value1": "210100"
+  },
+  {
+   "configIndex": 195007,
+   "configIndexString": "EX core board (gen_excore)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 195008,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "30"
+  },
+  {
+   "configIndex": 195009,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "50"
+  },
+  {
+   "configIndex": 195010,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "60"
+  },
+  {
+   "configIndex": 195011,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "210101"
+  },
+  {
+   "configIndex": 195012,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 23136,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "300"
+  },
+  {
+   "configIndex": 23137,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 23138,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "0.2"
+  },
+  {
+   "configIndex": 23139,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 23140,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 23141,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 23142,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "1"
+  },
+  {
+   "configIndex": 23143,
+   "configIndexString": "UE core board (gen_uecore)",
+   "value1": "0"
+  },
+  {
+   "configIndex": 4022,
+   "configIndexString": "BattleCardFoodSelfExpRate",
+   "value1": "0.5"
+  },
+  {
+   "configIndex": 3002,
+   "configIndexString": "BattleCardSameTypeFoodBonus",
+   "value1": "150"
+  },
+  {
+   "configIndex": 4034,
+   "configIndexString": "BattleCardSimpleCombineMultiplier",
+   "value1": "4"
+  },
+  {
+   "configIndex": 4030,
+   "configIndexString": "BattleCardCombineGradeRange",
+   "value1": "3",
+   "value2": "6"
+  },
+  {
+   "configIndex": 23208,
+   "configIndexString": "ImprintStoneMaxBonusRatio",
+   "value1": "3000"
+  },
+  {
+   "configIndex": 920202,
+   "configIndexString": "EquipmentOptionChangeRatioBase",
+   "value1": "0"
+  },
+  {
+   "configIndex": 920203,
+   "configIndexString": "EquipmentOptionChangeRatioStep",
+   "value1": "1"
+  },
+  {
+   "configIndex": 920204,
+   "configIndexString": "EquipmentOptionChangeRatioDivisor",
+   "value1": "1"
+  },
+  {
+   "configIndex": 920205,
+   "configIndexString": "EquipmentOptionChangeRatioMaxLevel",
+   "value1": "100"
+  },
+  {
+   "configIndex": 920301,
+   "configIndexString": "GrowthPointLevelRatio",
+   "value1": "10"
+  },
+  {
+   "configIndex": 920302,
+   "configIndexString": "GrowthPointItemRatio",
+   "value1": "10"
+  },
+  {
+   "configIndex": 132,
+   "configIndexString": "mop-up ticket item of Soul Quest (the AUTO-CLEAR / SKIP TICKET)",
+   "value1": "1302"
+  },
+  {
+   "configIndex": 2401,
+   "configIndexString": "Soul Quest base daily plays (Soul Tokens)",
+   "value1": "3"
+  },
+  {
+   "configIndex": 2412,
+   "configIndexString": "Soul Quest extra play goods type (2 = rubies)",
+   "value1": "2"
+  },
+  {
+   "configIndex": 2416,
+   "configIndexString": "Soul Quest extra play enabled",
+   "value1": "1"
+  },
+  {
+   "configIndex": 80008,
+   "configIndexString": "summon Special Loyalty Reward page",
+   "value1": "1"
+  }
+ ]
+}

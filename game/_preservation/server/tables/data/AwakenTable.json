@@ -1,0 +1,2115 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "awakenIndex": 1,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 31,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 2,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 32,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 3,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 34,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 4,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 35,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 5,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 31,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 6,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 32,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 7,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 33,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 8,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 34,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 9,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 35,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 10,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 32,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 11,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 33,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 12,
+   "fighterCategory": 1,
+   "fighterGrade": 3,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 35,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 13,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 41,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 14,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 42,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 15,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 43,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 16,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 44,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 17,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 45,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 18,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 41,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 19,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 42,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 20,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 43,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 21,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 44,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 22,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 45,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 23,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 41,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 24,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 42,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 25,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 43,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 26,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 44,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 27,
+   "fighterCategory": 1,
+   "fighterGrade": 4,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 45,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 28,
+   "fighterCategory": 2,
+   "fighterGrade": 4,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 42,
+   "maxPhase": 3
+  },
+  {
+   "awakenIndex": 29,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 30,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 31,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 32,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 33,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 34,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 35,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 36,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 37,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 38,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 39,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 40,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 41,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 42,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 43,
+   "fighterCategory": 1,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 44,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 45,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 46,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 47,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 48,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 49,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 50,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 51,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 52,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 53,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 54,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 55,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 56,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 57,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 58,
+   "fighterCategory": 2,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 59,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 60,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 61,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 62,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 63,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 51,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 64,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 65,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 66,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 67,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 52,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 68,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 53,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 69,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 54,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 70,
+   "fighterCategory": 3,
+   "fighterGrade": 5,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 55,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 71,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 72,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 73,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 74,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 75,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 76,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 77,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 78,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 79,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 80,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 81,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 82,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 83,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 84,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 85,
+   "fighterCategory": 1,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 86,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 87,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 88,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 89,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 90,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 91,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 92,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 93,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 94,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 95,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 96,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 97,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 98,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 99,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 100,
+   "fighterCategory": 2,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 101,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 102,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 103,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 104,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 105,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 106,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 107,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 108,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 109,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 901,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 110,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 902,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 111,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 903,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 112,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 904,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 113,
+   "fighterCategory": 3,
+   "fighterGrade": 90,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 0,
+   "awakenEnhanceGroup": 905,
+   "maxPhase": 5
+  },
+  {
+   "awakenIndex": 114,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 115,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 116,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 117,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 118,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 119,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 120,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 121,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 122,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 123,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 124,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 125,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 126,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 127,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 128,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 129,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 130,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 131,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 132,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 133,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 134,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 135,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 136,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 137,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 138,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 139,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 140,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 141,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 142,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 143,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 144,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 145,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 146,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 147,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 148,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 149,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 150,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 151,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 152,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 153,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 154,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1011,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 155,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1012,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 156,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1013,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 157,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1014,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 158,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 1,
+   "awakenEnhanceGroup": 1015,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 159,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1001,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 160,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 161,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1003,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 162,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 163,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1001,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 164,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 165,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1003,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 166,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 167,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1003,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 168,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 169,
+   "fighterCategory": 1,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1005,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 170,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 171,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1005,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 172,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 173,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1003,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 174,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 175,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 176,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 177,
+   "fighterCategory": 2,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1005,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 178,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1001,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 179,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 180,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1005,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 181,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1001,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 182,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1004,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 183,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1005,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 184,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1001,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 185,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1002,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 186,
+   "fighterCategory": 3,
+   "fighterGrade": 100,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1003,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 187,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 188,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1102,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 189,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1103,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 190,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1104,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 191,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 192,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 193,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1103,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 194,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1104,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 195,
+   "fighterCategory": 1,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 196,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 197,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1104,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 198,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 199,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 2,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 200,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 2,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1103,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 201,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 2,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1104,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 202,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1102,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 203,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1103,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 204,
+   "fighterCategory": 2,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 205,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 206,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 2,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1102,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 207,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 3,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1103,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 208,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 4,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1104,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 209,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 1,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 210,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 2,
+   "fighterSynastry": 5,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1105,
+   "maxPhase": 9
+  },
+  {
+   "awakenIndex": 211,
+   "fighterCategory": 3,
+   "fighterGrade": 110,
+   "fighterType": 3,
+   "fighterSynastry": 1,
+   "exGrade": 2,
+   "awakenEnhanceGroup": 1101,
+   "maxPhase": 9
+  }
+ ]
+}

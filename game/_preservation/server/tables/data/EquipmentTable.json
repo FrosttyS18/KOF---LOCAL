@@ -1,0 +1,230 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_plugins.py): plugins (equipment system)",
+ "rows": [
+  {
+   "equipmentIndex": 11,
+   "equipmentName": "Offline.Plugin.11.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts01_icon01",
+   "partsType": 1,
+   "usableSynastryType": 1,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 12,
+   "equipmentName": "Offline.Plugin.12.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts02_icon01",
+   "partsType": 2,
+   "usableSynastryType": 1,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 13,
+   "equipmentName": "Offline.Plugin.13.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts03_icon01",
+   "partsType": 3,
+   "usableSynastryType": 1,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 14,
+   "equipmentName": "Offline.Plugin.14.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts04_icon01",
+   "partsType": 4,
+   "usableSynastryType": 1,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 15,
+   "equipmentName": "Offline.Plugin.15.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts05_icon01",
+   "partsType": 5,
+   "usableSynastryType": 1,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 21,
+   "equipmentName": "Offline.Plugin.21.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts01_icon02",
+   "partsType": 1,
+   "usableSynastryType": 2,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 22,
+   "equipmentName": "Offline.Plugin.22.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts02_icon02",
+   "partsType": 2,
+   "usableSynastryType": 2,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 23,
+   "equipmentName": "Offline.Plugin.23.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts03_icon02",
+   "partsType": 3,
+   "usableSynastryType": 2,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 24,
+   "equipmentName": "Offline.Plugin.24.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts04_icon02",
+   "partsType": 4,
+   "usableSynastryType": 2,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 25,
+   "equipmentName": "Offline.Plugin.25.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts05_icon02",
+   "partsType": 5,
+   "usableSynastryType": 2,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 31,
+   "equipmentName": "Offline.Plugin.31.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts01_icon03",
+   "partsType": 1,
+   "usableSynastryType": 3,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 32,
+   "equipmentName": "Offline.Plugin.32.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts02_icon03",
+   "partsType": 2,
+   "usableSynastryType": 3,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 33,
+   "equipmentName": "Offline.Plugin.33.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts03_icon03",
+   "partsType": 3,
+   "usableSynastryType": 3,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 34,
+   "equipmentName": "Offline.Plugin.34.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts04_icon03",
+   "partsType": 4,
+   "usableSynastryType": 3,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 35,
+   "equipmentName": "Offline.Plugin.35.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts05_icon03",
+   "partsType": 5,
+   "usableSynastryType": 3,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 41,
+   "equipmentName": "Offline.Plugin.41.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts01_icon04",
+   "partsType": 1,
+   "usableSynastryType": 4,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 42,
+   "equipmentName": "Offline.Plugin.42.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts02_icon04",
+   "partsType": 2,
+   "usableSynastryType": 4,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 43,
+   "equipmentName": "Offline.Plugin.43.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts03_icon04",
+   "partsType": 3,
+   "usableSynastryType": 4,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 44,
+   "equipmentName": "Offline.Plugin.44.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts04_icon04",
+   "partsType": 4,
+   "usableSynastryType": 4,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 45,
+   "equipmentName": "Offline.Plugin.45.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts05_icon04",
+   "partsType": 5,
+   "usableSynastryType": 4,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 51,
+   "equipmentName": "Offline.Plugin.51.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts01_icon05",
+   "partsType": 1,
+   "usableSynastryType": 5,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 52,
+   "equipmentName": "Offline.Plugin.52.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts02_icon05",
+   "partsType": 2,
+   "usableSynastryType": 5,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 53,
+   "equipmentName": "Offline.Plugin.53.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts03_icon05",
+   "partsType": 3,
+   "usableSynastryType": 5,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 54,
+   "equipmentName": "Offline.Plugin.54.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts04_icon05",
+   "partsType": 4,
+   "usableSynastryType": 5,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  },
+  {
+   "equipmentIndex": 55,
+   "equipmentName": "Offline.Plugin.55.Name",
+   "equipmentThumb": "Prefabs/UI_Data/UI_Texture/PartsPlugin/plugin_parts05_icon05",
+   "partsType": 5,
+   "usableSynastryType": 5,
+   "usableCharacterIndex": 0,
+   "usableCharacterLvValue": 0
+  }
+ ]
+}

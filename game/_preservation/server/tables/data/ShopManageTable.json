@@ -1,0 +1,46 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION (tools/gen_changeup.py): Change Up from the user's video and the client's kit icons; the stat gains of fighters other than SS Kyo are ours.",
+ "rows": [
+  {
+   "shopManageIndex": 7501,
+   "shopType": 7,
+   "shopSubType": 501,
+   "usable": 1,
+   "isOrdinaryShop": 0,
+   "isTradingShop": 1,
+   "shopNameTag": "Offline.Shop.TeamRelay.Name",
+   "shopDescriptionTag": "Offline.Shop.TeamRelay.Desc"
+  },
+  {
+   "shopManageIndex": 13800,
+   "shopType": 13,
+   "shopSubType": 800,
+   "usable": 1,
+   "isOrdinaryShop": 0,
+   "isTradingShop": 0,
+   "shopNameTag": "Offline.Shop.ChangeUp.Name",
+   "shopDescriptionTag": "Offline.Shop.ChangeUp.Desc"
+  },
+  {
+   "shopManageIndex": 101001,
+   "shopType": 10,
+   "shopSubType": 1001,
+   "usable": 1,
+   "isOrdinaryShop": 0,
+   "startDateTime": 1577836800000,
+   "endDateTime": 4102444800000,
+   "isTradingShop": 0,
+   "isSellGoodsRandomList": 1,
+   "refreshAble": 0,
+   "shopGoodsListPrefab": "Prefabs/UI_Data/UI_Unit/UIUnit_ShopPresetUI_SmallGoodsType1",
+   "goodsRefreshType": 1,
+   "goodsRefreshValue": 4,
+   "shopCategoryIndex": 10,
+   "tradingShopSortOrder": 1,
+   "shopNameTag": "EventData.Shop.SecretShop.NameTag",
+   "shopDescriptionTag": "Offline.Shop.Secret.Desc",
+   "showMoneyType1": 2,
+   "showMoneyType2": 1
+  }
+ ]
+}

@@ -1,0 +1,5405 @@
+{
+ "_comment": "PLACEHOLDER progression made up for the offline prototype; the real values are in the encrypted original table.",
+ "rows": [
+  {
+   "accountLevel": 1,
+   "exp": 60,
+   "expAccumulate": 60,
+   "accountTeamCost": 999,
+   "accountFriendsList": 20,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 2,
+   "exp": 60,
+   "expAccumulate": 120,
+   "accountTeamCost": 999,
+   "accountFriendsList": 21,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 3,
+   "exp": 70,
+   "expAccumulate": 190,
+   "accountTeamCost": 999,
+   "accountFriendsList": 21,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 4,
+   "exp": 90,
+   "expAccumulate": 280,
+   "accountTeamCost": 999,
+   "accountFriendsList": 22,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 5,
+   "exp": 110,
+   "expAccumulate": 390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 22,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 6,
+   "exp": 1000,
+   "expAccumulate": 1390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 23,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 7,
+   "exp": 1325,
+   "expAccumulate": 2715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 23,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 8,
+   "exp": 1700,
+   "expAccumulate": 4415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 24,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 9,
+   "exp": 2125,
+   "expAccumulate": 6540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 24,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 10,
+   "exp": 2600,
+   "expAccumulate": 9140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 25,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 11,
+   "exp": 3125,
+   "expAccumulate": 12265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 25,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 12,
+   "exp": 3700,
+   "expAccumulate": 15965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 26,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 13,
+   "exp": 4325,
+   "expAccumulate": 20290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 26,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 14,
+   "exp": 5000,
+   "expAccumulate": 25290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 27,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 15,
+   "exp": 5725,
+   "expAccumulate": 31015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 27,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 16,
+   "exp": 6500,
+   "expAccumulate": 37515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 28,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 17,
+   "exp": 7325,
+   "expAccumulate": 44840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 28,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 18,
+   "exp": 8200,
+   "expAccumulate": 53040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 29,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 19,
+   "exp": 9125,
+   "expAccumulate": 62165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 29,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 20,
+   "exp": 10100,
+   "expAccumulate": 72265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 30,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 21,
+   "exp": 11125,
+   "expAccumulate": 83390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 30,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 22,
+   "exp": 12200,
+   "expAccumulate": 95590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 31,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 23,
+   "exp": 13325,
+   "expAccumulate": 108915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 31,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 24,
+   "exp": 14500,
+   "expAccumulate": 123415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 32,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 25,
+   "exp": 15725,
+   "expAccumulate": 139140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 32,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 26,
+   "exp": 17000,
+   "expAccumulate": 156140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 33,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 27,
+   "exp": 18325,
+   "expAccumulate": 174465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 33,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 28,
+   "exp": 19700,
+   "expAccumulate": 194165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 34,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 29,
+   "exp": 21125,
+   "expAccumulate": 215290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 34,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 30,
+   "exp": 22600,
+   "expAccumulate": 237890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 35,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 31,
+   "exp": 24125,
+   "expAccumulate": 262015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 35,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 32,
+   "exp": 25700,
+   "expAccumulate": 287715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 36,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 33,
+   "exp": 27325,
+   "expAccumulate": 315040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 36,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 34,
+   "exp": 29000,
+   "expAccumulate": 344040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 37,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 35,
+   "exp": 30725,
+   "expAccumulate": 374765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 37,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 36,
+   "exp": 32500,
+   "expAccumulate": 407265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 38,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 37,
+   "exp": 34325,
+   "expAccumulate": 441590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 38,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 38,
+   "exp": 36200,
+   "expAccumulate": 477790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 39,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 39,
+   "exp": 38125,
+   "expAccumulate": 515915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 39,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 40,
+   "exp": 40100,
+   "expAccumulate": 556015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 40,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 41,
+   "exp": 42125,
+   "expAccumulate": 598140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 40,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 42,
+   "exp": 44200,
+   "expAccumulate": 642340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 41,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 43,
+   "exp": 46325,
+   "expAccumulate": 688665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 41,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 44,
+   "exp": 48500,
+   "expAccumulate": 737165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 42,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 45,
+   "exp": 50725,
+   "expAccumulate": 787890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 42,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 46,
+   "exp": 53000,
+   "expAccumulate": 840890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 43,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 47,
+   "exp": 55325,
+   "expAccumulate": 896215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 43,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 48,
+   "exp": 57700,
+   "expAccumulate": 953915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 44,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 49,
+   "exp": 60125,
+   "expAccumulate": 1014040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 44,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 50,
+   "exp": 62600,
+   "expAccumulate": 1076640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 45,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 51,
+   "exp": 65125,
+   "expAccumulate": 1141765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 45,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 52,
+   "exp": 67700,
+   "expAccumulate": 1209465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 46,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 53,
+   "exp": 70325,
+   "expAccumulate": 1279790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 46,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 54,
+   "exp": 73000,
+   "expAccumulate": 1352790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 47,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 55,
+   "exp": 75725,
+   "expAccumulate": 1428515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 47,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 56,
+   "exp": 78500,
+   "expAccumulate": 1507015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 48,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 57,
+   "exp": 81325,
+   "expAccumulate": 1588340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 48,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 58,
+   "exp": 84200,
+   "expAccumulate": 1672540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 49,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 59,
+   "exp": 87125,
+   "expAccumulate": 1759665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 49,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 60,
+   "exp": 90100,
+   "expAccumulate": 1849765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 50,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 61,
+   "exp": 93125,
+   "expAccumulate": 1942890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 50,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 62,
+   "exp": 96200,
+   "expAccumulate": 2039090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 51,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 63,
+   "exp": 99325,
+   "expAccumulate": 2138415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 51,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 64,
+   "exp": 102500,
+   "expAccumulate": 2240915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 52,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 65,
+   "exp": 105725,
+   "expAccumulate": 2346640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 52,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 66,
+   "exp": 109000,
+   "expAccumulate": 2455640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 53,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 67,
+   "exp": 112325,
+   "expAccumulate": 2567965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 53,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 68,
+   "exp": 115700,
+   "expAccumulate": 2683665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 54,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 69,
+   "exp": 119125,
+   "expAccumulate": 2802790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 54,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 70,
+   "exp": 122600,
+   "expAccumulate": 2925390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 55,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 71,
+   "exp": 126125,
+   "expAccumulate": 3051515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 55,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 72,
+   "exp": 129700,
+   "expAccumulate": 3181215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 56,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 73,
+   "exp": 133325,
+   "expAccumulate": 3314540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 56,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 74,
+   "exp": 137000,
+   "expAccumulate": 3451540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 57,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 75,
+   "exp": 140725,
+   "expAccumulate": 3592265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 57,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 76,
+   "exp": 144500,
+   "expAccumulate": 3736765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 58,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 77,
+   "exp": 148325,
+   "expAccumulate": 3885090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 58,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 78,
+   "exp": 152200,
+   "expAccumulate": 4037290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 59,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 79,
+   "exp": 156125,
+   "expAccumulate": 4193415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 59,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 80,
+   "exp": 160100,
+   "expAccumulate": 4353515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 60,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 81,
+   "exp": 164125,
+   "expAccumulate": 4517640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 60,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 82,
+   "exp": 168200,
+   "expAccumulate": 4685840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 61,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 83,
+   "exp": 172325,
+   "expAccumulate": 4858165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 61,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 84,
+   "exp": 176500,
+   "expAccumulate": 5034665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 62,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 85,
+   "exp": 180725,
+   "expAccumulate": 5215390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 62,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 86,
+   "exp": 185000,
+   "expAccumulate": 5400390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 63,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 87,
+   "exp": 189325,
+   "expAccumulate": 5589715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 63,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 88,
+   "exp": 193700,
+   "expAccumulate": 5783415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 64,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 89,
+   "exp": 198125,
+   "expAccumulate": 5981540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 64,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 90,
+   "exp": 202600,
+   "expAccumulate": 6184140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 65,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 91,
+   "exp": 207125,
+   "expAccumulate": 6391265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 65,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 92,
+   "exp": 211700,
+   "expAccumulate": 6602965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 66,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 93,
+   "exp": 216325,
+   "expAccumulate": 6819290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 66,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 94,
+   "exp": 221000,
+   "expAccumulate": 7040290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 67,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 95,
+   "exp": 225725,
+   "expAccumulate": 7266015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 67,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 96,
+   "exp": 230500,
+   "expAccumulate": 7496515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 68,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 97,
+   "exp": 235325,
+   "expAccumulate": 7731840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 68,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 98,
+   "exp": 240200,
+   "expAccumulate": 7972040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 69,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 99,
+   "exp": 245125,
+   "expAccumulate": 8217165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 69,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 100,
+   "exp": 250100,
+   "expAccumulate": 8467265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 70,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 101,
+   "exp": 255125,
+   "expAccumulate": 8722390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 70,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 102,
+   "exp": 260200,
+   "expAccumulate": 8982590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 71,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 103,
+   "exp": 265325,
+   "expAccumulate": 9247915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 71,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 104,
+   "exp": 270500,
+   "expAccumulate": 9518415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 72,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 105,
+   "exp": 275725,
+   "expAccumulate": 9794140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 72,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 106,
+   "exp": 281000,
+   "expAccumulate": 10075140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 73,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 107,
+   "exp": 286325,
+   "expAccumulate": 10361465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 73,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 108,
+   "exp": 291700,
+   "expAccumulate": 10653165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 74,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 109,
+   "exp": 297125,
+   "expAccumulate": 10950290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 74,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 110,
+   "exp": 302600,
+   "expAccumulate": 11252890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 75,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 111,
+   "exp": 308125,
+   "expAccumulate": 11561015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 75,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 112,
+   "exp": 313700,
+   "expAccumulate": 11874715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 76,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 113,
+   "exp": 319325,
+   "expAccumulate": 12194040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 76,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 114,
+   "exp": 325000,
+   "expAccumulate": 12519040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 77,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 115,
+   "exp": 330725,
+   "expAccumulate": 12849765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 77,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 116,
+   "exp": 336500,
+   "expAccumulate": 13186265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 78,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 117,
+   "exp": 342325,
+   "expAccumulate": 13528590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 78,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 118,
+   "exp": 348200,
+   "expAccumulate": 13876790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 79,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 119,
+   "exp": 354125,
+   "expAccumulate": 14230915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 79,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 120,
+   "exp": 360100,
+   "expAccumulate": 14591015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 80,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 121,
+   "exp": 366125,
+   "expAccumulate": 14957140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 80,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 122,
+   "exp": 372200,
+   "expAccumulate": 15329340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 81,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 123,
+   "exp": 378325,
+   "expAccumulate": 15707665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 81,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 124,
+   "exp": 384500,
+   "expAccumulate": 16092165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 82,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 125,
+   "exp": 390725,
+   "expAccumulate": 16482890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 82,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 126,
+   "exp": 397000,
+   "expAccumulate": 16879890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 83,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 127,
+   "exp": 403325,
+   "expAccumulate": 17283215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 83,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 128,
+   "exp": 409700,
+   "expAccumulate": 17692915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 84,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 129,
+   "exp": 416125,
+   "expAccumulate": 18109040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 84,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 130,
+   "exp": 422600,
+   "expAccumulate": 18531640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 85,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 131,
+   "exp": 429125,
+   "expAccumulate": 18960765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 85,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 132,
+   "exp": 435700,
+   "expAccumulate": 19396465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 86,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 133,
+   "exp": 442325,
+   "expAccumulate": 19838790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 86,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 134,
+   "exp": 449000,
+   "expAccumulate": 20287790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 87,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 135,
+   "exp": 455725,
+   "expAccumulate": 20743515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 87,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 136,
+   "exp": 462500,
+   "expAccumulate": 21206015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 88,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 137,
+   "exp": 469325,
+   "expAccumulate": 21675340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 88,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 138,
+   "exp": 476200,
+   "expAccumulate": 22151540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 89,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 139,
+   "exp": 483125,
+   "expAccumulate": 22634665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 89,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 140,
+   "exp": 490100,
+   "expAccumulate": 23124765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 90,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 141,
+   "exp": 497125,
+   "expAccumulate": 23621890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 90,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 142,
+   "exp": 504200,
+   "expAccumulate": 24126090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 91,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 143,
+   "exp": 511325,
+   "expAccumulate": 24637415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 91,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 144,
+   "exp": 518500,
+   "expAccumulate": 25155915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 92,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 145,
+   "exp": 525725,
+   "expAccumulate": 25681640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 92,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 146,
+   "exp": 533000,
+   "expAccumulate": 26214640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 93,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 147,
+   "exp": 540325,
+   "expAccumulate": 26754965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 93,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 148,
+   "exp": 547700,
+   "expAccumulate": 27302665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 94,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 149,
+   "exp": 555125,
+   "expAccumulate": 27857790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 94,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 150,
+   "exp": 562600,
+   "expAccumulate": 28420390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 95,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 151,
+   "exp": 570125,
+   "expAccumulate": 28990515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 95,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 152,
+   "exp": 577700,
+   "expAccumulate": 29568215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 96,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 153,
+   "exp": 585325,
+   "expAccumulate": 30153540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 96,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 154,
+   "exp": 593000,
+   "expAccumulate": 30746540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 97,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 155,
+   "exp": 600725,
+   "expAccumulate": 31347265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 97,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 156,
+   "exp": 608500,
+   "expAccumulate": 31955765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 98,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 157,
+   "exp": 616325,
+   "expAccumulate": 32572090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 98,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 158,
+   "exp": 624200,
+   "expAccumulate": 33196290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 99,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 159,
+   "exp": 632125,
+   "expAccumulate": 33828415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 99,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 160,
+   "exp": 640100,
+   "expAccumulate": 34468515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 161,
+   "exp": 648125,
+   "expAccumulate": 35116640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 162,
+   "exp": 656200,
+   "expAccumulate": 35772840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 163,
+   "exp": 664325,
+   "expAccumulate": 36437165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 164,
+   "exp": 672500,
+   "expAccumulate": 37109665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 165,
+   "exp": 680725,
+   "expAccumulate": 37790390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 166,
+   "exp": 689000,
+   "expAccumulate": 38479390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 167,
+   "exp": 697325,
+   "expAccumulate": 39176715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 168,
+   "exp": 705700,
+   "expAccumulate": 39882415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 169,
+   "exp": 714125,
+   "expAccumulate": 40596540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 170,
+   "exp": 722600,
+   "expAccumulate": 41319140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 171,
+   "exp": 731125,
+   "expAccumulate": 42050265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 172,
+   "exp": 739700,
+   "expAccumulate": 42789965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 173,
+   "exp": 748325,
+   "expAccumulate": 43538290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 174,
+   "exp": 757000,
+   "expAccumulate": 44295290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 175,
+   "exp": 765725,
+   "expAccumulate": 45061015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 176,
+   "exp": 774500,
+   "expAccumulate": 45835515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 177,
+   "exp": 783325,
+   "expAccumulate": 46618840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 178,
+   "exp": 792200,
+   "expAccumulate": 47411040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 179,
+   "exp": 801125,
+   "expAccumulate": 48212165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 180,
+   "exp": 810100,
+   "expAccumulate": 49022265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 181,
+   "exp": 819125,
+   "expAccumulate": 49841390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 182,
+   "exp": 828200,
+   "expAccumulate": 50669590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 183,
+   "exp": 837325,
+   "expAccumulate": 51506915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 184,
+   "exp": 846500,
+   "expAccumulate": 52353415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 185,
+   "exp": 855725,
+   "expAccumulate": 53209140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 186,
+   "exp": 865000,
+   "expAccumulate": 54074140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 187,
+   "exp": 874325,
+   "expAccumulate": 54948465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 188,
+   "exp": 883700,
+   "expAccumulate": 55832165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 189,
+   "exp": 893125,
+   "expAccumulate": 56725290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 190,
+   "exp": 902600,
+   "expAccumulate": 57627890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 191,
+   "exp": 912125,
+   "expAccumulate": 58540015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 192,
+   "exp": 921700,
+   "expAccumulate": 59461715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 193,
+   "exp": 931325,
+   "expAccumulate": 60393040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 194,
+   "exp": 941000,
+   "expAccumulate": 61334040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 195,
+   "exp": 950725,
+   "expAccumulate": 62284765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 196,
+   "exp": 960500,
+   "expAccumulate": 63245265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 197,
+   "exp": 970325,
+   "expAccumulate": 64215590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 198,
+   "exp": 980200,
+   "expAccumulate": 65195790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 199,
+   "exp": 990125,
+   "expAccumulate": 66185915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 200,
+   "exp": 1000100,
+   "expAccumulate": 67186015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 201,
+   "exp": 1010125,
+   "expAccumulate": 68196140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 202,
+   "exp": 1020200,
+   "expAccumulate": 69216340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 203,
+   "exp": 1030325,
+   "expAccumulate": 70246665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 204,
+   "exp": 1040500,
+   "expAccumulate": 71287165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 205,
+   "exp": 1050725,
+   "expAccumulate": 72337890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 206,
+   "exp": 1061000,
+   "expAccumulate": 73398890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 207,
+   "exp": 1071325,
+   "expAccumulate": 74470215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 208,
+   "exp": 1081700,
+   "expAccumulate": 75551915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 209,
+   "exp": 1092125,
+   "expAccumulate": 76644040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 210,
+   "exp": 1102600,
+   "expAccumulate": 77746640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 211,
+   "exp": 1113125,
+   "expAccumulate": 78859765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 212,
+   "exp": 1123700,
+   "expAccumulate": 79983465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 213,
+   "exp": 1134325,
+   "expAccumulate": 81117790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 214,
+   "exp": 1145000,
+   "expAccumulate": 82262790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 215,
+   "exp": 1155725,
+   "expAccumulate": 83418515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 216,
+   "exp": 1166500,
+   "expAccumulate": 84585015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 217,
+   "exp": 1177325,
+   "expAccumulate": 85762340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 218,
+   "exp": 1188200,
+   "expAccumulate": 86950540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 219,
+   "exp": 1199125,
+   "expAccumulate": 88149665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 220,
+   "exp": 1210100,
+   "expAccumulate": 89359765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 221,
+   "exp": 1221125,
+   "expAccumulate": 90580890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 222,
+   "exp": 1232200,
+   "expAccumulate": 91813090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 223,
+   "exp": 1243325,
+   "expAccumulate": 93056415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 224,
+   "exp": 1254500,
+   "expAccumulate": 94310915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 225,
+   "exp": 1265725,
+   "expAccumulate": 95576640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 226,
+   "exp": 1277000,
+   "expAccumulate": 96853640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 227,
+   "exp": 1288325,
+   "expAccumulate": 98141965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 228,
+   "exp": 1299700,
+   "expAccumulate": 99441665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 229,
+   "exp": 1311125,
+   "expAccumulate": 100752790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 230,
+   "exp": 1322600,
+   "expAccumulate": 102075390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 231,
+   "exp": 1334125,
+   "expAccumulate": 103409515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 232,
+   "exp": 1345700,
+   "expAccumulate": 104755215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 233,
+   "exp": 1357325,
+   "expAccumulate": 106112540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 234,
+   "exp": 1369000,
+   "expAccumulate": 107481540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 235,
+   "exp": 1380725,
+   "expAccumulate": 108862265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 236,
+   "exp": 1392500,
+   "expAccumulate": 110254765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 237,
+   "exp": 1404325,
+   "expAccumulate": 111659090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 238,
+   "exp": 1416200,
+   "expAccumulate": 113075290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 239,
+   "exp": 1428125,
+   "expAccumulate": 114503415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 240,
+   "exp": 1440100,
+   "expAccumulate": 115943515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 241,
+   "exp": 1452125,
+   "expAccumulate": 117395640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 242,
+   "exp": 1464200,
+   "expAccumulate": 118859840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 243,
+   "exp": 1476325,
+   "expAccumulate": 120336165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 244,
+   "exp": 1488500,
+   "expAccumulate": 121824665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 245,
+   "exp": 1500725,
+   "expAccumulate": 123325390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 246,
+   "exp": 1513000,
+   "expAccumulate": 124838390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 247,
+   "exp": 1525325,
+   "expAccumulate": 126363715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 248,
+   "exp": 1537700,
+   "expAccumulate": 127901415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 249,
+   "exp": 1550125,
+   "expAccumulate": 129451540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 250,
+   "exp": 1562600,
+   "expAccumulate": 131014140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 251,
+   "exp": 1575125,
+   "expAccumulate": 132589265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 252,
+   "exp": 1587700,
+   "expAccumulate": 134176965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 253,
+   "exp": 1600325,
+   "expAccumulate": 135777290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 254,
+   "exp": 1613000,
+   "expAccumulate": 137390290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 255,
+   "exp": 1625725,
+   "expAccumulate": 139016015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 256,
+   "exp": 1638500,
+   "expAccumulate": 140654515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 257,
+   "exp": 1651325,
+   "expAccumulate": 142305840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 258,
+   "exp": 1664200,
+   "expAccumulate": 143970040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 259,
+   "exp": 1677125,
+   "expAccumulate": 145647165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 260,
+   "exp": 1690100,
+   "expAccumulate": 147337265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 261,
+   "exp": 1703125,
+   "expAccumulate": 149040390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 262,
+   "exp": 1716200,
+   "expAccumulate": 150756590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 263,
+   "exp": 1729325,
+   "expAccumulate": 152485915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 264,
+   "exp": 1742500,
+   "expAccumulate": 154228415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 265,
+   "exp": 1755725,
+   "expAccumulate": 155984140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 266,
+   "exp": 1769000,
+   "expAccumulate": 157753140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 267,
+   "exp": 1782325,
+   "expAccumulate": 159535465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 268,
+   "exp": 1795700,
+   "expAccumulate": 161331165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 269,
+   "exp": 1809125,
+   "expAccumulate": 163140290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 270,
+   "exp": 1822600,
+   "expAccumulate": 164962890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 271,
+   "exp": 1836125,
+   "expAccumulate": 166799015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 272,
+   "exp": 1849700,
+   "expAccumulate": 168648715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 273,
+   "exp": 1863325,
+   "expAccumulate": 170512040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 274,
+   "exp": 1877000,
+   "expAccumulate": 172389040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 275,
+   "exp": 1890725,
+   "expAccumulate": 174279765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 276,
+   "exp": 1904500,
+   "expAccumulate": 176184265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 277,
+   "exp": 1918325,
+   "expAccumulate": 178102590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 278,
+   "exp": 1932200,
+   "expAccumulate": 180034790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 279,
+   "exp": 1946125,
+   "expAccumulate": 181980915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 280,
+   "exp": 1960100,
+   "expAccumulate": 183941015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 281,
+   "exp": 1974125,
+   "expAccumulate": 185915140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 282,
+   "exp": 1988200,
+   "expAccumulate": 187903340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 283,
+   "exp": 2002325,
+   "expAccumulate": 189905665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 284,
+   "exp": 2016500,
+   "expAccumulate": 191922165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 285,
+   "exp": 2030725,
+   "expAccumulate": 193952890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 286,
+   "exp": 2045000,
+   "expAccumulate": 195997890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 287,
+   "exp": 2059325,
+   "expAccumulate": 198057215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 288,
+   "exp": 2073700,
+   "expAccumulate": 200130915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 289,
+   "exp": 2088125,
+   "expAccumulate": 202219040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 290,
+   "exp": 2102600,
+   "expAccumulate": 204321640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 291,
+   "exp": 2117125,
+   "expAccumulate": 206438765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 292,
+   "exp": 2131700,
+   "expAccumulate": 208570465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 293,
+   "exp": 2146325,
+   "expAccumulate": 210716790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 294,
+   "exp": 2161000,
+   "expAccumulate": 212877790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 295,
+   "exp": 2175725,
+   "expAccumulate": 215053515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 296,
+   "exp": 2190500,
+   "expAccumulate": 217244015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 297,
+   "exp": 2205325,
+   "expAccumulate": 219449340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 298,
+   "exp": 2220200,
+   "expAccumulate": 221669540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 299,
+   "exp": 2235125,
+   "expAccumulate": 223904665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 300,
+   "exp": 2250100,
+   "expAccumulate": 226154765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 301,
+   "exp": 2265125,
+   "expAccumulate": 228419890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 302,
+   "exp": 2280200,
+   "expAccumulate": 230700090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 303,
+   "exp": 2295325,
+   "expAccumulate": 232995415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 304,
+   "exp": 2310500,
+   "expAccumulate": 235305915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 305,
+   "exp": 2325725,
+   "expAccumulate": 237631640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 306,
+   "exp": 2341000,
+   "expAccumulate": 239972640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 307,
+   "exp": 2356325,
+   "expAccumulate": 242328965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 308,
+   "exp": 2371700,
+   "expAccumulate": 244700665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 309,
+   "exp": 2387125,
+   "expAccumulate": 247087790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 310,
+   "exp": 2402600,
+   "expAccumulate": 249490390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 311,
+   "exp": 2418125,
+   "expAccumulate": 251908515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 312,
+   "exp": 2433700,
+   "expAccumulate": 254342215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 313,
+   "exp": 2449325,
+   "expAccumulate": 256791540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 314,
+   "exp": 2465000,
+   "expAccumulate": 259256540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 315,
+   "exp": 2480725,
+   "expAccumulate": 261737265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 316,
+   "exp": 2496500,
+   "expAccumulate": 264233765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 317,
+   "exp": 2512325,
+   "expAccumulate": 266746090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 318,
+   "exp": 2528200,
+   "expAccumulate": 269274290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 319,
+   "exp": 2544125,
+   "expAccumulate": 271818415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 320,
+   "exp": 2560100,
+   "expAccumulate": 274378515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 321,
+   "exp": 2576125,
+   "expAccumulate": 276954640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 322,
+   "exp": 2592200,
+   "expAccumulate": 279546840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 323,
+   "exp": 2608325,
+   "expAccumulate": 282155165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 324,
+   "exp": 2624500,
+   "expAccumulate": 284779665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 325,
+   "exp": 2640725,
+   "expAccumulate": 287420390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 326,
+   "exp": 2657000,
+   "expAccumulate": 290077390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 327,
+   "exp": 2673325,
+   "expAccumulate": 292750715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 328,
+   "exp": 2689700,
+   "expAccumulate": 295440415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 329,
+   "exp": 2706125,
+   "expAccumulate": 298146540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 330,
+   "exp": 2722600,
+   "expAccumulate": 300869140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 331,
+   "exp": 2739125,
+   "expAccumulate": 303608265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 332,
+   "exp": 2755700,
+   "expAccumulate": 306363965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 333,
+   "exp": 2772325,
+   "expAccumulate": 309136290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 334,
+   "exp": 2789000,
+   "expAccumulate": 311925290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 335,
+   "exp": 2805725,
+   "expAccumulate": 314731015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 336,
+   "exp": 2822500,
+   "expAccumulate": 317553515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 337,
+   "exp": 2839325,
+   "expAccumulate": 320392840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 338,
+   "exp": 2856200,
+   "expAccumulate": 323249040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 339,
+   "exp": 2873125,
+   "expAccumulate": 326122165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 340,
+   "exp": 2890100,
+   "expAccumulate": 329012265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 341,
+   "exp": 2907125,
+   "expAccumulate": 331919390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 342,
+   "exp": 2924200,
+   "expAccumulate": 334843590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 343,
+   "exp": 2941325,
+   "expAccumulate": 337784915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 344,
+   "exp": 2958500,
+   "expAccumulate": 340743415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 345,
+   "exp": 2975725,
+   "expAccumulate": 343719140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 346,
+   "exp": 2993000,
+   "expAccumulate": 346712140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 347,
+   "exp": 3010325,
+   "expAccumulate": 349722465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 348,
+   "exp": 3027700,
+   "expAccumulate": 352750165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 349,
+   "exp": 3045125,
+   "expAccumulate": 355795290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 350,
+   "exp": 3062600,
+   "expAccumulate": 358857890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 351,
+   "exp": 3080125,
+   "expAccumulate": 361938015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 352,
+   "exp": 3097700,
+   "expAccumulate": 365035715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 353,
+   "exp": 3115325,
+   "expAccumulate": 368151040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 354,
+   "exp": 3133000,
+   "expAccumulate": 371284040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 355,
+   "exp": 3150725,
+   "expAccumulate": 374434765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 356,
+   "exp": 3168500,
+   "expAccumulate": 377603265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 357,
+   "exp": 3186325,
+   "expAccumulate": 380789590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 358,
+   "exp": 3204200,
+   "expAccumulate": 383993790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 359,
+   "exp": 3222125,
+   "expAccumulate": 387215915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 360,
+   "exp": 3240100,
+   "expAccumulate": 390456015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 361,
+   "exp": 3258125,
+   "expAccumulate": 393714140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 362,
+   "exp": 3276200,
+   "expAccumulate": 396990340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 363,
+   "exp": 3294325,
+   "expAccumulate": 400284665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 364,
+   "exp": 3312500,
+   "expAccumulate": 403597165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 365,
+   "exp": 3330725,
+   "expAccumulate": 406927890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 366,
+   "exp": 3349000,
+   "expAccumulate": 410276890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 367,
+   "exp": 3367325,
+   "expAccumulate": 413644215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 368,
+   "exp": 3385700,
+   "expAccumulate": 417029915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 369,
+   "exp": 3404125,
+   "expAccumulate": 420434040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 370,
+   "exp": 3422600,
+   "expAccumulate": 423856640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 371,
+   "exp": 3441125,
+   "expAccumulate": 427297765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 372,
+   "exp": 3459700,
+   "expAccumulate": 430757465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 373,
+   "exp": 3478325,
+   "expAccumulate": 434235790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 374,
+   "exp": 3497000,
+   "expAccumulate": 437732790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 375,
+   "exp": 3515725,
+   "expAccumulate": 441248515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 376,
+   "exp": 3534500,
+   "expAccumulate": 444783015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 377,
+   "exp": 3553325,
+   "expAccumulate": 448336340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 378,
+   "exp": 3572200,
+   "expAccumulate": 451908540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 379,
+   "exp": 3591125,
+   "expAccumulate": 455499665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 380,
+   "exp": 3610100,
+   "expAccumulate": 459109765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 381,
+   "exp": 3629125,
+   "expAccumulate": 462738890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 382,
+   "exp": 3648200,
+   "expAccumulate": 466387090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 383,
+   "exp": 3667325,
+   "expAccumulate": 470054415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 384,
+   "exp": 3686500,
+   "expAccumulate": 473740915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 385,
+   "exp": 3705725,
+   "expAccumulate": 477446640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 386,
+   "exp": 3725000,
+   "expAccumulate": 481171640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 387,
+   "exp": 3744325,
+   "expAccumulate": 484915965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 388,
+   "exp": 3763700,
+   "expAccumulate": 488679665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 389,
+   "exp": 3783125,
+   "expAccumulate": 492462790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 390,
+   "exp": 3802600,
+   "expAccumulate": 496265390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 391,
+   "exp": 3822125,
+   "expAccumulate": 500087515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 392,
+   "exp": 3841700,
+   "expAccumulate": 503929215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 393,
+   "exp": 3861325,
+   "expAccumulate": 507790540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 394,
+   "exp": 3881000,
+   "expAccumulate": 511671540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 395,
+   "exp": 3900725,
+   "expAccumulate": 515572265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 396,
+   "exp": 3920500,
+   "expAccumulate": 519492765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 397,
+   "exp": 3940325,
+   "expAccumulate": 523433090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 398,
+   "exp": 3960200,
+   "expAccumulate": 527393290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 399,
+   "exp": 3980125,
+   "expAccumulate": 531373415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 400,
+   "exp": 4000100,
+   "expAccumulate": 535373515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 401,
+   "exp": 4020125,
+   "expAccumulate": 539393640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 402,
+   "exp": 4040200,
+   "expAccumulate": 543433840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 403,
+   "exp": 4060325,
+   "expAccumulate": 547494165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 404,
+   "exp": 4080500,
+   "expAccumulate": 551574665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 405,
+   "exp": 4100725,
+   "expAccumulate": 555675390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 406,
+   "exp": 4121000,
+   "expAccumulate": 559796390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 407,
+   "exp": 4141325,
+   "expAccumulate": 563937715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 408,
+   "exp": 4161700,
+   "expAccumulate": 568099415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 409,
+   "exp": 4182125,
+   "expAccumulate": 572281540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 410,
+   "exp": 4202600,
+   "expAccumulate": 576484140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 411,
+   "exp": 4223125,
+   "expAccumulate": 580707265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 412,
+   "exp": 4243700,
+   "expAccumulate": 584950965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 413,
+   "exp": 4264325,
+   "expAccumulate": 589215290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 414,
+   "exp": 4285000,
+   "expAccumulate": 593500290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 415,
+   "exp": 4305725,
+   "expAccumulate": 597806015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 416,
+   "exp": 4326500,
+   "expAccumulate": 602132515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 417,
+   "exp": 4347325,
+   "expAccumulate": 606479840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 418,
+   "exp": 4368200,
+   "expAccumulate": 610848040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 419,
+   "exp": 4389125,
+   "expAccumulate": 615237165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 420,
+   "exp": 4410100,
+   "expAccumulate": 619647265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 421,
+   "exp": 4431125,
+   "expAccumulate": 624078390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 422,
+   "exp": 4452200,
+   "expAccumulate": 628530590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 423,
+   "exp": 4473325,
+   "expAccumulate": 633003915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 424,
+   "exp": 4494500,
+   "expAccumulate": 637498415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 425,
+   "exp": 4515725,
+   "expAccumulate": 642014140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 426,
+   "exp": 4537000,
+   "expAccumulate": 646551140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 427,
+   "exp": 4558325,
+   "expAccumulate": 651109465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 428,
+   "exp": 4579700,
+   "expAccumulate": 655689165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 429,
+   "exp": 4601125,
+   "expAccumulate": 660290290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 430,
+   "exp": 4622600,
+   "expAccumulate": 664912890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 431,
+   "exp": 4644125,
+   "expAccumulate": 669557015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 432,
+   "exp": 4665700,
+   "expAccumulate": 674222715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 433,
+   "exp": 4687325,
+   "expAccumulate": 678910040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 434,
+   "exp": 4709000,
+   "expAccumulate": 683619040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 435,
+   "exp": 4730725,
+   "expAccumulate": 688349765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 436,
+   "exp": 4752500,
+   "expAccumulate": 693102265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 437,
+   "exp": 4774325,
+   "expAccumulate": 697876590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 438,
+   "exp": 4796200,
+   "expAccumulate": 702672790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 439,
+   "exp": 4818125,
+   "expAccumulate": 707490915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 440,
+   "exp": 4840100,
+   "expAccumulate": 712331015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 441,
+   "exp": 4862125,
+   "expAccumulate": 717193140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 442,
+   "exp": 4884200,
+   "expAccumulate": 722077340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 443,
+   "exp": 4906325,
+   "expAccumulate": 726983665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 444,
+   "exp": 4928500,
+   "expAccumulate": 731912165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 445,
+   "exp": 4950725,
+   "expAccumulate": 736862890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 446,
+   "exp": 4973000,
+   "expAccumulate": 741835890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 447,
+   "exp": 4995325,
+   "expAccumulate": 746831215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 448,
+   "exp": 5017700,
+   "expAccumulate": 751848915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 449,
+   "exp": 5040125,
+   "expAccumulate": 756889040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 450,
+   "exp": 5062600,
+   "expAccumulate": 761951640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 451,
+   "exp": 5085125,
+   "expAccumulate": 767036765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 452,
+   "exp": 5107700,
+   "expAccumulate": 772144465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 453,
+   "exp": 5130325,
+   "expAccumulate": 777274790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 454,
+   "exp": 5153000,
+   "expAccumulate": 782427790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 455,
+   "exp": 5175725,
+   "expAccumulate": 787603515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 456,
+   "exp": 5198500,
+   "expAccumulate": 792802015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 457,
+   "exp": 5221325,
+   "expAccumulate": 798023340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 458,
+   "exp": 5244200,
+   "expAccumulate": 803267540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 459,
+   "exp": 5267125,
+   "expAccumulate": 808534665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 460,
+   "exp": 5290100,
+   "expAccumulate": 813824765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 461,
+   "exp": 5313125,
+   "expAccumulate": 819137890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 462,
+   "exp": 5336200,
+   "expAccumulate": 824474090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 463,
+   "exp": 5359325,
+   "expAccumulate": 829833415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 464,
+   "exp": 5382500,
+   "expAccumulate": 835215915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 465,
+   "exp": 5405725,
+   "expAccumulate": 840621640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 466,
+   "exp": 5429000,
+   "expAccumulate": 846050640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 467,
+   "exp": 5452325,
+   "expAccumulate": 851502965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 468,
+   "exp": 5475700,
+   "expAccumulate": 856978665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 469,
+   "exp": 5499125,
+   "expAccumulate": 862477790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 470,
+   "exp": 5522600,
+   "expAccumulate": 868000390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 471,
+   "exp": 5546125,
+   "expAccumulate": 873546515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 472,
+   "exp": 5569700,
+   "expAccumulate": 879116215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 473,
+   "exp": 5593325,
+   "expAccumulate": 884709540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 474,
+   "exp": 5617000,
+   "expAccumulate": 890326540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 475,
+   "exp": 5640725,
+   "expAccumulate": 895967265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 476,
+   "exp": 5664500,
+   "expAccumulate": 901631765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 477,
+   "exp": 5688325,
+   "expAccumulate": 907320090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 478,
+   "exp": 5712200,
+   "expAccumulate": 913032290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 479,
+   "exp": 5736125,
+   "expAccumulate": 918768415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 480,
+   "exp": 5760100,
+   "expAccumulate": 924528515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 481,
+   "exp": 5784125,
+   "expAccumulate": 930312640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 482,
+   "exp": 5808200,
+   "expAccumulate": 936120840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 483,
+   "exp": 5832325,
+   "expAccumulate": 941953165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 484,
+   "exp": 5856500,
+   "expAccumulate": 947809665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 485,
+   "exp": 5880725,
+   "expAccumulate": 953690390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 486,
+   "exp": 5905000,
+   "expAccumulate": 959595390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 487,
+   "exp": 5929325,
+   "expAccumulate": 965524715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 488,
+   "exp": 5953700,
+   "expAccumulate": 971478415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 489,
+   "exp": 5978125,
+   "expAccumulate": 977456540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 490,
+   "exp": 6002600,
+   "expAccumulate": 983459140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 491,
+   "exp": 6027125,
+   "expAccumulate": 989486265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 492,
+   "exp": 6051700,
+   "expAccumulate": 995537965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 493,
+   "exp": 6076325,
+   "expAccumulate": 1001614290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 494,
+   "exp": 6101000,
+   "expAccumulate": 1007715290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 495,
+   "exp": 6125725,
+   "expAccumulate": 1013841015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 496,
+   "exp": 6150500,
+   "expAccumulate": 1019991515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 497,
+   "exp": 6175325,
+   "expAccumulate": 1026166840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 498,
+   "exp": 6200200,
+   "expAccumulate": 1032367040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 499,
+   "exp": 6225125,
+   "expAccumulate": 1038592165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 500,
+   "exp": 6250100,
+   "expAccumulate": 1044842265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 501,
+   "exp": 6275125,
+   "expAccumulate": 1051117390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 502,
+   "exp": 6300200,
+   "expAccumulate": 1057417590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 503,
+   "exp": 6325325,
+   "expAccumulate": 1063742915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 504,
+   "exp": 6350500,
+   "expAccumulate": 1070093415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 505,
+   "exp": 6375725,
+   "expAccumulate": 1076469140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 506,
+   "exp": 6401000,
+   "expAccumulate": 1082870140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 507,
+   "exp": 6426325,
+   "expAccumulate": 1089296465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 508,
+   "exp": 6451700,
+   "expAccumulate": 1095748165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 509,
+   "exp": 6477125,
+   "expAccumulate": 1102225290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 510,
+   "exp": 6502600,
+   "expAccumulate": 1108727890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 511,
+   "exp": 6528125,
+   "expAccumulate": 1115256015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 512,
+   "exp": 6553700,
+   "expAccumulate": 1121809715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 513,
+   "exp": 6579325,
+   "expAccumulate": 1128389040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 514,
+   "exp": 6605000,
+   "expAccumulate": 1134994040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 515,
+   "exp": 6630725,
+   "expAccumulate": 1141624765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 516,
+   "exp": 6656500,
+   "expAccumulate": 1148281265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 517,
+   "exp": 6682325,
+   "expAccumulate": 1154963590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 518,
+   "exp": 6708200,
+   "expAccumulate": 1161671790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 519,
+   "exp": 6734125,
+   "expAccumulate": 1168405915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 520,
+   "exp": 6760100,
+   "expAccumulate": 1175166015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 521,
+   "exp": 6786125,
+   "expAccumulate": 1181952140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 522,
+   "exp": 6812200,
+   "expAccumulate": 1188764340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 523,
+   "exp": 6838325,
+   "expAccumulate": 1195602665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 524,
+   "exp": 6864500,
+   "expAccumulate": 1202467165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 525,
+   "exp": 6890725,
+   "expAccumulate": 1209357890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 526,
+   "exp": 6917000,
+   "expAccumulate": 1216274890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 527,
+   "exp": 6943325,
+   "expAccumulate": 1223218215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 528,
+   "exp": 6969700,
+   "expAccumulate": 1230187915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 529,
+   "exp": 6996125,
+   "expAccumulate": 1237184040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 530,
+   "exp": 7022600,
+   "expAccumulate": 1244206640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 531,
+   "exp": 7049125,
+   "expAccumulate": 1251255765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 532,
+   "exp": 7075700,
+   "expAccumulate": 1258331465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 533,
+   "exp": 7102325,
+   "expAccumulate": 1265433790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 534,
+   "exp": 7129000,
+   "expAccumulate": 1272562790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 535,
+   "exp": 7155725,
+   "expAccumulate": 1279718515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 536,
+   "exp": 7182500,
+   "expAccumulate": 1286901015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 537,
+   "exp": 7209325,
+   "expAccumulate": 1294110340,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 538,
+   "exp": 7236200,
+   "expAccumulate": 1301346540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 539,
+   "exp": 7263125,
+   "expAccumulate": 1308609665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 540,
+   "exp": 7290100,
+   "expAccumulate": 1315899765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 541,
+   "exp": 7317125,
+   "expAccumulate": 1323216890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 542,
+   "exp": 7344200,
+   "expAccumulate": 1330561090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 543,
+   "exp": 7371325,
+   "expAccumulate": 1337932415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 544,
+   "exp": 7398500,
+   "expAccumulate": 1345330915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 545,
+   "exp": 7425725,
+   "expAccumulate": 1352756640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 546,
+   "exp": 7453000,
+   "expAccumulate": 1360209640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 547,
+   "exp": 7480325,
+   "expAccumulate": 1367689965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 548,
+   "exp": 7507700,
+   "expAccumulate": 1375197665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 549,
+   "exp": 7535125,
+   "expAccumulate": 1382732790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 550,
+   "exp": 7562600,
+   "expAccumulate": 1390295390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 551,
+   "exp": 7590125,
+   "expAccumulate": 1397885515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 552,
+   "exp": 7617700,
+   "expAccumulate": 1405503215,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 553,
+   "exp": 7645325,
+   "expAccumulate": 1413148540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 554,
+   "exp": 7673000,
+   "expAccumulate": 1420821540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 555,
+   "exp": 7700725,
+   "expAccumulate": 1428522265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 556,
+   "exp": 7728500,
+   "expAccumulate": 1436250765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 557,
+   "exp": 7756325,
+   "expAccumulate": 1444007090,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 558,
+   "exp": 7784200,
+   "expAccumulate": 1451791290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 559,
+   "exp": 7812125,
+   "expAccumulate": 1459603415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 560,
+   "exp": 7840100,
+   "expAccumulate": 1467443515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 561,
+   "exp": 7868125,
+   "expAccumulate": 1475311640,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 562,
+   "exp": 7896200,
+   "expAccumulate": 1483207840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 563,
+   "exp": 7924325,
+   "expAccumulate": 1491132165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 564,
+   "exp": 7952500,
+   "expAccumulate": 1499084665,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 565,
+   "exp": 7980725,
+   "expAccumulate": 1507065390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 566,
+   "exp": 8009000,
+   "expAccumulate": 1515074390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 567,
+   "exp": 8037325,
+   "expAccumulate": 1523111715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 568,
+   "exp": 8065700,
+   "expAccumulate": 1531177415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 569,
+   "exp": 8094125,
+   "expAccumulate": 1539271540,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 570,
+   "exp": 8122600,
+   "expAccumulate": 1547394140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 571,
+   "exp": 8151125,
+   "expAccumulate": 1555545265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 572,
+   "exp": 8179700,
+   "expAccumulate": 1563724965,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 573,
+   "exp": 8208325,
+   "expAccumulate": 1571933290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 574,
+   "exp": 8237000,
+   "expAccumulate": 1580170290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 575,
+   "exp": 8265725,
+   "expAccumulate": 1588436015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 576,
+   "exp": 8294500,
+   "expAccumulate": 1596730515,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 577,
+   "exp": 8323325,
+   "expAccumulate": 1605053840,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 578,
+   "exp": 8352200,
+   "expAccumulate": 1613406040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 579,
+   "exp": 8381125,
+   "expAccumulate": 1621787165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 580,
+   "exp": 8410100,
+   "expAccumulate": 1630197265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 581,
+   "exp": 8439125,
+   "expAccumulate": 1638636390,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 582,
+   "exp": 8468200,
+   "expAccumulate": 1647104590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 583,
+   "exp": 8497325,
+   "expAccumulate": 1655601915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 584,
+   "exp": 8526500,
+   "expAccumulate": 1664128415,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 585,
+   "exp": 8555725,
+   "expAccumulate": 1672684140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 586,
+   "exp": 8585000,
+   "expAccumulate": 1681269140,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 587,
+   "exp": 8614325,
+   "expAccumulate": 1689883465,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 588,
+   "exp": 8643700,
+   "expAccumulate": 1698527165,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 589,
+   "exp": 8673125,
+   "expAccumulate": 1707200290,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 590,
+   "exp": 8702600,
+   "expAccumulate": 1715902890,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 591,
+   "exp": 8732125,
+   "expAccumulate": 1724635015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 592,
+   "exp": 8761700,
+   "expAccumulate": 1733396715,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 593,
+   "exp": 8791325,
+   "expAccumulate": 1742188040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 594,
+   "exp": 8821000,
+   "expAccumulate": 1751009040,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 595,
+   "exp": 8850725,
+   "expAccumulate": 1759859765,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 596,
+   "exp": 8880500,
+   "expAccumulate": 1768740265,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 597,
+   "exp": 8910325,
+   "expAccumulate": 1777650590,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 598,
+   "exp": 8940200,
+   "expAccumulate": 1786590790,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 599,
+   "exp": 8970125,
+   "expAccumulate": 1795560915,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  },
+  {
+   "accountLevel": 600,
+   "exp": 9000100,
+   "expAccumulate": 1804561015,
+   "accountTeamCost": 999,
+   "accountFriendsList": 100,
+   "isIncActivePointOnLevelup": 1,
+   "accountFighterQuestDailyPlayLimit": 5
+  }
+ ]
+}

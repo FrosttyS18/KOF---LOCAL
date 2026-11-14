@@ -1,0 +1,65 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: EXP dungeon (gen_dungeon.py); texts from the 2023 videos, ids/rewards ours.",
+ "rows": [
+  {
+   "gimmickIndex": 1014,
+   "gimmickIndexString": "Gimmick.Normal.ManekiNeko",
+   "gimmickNameTag": "Offline.Gimmick.ManekiNeko.Name",
+   "synastryType": 3,
+   "hPBarOnOff": 1,
+   "gimmickType": 1,
+   "growthType": 17,
+   "attackPossible": 1,
+   "hitTypeDropGoldPer": 2,
+   "deathDropGoldPer": 30,
+   "gimmickPrefab": "Prefabs/Gimmick/ManekiNeco/Gimmick_ManekiNeco",
+   "gimmickAiLink": "Prefabs/AI/Gimmick/ManekiNeco/ManekiNeco",
+   "gimmickEnablePush": 0,
+   "gimmickEnableReaction": 1
+  },
+  {
+   "gimmickIndex": 1200,
+   "gimmickIndexString": "Gimmick.Yata1",
+   "gimmickNameTag": "Offline.Gimmick.Yata.Name",
+   "synastryType": 3,
+   "hPBarOnOff": 1,
+   "gimmickType": 1,
+   "growthType": 13,
+   "attackPossible": "1",
+   "gimmickPrefab": "Prefabs/Gimmick/Yata/Prefab/Gimmick_Yata_Blue",
+   "gimmickAiLink": "Prefabs/AI/Gimmick/Yata/YataGimmick",
+   "gimmickEnablePush": 0,
+   "gimmickEnableReaction": 1,
+   "gimmickBuffDropGroup": 9401
+  },
+  {
+   "gimmickIndex": 1201,
+   "gimmickIndexString": "Gimmick.Yata2",
+   "gimmickNameTag": "Offline.Gimmick.Yata.Name",
+   "synastryType": 3,
+   "hPBarOnOff": 1,
+   "gimmickType": 1,
+   "growthType": 13,
+   "attackPossible": "1",
+   "gimmickPrefab": "Prefabs/Gimmick/Yata/Prefab/Gimmick_Yata_Red",
+   "gimmickAiLink": "Prefabs/AI/Gimmick/Yata/YataGimmick",
+   "gimmickEnablePush": 0,
+   "gimmickEnableReaction": 1,
+   "gimmickBuffDropGroup": 9402
+  },
+  {
+   "gimmickIndex": 11002,
+   "gimmickIndexString": "Gimmick.CoreStone.Yata",
+   "gimmickNameTag": "Offline.Gimmick.CoreAltar.Name",
+   "synastryType": 3,
+   "hPBarOnOff": 1,
+   "gimmickType": 1,
+   "growthType": 60,
+   "attackPossible": "1",
+   "gimmickPrefab": "Prefabs/Gimmick/CoreStone_Yata/Prefabs/Gimmick_CoreStone_Yata",
+   "gimmickAiLink": "Prefabs/AI/Gimmick/Core_Gimmick/Core_Gimmick_Yata",
+   "gimmickEnablePush": 0,
+   "gimmickEnableReaction": 1
+  }
+ ]
+}

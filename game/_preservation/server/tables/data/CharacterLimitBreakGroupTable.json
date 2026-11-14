@@ -1,0 +1,1265 @@
+{
+ "_comment": "OFFLINE RECONSTRUCTION: written by tools/gen_growth.py; the original growth numbers are lost, these are ours.",
+ "rows": [
+  {
+   "characterLimitBreakGroupIndex": 101,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 102,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 103,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 104,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 105,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 106,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 107,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 108,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 109,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 110,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 111,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 112,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 113,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 114,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 115,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 116,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 117,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 118,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 119,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 120,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 121,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 122,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 123,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 124,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 125,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 126,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 127,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 128,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 129,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 130,
+   "characterLimitBreakGroup": 1,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  },
+  {
+   "characterLimitBreakGroupIndex": 201,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 202,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 203,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 204,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 205,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 206,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 207,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 208,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 209,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 210,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 211,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 212,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 213,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 214,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 215,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 216,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 217,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 218,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 219,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 220,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 221,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 222,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 223,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 224,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 225,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 226,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 227,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 228,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 229,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 230,
+   "characterLimitBreakGroup": 2,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  },
+  {
+   "characterLimitBreakGroupIndex": 301,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 302,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 303,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 304,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 305,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 306,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 307,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 308,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 309,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 310,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 311,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 312,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 313,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 314,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 315,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 316,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 317,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 318,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 319,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 320,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 321,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 322,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 323,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 324,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 325,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 326,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 327,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 328,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 329,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 330,
+   "characterLimitBreakGroup": 3,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  },
+  {
+   "characterLimitBreakGroupIndex": 401,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 402,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 403,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 404,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 405,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 406,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 407,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 408,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 409,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 410,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 411,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 412,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 413,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 414,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 415,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 416,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 417,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 418,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 419,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 420,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 421,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 422,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 423,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 424,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 425,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 426,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 427,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 428,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 429,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 430,
+   "characterLimitBreakGroup": 4,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  },
+  {
+   "characterLimitBreakGroupIndex": 501,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 502,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 503,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 504,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 505,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 506,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 507,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 508,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 509,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 510,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 511,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 512,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 513,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 514,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 515,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 516,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 517,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 518,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 519,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 520,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 521,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 522,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 523,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 524,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 525,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 526,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 527,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 528,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 529,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 530,
+   "characterLimitBreakGroup": 5,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  },
+  {
+   "characterLimitBreakGroupIndex": 601,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 1,
+   "limitBreakSoulCount": 1,
+   "limitBreakGold": 5000
+  },
+  {
+   "characterLimitBreakGroupIndex": 602,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 2,
+   "limitBreakSoulCount": 2,
+   "limitBreakGold": 10000
+  },
+  {
+   "characterLimitBreakGroupIndex": 603,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 3,
+   "limitBreakSoulCount": 3,
+   "limitBreakGold": 15000
+  },
+  {
+   "characterLimitBreakGroupIndex": 604,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 4,
+   "limitBreakSoulCount": 4,
+   "limitBreakGold": 20000
+  },
+  {
+   "characterLimitBreakGroupIndex": 605,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 5,
+   "limitBreakSoulCount": 5,
+   "limitBreakGold": 25000
+  },
+  {
+   "characterLimitBreakGroupIndex": 606,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 6,
+   "limitBreakSoulCount": 6,
+   "limitBreakGold": 30000
+  },
+  {
+   "characterLimitBreakGroupIndex": 607,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 7,
+   "limitBreakSoulCount": 7,
+   "limitBreakGold": 35000
+  },
+  {
+   "characterLimitBreakGroupIndex": 608,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 8,
+   "limitBreakSoulCount": 8,
+   "limitBreakGold": 40000
+  },
+  {
+   "characterLimitBreakGroupIndex": 609,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 9,
+   "limitBreakSoulCount": 9,
+   "limitBreakGold": 45000
+  },
+  {
+   "characterLimitBreakGroupIndex": 610,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 10,
+   "limitBreakSoulCount": 10,
+   "limitBreakGold": 50000
+  },
+  {
+   "characterLimitBreakGroupIndex": 611,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 11,
+   "limitBreakSoulCount": 11,
+   "limitBreakGold": 55000
+  },
+  {
+   "characterLimitBreakGroupIndex": 612,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 12,
+   "limitBreakSoulCount": 12,
+   "limitBreakGold": 60000
+  },
+  {
+   "characterLimitBreakGroupIndex": 613,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 13,
+   "limitBreakSoulCount": 13,
+   "limitBreakGold": 65000
+  },
+  {
+   "characterLimitBreakGroupIndex": 614,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 14,
+   "limitBreakSoulCount": 14,
+   "limitBreakGold": 70000
+  },
+  {
+   "characterLimitBreakGroupIndex": 615,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 15,
+   "limitBreakSoulCount": 15,
+   "limitBreakGold": 75000
+  },
+  {
+   "characterLimitBreakGroupIndex": 616,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 16,
+   "limitBreakSoulCount": 16,
+   "limitBreakGold": 80000
+  },
+  {
+   "characterLimitBreakGroupIndex": 617,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 17,
+   "limitBreakSoulCount": 17,
+   "limitBreakGold": 85000
+  },
+  {
+   "characterLimitBreakGroupIndex": 618,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 18,
+   "limitBreakSoulCount": 18,
+   "limitBreakGold": 90000
+  },
+  {
+   "characterLimitBreakGroupIndex": 619,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 19,
+   "limitBreakSoulCount": 19,
+   "limitBreakGold": 95000
+  },
+  {
+   "characterLimitBreakGroupIndex": 620,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 20,
+   "limitBreakSoulCount": 20,
+   "limitBreakGold": 100000
+  },
+  {
+   "characterLimitBreakGroupIndex": 621,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 21,
+   "limitBreakSoulCount": 21,
+   "limitBreakGold": 105000
+  },
+  {
+   "characterLimitBreakGroupIndex": 622,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 22,
+   "limitBreakSoulCount": 22,
+   "limitBreakGold": 110000
+  },
+  {
+   "characterLimitBreakGroupIndex": 623,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 23,
+   "limitBreakSoulCount": 23,
+   "limitBreakGold": 115000
+  },
+  {
+   "characterLimitBreakGroupIndex": 624,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 24,
+   "limitBreakSoulCount": 24,
+   "limitBreakGold": 120000
+  },
+  {
+   "characterLimitBreakGroupIndex": 625,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 25,
+   "limitBreakSoulCount": 25,
+   "limitBreakGold": 125000
+  },
+  {
+   "characterLimitBreakGroupIndex": 626,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 26,
+   "limitBreakSoulCount": 26,
+   "limitBreakGold": 130000
+  },
+  {
+   "characterLimitBreakGroupIndex": 627,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 27,
+   "limitBreakSoulCount": 27,
+   "limitBreakGold": 135000
+  },
+  {
+   "characterLimitBreakGroupIndex": 628,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 28,
+   "limitBreakSoulCount": 28,
+   "limitBreakGold": 140000
+  },
+  {
+   "characterLimitBreakGroupIndex": 629,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 29,
+   "limitBreakSoulCount": 29,
+   "limitBreakGold": 145000
+  },
+  {
+   "characterLimitBreakGroupIndex": 630,
+   "characterLimitBreakGroup": 6,
+   "limitBreakLv": 30,
+   "limitBreakSoulCount": 30,
+   "limitBreakGold": 150000
+  }
+ ]
+}
