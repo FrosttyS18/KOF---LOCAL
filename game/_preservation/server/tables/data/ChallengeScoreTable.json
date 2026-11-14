@@ -1,0 +1,275 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "challengeScoreIndex": 11,
+   "challengeScoreGroup": 1,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620011,
+   "scoreRewardDisplayGroup": 94620011,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 12,
+   "challengeScoreGroup": 1,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620012,
+   "scoreRewardDisplayGroup": 94620012,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 13,
+   "challengeScoreGroup": 1,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620013,
+   "scoreRewardDisplayGroup": 94620013,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 21,
+   "challengeScoreGroup": 2,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620021,
+   "scoreRewardDisplayGroup": 94620021,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 22,
+   "challengeScoreGroup": 2,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620022,
+   "scoreRewardDisplayGroup": 94620022,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 23,
+   "challengeScoreGroup": 2,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620023,
+   "scoreRewardDisplayGroup": 94620023,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 31,
+   "challengeScoreGroup": 3,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620031,
+   "scoreRewardDisplayGroup": 94620031,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 32,
+   "challengeScoreGroup": 3,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620032,
+   "scoreRewardDisplayGroup": 94620032,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 33,
+   "challengeScoreGroup": 3,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620033,
+   "scoreRewardDisplayGroup": 94620033,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 41,
+   "challengeScoreGroup": 4,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620041,
+   "scoreRewardDisplayGroup": 94620041,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 42,
+   "challengeScoreGroup": 4,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620042,
+   "scoreRewardDisplayGroup": 94620042,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 43,
+   "challengeScoreGroup": 4,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620043,
+   "scoreRewardDisplayGroup": 94620043,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 51,
+   "challengeScoreGroup": 5,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620051,
+   "scoreRewardDisplayGroup": 94620051,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 52,
+   "challengeScoreGroup": 5,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620052,
+   "scoreRewardDisplayGroup": 94620052,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 53,
+   "challengeScoreGroup": 5,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620053,
+   "scoreRewardDisplayGroup": 94620053,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 61,
+   "challengeScoreGroup": 6,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620061,
+   "scoreRewardDisplayGroup": 94620061,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 62,
+   "challengeScoreGroup": 6,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620062,
+   "scoreRewardDisplayGroup": 94620062,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 63,
+   "challengeScoreGroup": 6,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620063,
+   "scoreRewardDisplayGroup": 94620063,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 71,
+   "challengeScoreGroup": 7,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620071,
+   "scoreRewardDisplayGroup": 94620071,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 72,
+   "challengeScoreGroup": 7,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620072,
+   "scoreRewardDisplayGroup": 94620072,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 73,
+   "challengeScoreGroup": 7,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620073,
+   "scoreRewardDisplayGroup": 94620073,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 81,
+   "challengeScoreGroup": 8,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620081,
+   "scoreRewardDisplayGroup": 94620081,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 82,
+   "challengeScoreGroup": 8,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620082,
+   "scoreRewardDisplayGroup": 94620082,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 83,
+   "challengeScoreGroup": 8,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620083,
+   "scoreRewardDisplayGroup": 94620083,
+   "challengeGrade": 3
+  },
+  {
+   "challengeScoreIndex": 91,
+   "challengeScoreGroup": 9,
+   "needTime": 300,
+   "needTimeDescTag1": "Challenge.Mission.1",
+   "needTimeDescTag2": "Challenge.MissionShort.1",
+   "scoreRewardGroup": 94620091,
+   "scoreRewardDisplayGroup": 94620091,
+   "challengeGrade": 1
+  },
+  {
+   "challengeScoreIndex": 92,
+   "challengeScoreGroup": 9,
+   "needTime": 180,
+   "needTimeDescTag1": "Challenge.Mission.2",
+   "needTimeDescTag2": "Challenge.MissionShort.2",
+   "scoreRewardGroup": 94620092,
+   "scoreRewardDisplayGroup": 94620092,
+   "challengeGrade": 2
+  },
+  {
+   "challengeScoreIndex": 93,
+   "challengeScoreGroup": 9,
+   "needTime": 120,
+   "needTimeDescTag1": "Challenge.Mission.3",
+   "needTimeDescTag2": "Challenge.MissionShort.3",
+   "scoreRewardGroup": 94620093,
+   "scoreRewardDisplayGroup": 94620093,
+   "challengeGrade": 3
+  }
+ ]
+}

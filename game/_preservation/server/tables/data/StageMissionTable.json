@@ -184,6 +184,61 @@
    "missionConditionValue3": 20,
    "missionCheckType": 3,
    "missionCompleteRewardGroup": 4100033
+  },
+  {
+   "stageMissionIndex": 9500100,
+   "stageMissionIndexString": "StoryMission_9500100",
+   "stageMissionNameTag": "StageMission.Name.9500100",
+   "missionType": 3,
+   "missionConditionValue3": 1,
+   "missionCompleteRewardGroup": 9600001,
+   "missionCheckType": 2
+  },
+  {
+   "stageMissionIndex": 9502010,
+   "stageMissionIndexString": "StoryMission_9502010",
+   "stageMissionNameTag": "StageMission.Name.9502010",
+   "missionType": 18,
+   "missionConditionValue3": 10,
+   "missionCompleteRewardGroup": 9600001,
+   "missionCheckType": 3
+  },
+  {
+   "stageMissionIndex": 9503001,
+   "stageMissionIndexString": "StoryMission_9503001",
+   "stageMissionNameTag": "StageMission.Name.9503001",
+   "missionType": 14,
+   "missionConditionValue1": 1,
+   "missionConditionValue3": 1,
+   "missionCompleteRewardGroup": 9600001,
+   "missionCheckType": 3
+  },
+  {
+   "stageMissionIndex": 9511090,
+   "stageMissionIndexString": "StoryMission_9511090",
+   "stageMissionNameTag": "StageMission.Name.9511090",
+   "missionType": 2,
+   "missionConditionValue3": 90,
+   "missionCompleteRewardGroup": 9610050,
+   "missionCheckType": 2
+  },
+  {
+   "stageMissionIndex": 9511105,
+   "stageMissionIndexString": "StoryMission_9511105",
+   "stageMissionNameTag": "StageMission.Name.9511105",
+   "missionType": 2,
+   "missionConditionValue3": 105,
+   "missionCompleteRewardGroup": 9610050,
+   "missionCheckType": 2
+  },
+  {
+   "stageMissionIndex": 9511120,
+   "stageMissionIndexString": "StoryMission_9511120",
+   "stageMissionNameTag": "StageMission.Name.9511120",
+   "missionType": 2,
+   "missionConditionValue3": 120,
+   "missionCompleteRewardGroup": 9610050,
+   "missionCheckType": 2
   }
  ]
 }

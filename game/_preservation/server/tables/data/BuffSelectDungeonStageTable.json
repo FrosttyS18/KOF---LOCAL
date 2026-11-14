@@ -1,0 +1,305 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "stageIndex": 1,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810101
+  },
+  {
+   "stageIndex": 2,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810102
+  },
+  {
+   "stageIndex": 3,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810103
+  },
+  {
+   "stageIndex": 4,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810104
+  },
+  {
+   "stageIndex": 5,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810105
+  },
+  {
+   "stageIndex": 6,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810106
+  },
+  {
+   "stageIndex": 7,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810107
+  },
+  {
+   "stageIndex": 8,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810108
+  },
+  {
+   "stageIndex": 9,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810109
+  },
+  {
+   "stageIndex": 10,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810110
+  },
+  {
+   "stageIndex": 11,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810111
+  },
+  {
+   "stageIndex": 12,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810112
+  },
+  {
+   "stageIndex": 13,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810113
+  },
+  {
+   "stageIndex": 14,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810114
+  },
+  {
+   "stageIndex": 15,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810115
+  },
+  {
+   "stageIndex": 16,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810116
+  },
+  {
+   "stageIndex": 17,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810117
+  },
+  {
+   "stageIndex": 18,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810118
+  },
+  {
+   "stageIndex": 19,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810119
+  },
+  {
+   "stageIndex": 20,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810120
+  },
+  {
+   "stageIndex": 21,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810121
+  },
+  {
+   "stageIndex": 22,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810122
+  },
+  {
+   "stageIndex": 23,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810123
+  },
+  {
+   "stageIndex": 24,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810124
+  },
+  {
+   "stageIndex": 25,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810125
+  },
+  {
+   "stageIndex": 26,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810126
+  },
+  {
+   "stageIndex": 27,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810127
+  },
+  {
+   "stageIndex": 28,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810128
+  },
+  {
+   "stageIndex": 29,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810129
+  },
+  {
+   "stageIndex": 30,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810130
+  },
+  {
+   "stageIndex": 31,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810131
+  },
+  {
+   "stageIndex": 32,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810132
+  },
+  {
+   "stageIndex": 33,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810133
+  },
+  {
+   "stageIndex": 34,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810134
+  },
+  {
+   "stageIndex": 35,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810135
+  },
+  {
+   "stageIndex": 36,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810136
+  },
+  {
+   "stageIndex": 37,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810137
+  },
+  {
+   "stageIndex": 38,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810138
+  },
+  {
+   "stageIndex": 39,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810139
+  },
+  {
+   "stageIndex": 40,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810140
+  },
+  {
+   "stageIndex": 41,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810141
+  },
+  {
+   "stageIndex": 42,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810142
+  },
+  {
+   "stageIndex": 43,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810143
+  },
+  {
+   "stageIndex": 44,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810144
+  },
+  {
+   "stageIndex": 45,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810145
+  },
+  {
+   "stageIndex": 46,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810146
+  },
+  {
+   "stageIndex": 47,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810147
+  },
+  {
+   "stageIndex": 48,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810148
+  },
+  {
+   "stageIndex": 49,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810149
+  },
+  {
+   "stageIndex": 50,
+   "buffValue": 3,
+   "buffLevel": 1,
+   "questEventStageIndex": 810150
+  }
+ ]
+}

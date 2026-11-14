@@ -1,0 +1,185 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "dungeonBuffIndex": 1001,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000001",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1002,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000002",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1003,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000003",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1004,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000004",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1005,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000005",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1006,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000006",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1007,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000007",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1008,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 2,
+   "buffCharacterType": 1,
+   "buffIndex": "64000008",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1009,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 2,
+   "buffCharacterType": 2,
+   "buffIndex": "64000009",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1010,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 2,
+   "buffCharacterType": 3,
+   "buffIndex": "64000010",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1011,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 3,
+   "buffCharacterType": 1,
+   "buffIndex": "64000011",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1012,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 3,
+   "buffCharacterType": 2,
+   "buffIndex": "64000012",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1013,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 3,
+   "buffCharacterType": 3,
+   "buffIndex": "64000013",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1014,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 3,
+   "buffCharacterType": 4,
+   "buffIndex": "64000014",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 1015,
+   "buffGroup": 1,
+   "buffRate": 100,
+   "buffMainType": 3,
+   "buffSubType": 3,
+   "buffCharacterType": 5,
+   "buffIndex": "64000015",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 2001,
+   "buffGroup": 2,
+   "buffRate": 100,
+   "buffMainType": 2,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000101",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 2002,
+   "buffGroup": 2,
+   "buffRate": 100,
+   "buffMainType": 2,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000102",
+   "buffStageGroup": 1
+  },
+  {
+   "dungeonBuffIndex": 2003,
+   "buffGroup": 2,
+   "buffRate": 100,
+   "buffMainType": 2,
+   "buffSubType": 1,
+   "buffCharacterType": 0,
+   "buffIndex": "64000103",
+   "buffStageGroup": 1
+  }
+ ]
+}

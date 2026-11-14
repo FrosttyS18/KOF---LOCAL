@@ -843,6 +843,11 @@ DUNGEON_CATEGORY, GROWTH_DUNGEON, ALWAYS_OPEN = 2, 2, 1
 DUNGEON_SCHEDULES = [3201, 3101, 3301, 3302, 3303, 3304, 3305, 3501,
                      106]   # Tower of Trials: QuestEventGroup.IsToday -> ScheduleTableData -> DungeonController.IsOpenDungeon(2, 106);
                             # without it BATTLE stopped at "SpecialQuest Notice UseContent" (UIView_StoryStageInfo.PlayEventQuest)
+# Transcendence Dungeon (real mobile tables, tools/import_dungeons.py): Hall of Elements 41001-41005
+# (questEventType 10) + Advent 42001-42006 (type 2). EDungeonType: type 3 keeps its Growth banner
+# (SubCategory 2); Advent and Hall of Elements are Event banners (SubCategory 3, Advent SubGroup [1]).
+TRANSCEND_QES = (41001, 41002, 41003, 41004, 41005, 42001, 42002, 42003, 42004, 42005, 42006)
+EVENT_DUNGEON = 3
 # The Gold Dungeon (questEventSubType 31, tools/gen_dungeon.py): its pot is the StageDropTable row's stageDropGoldMax,
 # where the client ends the run ("a fixed amount of gold", the fan guide). questEventStart hands out gold pools; the
 # client splits each over the actors it counts in the stage script (DropItemManager.MakeGoldData: Jaco = the script's
@@ -874,10 +879,18 @@ def apply_rank_up(state, before):
 
 
 def dungeon_schedules():
-    return [apidefaults.default("OperateSchedule", Version=1, Category=DUNGEON_CATEGORY, SubCategory=GROWTH_DUNGEON,
-                                Index=i, Detail=apidefaults.default("OperateScheduleData", SubGroup=[i],
-                                                                    OffOnSched=ALWAYS_OPEN))
-            for i in DUNGEON_SCHEDULES]
+    types = {r["questEventIndex"]: int(r.get("questEventType") or 0) for r in table_rows("QuestEventTable")}
+    out = [apidefaults.default("OperateSchedule", Version=1, Category=DUNGEON_CATEGORY, SubCategory=GROWTH_DUNGEON,
+                               Index=i, Detail=apidefaults.default("OperateScheduleData", SubGroup=[i],
+                                                                   OffOnSched=ALWAYS_OPEN))
+           for i in DUNGEON_SCHEDULES]
+    out += [apidefaults.default("OperateSchedule", Version=1, Category=DUNGEON_CATEGORY,
+                                SubCategory=GROWTH_DUNGEON if types.get(i) == 3 else EVENT_DUNGEON, Index=i,
+                                Detail=apidefaults.default("OperateScheduleData",
+                                                           SubGroup=[1] if types.get(i) == 2 else [],
+                                                           OffOnSched=ALWAYS_OPEN))
+            for i in TRANSCEND_QES]
+    return out
 
 
 @api("session/poll")         # before sign-in (PollCateg "new user"); player/poll "first" follows at sign-in
@@ -913,14 +926,16 @@ def quest_event_stage(state, row):
 
 @api("questEvent/questEventList")
 def quest_event_list(req):
-    """Stage states of the quest events: the stages the account has played (no entry = never played -> NEW!)."""
+    """Stage states of the quest events: the stages the account has played (no entry = never played -> NEW!).
+    The Transcendence stages are always sent: a stage the server never lists reads as locked."""
     log_story("questEventList", req)
     state = load_state() or {}
     played = state.get("questEventStages", {})
     return ok(QuestEventList=[apidefaults.default("QuestEventWEBData", QuestEventIndex=r["questEventIndex"])
                               for r in table_rows("QuestEventTable")],
               QuestEventStageList=[quest_event_stage(state, r) for r in table_rows("QuestEventStageTable")
-                                   if str(r["questEventStageIndex"]) in played])
+                                   if str(r["questEventStageIndex"]) in played
+                                   or int(r.get("questEventIndex") or 0) in TRANSCEND_QES])
 
 
 @api("questEvent/questEventStart")
@@ -4135,3 +4150,8 @@ import ext_plugins   # noqa: E402  UE/EX plugins (equipment/*, character/equipme
 import ext_pluginplant  # noqa: E402  Plugin Plant (equipmentDungeon/*: 5 colour plants, tier runs, plugin drops)
 import ext_strikers  # noqa: E402  striker link gold / EXP payout on stage ends
 import ext_corecost  # noqa: E402  core board spots cost cores (+ one-time core stock)
+import ext_phantom   # noqa: E402  Tower of Illusion (QuestEvent 107, questEvent/phantomTower*)
+import ext_sura      # noqa: E402  Sura Dungeon (QuestEvent 10801, suraDungeon/*)
+import ext_prove     # noqa: E402  Prove / Dungeon of Trials (QuestEvent 10901, proveDungeon/*)
+import ext_timeattack  # noqa: E402  Time Attack (challenge/*, ChallengeScheduleTable)
+import ext_buffselect  # noqa: E402  Buff Select Dungeon (QuestEvent 8101, questEvent/buffDungeon*)

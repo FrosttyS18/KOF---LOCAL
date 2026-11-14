@@ -1,0 +1,13 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "challengeEntryIndex": 1,
+   "entryFighterMax": 3,
+   "battleType": 1,
+   "challengeFighterFormationType": 1,
+   "entryFighterSuggestionMax": 3,
+   "entryDetailDescTag1": "Challenge.EntryDetail.1"
+  }
+ ]
+}

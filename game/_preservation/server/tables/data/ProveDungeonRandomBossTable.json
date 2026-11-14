@@ -1,0 +1,3155 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "randomBossIndex": 1,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_5153",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 2,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_10232",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 3,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_11209",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 4,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_13190",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 5,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20001",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 6,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20002",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 7,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20003",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 8,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20004",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 9,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20005",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 10,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20006",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 11,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20007",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 12,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20008",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 13,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20009",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 14,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20010",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 15,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20011",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 16,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20012",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 17,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20013",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 18,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20014",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 19,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20015",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 20,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20016",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 21,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20017",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 22,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20018",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 23,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20019",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 24,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20020",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 25,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20021",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 26,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20022",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 27,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20023",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 28,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20024",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 29,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20025",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 30,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20026",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 31,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20027",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 32,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20028",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 33,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20029",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 34,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20030",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 35,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20031",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 36,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20032",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 37,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20033",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 38,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20034",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 39,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20035",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 40,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20036",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 41,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20037",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 42,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20038",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 43,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20039",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 44,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20040",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 45,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20041",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 46,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20042",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 47,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20043",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 48,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20044",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 49,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20045",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 50,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20046",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 51,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20047",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 52,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20048",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 53,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20049",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 54,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20050",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 55,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20051",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 56,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20052",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 57,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20053",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 58,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20054",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 59,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20055",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 60,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20056",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 61,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20057",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 62,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20058",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 63,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20059",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 64,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20060",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 65,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20061",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 66,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20062",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 67,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20063",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 68,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20064",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 69,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20065",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 70,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20066",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 71,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20067",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 72,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20068",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 73,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20069",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 74,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20070",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 75,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20071",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 76,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20072",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 77,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20073",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 78,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20074",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 79,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20075",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 80,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20076",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 81,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20077",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 82,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20078",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 83,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20079",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 84,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20080",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 85,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20081",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 86,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20082",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 87,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20083",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 88,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20084",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 89,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20085",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 90,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20086",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 91,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20087",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 92,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20088",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 93,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20089",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 94,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20090",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 95,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20091",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 96,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20092",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 97,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20093",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 98,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20094",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 99,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20095",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 100,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20096",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 101,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20097",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 102,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20098",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 103,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20099",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 104,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20100",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 105,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20101",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 106,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20102",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 107,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20103",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 108,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20104",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 109,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20105",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 110,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20106",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 111,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20107",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 112,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20108",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 113,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20109",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 114,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20110",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 115,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20111",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 116,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20112",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 117,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20114",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 118,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20115",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 119,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20116",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 120,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20117",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 121,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20118",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 122,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20119",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 123,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20120",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 124,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20121",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 125,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20122",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 126,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20123",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 127,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20124",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 128,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20125",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 129,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20126",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 130,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20127",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 131,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20128",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 132,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20129",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 133,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20130",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 134,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20131",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 135,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20132",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 136,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20133",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 137,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20134",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 138,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20135",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 139,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20136",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 140,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20138",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 141,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20139",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 142,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20140",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 143,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20141",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 144,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20142",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 145,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20143",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 146,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20144",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 147,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20145",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 148,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20146",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 149,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20147",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 150,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20148",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 151,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20149",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 152,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20150",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 153,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20151",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 154,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20152",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 155,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20153",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 156,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20154",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 157,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20155",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 158,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20156",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 159,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20157",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 160,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20158",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 161,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20159",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 162,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20160",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 163,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20161",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 164,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20162",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 165,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20163",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 166,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20164",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 167,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20165",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 168,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20166",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 169,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20167",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 170,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20168",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 171,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20169",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 172,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20170",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 173,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20171",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 174,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20172",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 175,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20173",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 176,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20174",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 177,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20175",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 178,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20176",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 179,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20177",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 180,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20178",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 181,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20179",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 182,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20180",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 183,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20181",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 184,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20182",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 185,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20183",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 186,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20184",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 187,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20185",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 188,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20186",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 189,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20187",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 190,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20188",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 191,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20189",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 192,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20190",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 193,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20191",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 194,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20192",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 195,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20193",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 196,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20194",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 197,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20195",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 198,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20196",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 199,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20197",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 200,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20198",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 201,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20199",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 202,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20200",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 203,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20201",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 204,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20202",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 205,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20203",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 206,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20204",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 207,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20205",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 208,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20206",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 209,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20207",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 210,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20208",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 211,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20209",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 212,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20210",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 213,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20211",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 214,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20212",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 215,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20213",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 216,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20214",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 217,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20215",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 218,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20216",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 219,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20217",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 220,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20218",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 221,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20219",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 222,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20220",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 223,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20221",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 224,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20222",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 225,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20223",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 226,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20224",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 227,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20225",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 228,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20226",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 229,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20227",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 230,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20228",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 231,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20229",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 232,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20230",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 233,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20231",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 234,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20232",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 235,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20233",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 236,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20234",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 237,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20235",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 238,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20236",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 239,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20237",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 240,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20238",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 241,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20239",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 242,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20240",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 243,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20241",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 244,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20242",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 245,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20243",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 246,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20244",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 247,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20245",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 248,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20246",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 249,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20247",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 250,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20248",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 251,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20249",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 252,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20250",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 253,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20251",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 254,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20252",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 255,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20253",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 256,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20254",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 257,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20255",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 258,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20256",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 259,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20257",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 260,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20258",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 261,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20259",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 262,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20260",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 263,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20261",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 264,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20262",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 265,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20263",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 266,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20264",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 267,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20265",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 268,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20266",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 269,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20267",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 270,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20268",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 271,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20269",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 272,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20270",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 273,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20271",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 274,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20272",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 275,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20273",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 276,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20274",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 277,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20275",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 278,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20276",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 279,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20277",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 280,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20278",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 281,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20279",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 282,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20280",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 283,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20281",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 284,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20282",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 285,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20283",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 286,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20284",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 287,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20285",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 288,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20286",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 289,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20287",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 290,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20288",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 291,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20289",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 292,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20290",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 293,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20291",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 294,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20292",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 295,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20293",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 296,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20294",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 297,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20295",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 298,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20296",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 299,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20297",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 300,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20299",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 301,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20300",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 302,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20301",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 303,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20302",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 304,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20303",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 305,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20304",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 306,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20305",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 307,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20306",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 308,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20307",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 309,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20308",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 310,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20309",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 311,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20310",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 312,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20311",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 313,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20312",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 314,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20313",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 315,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20314",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 316,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20315",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 317,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20316",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 318,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20317",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 319,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20318",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 320,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20319",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 321,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20320",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 322,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20321",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 323,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20322",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 324,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20323",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 325,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20324",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 326,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20325",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 327,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20326",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 328,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20327",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 329,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20328",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 330,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20329",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 331,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20330",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 332,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20331",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 333,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20332",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 334,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20333",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 335,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20334",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 336,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20335",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 337,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20336",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 338,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20337",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 339,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20338",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 340,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20339",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 341,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20340",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 342,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20341",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 343,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20342",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 344,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20343",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 345,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20344",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 346,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20345",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 347,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20346",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 348,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20347",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 349,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20348",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 350,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20349",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 351,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20350",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 352,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20351",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 353,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20352",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 354,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20353",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 355,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20354",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 356,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20355",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 357,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20356",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 358,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20357",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 359,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20358",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 360,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20359",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 361,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20360",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 362,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20361",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 363,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20362",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 364,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20363",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 365,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20364",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 366,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20365",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 367,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20366",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 368,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20367",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 369,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20368",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 370,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20369",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 371,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20370",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 372,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20371",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 373,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20372",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 374,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20373",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 375,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20374",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 376,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20375",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 377,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20376",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 378,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20377",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 379,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20378",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 380,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20379",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 381,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20380",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 382,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20381",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 383,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20382",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 384,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20383",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 385,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20384",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 386,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20385",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 387,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20386",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 388,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20387",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 389,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20388",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 390,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20389",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 391,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20390",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 392,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20391",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 393,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20392",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 394,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20393",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 395,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20394",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 396,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20395",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 397,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20396",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 398,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20397",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 399,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20398",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 400,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20399",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 401,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20400",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 402,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20401",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 403,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20402",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 404,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20403",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 405,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20404",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 406,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20405",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 407,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20406",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 408,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20407",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 409,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20408",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 410,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20409",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 411,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20410",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 412,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20411",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 413,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20412",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 414,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20413",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 415,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20414",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 416,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20415",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 417,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20416",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 418,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20417",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 419,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20418",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 420,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20419",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 421,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20420",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 422,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20421",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 423,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20422",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 424,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20423",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 425,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20424",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 426,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20425",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 427,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20426",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 428,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20427",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 429,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20428",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 430,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20429",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 431,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_20430",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 432,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20431",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 433,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20432",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 434,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20433",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 435,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20434",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 436,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20435",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 437,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20436",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 438,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20437",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 439,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20438",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 440,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20451",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 441,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20452",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 442,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_20453",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 443,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_42142",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 444,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_43149",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 445,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_46285",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 446,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_47285",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 447,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_57314",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 448,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 2,
+   "randomBossStringIndex": "ProveBoss_58200",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 449,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_60320",
+   "randomBossCoreLevel": 0
+  },
+  {
+   "randomBossIndex": 450,
+   "randomBossGroupIndex": 1,
+   "randomBossTier": 1,
+   "randomBossStringIndex": "ProveBoss_70238",
+   "randomBossCoreLevel": 0
+  }
+ ]
+}

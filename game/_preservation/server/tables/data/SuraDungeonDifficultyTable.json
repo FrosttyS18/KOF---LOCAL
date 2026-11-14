@@ -1,0 +1,37 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "suraDungeonDifficultyIndex": 1,
+   "questEventIndex": 10801,
+   "difficultyIndex": 1,
+   "suraDungeonUnLockDifficultyIndex": 0,
+   "suraDungeonMopUpRewardIndex": 93930001,
+   "suraDungeonDifficultyNameTag": "Sura.Difficulty.Name.1"
+  },
+  {
+   "suraDungeonDifficultyIndex": 2,
+   "questEventIndex": 10801,
+   "difficultyIndex": 2,
+   "suraDungeonUnLockDifficultyIndex": 1,
+   "suraDungeonMopUpRewardIndex": 93930002,
+   "suraDungeonDifficultyNameTag": "Sura.Difficulty.Name.2"
+  },
+  {
+   "suraDungeonDifficultyIndex": 3,
+   "questEventIndex": 10801,
+   "difficultyIndex": 3,
+   "suraDungeonUnLockDifficultyIndex": 2,
+   "suraDungeonMopUpRewardIndex": 93930003,
+   "suraDungeonDifficultyNameTag": "Sura.Difficulty.Name.3"
+  },
+  {
+   "suraDungeonDifficultyIndex": 4,
+   "questEventIndex": 10801,
+   "difficultyIndex": 4,
+   "suraDungeonUnLockDifficultyIndex": 3,
+   "suraDungeonMopUpRewardIndex": 93930004,
+   "suraDungeonDifficultyNameTag": "Sura.Difficulty.Name.4"
+  }
+ ]
+}

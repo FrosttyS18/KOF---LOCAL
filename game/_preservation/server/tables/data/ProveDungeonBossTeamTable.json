@@ -1,0 +1,3155 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "bossTeamIndex": 1,
+   "bossTeamStringIndex": 5153,
+   "bossTeamStrikerIndex": 20004,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_5153"
+  },
+  {
+   "bossTeamIndex": 2,
+   "bossTeamStringIndex": 10232,
+   "bossTeamStrikerIndex": 20011,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_10232"
+  },
+  {
+   "bossTeamIndex": 3,
+   "bossTeamStringIndex": 11209,
+   "bossTeamStrikerIndex": 20018,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_11209"
+  },
+  {
+   "bossTeamIndex": 4,
+   "bossTeamStringIndex": 13190,
+   "bossTeamStrikerIndex": 20025,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_13190"
+  },
+  {
+   "bossTeamIndex": 5,
+   "bossTeamStringIndex": 20001,
+   "bossTeamStrikerIndex": 20032,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20001"
+  },
+  {
+   "bossTeamIndex": 6,
+   "bossTeamStringIndex": 20002,
+   "bossTeamStrikerIndex": 20039,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20002"
+  },
+  {
+   "bossTeamIndex": 7,
+   "bossTeamStringIndex": 20003,
+   "bossTeamStrikerIndex": 20046,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20003"
+  },
+  {
+   "bossTeamIndex": 8,
+   "bossTeamStringIndex": 20004,
+   "bossTeamStrikerIndex": 20053,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20004"
+  },
+  {
+   "bossTeamIndex": 9,
+   "bossTeamStringIndex": 20005,
+   "bossTeamStrikerIndex": 20060,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20005"
+  },
+  {
+   "bossTeamIndex": 10,
+   "bossTeamStringIndex": 20006,
+   "bossTeamStrikerIndex": 20067,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20006"
+  },
+  {
+   "bossTeamIndex": 11,
+   "bossTeamStringIndex": 20007,
+   "bossTeamStrikerIndex": 20074,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20007"
+  },
+  {
+   "bossTeamIndex": 12,
+   "bossTeamStringIndex": 20008,
+   "bossTeamStrikerIndex": 20081,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20008"
+  },
+  {
+   "bossTeamIndex": 13,
+   "bossTeamStringIndex": 20009,
+   "bossTeamStrikerIndex": 20088,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20009"
+  },
+  {
+   "bossTeamIndex": 14,
+   "bossTeamStringIndex": 20010,
+   "bossTeamStrikerIndex": 20095,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20010"
+  },
+  {
+   "bossTeamIndex": 15,
+   "bossTeamStringIndex": 20011,
+   "bossTeamStrikerIndex": 20102,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20011"
+  },
+  {
+   "bossTeamIndex": 16,
+   "bossTeamStringIndex": 20012,
+   "bossTeamStrikerIndex": 20109,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20012"
+  },
+  {
+   "bossTeamIndex": 17,
+   "bossTeamStringIndex": 20013,
+   "bossTeamStrikerIndex": 20117,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20013"
+  },
+  {
+   "bossTeamIndex": 18,
+   "bossTeamStringIndex": 20014,
+   "bossTeamStrikerIndex": 20124,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20014"
+  },
+  {
+   "bossTeamIndex": 19,
+   "bossTeamStringIndex": 20015,
+   "bossTeamStrikerIndex": 20131,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20015"
+  },
+  {
+   "bossTeamIndex": 20,
+   "bossTeamStringIndex": 20016,
+   "bossTeamStrikerIndex": 20139,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20016"
+  },
+  {
+   "bossTeamIndex": 21,
+   "bossTeamStringIndex": 20017,
+   "bossTeamStrikerIndex": 20146,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20017"
+  },
+  {
+   "bossTeamIndex": 22,
+   "bossTeamStringIndex": 20018,
+   "bossTeamStrikerIndex": 20153,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20018"
+  },
+  {
+   "bossTeamIndex": 23,
+   "bossTeamStringIndex": 20019,
+   "bossTeamStrikerIndex": 20160,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20019"
+  },
+  {
+   "bossTeamIndex": 24,
+   "bossTeamStringIndex": 20020,
+   "bossTeamStrikerIndex": 20167,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20020"
+  },
+  {
+   "bossTeamIndex": 25,
+   "bossTeamStringIndex": 20021,
+   "bossTeamStrikerIndex": 20174,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20021"
+  },
+  {
+   "bossTeamIndex": 26,
+   "bossTeamStringIndex": 20022,
+   "bossTeamStrikerIndex": 20181,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20022"
+  },
+  {
+   "bossTeamIndex": 27,
+   "bossTeamStringIndex": 20023,
+   "bossTeamStrikerIndex": 20188,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20023"
+  },
+  {
+   "bossTeamIndex": 28,
+   "bossTeamStringIndex": 20024,
+   "bossTeamStrikerIndex": 20195,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20024"
+  },
+  {
+   "bossTeamIndex": 29,
+   "bossTeamStringIndex": 20025,
+   "bossTeamStrikerIndex": 20202,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20025"
+  },
+  {
+   "bossTeamIndex": 30,
+   "bossTeamStringIndex": 20026,
+   "bossTeamStrikerIndex": 20209,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20026"
+  },
+  {
+   "bossTeamIndex": 31,
+   "bossTeamStringIndex": 20027,
+   "bossTeamStrikerIndex": 20216,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20027"
+  },
+  {
+   "bossTeamIndex": 32,
+   "bossTeamStringIndex": 20028,
+   "bossTeamStrikerIndex": 20223,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20028"
+  },
+  {
+   "bossTeamIndex": 33,
+   "bossTeamStringIndex": 20029,
+   "bossTeamStrikerIndex": 20230,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20029"
+  },
+  {
+   "bossTeamIndex": 34,
+   "bossTeamStringIndex": 20030,
+   "bossTeamStrikerIndex": 20237,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20030"
+  },
+  {
+   "bossTeamIndex": 35,
+   "bossTeamStringIndex": 20031,
+   "bossTeamStrikerIndex": 20244,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20031"
+  },
+  {
+   "bossTeamIndex": 36,
+   "bossTeamStringIndex": 20032,
+   "bossTeamStrikerIndex": 20251,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20032"
+  },
+  {
+   "bossTeamIndex": 37,
+   "bossTeamStringIndex": 20033,
+   "bossTeamStrikerIndex": 20258,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20033"
+  },
+  {
+   "bossTeamIndex": 38,
+   "bossTeamStringIndex": 20034,
+   "bossTeamStrikerIndex": 20265,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20034"
+  },
+  {
+   "bossTeamIndex": 39,
+   "bossTeamStringIndex": 20035,
+   "bossTeamStrikerIndex": 20272,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20035"
+  },
+  {
+   "bossTeamIndex": 40,
+   "bossTeamStringIndex": 20036,
+   "bossTeamStrikerIndex": 20279,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20036"
+  },
+  {
+   "bossTeamIndex": 41,
+   "bossTeamStringIndex": 20037,
+   "bossTeamStrikerIndex": 20286,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20037"
+  },
+  {
+   "bossTeamIndex": 42,
+   "bossTeamStringIndex": 20038,
+   "bossTeamStrikerIndex": 20293,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20038"
+  },
+  {
+   "bossTeamIndex": 43,
+   "bossTeamStringIndex": 20039,
+   "bossTeamStrikerIndex": 20301,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20039"
+  },
+  {
+   "bossTeamIndex": 44,
+   "bossTeamStringIndex": 20040,
+   "bossTeamStrikerIndex": 20308,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20040"
+  },
+  {
+   "bossTeamIndex": 45,
+   "bossTeamStringIndex": 20041,
+   "bossTeamStrikerIndex": 20315,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20041"
+  },
+  {
+   "bossTeamIndex": 46,
+   "bossTeamStringIndex": 20042,
+   "bossTeamStrikerIndex": 20322,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20042"
+  },
+  {
+   "bossTeamIndex": 47,
+   "bossTeamStringIndex": 20043,
+   "bossTeamStrikerIndex": 20329,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20043"
+  },
+  {
+   "bossTeamIndex": 48,
+   "bossTeamStringIndex": 20044,
+   "bossTeamStrikerIndex": 20336,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20044"
+  },
+  {
+   "bossTeamIndex": 49,
+   "bossTeamStringIndex": 20045,
+   "bossTeamStrikerIndex": 20343,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20045"
+  },
+  {
+   "bossTeamIndex": 50,
+   "bossTeamStringIndex": 20046,
+   "bossTeamStrikerIndex": 20350,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20046"
+  },
+  {
+   "bossTeamIndex": 51,
+   "bossTeamStringIndex": 20047,
+   "bossTeamStrikerIndex": 20357,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20047"
+  },
+  {
+   "bossTeamIndex": 52,
+   "bossTeamStringIndex": 20048,
+   "bossTeamStrikerIndex": 20364,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20048"
+  },
+  {
+   "bossTeamIndex": 53,
+   "bossTeamStringIndex": 20049,
+   "bossTeamStrikerIndex": 20371,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20049"
+  },
+  {
+   "bossTeamIndex": 54,
+   "bossTeamStringIndex": 20050,
+   "bossTeamStrikerIndex": 20378,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20050"
+  },
+  {
+   "bossTeamIndex": 55,
+   "bossTeamStringIndex": 20051,
+   "bossTeamStrikerIndex": 20385,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20051"
+  },
+  {
+   "bossTeamIndex": 56,
+   "bossTeamStringIndex": 20052,
+   "bossTeamStrikerIndex": 20392,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20052"
+  },
+  {
+   "bossTeamIndex": 57,
+   "bossTeamStringIndex": 20053,
+   "bossTeamStrikerIndex": 20399,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20053"
+  },
+  {
+   "bossTeamIndex": 58,
+   "bossTeamStringIndex": 20054,
+   "bossTeamStrikerIndex": 20406,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20054"
+  },
+  {
+   "bossTeamIndex": 59,
+   "bossTeamStringIndex": 20055,
+   "bossTeamStrikerIndex": 20413,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20055"
+  },
+  {
+   "bossTeamIndex": 60,
+   "bossTeamStringIndex": 20056,
+   "bossTeamStrikerIndex": 20420,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20056"
+  },
+  {
+   "bossTeamIndex": 61,
+   "bossTeamStringIndex": 20057,
+   "bossTeamStrikerIndex": 20427,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20057"
+  },
+  {
+   "bossTeamIndex": 62,
+   "bossTeamStringIndex": 20058,
+   "bossTeamStrikerIndex": 20434,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20058"
+  },
+  {
+   "bossTeamIndex": 63,
+   "bossTeamStringIndex": 20059,
+   "bossTeamStrikerIndex": 20453,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20059"
+  },
+  {
+   "bossTeamIndex": 64,
+   "bossTeamStringIndex": 20060,
+   "bossTeamStrikerIndex": 60320,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20060"
+  },
+  {
+   "bossTeamIndex": 65,
+   "bossTeamStringIndex": 20061,
+   "bossTeamStrikerIndex": 20002,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20061"
+  },
+  {
+   "bossTeamIndex": 66,
+   "bossTeamStringIndex": 20062,
+   "bossTeamStrikerIndex": 20009,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20062"
+  },
+  {
+   "bossTeamIndex": 67,
+   "bossTeamStringIndex": 20063,
+   "bossTeamStrikerIndex": 20016,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20063"
+  },
+  {
+   "bossTeamIndex": 68,
+   "bossTeamStringIndex": 20064,
+   "bossTeamStrikerIndex": 20023,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20064"
+  },
+  {
+   "bossTeamIndex": 69,
+   "bossTeamStringIndex": 20065,
+   "bossTeamStrikerIndex": 20030,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20065"
+  },
+  {
+   "bossTeamIndex": 70,
+   "bossTeamStringIndex": 20066,
+   "bossTeamStrikerIndex": 20037,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20066"
+  },
+  {
+   "bossTeamIndex": 71,
+   "bossTeamStringIndex": 20067,
+   "bossTeamStrikerIndex": 20044,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20067"
+  },
+  {
+   "bossTeamIndex": 72,
+   "bossTeamStringIndex": 20068,
+   "bossTeamStrikerIndex": 20051,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20068"
+  },
+  {
+   "bossTeamIndex": 73,
+   "bossTeamStringIndex": 20069,
+   "bossTeamStrikerIndex": 20058,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20069"
+  },
+  {
+   "bossTeamIndex": 74,
+   "bossTeamStringIndex": 20070,
+   "bossTeamStrikerIndex": 20065,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20070"
+  },
+  {
+   "bossTeamIndex": 75,
+   "bossTeamStringIndex": 20071,
+   "bossTeamStrikerIndex": 20072,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20071"
+  },
+  {
+   "bossTeamIndex": 76,
+   "bossTeamStringIndex": 20072,
+   "bossTeamStrikerIndex": 20079,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20072"
+  },
+  {
+   "bossTeamIndex": 77,
+   "bossTeamStringIndex": 20073,
+   "bossTeamStrikerIndex": 20086,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20073"
+  },
+  {
+   "bossTeamIndex": 78,
+   "bossTeamStringIndex": 20074,
+   "bossTeamStrikerIndex": 20093,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20074"
+  },
+  {
+   "bossTeamIndex": 79,
+   "bossTeamStringIndex": 20075,
+   "bossTeamStrikerIndex": 20100,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20075"
+  },
+  {
+   "bossTeamIndex": 80,
+   "bossTeamStringIndex": 20076,
+   "bossTeamStrikerIndex": 20107,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20076"
+  },
+  {
+   "bossTeamIndex": 81,
+   "bossTeamStringIndex": 20077,
+   "bossTeamStrikerIndex": 20115,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20077"
+  },
+  {
+   "bossTeamIndex": 82,
+   "bossTeamStringIndex": 20078,
+   "bossTeamStrikerIndex": 20122,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20078"
+  },
+  {
+   "bossTeamIndex": 83,
+   "bossTeamStringIndex": 20079,
+   "bossTeamStrikerIndex": 20129,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20079"
+  },
+  {
+   "bossTeamIndex": 84,
+   "bossTeamStringIndex": 20080,
+   "bossTeamStrikerIndex": 20136,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20080"
+  },
+  {
+   "bossTeamIndex": 85,
+   "bossTeamStringIndex": 20081,
+   "bossTeamStrikerIndex": 20144,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20081"
+  },
+  {
+   "bossTeamIndex": 86,
+   "bossTeamStringIndex": 20082,
+   "bossTeamStrikerIndex": 20151,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20082"
+  },
+  {
+   "bossTeamIndex": 87,
+   "bossTeamStringIndex": 20083,
+   "bossTeamStrikerIndex": 20158,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20083"
+  },
+  {
+   "bossTeamIndex": 88,
+   "bossTeamStringIndex": 20084,
+   "bossTeamStrikerIndex": 20165,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20084"
+  },
+  {
+   "bossTeamIndex": 89,
+   "bossTeamStringIndex": 20085,
+   "bossTeamStrikerIndex": 20172,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20085"
+  },
+  {
+   "bossTeamIndex": 90,
+   "bossTeamStringIndex": 20086,
+   "bossTeamStrikerIndex": 20179,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20086"
+  },
+  {
+   "bossTeamIndex": 91,
+   "bossTeamStringIndex": 20087,
+   "bossTeamStrikerIndex": 20186,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20087"
+  },
+  {
+   "bossTeamIndex": 92,
+   "bossTeamStringIndex": 20088,
+   "bossTeamStrikerIndex": 20193,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20088"
+  },
+  {
+   "bossTeamIndex": 93,
+   "bossTeamStringIndex": 20089,
+   "bossTeamStrikerIndex": 20200,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20089"
+  },
+  {
+   "bossTeamIndex": 94,
+   "bossTeamStringIndex": 20090,
+   "bossTeamStrikerIndex": 20207,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20090"
+  },
+  {
+   "bossTeamIndex": 95,
+   "bossTeamStringIndex": 20091,
+   "bossTeamStrikerIndex": 20214,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20091"
+  },
+  {
+   "bossTeamIndex": 96,
+   "bossTeamStringIndex": 20092,
+   "bossTeamStrikerIndex": 20221,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20092"
+  },
+  {
+   "bossTeamIndex": 97,
+   "bossTeamStringIndex": 20093,
+   "bossTeamStrikerIndex": 20228,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20093"
+  },
+  {
+   "bossTeamIndex": 98,
+   "bossTeamStringIndex": 20094,
+   "bossTeamStrikerIndex": 20235,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20094"
+  },
+  {
+   "bossTeamIndex": 99,
+   "bossTeamStringIndex": 20095,
+   "bossTeamStrikerIndex": 20242,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20095"
+  },
+  {
+   "bossTeamIndex": 100,
+   "bossTeamStringIndex": 20096,
+   "bossTeamStrikerIndex": 20249,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20096"
+  },
+  {
+   "bossTeamIndex": 101,
+   "bossTeamStringIndex": 20097,
+   "bossTeamStrikerIndex": 20256,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20097"
+  },
+  {
+   "bossTeamIndex": 102,
+   "bossTeamStringIndex": 20098,
+   "bossTeamStrikerIndex": 20263,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20098"
+  },
+  {
+   "bossTeamIndex": 103,
+   "bossTeamStringIndex": 20099,
+   "bossTeamStrikerIndex": 20270,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20099"
+  },
+  {
+   "bossTeamIndex": 104,
+   "bossTeamStringIndex": 20100,
+   "bossTeamStrikerIndex": 20277,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20100"
+  },
+  {
+   "bossTeamIndex": 105,
+   "bossTeamStringIndex": 20101,
+   "bossTeamStrikerIndex": 20284,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20101"
+  },
+  {
+   "bossTeamIndex": 106,
+   "bossTeamStringIndex": 20102,
+   "bossTeamStrikerIndex": 20291,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20102"
+  },
+  {
+   "bossTeamIndex": 107,
+   "bossTeamStringIndex": 20103,
+   "bossTeamStrikerIndex": 20299,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20103"
+  },
+  {
+   "bossTeamIndex": 108,
+   "bossTeamStringIndex": 20104,
+   "bossTeamStrikerIndex": 20306,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20104"
+  },
+  {
+   "bossTeamIndex": 109,
+   "bossTeamStringIndex": 20105,
+   "bossTeamStrikerIndex": 20313,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20105"
+  },
+  {
+   "bossTeamIndex": 110,
+   "bossTeamStringIndex": 20106,
+   "bossTeamStrikerIndex": 20320,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20106"
+  },
+  {
+   "bossTeamIndex": 111,
+   "bossTeamStringIndex": 20107,
+   "bossTeamStrikerIndex": 20327,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20107"
+  },
+  {
+   "bossTeamIndex": 112,
+   "bossTeamStringIndex": 20108,
+   "bossTeamStrikerIndex": 20334,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20108"
+  },
+  {
+   "bossTeamIndex": 113,
+   "bossTeamStringIndex": 20109,
+   "bossTeamStrikerIndex": 20341,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20109"
+  },
+  {
+   "bossTeamIndex": 114,
+   "bossTeamStringIndex": 20110,
+   "bossTeamStrikerIndex": 20348,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20110"
+  },
+  {
+   "bossTeamIndex": 115,
+   "bossTeamStringIndex": 20111,
+   "bossTeamStrikerIndex": 20355,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20111"
+  },
+  {
+   "bossTeamIndex": 116,
+   "bossTeamStringIndex": 20112,
+   "bossTeamStrikerIndex": 20362,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20112"
+  },
+  {
+   "bossTeamIndex": 117,
+   "bossTeamStringIndex": 20114,
+   "bossTeamStrikerIndex": 20369,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20114"
+  },
+  {
+   "bossTeamIndex": 118,
+   "bossTeamStringIndex": 20115,
+   "bossTeamStrikerIndex": 20376,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20115"
+  },
+  {
+   "bossTeamIndex": 119,
+   "bossTeamStringIndex": 20116,
+   "bossTeamStrikerIndex": 20383,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20116"
+  },
+  {
+   "bossTeamIndex": 120,
+   "bossTeamStringIndex": 20117,
+   "bossTeamStrikerIndex": 20390,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20117"
+  },
+  {
+   "bossTeamIndex": 121,
+   "bossTeamStringIndex": 20118,
+   "bossTeamStrikerIndex": 20397,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20118"
+  },
+  {
+   "bossTeamIndex": 122,
+   "bossTeamStringIndex": 20119,
+   "bossTeamStrikerIndex": 20404,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20119"
+  },
+  {
+   "bossTeamIndex": 123,
+   "bossTeamStringIndex": 20120,
+   "bossTeamStrikerIndex": 20411,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20120"
+  },
+  {
+   "bossTeamIndex": 124,
+   "bossTeamStringIndex": 20121,
+   "bossTeamStrikerIndex": 20418,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20121"
+  },
+  {
+   "bossTeamIndex": 125,
+   "bossTeamStringIndex": 20122,
+   "bossTeamStrikerIndex": 20425,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20122"
+  },
+  {
+   "bossTeamIndex": 126,
+   "bossTeamStringIndex": 20123,
+   "bossTeamStrikerIndex": 20432,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20123"
+  },
+  {
+   "bossTeamIndex": 127,
+   "bossTeamStringIndex": 20124,
+   "bossTeamStrikerIndex": 20451,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20124"
+  },
+  {
+   "bossTeamIndex": 128,
+   "bossTeamStringIndex": 20125,
+   "bossTeamStrikerIndex": 57314,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20125"
+  },
+  {
+   "bossTeamIndex": 129,
+   "bossTeamStringIndex": 20126,
+   "bossTeamStrikerIndex": 13190,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20126"
+  },
+  {
+   "bossTeamIndex": 130,
+   "bossTeamStringIndex": 20127,
+   "bossTeamStrikerIndex": 20007,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20127"
+  },
+  {
+   "bossTeamIndex": 131,
+   "bossTeamStringIndex": 20128,
+   "bossTeamStrikerIndex": 20014,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20128"
+  },
+  {
+   "bossTeamIndex": 132,
+   "bossTeamStringIndex": 20129,
+   "bossTeamStrikerIndex": 20021,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20129"
+  },
+  {
+   "bossTeamIndex": 133,
+   "bossTeamStringIndex": 20130,
+   "bossTeamStrikerIndex": 20028,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20130"
+  },
+  {
+   "bossTeamIndex": 134,
+   "bossTeamStringIndex": 20131,
+   "bossTeamStrikerIndex": 20035,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20131"
+  },
+  {
+   "bossTeamIndex": 135,
+   "bossTeamStringIndex": 20132,
+   "bossTeamStrikerIndex": 20042,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20132"
+  },
+  {
+   "bossTeamIndex": 136,
+   "bossTeamStringIndex": 20133,
+   "bossTeamStrikerIndex": 20049,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20133"
+  },
+  {
+   "bossTeamIndex": 137,
+   "bossTeamStringIndex": 20134,
+   "bossTeamStrikerIndex": 20056,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20134"
+  },
+  {
+   "bossTeamIndex": 138,
+   "bossTeamStringIndex": 20135,
+   "bossTeamStrikerIndex": 20063,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20135"
+  },
+  {
+   "bossTeamIndex": 139,
+   "bossTeamStringIndex": 20136,
+   "bossTeamStrikerIndex": 20070,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20136"
+  },
+  {
+   "bossTeamIndex": 140,
+   "bossTeamStringIndex": 20138,
+   "bossTeamStrikerIndex": 20077,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20138"
+  },
+  {
+   "bossTeamIndex": 141,
+   "bossTeamStringIndex": 20139,
+   "bossTeamStrikerIndex": 20084,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20139"
+  },
+  {
+   "bossTeamIndex": 142,
+   "bossTeamStringIndex": 20140,
+   "bossTeamStrikerIndex": 20091,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20140"
+  },
+  {
+   "bossTeamIndex": 143,
+   "bossTeamStringIndex": 20141,
+   "bossTeamStrikerIndex": 20098,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20141"
+  },
+  {
+   "bossTeamIndex": 144,
+   "bossTeamStringIndex": 20142,
+   "bossTeamStrikerIndex": 20105,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20142"
+  },
+  {
+   "bossTeamIndex": 145,
+   "bossTeamStringIndex": 20143,
+   "bossTeamStrikerIndex": 20112,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20143"
+  },
+  {
+   "bossTeamIndex": 146,
+   "bossTeamStringIndex": 20144,
+   "bossTeamStrikerIndex": 20120,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20144"
+  },
+  {
+   "bossTeamIndex": 147,
+   "bossTeamStringIndex": 20145,
+   "bossTeamStrikerIndex": 20127,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20145"
+  },
+  {
+   "bossTeamIndex": 148,
+   "bossTeamStringIndex": 20146,
+   "bossTeamStrikerIndex": 20134,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20146"
+  },
+  {
+   "bossTeamIndex": 149,
+   "bossTeamStringIndex": 20147,
+   "bossTeamStrikerIndex": 20142,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20147"
+  },
+  {
+   "bossTeamIndex": 150,
+   "bossTeamStringIndex": 20148,
+   "bossTeamStrikerIndex": 20149,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20148"
+  },
+  {
+   "bossTeamIndex": 151,
+   "bossTeamStringIndex": 20149,
+   "bossTeamStrikerIndex": 20156,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20149"
+  },
+  {
+   "bossTeamIndex": 152,
+   "bossTeamStringIndex": 20150,
+   "bossTeamStrikerIndex": 20163,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20150"
+  },
+  {
+   "bossTeamIndex": 153,
+   "bossTeamStringIndex": 20151,
+   "bossTeamStrikerIndex": 20170,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20151"
+  },
+  {
+   "bossTeamIndex": 154,
+   "bossTeamStringIndex": 20152,
+   "bossTeamStrikerIndex": 20177,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20152"
+  },
+  {
+   "bossTeamIndex": 155,
+   "bossTeamStringIndex": 20153,
+   "bossTeamStrikerIndex": 20184,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20153"
+  },
+  {
+   "bossTeamIndex": 156,
+   "bossTeamStringIndex": 20154,
+   "bossTeamStrikerIndex": 20191,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20154"
+  },
+  {
+   "bossTeamIndex": 157,
+   "bossTeamStringIndex": 20155,
+   "bossTeamStrikerIndex": 20198,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20155"
+  },
+  {
+   "bossTeamIndex": 158,
+   "bossTeamStringIndex": 20156,
+   "bossTeamStrikerIndex": 20205,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20156"
+  },
+  {
+   "bossTeamIndex": 159,
+   "bossTeamStringIndex": 20157,
+   "bossTeamStrikerIndex": 20212,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20157"
+  },
+  {
+   "bossTeamIndex": 160,
+   "bossTeamStringIndex": 20158,
+   "bossTeamStrikerIndex": 20219,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20158"
+  },
+  {
+   "bossTeamIndex": 161,
+   "bossTeamStringIndex": 20159,
+   "bossTeamStrikerIndex": 20226,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20159"
+  },
+  {
+   "bossTeamIndex": 162,
+   "bossTeamStringIndex": 20160,
+   "bossTeamStrikerIndex": 20233,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20160"
+  },
+  {
+   "bossTeamIndex": 163,
+   "bossTeamStringIndex": 20161,
+   "bossTeamStrikerIndex": 20240,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20161"
+  },
+  {
+   "bossTeamIndex": 164,
+   "bossTeamStringIndex": 20162,
+   "bossTeamStrikerIndex": 20247,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20162"
+  },
+  {
+   "bossTeamIndex": 165,
+   "bossTeamStringIndex": 20163,
+   "bossTeamStrikerIndex": 20254,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20163"
+  },
+  {
+   "bossTeamIndex": 166,
+   "bossTeamStringIndex": 20164,
+   "bossTeamStrikerIndex": 20261,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20164"
+  },
+  {
+   "bossTeamIndex": 167,
+   "bossTeamStringIndex": 20165,
+   "bossTeamStrikerIndex": 20268,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20165"
+  },
+  {
+   "bossTeamIndex": 168,
+   "bossTeamStringIndex": 20166,
+   "bossTeamStrikerIndex": 20275,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20166"
+  },
+  {
+   "bossTeamIndex": 169,
+   "bossTeamStringIndex": 20167,
+   "bossTeamStrikerIndex": 20282,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20167"
+  },
+  {
+   "bossTeamIndex": 170,
+   "bossTeamStringIndex": 20168,
+   "bossTeamStrikerIndex": 20289,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20168"
+  },
+  {
+   "bossTeamIndex": 171,
+   "bossTeamStringIndex": 20169,
+   "bossTeamStrikerIndex": 20296,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20169"
+  },
+  {
+   "bossTeamIndex": 172,
+   "bossTeamStringIndex": 20170,
+   "bossTeamStrikerIndex": 20304,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20170"
+  },
+  {
+   "bossTeamIndex": 173,
+   "bossTeamStringIndex": 20171,
+   "bossTeamStrikerIndex": 20311,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20171"
+  },
+  {
+   "bossTeamIndex": 174,
+   "bossTeamStringIndex": 20172,
+   "bossTeamStrikerIndex": 20318,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20172"
+  },
+  {
+   "bossTeamIndex": 175,
+   "bossTeamStringIndex": 20173,
+   "bossTeamStrikerIndex": 20325,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20173"
+  },
+  {
+   "bossTeamIndex": 176,
+   "bossTeamStringIndex": 20174,
+   "bossTeamStrikerIndex": 20332,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20174"
+  },
+  {
+   "bossTeamIndex": 177,
+   "bossTeamStringIndex": 20175,
+   "bossTeamStrikerIndex": 20339,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20175"
+  },
+  {
+   "bossTeamIndex": 178,
+   "bossTeamStringIndex": 20176,
+   "bossTeamStrikerIndex": 20346,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20176"
+  },
+  {
+   "bossTeamIndex": 179,
+   "bossTeamStringIndex": 20177,
+   "bossTeamStrikerIndex": 20353,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20177"
+  },
+  {
+   "bossTeamIndex": 180,
+   "bossTeamStringIndex": 20178,
+   "bossTeamStrikerIndex": 20360,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20178"
+  },
+  {
+   "bossTeamIndex": 181,
+   "bossTeamStringIndex": 20179,
+   "bossTeamStrikerIndex": 20367,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20179"
+  },
+  {
+   "bossTeamIndex": 182,
+   "bossTeamStringIndex": 20180,
+   "bossTeamStrikerIndex": 20374,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20180"
+  },
+  {
+   "bossTeamIndex": 183,
+   "bossTeamStringIndex": 20181,
+   "bossTeamStrikerIndex": 20381,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20181"
+  },
+  {
+   "bossTeamIndex": 184,
+   "bossTeamStringIndex": 20182,
+   "bossTeamStrikerIndex": 20388,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20182"
+  },
+  {
+   "bossTeamIndex": 185,
+   "bossTeamStringIndex": 20183,
+   "bossTeamStrikerIndex": 20395,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20183"
+  },
+  {
+   "bossTeamIndex": 186,
+   "bossTeamStringIndex": 20184,
+   "bossTeamStrikerIndex": 20402,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20184"
+  },
+  {
+   "bossTeamIndex": 187,
+   "bossTeamStringIndex": 20185,
+   "bossTeamStrikerIndex": 20409,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20185"
+  },
+  {
+   "bossTeamIndex": 188,
+   "bossTeamStringIndex": 20186,
+   "bossTeamStrikerIndex": 20416,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20186"
+  },
+  {
+   "bossTeamIndex": 189,
+   "bossTeamStringIndex": 20187,
+   "bossTeamStrikerIndex": 20423,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20187"
+  },
+  {
+   "bossTeamIndex": 190,
+   "bossTeamStringIndex": 20188,
+   "bossTeamStrikerIndex": 20430,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20188"
+  },
+  {
+   "bossTeamIndex": 191,
+   "bossTeamStringIndex": 20189,
+   "bossTeamStrikerIndex": 20437,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20189"
+  },
+  {
+   "bossTeamIndex": 192,
+   "bossTeamStringIndex": 20190,
+   "bossTeamStrikerIndex": 46285,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20190"
+  },
+  {
+   "bossTeamIndex": 193,
+   "bossTeamStringIndex": 20191,
+   "bossTeamStrikerIndex": 10232,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20191"
+  },
+  {
+   "bossTeamIndex": 194,
+   "bossTeamStringIndex": 20192,
+   "bossTeamStrikerIndex": 20005,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20192"
+  },
+  {
+   "bossTeamIndex": 195,
+   "bossTeamStringIndex": 20193,
+   "bossTeamStrikerIndex": 20012,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20193"
+  },
+  {
+   "bossTeamIndex": 196,
+   "bossTeamStringIndex": 20194,
+   "bossTeamStrikerIndex": 20019,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20194"
+  },
+  {
+   "bossTeamIndex": 197,
+   "bossTeamStringIndex": 20195,
+   "bossTeamStrikerIndex": 20026,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20195"
+  },
+  {
+   "bossTeamIndex": 198,
+   "bossTeamStringIndex": 20196,
+   "bossTeamStrikerIndex": 20033,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20196"
+  },
+  {
+   "bossTeamIndex": 199,
+   "bossTeamStringIndex": 20197,
+   "bossTeamStrikerIndex": 20040,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20197"
+  },
+  {
+   "bossTeamIndex": 200,
+   "bossTeamStringIndex": 20198,
+   "bossTeamStrikerIndex": 20047,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20198"
+  },
+  {
+   "bossTeamIndex": 201,
+   "bossTeamStringIndex": 20199,
+   "bossTeamStrikerIndex": 20054,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20199"
+  },
+  {
+   "bossTeamIndex": 202,
+   "bossTeamStringIndex": 20200,
+   "bossTeamStrikerIndex": 20061,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20200"
+  },
+  {
+   "bossTeamIndex": 203,
+   "bossTeamStringIndex": 20201,
+   "bossTeamStrikerIndex": 20068,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20201"
+  },
+  {
+   "bossTeamIndex": 204,
+   "bossTeamStringIndex": 20202,
+   "bossTeamStrikerIndex": 20075,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20202"
+  },
+  {
+   "bossTeamIndex": 205,
+   "bossTeamStringIndex": 20203,
+   "bossTeamStrikerIndex": 20082,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20203"
+  },
+  {
+   "bossTeamIndex": 206,
+   "bossTeamStringIndex": 20204,
+   "bossTeamStrikerIndex": 20089,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20204"
+  },
+  {
+   "bossTeamIndex": 207,
+   "bossTeamStringIndex": 20205,
+   "bossTeamStrikerIndex": 20096,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20205"
+  },
+  {
+   "bossTeamIndex": 208,
+   "bossTeamStringIndex": 20206,
+   "bossTeamStrikerIndex": 20103,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20206"
+  },
+  {
+   "bossTeamIndex": 209,
+   "bossTeamStringIndex": 20207,
+   "bossTeamStrikerIndex": 20110,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20207"
+  },
+  {
+   "bossTeamIndex": 210,
+   "bossTeamStringIndex": 20208,
+   "bossTeamStrikerIndex": 20118,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20208"
+  },
+  {
+   "bossTeamIndex": 211,
+   "bossTeamStringIndex": 20209,
+   "bossTeamStrikerIndex": 20125,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20209"
+  },
+  {
+   "bossTeamIndex": 212,
+   "bossTeamStringIndex": 20210,
+   "bossTeamStrikerIndex": 20132,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20210"
+  },
+  {
+   "bossTeamIndex": 213,
+   "bossTeamStringIndex": 20211,
+   "bossTeamStrikerIndex": 20140,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20211"
+  },
+  {
+   "bossTeamIndex": 214,
+   "bossTeamStringIndex": 20212,
+   "bossTeamStrikerIndex": 20147,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20212"
+  },
+  {
+   "bossTeamIndex": 215,
+   "bossTeamStringIndex": 20213,
+   "bossTeamStrikerIndex": 20154,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20213"
+  },
+  {
+   "bossTeamIndex": 216,
+   "bossTeamStringIndex": 20214,
+   "bossTeamStrikerIndex": 20161,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20214"
+  },
+  {
+   "bossTeamIndex": 217,
+   "bossTeamStringIndex": 20215,
+   "bossTeamStrikerIndex": 20168,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20215"
+  },
+  {
+   "bossTeamIndex": 218,
+   "bossTeamStringIndex": 20216,
+   "bossTeamStrikerIndex": 20175,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20216"
+  },
+  {
+   "bossTeamIndex": 219,
+   "bossTeamStringIndex": 20217,
+   "bossTeamStrikerIndex": 20182,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20217"
+  },
+  {
+   "bossTeamIndex": 220,
+   "bossTeamStringIndex": 20218,
+   "bossTeamStrikerIndex": 20189,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20218"
+  },
+  {
+   "bossTeamIndex": 221,
+   "bossTeamStringIndex": 20219,
+   "bossTeamStrikerIndex": 20196,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20219"
+  },
+  {
+   "bossTeamIndex": 222,
+   "bossTeamStringIndex": 20220,
+   "bossTeamStrikerIndex": 20203,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20220"
+  },
+  {
+   "bossTeamIndex": 223,
+   "bossTeamStringIndex": 20221,
+   "bossTeamStrikerIndex": 20210,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20221"
+  },
+  {
+   "bossTeamIndex": 224,
+   "bossTeamStringIndex": 20222,
+   "bossTeamStrikerIndex": 20217,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20222"
+  },
+  {
+   "bossTeamIndex": 225,
+   "bossTeamStringIndex": 20223,
+   "bossTeamStrikerIndex": 20224,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20223"
+  },
+  {
+   "bossTeamIndex": 226,
+   "bossTeamStringIndex": 20224,
+   "bossTeamStrikerIndex": 20231,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20224"
+  },
+  {
+   "bossTeamIndex": 227,
+   "bossTeamStringIndex": 20225,
+   "bossTeamStrikerIndex": 20238,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20225"
+  },
+  {
+   "bossTeamIndex": 228,
+   "bossTeamStringIndex": 20226,
+   "bossTeamStrikerIndex": 20245,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20226"
+  },
+  {
+   "bossTeamIndex": 229,
+   "bossTeamStringIndex": 20227,
+   "bossTeamStrikerIndex": 20252,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20227"
+  },
+  {
+   "bossTeamIndex": 230,
+   "bossTeamStringIndex": 20228,
+   "bossTeamStrikerIndex": 20259,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20228"
+  },
+  {
+   "bossTeamIndex": 231,
+   "bossTeamStringIndex": 20229,
+   "bossTeamStrikerIndex": 20266,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20229"
+  },
+  {
+   "bossTeamIndex": 232,
+   "bossTeamStringIndex": 20230,
+   "bossTeamStrikerIndex": 20273,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20230"
+  },
+  {
+   "bossTeamIndex": 233,
+   "bossTeamStringIndex": 20231,
+   "bossTeamStrikerIndex": 20280,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20231"
+  },
+  {
+   "bossTeamIndex": 234,
+   "bossTeamStringIndex": 20232,
+   "bossTeamStrikerIndex": 20287,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20232"
+  },
+  {
+   "bossTeamIndex": 235,
+   "bossTeamStringIndex": 20233,
+   "bossTeamStrikerIndex": 20294,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20233"
+  },
+  {
+   "bossTeamIndex": 236,
+   "bossTeamStringIndex": 20234,
+   "bossTeamStrikerIndex": 20302,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20234"
+  },
+  {
+   "bossTeamIndex": 237,
+   "bossTeamStringIndex": 20235,
+   "bossTeamStrikerIndex": 20309,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20235"
+  },
+  {
+   "bossTeamIndex": 238,
+   "bossTeamStringIndex": 20236,
+   "bossTeamStrikerIndex": 20316,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20236"
+  },
+  {
+   "bossTeamIndex": 239,
+   "bossTeamStringIndex": 20237,
+   "bossTeamStrikerIndex": 20323,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20237"
+  },
+  {
+   "bossTeamIndex": 240,
+   "bossTeamStringIndex": 20238,
+   "bossTeamStrikerIndex": 20330,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20238"
+  },
+  {
+   "bossTeamIndex": 241,
+   "bossTeamStringIndex": 20239,
+   "bossTeamStrikerIndex": 20337,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20239"
+  },
+  {
+   "bossTeamIndex": 242,
+   "bossTeamStringIndex": 20240,
+   "bossTeamStrikerIndex": 20344,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20240"
+  },
+  {
+   "bossTeamIndex": 243,
+   "bossTeamStringIndex": 20241,
+   "bossTeamStrikerIndex": 20351,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20241"
+  },
+  {
+   "bossTeamIndex": 244,
+   "bossTeamStringIndex": 20242,
+   "bossTeamStrikerIndex": 20358,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20242"
+  },
+  {
+   "bossTeamIndex": 245,
+   "bossTeamStringIndex": 20243,
+   "bossTeamStrikerIndex": 20365,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20243"
+  },
+  {
+   "bossTeamIndex": 246,
+   "bossTeamStringIndex": 20244,
+   "bossTeamStrikerIndex": 20372,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20244"
+  },
+  {
+   "bossTeamIndex": 247,
+   "bossTeamStringIndex": 20245,
+   "bossTeamStrikerIndex": 20379,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20245"
+  },
+  {
+   "bossTeamIndex": 248,
+   "bossTeamStringIndex": 20246,
+   "bossTeamStrikerIndex": 20386,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20246"
+  },
+  {
+   "bossTeamIndex": 249,
+   "bossTeamStringIndex": 20247,
+   "bossTeamStrikerIndex": 20393,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20247"
+  },
+  {
+   "bossTeamIndex": 250,
+   "bossTeamStringIndex": 20248,
+   "bossTeamStrikerIndex": 20400,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20248"
+  },
+  {
+   "bossTeamIndex": 251,
+   "bossTeamStringIndex": 20249,
+   "bossTeamStrikerIndex": 20407,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20249"
+  },
+  {
+   "bossTeamIndex": 252,
+   "bossTeamStringIndex": 20250,
+   "bossTeamStrikerIndex": 20414,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20250"
+  },
+  {
+   "bossTeamIndex": 253,
+   "bossTeamStringIndex": 20251,
+   "bossTeamStrikerIndex": 20421,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20251"
+  },
+  {
+   "bossTeamIndex": 254,
+   "bossTeamStringIndex": 20252,
+   "bossTeamStrikerIndex": 20428,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20252"
+  },
+  {
+   "bossTeamIndex": 255,
+   "bossTeamStringIndex": 20253,
+   "bossTeamStrikerIndex": 20435,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20253"
+  },
+  {
+   "bossTeamIndex": 256,
+   "bossTeamStringIndex": 20254,
+   "bossTeamStrikerIndex": 42142,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20254"
+  },
+  {
+   "bossTeamIndex": 257,
+   "bossTeamStringIndex": 20255,
+   "bossTeamStrikerIndex": 70238,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20255"
+  },
+  {
+   "bossTeamIndex": 258,
+   "bossTeamStringIndex": 20256,
+   "bossTeamStrikerIndex": 20003,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20256"
+  },
+  {
+   "bossTeamIndex": 259,
+   "bossTeamStringIndex": 20257,
+   "bossTeamStrikerIndex": 20010,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20257"
+  },
+  {
+   "bossTeamIndex": 260,
+   "bossTeamStringIndex": 20258,
+   "bossTeamStrikerIndex": 20017,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20258"
+  },
+  {
+   "bossTeamIndex": 261,
+   "bossTeamStringIndex": 20259,
+   "bossTeamStrikerIndex": 20024,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20259"
+  },
+  {
+   "bossTeamIndex": 262,
+   "bossTeamStringIndex": 20260,
+   "bossTeamStrikerIndex": 20031,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20260"
+  },
+  {
+   "bossTeamIndex": 263,
+   "bossTeamStringIndex": 20261,
+   "bossTeamStrikerIndex": 20038,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20261"
+  },
+  {
+   "bossTeamIndex": 264,
+   "bossTeamStringIndex": 20262,
+   "bossTeamStrikerIndex": 20045,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20262"
+  },
+  {
+   "bossTeamIndex": 265,
+   "bossTeamStringIndex": 20263,
+   "bossTeamStrikerIndex": 20052,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20263"
+  },
+  {
+   "bossTeamIndex": 266,
+   "bossTeamStringIndex": 20264,
+   "bossTeamStrikerIndex": 20059,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20264"
+  },
+  {
+   "bossTeamIndex": 267,
+   "bossTeamStringIndex": 20265,
+   "bossTeamStrikerIndex": 20066,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20265"
+  },
+  {
+   "bossTeamIndex": 268,
+   "bossTeamStringIndex": 20266,
+   "bossTeamStrikerIndex": 20073,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20266"
+  },
+  {
+   "bossTeamIndex": 269,
+   "bossTeamStringIndex": 20267,
+   "bossTeamStrikerIndex": 20080,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20267"
+  },
+  {
+   "bossTeamIndex": 270,
+   "bossTeamStringIndex": 20268,
+   "bossTeamStrikerIndex": 20087,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20268"
+  },
+  {
+   "bossTeamIndex": 271,
+   "bossTeamStringIndex": 20269,
+   "bossTeamStrikerIndex": 20094,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20269"
+  },
+  {
+   "bossTeamIndex": 272,
+   "bossTeamStringIndex": 20270,
+   "bossTeamStrikerIndex": 20101,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20270"
+  },
+  {
+   "bossTeamIndex": 273,
+   "bossTeamStringIndex": 20271,
+   "bossTeamStrikerIndex": 20108,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20271"
+  },
+  {
+   "bossTeamIndex": 274,
+   "bossTeamStringIndex": 20272,
+   "bossTeamStrikerIndex": 20116,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20272"
+  },
+  {
+   "bossTeamIndex": 275,
+   "bossTeamStringIndex": 20273,
+   "bossTeamStrikerIndex": 20123,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20273"
+  },
+  {
+   "bossTeamIndex": 276,
+   "bossTeamStringIndex": 20274,
+   "bossTeamStrikerIndex": 20130,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20274"
+  },
+  {
+   "bossTeamIndex": 277,
+   "bossTeamStringIndex": 20275,
+   "bossTeamStrikerIndex": 20138,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20275"
+  },
+  {
+   "bossTeamIndex": 278,
+   "bossTeamStringIndex": 20276,
+   "bossTeamStrikerIndex": 20145,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20276"
+  },
+  {
+   "bossTeamIndex": 279,
+   "bossTeamStringIndex": 20277,
+   "bossTeamStrikerIndex": 20152,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20277"
+  },
+  {
+   "bossTeamIndex": 280,
+   "bossTeamStringIndex": 20278,
+   "bossTeamStrikerIndex": 20159,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20278"
+  },
+  {
+   "bossTeamIndex": 281,
+   "bossTeamStringIndex": 20279,
+   "bossTeamStrikerIndex": 20166,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20279"
+  },
+  {
+   "bossTeamIndex": 282,
+   "bossTeamStringIndex": 20280,
+   "bossTeamStrikerIndex": 20173,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20280"
+  },
+  {
+   "bossTeamIndex": 283,
+   "bossTeamStringIndex": 20281,
+   "bossTeamStrikerIndex": 20180,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20281"
+  },
+  {
+   "bossTeamIndex": 284,
+   "bossTeamStringIndex": 20282,
+   "bossTeamStrikerIndex": 20187,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20282"
+  },
+  {
+   "bossTeamIndex": 285,
+   "bossTeamStringIndex": 20283,
+   "bossTeamStrikerIndex": 20194,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20283"
+  },
+  {
+   "bossTeamIndex": 286,
+   "bossTeamStringIndex": 20284,
+   "bossTeamStrikerIndex": 20201,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20284"
+  },
+  {
+   "bossTeamIndex": 287,
+   "bossTeamStringIndex": 20285,
+   "bossTeamStrikerIndex": 20208,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20285"
+  },
+  {
+   "bossTeamIndex": 288,
+   "bossTeamStringIndex": 20286,
+   "bossTeamStrikerIndex": 20215,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20286"
+  },
+  {
+   "bossTeamIndex": 289,
+   "bossTeamStringIndex": 20287,
+   "bossTeamStrikerIndex": 20222,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20287"
+  },
+  {
+   "bossTeamIndex": 290,
+   "bossTeamStringIndex": 20288,
+   "bossTeamStrikerIndex": 20229,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20288"
+  },
+  {
+   "bossTeamIndex": 291,
+   "bossTeamStringIndex": 20289,
+   "bossTeamStrikerIndex": 20236,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20289"
+  },
+  {
+   "bossTeamIndex": 292,
+   "bossTeamStringIndex": 20290,
+   "bossTeamStrikerIndex": 20243,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20290"
+  },
+  {
+   "bossTeamIndex": 293,
+   "bossTeamStringIndex": 20291,
+   "bossTeamStrikerIndex": 20250,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20291"
+  },
+  {
+   "bossTeamIndex": 294,
+   "bossTeamStringIndex": 20292,
+   "bossTeamStrikerIndex": 20257,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20292"
+  },
+  {
+   "bossTeamIndex": 295,
+   "bossTeamStringIndex": 20293,
+   "bossTeamStrikerIndex": 20264,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20293"
+  },
+  {
+   "bossTeamIndex": 296,
+   "bossTeamStringIndex": 20294,
+   "bossTeamStrikerIndex": 20271,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20294"
+  },
+  {
+   "bossTeamIndex": 297,
+   "bossTeamStringIndex": 20295,
+   "bossTeamStrikerIndex": 20278,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20295"
+  },
+  {
+   "bossTeamIndex": 298,
+   "bossTeamStringIndex": 20296,
+   "bossTeamStrikerIndex": 20285,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20296"
+  },
+  {
+   "bossTeamIndex": 299,
+   "bossTeamStringIndex": 20297,
+   "bossTeamStrikerIndex": 20292,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20297"
+  },
+  {
+   "bossTeamIndex": 300,
+   "bossTeamStringIndex": 20299,
+   "bossTeamStrikerIndex": 20300,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20299"
+  },
+  {
+   "bossTeamIndex": 301,
+   "bossTeamStringIndex": 20300,
+   "bossTeamStrikerIndex": 20307,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20300"
+  },
+  {
+   "bossTeamIndex": 302,
+   "bossTeamStringIndex": 20301,
+   "bossTeamStrikerIndex": 20314,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20301"
+  },
+  {
+   "bossTeamIndex": 303,
+   "bossTeamStringIndex": 20302,
+   "bossTeamStrikerIndex": 20321,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20302"
+  },
+  {
+   "bossTeamIndex": 304,
+   "bossTeamStringIndex": 20303,
+   "bossTeamStrikerIndex": 20328,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20303"
+  },
+  {
+   "bossTeamIndex": 305,
+   "bossTeamStringIndex": 20304,
+   "bossTeamStrikerIndex": 20335,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20304"
+  },
+  {
+   "bossTeamIndex": 306,
+   "bossTeamStringIndex": 20305,
+   "bossTeamStrikerIndex": 20342,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20305"
+  },
+  {
+   "bossTeamIndex": 307,
+   "bossTeamStringIndex": 20306,
+   "bossTeamStrikerIndex": 20349,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20306"
+  },
+  {
+   "bossTeamIndex": 308,
+   "bossTeamStringIndex": 20307,
+   "bossTeamStrikerIndex": 20356,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20307"
+  },
+  {
+   "bossTeamIndex": 309,
+   "bossTeamStringIndex": 20308,
+   "bossTeamStrikerIndex": 20363,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20308"
+  },
+  {
+   "bossTeamIndex": 310,
+   "bossTeamStringIndex": 20309,
+   "bossTeamStrikerIndex": 20370,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20309"
+  },
+  {
+   "bossTeamIndex": 311,
+   "bossTeamStringIndex": 20310,
+   "bossTeamStrikerIndex": 20377,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20310"
+  },
+  {
+   "bossTeamIndex": 312,
+   "bossTeamStringIndex": 20311,
+   "bossTeamStrikerIndex": 20384,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20311"
+  },
+  {
+   "bossTeamIndex": 313,
+   "bossTeamStringIndex": 20312,
+   "bossTeamStrikerIndex": 20391,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20312"
+  },
+  {
+   "bossTeamIndex": 314,
+   "bossTeamStringIndex": 20313,
+   "bossTeamStrikerIndex": 20398,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20313"
+  },
+  {
+   "bossTeamIndex": 315,
+   "bossTeamStringIndex": 20314,
+   "bossTeamStrikerIndex": 20405,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20314"
+  },
+  {
+   "bossTeamIndex": 316,
+   "bossTeamStringIndex": 20315,
+   "bossTeamStrikerIndex": 20412,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20315"
+  },
+  {
+   "bossTeamIndex": 317,
+   "bossTeamStringIndex": 20316,
+   "bossTeamStrikerIndex": 20419,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20316"
+  },
+  {
+   "bossTeamIndex": 318,
+   "bossTeamStringIndex": 20317,
+   "bossTeamStrikerIndex": 20426,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20317"
+  },
+  {
+   "bossTeamIndex": 319,
+   "bossTeamStringIndex": 20318,
+   "bossTeamStrikerIndex": 20433,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20318"
+  },
+  {
+   "bossTeamIndex": 320,
+   "bossTeamStringIndex": 20319,
+   "bossTeamStrikerIndex": 20452,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20319"
+  },
+  {
+   "bossTeamIndex": 321,
+   "bossTeamStringIndex": 20320,
+   "bossTeamStrikerIndex": 58200,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20320"
+  },
+  {
+   "bossTeamIndex": 322,
+   "bossTeamStringIndex": 20321,
+   "bossTeamStrikerIndex": 20001,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20321"
+  },
+  {
+   "bossTeamIndex": 323,
+   "bossTeamStringIndex": 20322,
+   "bossTeamStrikerIndex": 20008,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20322"
+  },
+  {
+   "bossTeamIndex": 324,
+   "bossTeamStringIndex": 20323,
+   "bossTeamStrikerIndex": 20015,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20323"
+  },
+  {
+   "bossTeamIndex": 325,
+   "bossTeamStringIndex": 20324,
+   "bossTeamStrikerIndex": 20022,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20324"
+  },
+  {
+   "bossTeamIndex": 326,
+   "bossTeamStringIndex": 20325,
+   "bossTeamStrikerIndex": 20029,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20325"
+  },
+  {
+   "bossTeamIndex": 327,
+   "bossTeamStringIndex": 20326,
+   "bossTeamStrikerIndex": 20036,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20326"
+  },
+  {
+   "bossTeamIndex": 328,
+   "bossTeamStringIndex": 20327,
+   "bossTeamStrikerIndex": 20043,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20327"
+  },
+  {
+   "bossTeamIndex": 329,
+   "bossTeamStringIndex": 20328,
+   "bossTeamStrikerIndex": 20050,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20328"
+  },
+  {
+   "bossTeamIndex": 330,
+   "bossTeamStringIndex": 20329,
+   "bossTeamStrikerIndex": 20057,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20329"
+  },
+  {
+   "bossTeamIndex": 331,
+   "bossTeamStringIndex": 20330,
+   "bossTeamStrikerIndex": 20064,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20330"
+  },
+  {
+   "bossTeamIndex": 332,
+   "bossTeamStringIndex": 20331,
+   "bossTeamStrikerIndex": 20071,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20331"
+  },
+  {
+   "bossTeamIndex": 333,
+   "bossTeamStringIndex": 20332,
+   "bossTeamStrikerIndex": 20078,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20332"
+  },
+  {
+   "bossTeamIndex": 334,
+   "bossTeamStringIndex": 20333,
+   "bossTeamStrikerIndex": 20085,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20333"
+  },
+  {
+   "bossTeamIndex": 335,
+   "bossTeamStringIndex": 20334,
+   "bossTeamStrikerIndex": 20092,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20334"
+  },
+  {
+   "bossTeamIndex": 336,
+   "bossTeamStringIndex": 20335,
+   "bossTeamStrikerIndex": 20099,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20335"
+  },
+  {
+   "bossTeamIndex": 337,
+   "bossTeamStringIndex": 20336,
+   "bossTeamStrikerIndex": 20106,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20336"
+  },
+  {
+   "bossTeamIndex": 338,
+   "bossTeamStringIndex": 20337,
+   "bossTeamStrikerIndex": 20114,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20337"
+  },
+  {
+   "bossTeamIndex": 339,
+   "bossTeamStringIndex": 20338,
+   "bossTeamStrikerIndex": 20121,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20338"
+  },
+  {
+   "bossTeamIndex": 340,
+   "bossTeamStringIndex": 20339,
+   "bossTeamStrikerIndex": 20128,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20339"
+  },
+  {
+   "bossTeamIndex": 341,
+   "bossTeamStringIndex": 20340,
+   "bossTeamStrikerIndex": 20135,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20340"
+  },
+  {
+   "bossTeamIndex": 342,
+   "bossTeamStringIndex": 20341,
+   "bossTeamStrikerIndex": 20143,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20341"
+  },
+  {
+   "bossTeamIndex": 343,
+   "bossTeamStringIndex": 20342,
+   "bossTeamStrikerIndex": 20150,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20342"
+  },
+  {
+   "bossTeamIndex": 344,
+   "bossTeamStringIndex": 20343,
+   "bossTeamStrikerIndex": 20157,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20343"
+  },
+  {
+   "bossTeamIndex": 345,
+   "bossTeamStringIndex": 20344,
+   "bossTeamStrikerIndex": 20164,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20344"
+  },
+  {
+   "bossTeamIndex": 346,
+   "bossTeamStringIndex": 20345,
+   "bossTeamStrikerIndex": 20171,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20345"
+  },
+  {
+   "bossTeamIndex": 347,
+   "bossTeamStringIndex": 20346,
+   "bossTeamStrikerIndex": 20178,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20346"
+  },
+  {
+   "bossTeamIndex": 348,
+   "bossTeamStringIndex": 20347,
+   "bossTeamStrikerIndex": 20185,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20347"
+  },
+  {
+   "bossTeamIndex": 349,
+   "bossTeamStringIndex": 20348,
+   "bossTeamStrikerIndex": 20192,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20348"
+  },
+  {
+   "bossTeamIndex": 350,
+   "bossTeamStringIndex": 20349,
+   "bossTeamStrikerIndex": 20199,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20349"
+  },
+  {
+   "bossTeamIndex": 351,
+   "bossTeamStringIndex": 20350,
+   "bossTeamStrikerIndex": 20206,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20350"
+  },
+  {
+   "bossTeamIndex": 352,
+   "bossTeamStringIndex": 20351,
+   "bossTeamStrikerIndex": 20213,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20351"
+  },
+  {
+   "bossTeamIndex": 353,
+   "bossTeamStringIndex": 20352,
+   "bossTeamStrikerIndex": 20220,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20352"
+  },
+  {
+   "bossTeamIndex": 354,
+   "bossTeamStringIndex": 20353,
+   "bossTeamStrikerIndex": 20227,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20353"
+  },
+  {
+   "bossTeamIndex": 355,
+   "bossTeamStringIndex": 20354,
+   "bossTeamStrikerIndex": 20234,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20354"
+  },
+  {
+   "bossTeamIndex": 356,
+   "bossTeamStringIndex": 20355,
+   "bossTeamStrikerIndex": 20241,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20355"
+  },
+  {
+   "bossTeamIndex": 357,
+   "bossTeamStringIndex": 20356,
+   "bossTeamStrikerIndex": 20248,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20356"
+  },
+  {
+   "bossTeamIndex": 358,
+   "bossTeamStringIndex": 20357,
+   "bossTeamStrikerIndex": 20255,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20357"
+  },
+  {
+   "bossTeamIndex": 359,
+   "bossTeamStringIndex": 20358,
+   "bossTeamStrikerIndex": 20262,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20358"
+  },
+  {
+   "bossTeamIndex": 360,
+   "bossTeamStringIndex": 20359,
+   "bossTeamStrikerIndex": 20269,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20359"
+  },
+  {
+   "bossTeamIndex": 361,
+   "bossTeamStringIndex": 20360,
+   "bossTeamStrikerIndex": 20276,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20360"
+  },
+  {
+   "bossTeamIndex": 362,
+   "bossTeamStringIndex": 20361,
+   "bossTeamStrikerIndex": 20283,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20361"
+  },
+  {
+   "bossTeamIndex": 363,
+   "bossTeamStringIndex": 20362,
+   "bossTeamStrikerIndex": 20290,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20362"
+  },
+  {
+   "bossTeamIndex": 364,
+   "bossTeamStringIndex": 20363,
+   "bossTeamStrikerIndex": 20297,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20363"
+  },
+  {
+   "bossTeamIndex": 365,
+   "bossTeamStringIndex": 20364,
+   "bossTeamStrikerIndex": 20305,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20364"
+  },
+  {
+   "bossTeamIndex": 366,
+   "bossTeamStringIndex": 20365,
+   "bossTeamStrikerIndex": 20312,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20365"
+  },
+  {
+   "bossTeamIndex": 367,
+   "bossTeamStringIndex": 20366,
+   "bossTeamStrikerIndex": 20319,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20366"
+  },
+  {
+   "bossTeamIndex": 368,
+   "bossTeamStringIndex": 20367,
+   "bossTeamStrikerIndex": 20326,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20367"
+  },
+  {
+   "bossTeamIndex": 369,
+   "bossTeamStringIndex": 20368,
+   "bossTeamStrikerIndex": 20333,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20368"
+  },
+  {
+   "bossTeamIndex": 370,
+   "bossTeamStringIndex": 20369,
+   "bossTeamStrikerIndex": 20340,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20369"
+  },
+  {
+   "bossTeamIndex": 371,
+   "bossTeamStringIndex": 20370,
+   "bossTeamStrikerIndex": 20347,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20370"
+  },
+  {
+   "bossTeamIndex": 372,
+   "bossTeamStringIndex": 20371,
+   "bossTeamStrikerIndex": 20354,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20371"
+  },
+  {
+   "bossTeamIndex": 373,
+   "bossTeamStringIndex": 20372,
+   "bossTeamStrikerIndex": 20361,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20372"
+  },
+  {
+   "bossTeamIndex": 374,
+   "bossTeamStringIndex": 20373,
+   "bossTeamStrikerIndex": 20368,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20373"
+  },
+  {
+   "bossTeamIndex": 375,
+   "bossTeamStringIndex": 20374,
+   "bossTeamStrikerIndex": 20375,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20374"
+  },
+  {
+   "bossTeamIndex": 376,
+   "bossTeamStringIndex": 20375,
+   "bossTeamStrikerIndex": 20382,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20375"
+  },
+  {
+   "bossTeamIndex": 377,
+   "bossTeamStringIndex": 20376,
+   "bossTeamStrikerIndex": 20389,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20376"
+  },
+  {
+   "bossTeamIndex": 378,
+   "bossTeamStringIndex": 20377,
+   "bossTeamStrikerIndex": 20396,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20377"
+  },
+  {
+   "bossTeamIndex": 379,
+   "bossTeamStringIndex": 20378,
+   "bossTeamStrikerIndex": 20403,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20378"
+  },
+  {
+   "bossTeamIndex": 380,
+   "bossTeamStringIndex": 20379,
+   "bossTeamStrikerIndex": 20410,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20379"
+  },
+  {
+   "bossTeamIndex": 381,
+   "bossTeamStringIndex": 20380,
+   "bossTeamStrikerIndex": 20417,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20380"
+  },
+  {
+   "bossTeamIndex": 382,
+   "bossTeamStringIndex": 20381,
+   "bossTeamStrikerIndex": 20424,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20381"
+  },
+  {
+   "bossTeamIndex": 383,
+   "bossTeamStringIndex": 20382,
+   "bossTeamStrikerIndex": 20431,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20382"
+  },
+  {
+   "bossTeamIndex": 384,
+   "bossTeamStringIndex": 20383,
+   "bossTeamStrikerIndex": 20438,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20383"
+  },
+  {
+   "bossTeamIndex": 385,
+   "bossTeamStringIndex": 20384,
+   "bossTeamStrikerIndex": 47285,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20384"
+  },
+  {
+   "bossTeamIndex": 386,
+   "bossTeamStringIndex": 20385,
+   "bossTeamStrikerIndex": 11209,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20385"
+  },
+  {
+   "bossTeamIndex": 387,
+   "bossTeamStringIndex": 20386,
+   "bossTeamStrikerIndex": 20006,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20386"
+  },
+  {
+   "bossTeamIndex": 388,
+   "bossTeamStringIndex": 20387,
+   "bossTeamStrikerIndex": 20013,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20387"
+  },
+  {
+   "bossTeamIndex": 389,
+   "bossTeamStringIndex": 20388,
+   "bossTeamStrikerIndex": 20020,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20388"
+  },
+  {
+   "bossTeamIndex": 390,
+   "bossTeamStringIndex": 20389,
+   "bossTeamStrikerIndex": 20027,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20389"
+  },
+  {
+   "bossTeamIndex": 391,
+   "bossTeamStringIndex": 20390,
+   "bossTeamStrikerIndex": 20034,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20390"
+  },
+  {
+   "bossTeamIndex": 392,
+   "bossTeamStringIndex": 20391,
+   "bossTeamStrikerIndex": 20041,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20391"
+  },
+  {
+   "bossTeamIndex": 393,
+   "bossTeamStringIndex": 20392,
+   "bossTeamStrikerIndex": 20048,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20392"
+  },
+  {
+   "bossTeamIndex": 394,
+   "bossTeamStringIndex": 20393,
+   "bossTeamStrikerIndex": 20055,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20393"
+  },
+  {
+   "bossTeamIndex": 395,
+   "bossTeamStringIndex": 20394,
+   "bossTeamStrikerIndex": 20062,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20394"
+  },
+  {
+   "bossTeamIndex": 396,
+   "bossTeamStringIndex": 20395,
+   "bossTeamStrikerIndex": 20069,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20395"
+  },
+  {
+   "bossTeamIndex": 397,
+   "bossTeamStringIndex": 20396,
+   "bossTeamStrikerIndex": 20076,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20396"
+  },
+  {
+   "bossTeamIndex": 398,
+   "bossTeamStringIndex": 20397,
+   "bossTeamStrikerIndex": 20083,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20397"
+  },
+  {
+   "bossTeamIndex": 399,
+   "bossTeamStringIndex": 20398,
+   "bossTeamStrikerIndex": 20090,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20398"
+  },
+  {
+   "bossTeamIndex": 400,
+   "bossTeamStringIndex": 20399,
+   "bossTeamStrikerIndex": 20097,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20399"
+  },
+  {
+   "bossTeamIndex": 401,
+   "bossTeamStringIndex": 20400,
+   "bossTeamStrikerIndex": 20104,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20400"
+  },
+  {
+   "bossTeamIndex": 402,
+   "bossTeamStringIndex": 20401,
+   "bossTeamStrikerIndex": 20111,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20401"
+  },
+  {
+   "bossTeamIndex": 403,
+   "bossTeamStringIndex": 20402,
+   "bossTeamStrikerIndex": 20119,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20402"
+  },
+  {
+   "bossTeamIndex": 404,
+   "bossTeamStringIndex": 20403,
+   "bossTeamStrikerIndex": 20126,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20403"
+  },
+  {
+   "bossTeamIndex": 405,
+   "bossTeamStringIndex": 20404,
+   "bossTeamStrikerIndex": 20133,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20404"
+  },
+  {
+   "bossTeamIndex": 406,
+   "bossTeamStringIndex": 20405,
+   "bossTeamStrikerIndex": 20141,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20405"
+  },
+  {
+   "bossTeamIndex": 407,
+   "bossTeamStringIndex": 20406,
+   "bossTeamStrikerIndex": 20148,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20406"
+  },
+  {
+   "bossTeamIndex": 408,
+   "bossTeamStringIndex": 20407,
+   "bossTeamStrikerIndex": 20155,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20407"
+  },
+  {
+   "bossTeamIndex": 409,
+   "bossTeamStringIndex": 20408,
+   "bossTeamStrikerIndex": 20162,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20408"
+  },
+  {
+   "bossTeamIndex": 410,
+   "bossTeamStringIndex": 20409,
+   "bossTeamStrikerIndex": 20169,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20409"
+  },
+  {
+   "bossTeamIndex": 411,
+   "bossTeamStringIndex": 20410,
+   "bossTeamStrikerIndex": 20176,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20410"
+  },
+  {
+   "bossTeamIndex": 412,
+   "bossTeamStringIndex": 20411,
+   "bossTeamStrikerIndex": 20183,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20411"
+  },
+  {
+   "bossTeamIndex": 413,
+   "bossTeamStringIndex": 20412,
+   "bossTeamStrikerIndex": 20190,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20412"
+  },
+  {
+   "bossTeamIndex": 414,
+   "bossTeamStringIndex": 20413,
+   "bossTeamStrikerIndex": 20197,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20413"
+  },
+  {
+   "bossTeamIndex": 415,
+   "bossTeamStringIndex": 20414,
+   "bossTeamStrikerIndex": 20204,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20414"
+  },
+  {
+   "bossTeamIndex": 416,
+   "bossTeamStringIndex": 20415,
+   "bossTeamStrikerIndex": 20211,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20415"
+  },
+  {
+   "bossTeamIndex": 417,
+   "bossTeamStringIndex": 20416,
+   "bossTeamStrikerIndex": 20218,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20416"
+  },
+  {
+   "bossTeamIndex": 418,
+   "bossTeamStringIndex": 20417,
+   "bossTeamStrikerIndex": 20225,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20417"
+  },
+  {
+   "bossTeamIndex": 419,
+   "bossTeamStringIndex": 20418,
+   "bossTeamStrikerIndex": 20232,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20418"
+  },
+  {
+   "bossTeamIndex": 420,
+   "bossTeamStringIndex": 20419,
+   "bossTeamStrikerIndex": 20239,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20419"
+  },
+  {
+   "bossTeamIndex": 421,
+   "bossTeamStringIndex": 20420,
+   "bossTeamStrikerIndex": 20246,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20420"
+  },
+  {
+   "bossTeamIndex": 422,
+   "bossTeamStringIndex": 20421,
+   "bossTeamStrikerIndex": 20253,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20421"
+  },
+  {
+   "bossTeamIndex": 423,
+   "bossTeamStringIndex": 20422,
+   "bossTeamStrikerIndex": 20260,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20422"
+  },
+  {
+   "bossTeamIndex": 424,
+   "bossTeamStringIndex": 20423,
+   "bossTeamStrikerIndex": 20267,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20423"
+  },
+  {
+   "bossTeamIndex": 425,
+   "bossTeamStringIndex": 20424,
+   "bossTeamStrikerIndex": 20274,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20424"
+  },
+  {
+   "bossTeamIndex": 426,
+   "bossTeamStringIndex": 20425,
+   "bossTeamStrikerIndex": 20281,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20425"
+  },
+  {
+   "bossTeamIndex": 427,
+   "bossTeamStringIndex": 20426,
+   "bossTeamStrikerIndex": 20288,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20426"
+  },
+  {
+   "bossTeamIndex": 428,
+   "bossTeamStringIndex": 20427,
+   "bossTeamStrikerIndex": 20295,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20427"
+  },
+  {
+   "bossTeamIndex": 429,
+   "bossTeamStringIndex": 20428,
+   "bossTeamStrikerIndex": 20303,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20428"
+  },
+  {
+   "bossTeamIndex": 430,
+   "bossTeamStringIndex": 20429,
+   "bossTeamStrikerIndex": 20310,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20429"
+  },
+  {
+   "bossTeamIndex": 431,
+   "bossTeamStringIndex": 20430,
+   "bossTeamStrikerIndex": 20317,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20430"
+  },
+  {
+   "bossTeamIndex": 432,
+   "bossTeamStringIndex": 20431,
+   "bossTeamStrikerIndex": 20324,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20431"
+  },
+  {
+   "bossTeamIndex": 433,
+   "bossTeamStringIndex": 20432,
+   "bossTeamStrikerIndex": 20331,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20432"
+  },
+  {
+   "bossTeamIndex": 434,
+   "bossTeamStringIndex": 20433,
+   "bossTeamStrikerIndex": 20338,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20433"
+  },
+  {
+   "bossTeamIndex": 435,
+   "bossTeamStringIndex": 20434,
+   "bossTeamStrikerIndex": 20345,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20434"
+  },
+  {
+   "bossTeamIndex": 436,
+   "bossTeamStringIndex": 20435,
+   "bossTeamStrikerIndex": 20352,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20435"
+  },
+  {
+   "bossTeamIndex": 437,
+   "bossTeamStringIndex": 20436,
+   "bossTeamStrikerIndex": 20359,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20436"
+  },
+  {
+   "bossTeamIndex": 438,
+   "bossTeamStringIndex": 20437,
+   "bossTeamStrikerIndex": 20366,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20437"
+  },
+  {
+   "bossTeamIndex": 439,
+   "bossTeamStringIndex": 20438,
+   "bossTeamStrikerIndex": 20373,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20438"
+  },
+  {
+   "bossTeamIndex": 440,
+   "bossTeamStringIndex": 20451,
+   "bossTeamStrikerIndex": 20380,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20451"
+  },
+  {
+   "bossTeamIndex": 441,
+   "bossTeamStringIndex": 20452,
+   "bossTeamStrikerIndex": 20387,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20452"
+  },
+  {
+   "bossTeamIndex": 442,
+   "bossTeamStringIndex": 20453,
+   "bossTeamStrikerIndex": 20394,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_20453"
+  },
+  {
+   "bossTeamIndex": 443,
+   "bossTeamStringIndex": 42142,
+   "bossTeamStrikerIndex": 20401,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_42142"
+  },
+  {
+   "bossTeamIndex": 444,
+   "bossTeamStringIndex": 43149,
+   "bossTeamStrikerIndex": 20408,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_43149"
+  },
+  {
+   "bossTeamIndex": 445,
+   "bossTeamStringIndex": 46285,
+   "bossTeamStrikerIndex": 20415,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_46285"
+  },
+  {
+   "bossTeamIndex": 446,
+   "bossTeamStringIndex": 47285,
+   "bossTeamStrikerIndex": 20422,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_47285"
+  },
+  {
+   "bossTeamIndex": 447,
+   "bossTeamStringIndex": 57314,
+   "bossTeamStrikerIndex": 20429,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_57314"
+  },
+  {
+   "bossTeamIndex": 448,
+   "bossTeamStringIndex": 58200,
+   "bossTeamStrikerIndex": 20436,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_58200"
+  },
+  {
+   "bossTeamIndex": 449,
+   "bossTeamStringIndex": 60320,
+   "bossTeamStrikerIndex": 43149,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_60320"
+  },
+  {
+   "bossTeamIndex": 450,
+   "bossTeamStringIndex": 70238,
+   "bossTeamStrikerIndex": 5153,
+   "bossTeamCoreIndex": 0,
+   "bossTeamIndexString": "ProveBoss_70238"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "suraDungeonStageIndex": 1,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800101,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1001,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 2,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800102,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1002,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 3,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800103,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1003,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 4,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800104,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1004,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 5,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800105,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1005,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 6,
+   "suraDungeonDifficultyIndex": 1,
+   "questEventStageIndex": 3800106,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1006,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 7,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800107,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1007,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 8,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800108,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1008,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 9,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800109,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1009,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 10,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800110,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1010,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 11,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800111,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1011,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 12,
+   "suraDungeonDifficultyIndex": 2,
+   "questEventStageIndex": 3800112,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1012,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 13,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800113,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1013,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 14,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800114,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1014,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 15,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800115,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1015,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 16,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800116,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1016,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 17,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800117,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1017,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 18,
+   "suraDungeonDifficultyIndex": 3,
+   "questEventStageIndex": 3800118,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1018,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 19,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800119,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1019,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 20,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800120,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1020,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 21,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800121,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1021,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 22,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800122,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1022,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 23,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800123,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1023,
+   "mainTargetApplyType": 2
+  },
+  {
+   "suraDungeonStageIndex": 24,
+   "suraDungeonDifficultyIndex": 4,
+   "questEventStageIndex": 3800124,
+   "monsterIndex": 560004,
+   "targetConditionMainGroupIndex": 1024,
+   "mainTargetApplyType": 2
+  }
+ ]
+}

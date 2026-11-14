@@ -149,8 +149,53 @@ def code_tags():
     return sorted({l["value"] for l in lits if rx.match(l["value"])})
 
 
-def strings_for(lang):
-    s = {t: placeholder(t) for t in code_tags()}
+def read_varint(b, i):
+    r = s = 0
+    while True:
+        c = b[i]; i += 1; r |= (c & 0x7F) << s; s += 7
+        if not c & 0x80:
+            return r, i
+
+
+def lang_strings(path, k):
+    """The previously built SystemTable pack back into {tag: text}. Without the author's dump/
+    stringliteral.json (client-code System.* tags) it is the base layer: every string the last build
+    carried, placeholders included, survives the rebuild."""
+    try:
+        raw = open(path, "rb").read()
+    except OSError:
+        return {}
+    if not raw:
+        return {}
+    data = zipfile.ZipFile(io.BytesIO(kofcrypto.decrypt(raw, (bytes.fromhex(k["key"]), bytes.fromhex(k["iv"]))))).read(
+        "systemtable.bytes")
+    out, i = {}, 0
+    while i < len(data):
+        _, i = read_varint(data, i)
+        n, i = read_varint(data, i)
+        row, j = data[i:i + n], 0
+        i += n
+        name = text = None
+        while j < len(row):
+            t, j = read_varint(row, j)
+            m, j = read_varint(row, j)
+            v = row[j:j + m]
+            j += m
+            if t >> 3 == 2:
+                name = v.decode("utf-8")
+            elif t >> 3 == 4:
+                text = v.decode("utf-8")
+        if name is not None:
+            out[name] = text or ""
+    return out
+
+
+def strings_for(lang, lang_key):
+    dump = os.path.join(ROOT, "dump", "stringliteral.json")
+    if os.path.exists(dump):
+        s = {t: placeholder(t) for t in code_tags()}
+    else:
+        s = lang_strings(os.path.join(CACHE, "table", f"offline_lang_{lang}", "systemtable.bin"), lang_key)
     real = builtin_strings(lang)
     s.update(real)
     extra = os.path.join(DATA, f"strings_{lang}.json")
@@ -169,6 +214,8 @@ def main():
     os.makedirs(out_common, exist_ok=True)
     os.makedirs(out_lang, exist_ok=True)
     hashes = {"common": {}, "lang": {}, "prohibited": {}}
+    # before the placeholder loop truncates it: the old SystemTable is the string base layer
+    strings, n_real, n_user = strings_for(lang, keys["localizing"])
 
     # placeholders for every table the client will look for
     for src, dst in ((os.path.join(ORIG, "common"), out_common), (os.path.join(ORIG, f"lang_{lang}"), out_lang)):
@@ -199,7 +246,6 @@ def main():
             hashes["lang"][table] = hashlib.md5(empty).hexdigest()
 
     # localized strings -> SystemTable string set (DataLocalizingProto rows: 2 tag, 4 text)
-    strings, n_real, n_user = strings_for(lang)
     payload = encode_table("DataLocalizingProto", [{"tag": t, "dst": x} for t, x in sorted(strings.items())])
     stem = LANG_TABLE.lower()
     open(os.path.join(out_lang, stem + ".bin"), "wb").write(pack_file(payload, stem + ".bytes", keys["localizing"]))

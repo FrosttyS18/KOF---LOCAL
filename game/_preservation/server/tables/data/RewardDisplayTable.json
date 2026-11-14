@@ -8296,6 +8296,6611 @@
    "rewardDisplayGrade": 0,
    "rewardDisplayCount": 0,
    "rewardDisplayGoodsIndex": 7300003
+  },
+  {
+   "rewardDisplayIndex": 966010011,
+   "rewardDisplayGroup": 96601001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 10,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010012,
+   "rewardDisplayGroup": 96601001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010013,
+   "rewardDisplayGroup": 96601001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010014,
+   "rewardDisplayGroup": 96601001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020036,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010016,
+   "rewardDisplayGroup": 96601001,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010021,
+   "rewardDisplayGroup": 96601002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 13,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010022,
+   "rewardDisplayGroup": 96601002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010023,
+   "rewardDisplayGroup": 96601002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010024,
+   "rewardDisplayGroup": 96601002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020058,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010026,
+   "rewardDisplayGroup": 96601002,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010031,
+   "rewardDisplayGroup": 96601003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 16,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010032,
+   "rewardDisplayGroup": 96601003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010033,
+   "rewardDisplayGroup": 96601003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010034,
+   "rewardDisplayGroup": 96601003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020102,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010036,
+   "rewardDisplayGroup": 96601003,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010041,
+   "rewardDisplayGroup": 96601004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 19,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010042,
+   "rewardDisplayGroup": 96601004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010043,
+   "rewardDisplayGroup": 96601004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010044,
+   "rewardDisplayGroup": 96601004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020131,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010046,
+   "rewardDisplayGroup": 96601004,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010051,
+   "rewardDisplayGroup": 96601005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 22,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010052,
+   "rewardDisplayGroup": 96601005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010053,
+   "rewardDisplayGroup": 96601005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010054,
+   "rewardDisplayGroup": 96601005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020167,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010056,
+   "rewardDisplayGroup": 96601005,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010061,
+   "rewardDisplayGroup": 96601006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 25,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010062,
+   "rewardDisplayGroup": 96601006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010063,
+   "rewardDisplayGroup": 96601006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010064,
+   "rewardDisplayGroup": 96601006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020204,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010066,
+   "rewardDisplayGroup": 96601006,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010071,
+   "rewardDisplayGroup": 96601007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 28,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010072,
+   "rewardDisplayGroup": 96601007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010073,
+   "rewardDisplayGroup": 96601007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010074,
+   "rewardDisplayGroup": 96601007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020228,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010076,
+   "rewardDisplayGroup": 96601007,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010081,
+   "rewardDisplayGroup": 96601008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 31,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010082,
+   "rewardDisplayGroup": 96601008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010083,
+   "rewardDisplayGroup": 96601008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966010084,
+   "rewardDisplayGroup": 96601008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020263,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010086,
+   "rewardDisplayGroup": 96601008,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010091,
+   "rewardDisplayGroup": 96601009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 34,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010092,
+   "rewardDisplayGroup": 96601009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010093,
+   "rewardDisplayGroup": 96601009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010094,
+   "rewardDisplayGroup": 96601009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020305,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010096,
+   "rewardDisplayGroup": 96601009,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010101,
+   "rewardDisplayGroup": 96601010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 37,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010102,
+   "rewardDisplayGroup": 96601010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010103,
+   "rewardDisplayGroup": 96601010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010104,
+   "rewardDisplayGroup": 96601010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020335,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010106,
+   "rewardDisplayGroup": 96601010,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010111,
+   "rewardDisplayGroup": 96601011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 40,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010112,
+   "rewardDisplayGroup": 96601011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010113,
+   "rewardDisplayGroup": 96601011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010114,
+   "rewardDisplayGroup": 96601011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020366,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010116,
+   "rewardDisplayGroup": 96601011,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010121,
+   "rewardDisplayGroup": 96601012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 43,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010122,
+   "rewardDisplayGroup": 96601012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010123,
+   "rewardDisplayGroup": 96601012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010124,
+   "rewardDisplayGroup": 96601012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020392,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010126,
+   "rewardDisplayGroup": 96601012,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010131,
+   "rewardDisplayGroup": 96601013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 46,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010132,
+   "rewardDisplayGroup": 96601013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010133,
+   "rewardDisplayGroup": 96601013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010134,
+   "rewardDisplayGroup": 96601013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020420,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010136,
+   "rewardDisplayGroup": 96601013,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010141,
+   "rewardDisplayGroup": 96601014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 49,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010142,
+   "rewardDisplayGroup": 96601014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010143,
+   "rewardDisplayGroup": 96601014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010144,
+   "rewardDisplayGroup": 96601014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020014,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010146,
+   "rewardDisplayGroup": 96601014,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010151,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 52,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010152,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010153,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010154,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020040,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010155,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010156,
+   "rewardDisplayGroup": 96601015,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010161,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 55,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010162,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010163,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966010164,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020070,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010165,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010166,
+   "rewardDisplayGroup": 96601016,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010171,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 58,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010172,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010173,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010174,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020106,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010175,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010176,
+   "rewardDisplayGroup": 96601017,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010181,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 61,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010182,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010183,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010184,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020145,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010185,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010186,
+   "rewardDisplayGroup": 96601018,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010191,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 64,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010192,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010193,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010194,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020176,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010195,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010196,
+   "rewardDisplayGroup": 96601019,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010201,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 67,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010202,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010203,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010204,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020213,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010205,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010206,
+   "rewardDisplayGroup": 96601020,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010211,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 70,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010212,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010213,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010214,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020240,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010215,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010216,
+   "rewardDisplayGroup": 96601021,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010221,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 73,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010222,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010223,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010224,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020284,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010225,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010226,
+   "rewardDisplayGroup": 96601022,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010231,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 76,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010232,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010233,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010234,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020312,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010235,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010236,
+   "rewardDisplayGroup": 96601023,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010241,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 79,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010242,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010243,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966010244,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020343,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010245,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010246,
+   "rewardDisplayGroup": 96601024,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010251,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 82,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010252,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010253,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010254,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020369,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010255,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010256,
+   "rewardDisplayGroup": 96601025,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010261,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 85,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010262,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010263,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010264,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020404,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010265,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010266,
+   "rewardDisplayGroup": 96601026,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010271,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 88,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010272,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010273,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010274,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020424,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010275,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010276,
+   "rewardDisplayGroup": 96601027,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010281,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 91,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010282,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010283,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010284,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020026,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010285,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010286,
+   "rewardDisplayGroup": 96601028,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010291,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 94,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010292,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010293,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010294,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020046,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010295,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010296,
+   "rewardDisplayGroup": 96601029,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010301,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 97,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010302,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010303,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010304,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020090,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010305,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010306,
+   "rewardDisplayGroup": 96601030,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010311,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 100,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010312,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010313,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010314,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020115,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010315,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010316,
+   "rewardDisplayGroup": 96601031,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010321,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 103,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010322,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010323,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010324,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020154,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010325,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010326,
+   "rewardDisplayGroup": 96601032,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966010331,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 106,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966010332,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12101
+  },
+  {
+   "rewardDisplayIndex": 966010333,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966010334,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020183,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966010335,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966010336,
+   "rewardDisplayGroup": 96601033,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020011,
+   "rewardDisplayGroup": 96602001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 10,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020012,
+   "rewardDisplayGroup": 96602001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020013,
+   "rewardDisplayGroup": 96602001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020014,
+   "rewardDisplayGroup": 96602001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020029,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020016,
+   "rewardDisplayGroup": 96602001,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020021,
+   "rewardDisplayGroup": 96602002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 13,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020022,
+   "rewardDisplayGroup": 96602002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020023,
+   "rewardDisplayGroup": 96602002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020024,
+   "rewardDisplayGroup": 96602002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020054,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020026,
+   "rewardDisplayGroup": 96602002,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020031,
+   "rewardDisplayGroup": 96602003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 16,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020032,
+   "rewardDisplayGroup": 96602003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020033,
+   "rewardDisplayGroup": 96602003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020034,
+   "rewardDisplayGroup": 96602003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020091,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020036,
+   "rewardDisplayGroup": 96602003,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020041,
+   "rewardDisplayGroup": 96602004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 19,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020042,
+   "rewardDisplayGroup": 96602004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020043,
+   "rewardDisplayGroup": 96602004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020044,
+   "rewardDisplayGroup": 96602004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020120,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020046,
+   "rewardDisplayGroup": 96602004,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020051,
+   "rewardDisplayGroup": 96602005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 22,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020052,
+   "rewardDisplayGroup": 96602005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020053,
+   "rewardDisplayGroup": 96602005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020054,
+   "rewardDisplayGroup": 96602005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020155,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020056,
+   "rewardDisplayGroup": 96602005,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020061,
+   "rewardDisplayGroup": 96602006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 25,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020062,
+   "rewardDisplayGroup": 96602006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020063,
+   "rewardDisplayGroup": 96602006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020064,
+   "rewardDisplayGroup": 96602006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020190,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020066,
+   "rewardDisplayGroup": 96602006,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020071,
+   "rewardDisplayGroup": 96602007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 28,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020072,
+   "rewardDisplayGroup": 96602007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020073,
+   "rewardDisplayGroup": 96602007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020074,
+   "rewardDisplayGroup": 96602007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020229,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020076,
+   "rewardDisplayGroup": 96602007,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020081,
+   "rewardDisplayGroup": 96602008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 31,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020082,
+   "rewardDisplayGroup": 96602008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020083,
+   "rewardDisplayGroup": 96602008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966020084,
+   "rewardDisplayGroup": 96602008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020257,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020086,
+   "rewardDisplayGroup": 96602008,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020091,
+   "rewardDisplayGroup": 96602009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 34,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020092,
+   "rewardDisplayGroup": 96602009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020093,
+   "rewardDisplayGroup": 96602009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020094,
+   "rewardDisplayGroup": 96602009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020286,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020096,
+   "rewardDisplayGroup": 96602009,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020101,
+   "rewardDisplayGroup": 96602010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 37,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020102,
+   "rewardDisplayGroup": 96602010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020103,
+   "rewardDisplayGroup": 96602010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020104,
+   "rewardDisplayGroup": 96602010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020325,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020106,
+   "rewardDisplayGroup": 96602010,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020111,
+   "rewardDisplayGroup": 96602011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 40,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020112,
+   "rewardDisplayGroup": 96602011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020113,
+   "rewardDisplayGroup": 96602011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020114,
+   "rewardDisplayGroup": 96602011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020353,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020116,
+   "rewardDisplayGroup": 96602011,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020121,
+   "rewardDisplayGroup": 96602012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 43,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020122,
+   "rewardDisplayGroup": 96602012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020123,
+   "rewardDisplayGroup": 96602012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020124,
+   "rewardDisplayGroup": 96602012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020405,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020126,
+   "rewardDisplayGroup": 96602012,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020131,
+   "rewardDisplayGroup": 96602013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 46,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020132,
+   "rewardDisplayGroup": 96602013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020133,
+   "rewardDisplayGroup": 96602013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020134,
+   "rewardDisplayGroup": 96602013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020435,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020136,
+   "rewardDisplayGroup": 96602013,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020141,
+   "rewardDisplayGroup": 96602014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 49,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020142,
+   "rewardDisplayGroup": 96602014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020143,
+   "rewardDisplayGroup": 96602014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020144,
+   "rewardDisplayGroup": 96602014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020002,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020146,
+   "rewardDisplayGroup": 96602014,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020151,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 52,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020152,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020153,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020154,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020034,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020155,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020156,
+   "rewardDisplayGroup": 96602015,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020161,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 55,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020162,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020163,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966020164,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020059,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020165,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020166,
+   "rewardDisplayGroup": 96602016,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020171,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 58,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020172,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020173,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020174,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020093,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020175,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020176,
+   "rewardDisplayGroup": 96602017,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020181,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 61,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020182,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020183,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020184,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020121,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020185,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020186,
+   "rewardDisplayGroup": 96602018,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020191,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 64,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020192,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020193,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020194,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020161,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020195,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020196,
+   "rewardDisplayGroup": 96602019,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020201,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 67,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020202,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020203,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020204,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020193,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020205,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020206,
+   "rewardDisplayGroup": 96602020,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020211,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 70,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020212,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020213,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020214,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020230,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020215,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020216,
+   "rewardDisplayGroup": 96602021,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020221,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 73,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020222,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020223,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020224,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020261,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020225,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020226,
+   "rewardDisplayGroup": 96602022,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020231,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 76,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020232,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020233,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020234,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020291,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020235,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020236,
+   "rewardDisplayGroup": 96602023,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020241,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 79,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020242,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020243,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966020244,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020332,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020245,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020246,
+   "rewardDisplayGroup": 96602024,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020251,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 82,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020252,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020253,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020254,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020373,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020255,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020256,
+   "rewardDisplayGroup": 96602025,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020261,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 85,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020262,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020263,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020264,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020407,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020265,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020266,
+   "rewardDisplayGroup": 96602026,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020271,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 88,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020272,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020273,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020274,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020452,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020275,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020276,
+   "rewardDisplayGroup": 96602027,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020281,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 91,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020282,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020283,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020284,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020003,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020285,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020286,
+   "rewardDisplayGroup": 96602028,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020291,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 94,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020292,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020293,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020294,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020039,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020295,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020296,
+   "rewardDisplayGroup": 96602029,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020301,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 97,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020302,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020303,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020304,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020066,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020305,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020306,
+   "rewardDisplayGroup": 96602030,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020311,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 100,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020312,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020313,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020314,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020095,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020315,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020316,
+   "rewardDisplayGroup": 96602031,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020321,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 103,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020322,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020323,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020324,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020128,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020325,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020326,
+   "rewardDisplayGroup": 96602032,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966020331,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 106,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966020332,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12102
+  },
+  {
+   "rewardDisplayIndex": 966020333,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966020334,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020166,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966020335,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966020336,
+   "rewardDisplayGroup": 96602033,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030011,
+   "rewardDisplayGroup": 96603001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 10,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030012,
+   "rewardDisplayGroup": 96603001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030013,
+   "rewardDisplayGroup": 96603001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030014,
+   "rewardDisplayGroup": 96603001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020044,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030016,
+   "rewardDisplayGroup": 96603001,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030021,
+   "rewardDisplayGroup": 96603002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 13,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030022,
+   "rewardDisplayGroup": 96603002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030023,
+   "rewardDisplayGroup": 96603002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030024,
+   "rewardDisplayGroup": 96603002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020074,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030026,
+   "rewardDisplayGroup": 96603002,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030031,
+   "rewardDisplayGroup": 96603003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 16,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030032,
+   "rewardDisplayGroup": 96603003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030033,
+   "rewardDisplayGroup": 96603003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030034,
+   "rewardDisplayGroup": 96603003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020111,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030036,
+   "rewardDisplayGroup": 96603003,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030041,
+   "rewardDisplayGroup": 96603004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 19,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030042,
+   "rewardDisplayGroup": 96603004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030043,
+   "rewardDisplayGroup": 96603004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030044,
+   "rewardDisplayGroup": 96603004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020138,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030046,
+   "rewardDisplayGroup": 96603004,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030051,
+   "rewardDisplayGroup": 96603005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 22,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030052,
+   "rewardDisplayGroup": 96603005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030053,
+   "rewardDisplayGroup": 96603005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030054,
+   "rewardDisplayGroup": 96603005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020178,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030056,
+   "rewardDisplayGroup": 96603005,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030061,
+   "rewardDisplayGroup": 96603006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 25,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030062,
+   "rewardDisplayGroup": 96603006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030063,
+   "rewardDisplayGroup": 96603006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030064,
+   "rewardDisplayGroup": 96603006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020206,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030066,
+   "rewardDisplayGroup": 96603006,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030071,
+   "rewardDisplayGroup": 96603007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 28,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030072,
+   "rewardDisplayGroup": 96603007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030073,
+   "rewardDisplayGroup": 96603007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030074,
+   "rewardDisplayGroup": 96603007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020238,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030076,
+   "rewardDisplayGroup": 96603007,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030081,
+   "rewardDisplayGroup": 96603008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 31,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030082,
+   "rewardDisplayGroup": 96603008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030083,
+   "rewardDisplayGroup": 96603008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966030084,
+   "rewardDisplayGroup": 96603008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020270,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030086,
+   "rewardDisplayGroup": 96603008,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030091,
+   "rewardDisplayGroup": 96603009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 34,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030092,
+   "rewardDisplayGroup": 96603009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030093,
+   "rewardDisplayGroup": 96603009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030094,
+   "rewardDisplayGroup": 96603009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020306,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030096,
+   "rewardDisplayGroup": 96603009,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030101,
+   "rewardDisplayGroup": 96603010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 37,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030102,
+   "rewardDisplayGroup": 96603010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030103,
+   "rewardDisplayGroup": 96603010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030104,
+   "rewardDisplayGroup": 96603010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020336,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030106,
+   "rewardDisplayGroup": 96603010,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030111,
+   "rewardDisplayGroup": 96603011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 40,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030112,
+   "rewardDisplayGroup": 96603011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030113,
+   "rewardDisplayGroup": 96603011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030114,
+   "rewardDisplayGroup": 96603011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020374,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030116,
+   "rewardDisplayGroup": 96603011,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030121,
+   "rewardDisplayGroup": 96603012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 43,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030122,
+   "rewardDisplayGroup": 96603012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030123,
+   "rewardDisplayGroup": 96603012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030124,
+   "rewardDisplayGroup": 96603012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020402,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030126,
+   "rewardDisplayGroup": 96603012,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030131,
+   "rewardDisplayGroup": 96603013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 46,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030132,
+   "rewardDisplayGroup": 96603013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030133,
+   "rewardDisplayGroup": 96603013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030134,
+   "rewardDisplayGroup": 96603013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020434,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030136,
+   "rewardDisplayGroup": 96603013,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030141,
+   "rewardDisplayGroup": 96603014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 49,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030142,
+   "rewardDisplayGroup": 96603014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030143,
+   "rewardDisplayGroup": 96603014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030144,
+   "rewardDisplayGroup": 96603014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020020,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030146,
+   "rewardDisplayGroup": 96603014,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030151,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 52,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030152,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030153,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030154,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020060,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030155,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030156,
+   "rewardDisplayGroup": 96603015,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030161,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 55,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030162,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030163,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966030164,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020088,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030165,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030166,
+   "rewardDisplayGroup": 96603016,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030171,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 58,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030172,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030173,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030174,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020125,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030175,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030176,
+   "rewardDisplayGroup": 96603017,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030181,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 61,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030182,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030183,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030184,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020162,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030185,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030186,
+   "rewardDisplayGroup": 96603018,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030191,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 64,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030192,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030193,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030194,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020197,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030195,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030196,
+   "rewardDisplayGroup": 96603019,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030201,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 67,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030202,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030203,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030204,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020234,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030205,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030206,
+   "rewardDisplayGroup": 96603020,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030211,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 70,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030212,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030213,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030214,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020260,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030215,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030216,
+   "rewardDisplayGroup": 96603021,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030221,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 73,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030222,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030223,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030224,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020282,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030225,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030226,
+   "rewardDisplayGroup": 96603022,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030231,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 76,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030232,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030233,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030234,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020327,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030235,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030236,
+   "rewardDisplayGroup": 96603023,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030241,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 79,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030242,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030243,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966030244,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020361,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030245,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030246,
+   "rewardDisplayGroup": 96603024,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030251,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 82,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030252,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030253,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030254,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020395,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030255,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030256,
+   "rewardDisplayGroup": 96603025,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030261,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 85,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030262,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030263,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030264,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020426,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030265,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030266,
+   "rewardDisplayGroup": 96603026,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030271,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 88,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030272,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030273,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030274,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020008,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030275,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030276,
+   "rewardDisplayGroup": 96603027,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030281,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 91,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030282,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030283,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030284,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020048,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030285,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030286,
+   "rewardDisplayGroup": 96603028,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030291,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 94,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030292,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030293,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030294,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020075,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030295,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030296,
+   "rewardDisplayGroup": 96603029,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030301,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 97,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030302,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030303,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030304,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020114,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030305,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030306,
+   "rewardDisplayGroup": 96603030,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030311,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 100,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030312,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030313,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030314,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020142,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030315,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030316,
+   "rewardDisplayGroup": 96603031,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030321,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 103,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030322,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030323,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030324,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020185,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030325,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030326,
+   "rewardDisplayGroup": 96603032,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966030331,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 106,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966030332,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12103
+  },
+  {
+   "rewardDisplayIndex": 966030333,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966030334,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020210,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966030335,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966030336,
+   "rewardDisplayGroup": 96603033,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040011,
+   "rewardDisplayGroup": 96604001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 10,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040012,
+   "rewardDisplayGroup": 96604001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040013,
+   "rewardDisplayGroup": 96604001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040014,
+   "rewardDisplayGroup": 96604001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020018,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040016,
+   "rewardDisplayGroup": 96604001,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040021,
+   "rewardDisplayGroup": 96604002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 13,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040022,
+   "rewardDisplayGroup": 96604002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040023,
+   "rewardDisplayGroup": 96604002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040024,
+   "rewardDisplayGroup": 96604002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020049,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040026,
+   "rewardDisplayGroup": 96604002,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040031,
+   "rewardDisplayGroup": 96604003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 16,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040032,
+   "rewardDisplayGroup": 96604003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040033,
+   "rewardDisplayGroup": 96604003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040034,
+   "rewardDisplayGroup": 96604003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020077,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040036,
+   "rewardDisplayGroup": 96604003,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040041,
+   "rewardDisplayGroup": 96604004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 19,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040042,
+   "rewardDisplayGroup": 96604004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040043,
+   "rewardDisplayGroup": 96604004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040044,
+   "rewardDisplayGroup": 96604004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020110,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040046,
+   "rewardDisplayGroup": 96604004,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040051,
+   "rewardDisplayGroup": 96604005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 22,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040052,
+   "rewardDisplayGroup": 96604005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040053,
+   "rewardDisplayGroup": 96604005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040054,
+   "rewardDisplayGroup": 96604005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020139,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040056,
+   "rewardDisplayGroup": 96604005,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040061,
+   "rewardDisplayGroup": 96604006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 25,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040062,
+   "rewardDisplayGroup": 96604006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040063,
+   "rewardDisplayGroup": 96604006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040064,
+   "rewardDisplayGroup": 96604006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020171,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040066,
+   "rewardDisplayGroup": 96604006,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040071,
+   "rewardDisplayGroup": 96604007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 28,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040072,
+   "rewardDisplayGroup": 96604007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040073,
+   "rewardDisplayGroup": 96604007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040074,
+   "rewardDisplayGroup": 96604007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020194,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040076,
+   "rewardDisplayGroup": 96604007,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040081,
+   "rewardDisplayGroup": 96604008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 31,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040082,
+   "rewardDisplayGroup": 96604008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040083,
+   "rewardDisplayGroup": 96604008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966040084,
+   "rewardDisplayGroup": 96604008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020222,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040086,
+   "rewardDisplayGroup": 96604008,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040091,
+   "rewardDisplayGroup": 96604009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 34,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040092,
+   "rewardDisplayGroup": 96604009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040093,
+   "rewardDisplayGroup": 96604009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040094,
+   "rewardDisplayGroup": 96604009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020264,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040096,
+   "rewardDisplayGroup": 96604009,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040101,
+   "rewardDisplayGroup": 96604010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 37,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040102,
+   "rewardDisplayGroup": 96604010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040103,
+   "rewardDisplayGroup": 96604010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040104,
+   "rewardDisplayGroup": 96604010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020289,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040106,
+   "rewardDisplayGroup": 96604010,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040111,
+   "rewardDisplayGroup": 96604011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 40,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040112,
+   "rewardDisplayGroup": 96604011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040113,
+   "rewardDisplayGroup": 96604011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040114,
+   "rewardDisplayGroup": 96604011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020324,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040116,
+   "rewardDisplayGroup": 96604011,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040121,
+   "rewardDisplayGroup": 96604012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 43,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040122,
+   "rewardDisplayGroup": 96604012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040123,
+   "rewardDisplayGroup": 96604012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040124,
+   "rewardDisplayGroup": 96604012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020365,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040126,
+   "rewardDisplayGroup": 96604012,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040131,
+   "rewardDisplayGroup": 96604013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 46,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040132,
+   "rewardDisplayGroup": 96604013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040133,
+   "rewardDisplayGroup": 96604013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040134,
+   "rewardDisplayGroup": 96604013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020406,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040136,
+   "rewardDisplayGroup": 96604013,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040141,
+   "rewardDisplayGroup": 96604014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 49,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040142,
+   "rewardDisplayGroup": 96604014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040143,
+   "rewardDisplayGroup": 96604014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040144,
+   "rewardDisplayGroup": 96604014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3042142,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040146,
+   "rewardDisplayGroup": 96604014,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040151,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 52,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040152,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040153,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040154,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020013,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040155,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040156,
+   "rewardDisplayGroup": 96604015,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040161,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 55,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040162,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040163,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966040164,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020037,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040165,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040166,
+   "rewardDisplayGroup": 96604016,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040171,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 58,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040172,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040173,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040174,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020073,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040175,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040176,
+   "rewardDisplayGroup": 96604017,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040181,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 61,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040182,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040183,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040184,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020097,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040185,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040186,
+   "rewardDisplayGroup": 96604018,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040191,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 64,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040192,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040193,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040194,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020132,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040195,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040196,
+   "rewardDisplayGroup": 96604019,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040201,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 67,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040202,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040203,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040204,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020158,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040205,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040206,
+   "rewardDisplayGroup": 96604020,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040211,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 70,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040212,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040213,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040214,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020191,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040215,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040216,
+   "rewardDisplayGroup": 96604021,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040221,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 73,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040222,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040223,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040224,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020215,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040225,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040226,
+   "rewardDisplayGroup": 96604022,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040231,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 76,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040232,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040233,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040234,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020252,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040235,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040236,
+   "rewardDisplayGroup": 96604023,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040241,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 79,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040242,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040243,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966040244,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020279,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040245,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040246,
+   "rewardDisplayGroup": 96604024,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040251,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 82,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040252,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040253,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040254,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020314,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040255,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040256,
+   "rewardDisplayGroup": 96604025,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040261,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 85,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040262,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040263,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040264,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020351,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040265,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040266,
+   "rewardDisplayGroup": 96604026,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040271,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 88,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040272,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040273,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040274,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020401,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040275,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040276,
+   "rewardDisplayGroup": 96604027,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040281,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 91,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040282,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040283,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040284,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020431,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040285,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040286,
+   "rewardDisplayGroup": 96604028,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040291,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 94,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040292,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040293,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040294,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020006,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040295,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040296,
+   "rewardDisplayGroup": 96604029,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040301,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 97,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040302,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040303,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040304,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020025,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040305,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040306,
+   "rewardDisplayGroup": 96604030,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040311,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 100,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040312,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040313,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040314,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020065,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040315,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040316,
+   "rewardDisplayGroup": 96604031,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040321,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 103,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040322,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040323,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040324,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020086,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040325,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040326,
+   "rewardDisplayGroup": 96604032,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966040331,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 106,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966040332,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12104
+  },
+  {
+   "rewardDisplayIndex": 966040333,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966040334,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020122,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966040335,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966040336,
+   "rewardDisplayGroup": 96604033,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050011,
+   "rewardDisplayGroup": 96605001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 10,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050012,
+   "rewardDisplayGroup": 96605001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050013,
+   "rewardDisplayGroup": 96605001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050014,
+   "rewardDisplayGroup": 96605001,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020067,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050016,
+   "rewardDisplayGroup": 96605001,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050021,
+   "rewardDisplayGroup": 96605002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 13,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050022,
+   "rewardDisplayGroup": 96605002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050023,
+   "rewardDisplayGroup": 96605002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050024,
+   "rewardDisplayGroup": 96605002,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020136,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050026,
+   "rewardDisplayGroup": 96605002,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050031,
+   "rewardDisplayGroup": 96605003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 16,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050032,
+   "rewardDisplayGroup": 96605003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050033,
+   "rewardDisplayGroup": 96605003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050034,
+   "rewardDisplayGroup": 96605003,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020186,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050036,
+   "rewardDisplayGroup": 96605003,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050041,
+   "rewardDisplayGroup": 96605004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 19,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050042,
+   "rewardDisplayGroup": 96605004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050043,
+   "rewardDisplayGroup": 96605004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050044,
+   "rewardDisplayGroup": 96605004,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020233,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050046,
+   "rewardDisplayGroup": 96605004,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 1800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050051,
+   "rewardDisplayGroup": 96605005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 22,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050052,
+   "rewardDisplayGroup": 96605005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050053,
+   "rewardDisplayGroup": 96605005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050054,
+   "rewardDisplayGroup": 96605005,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020290,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050056,
+   "rewardDisplayGroup": 96605005,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050061,
+   "rewardDisplayGroup": 96605006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 25,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050062,
+   "rewardDisplayGroup": 96605006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050063,
+   "rewardDisplayGroup": 96605006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050064,
+   "rewardDisplayGroup": 96605006,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020337,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050066,
+   "rewardDisplayGroup": 96605006,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050071,
+   "rewardDisplayGroup": 96605007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 28,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050072,
+   "rewardDisplayGroup": 96605007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050073,
+   "rewardDisplayGroup": 96605007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050074,
+   "rewardDisplayGroup": 96605007,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020364,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050076,
+   "rewardDisplayGroup": 96605007,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050081,
+   "rewardDisplayGroup": 96605008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 31,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050082,
+   "rewardDisplayGroup": 96605008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050083,
+   "rewardDisplayGroup": 96605008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1000
+  },
+  {
+   "rewardDisplayIndex": 966050084,
+   "rewardDisplayGroup": 96605008,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020397,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050086,
+   "rewardDisplayGroup": 96605008,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050091,
+   "rewardDisplayGroup": 96605009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 34,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050092,
+   "rewardDisplayGroup": 96605009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050093,
+   "rewardDisplayGroup": 96605009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050094,
+   "rewardDisplayGroup": 96605009,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020004,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050096,
+   "rewardDisplayGroup": 96605009,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 2800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050101,
+   "rewardDisplayGroup": 96605010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 37,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050102,
+   "rewardDisplayGroup": 96605010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050103,
+   "rewardDisplayGroup": 96605010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050104,
+   "rewardDisplayGroup": 96605010,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020067,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050106,
+   "rewardDisplayGroup": 96605010,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050111,
+   "rewardDisplayGroup": 96605011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 40,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050112,
+   "rewardDisplayGroup": 96605011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050113,
+   "rewardDisplayGroup": 96605011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050114,
+   "rewardDisplayGroup": 96605011,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020136,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050116,
+   "rewardDisplayGroup": 96605011,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050121,
+   "rewardDisplayGroup": 96605012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 43,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050122,
+   "rewardDisplayGroup": 96605012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050123,
+   "rewardDisplayGroup": 96605012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050124,
+   "rewardDisplayGroup": 96605012,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020186,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050126,
+   "rewardDisplayGroup": 96605012,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050131,
+   "rewardDisplayGroup": 96605013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 46,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050132,
+   "rewardDisplayGroup": 96605013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050133,
+   "rewardDisplayGroup": 96605013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050134,
+   "rewardDisplayGroup": 96605013,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020233,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050136,
+   "rewardDisplayGroup": 96605013,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050141,
+   "rewardDisplayGroup": 96605014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 49,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050142,
+   "rewardDisplayGroup": 96605014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050143,
+   "rewardDisplayGroup": 96605014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050144,
+   "rewardDisplayGroup": 96605014,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020290,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050146,
+   "rewardDisplayGroup": 96605014,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 3800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050151,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 52,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050152,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050153,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050154,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020337,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050155,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050156,
+   "rewardDisplayGroup": 96605015,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050161,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 55,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050162,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050163,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1001
+  },
+  {
+   "rewardDisplayIndex": 966050164,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020364,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050165,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050166,
+   "rewardDisplayGroup": 96605016,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050171,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 58,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050172,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050173,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050174,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020397,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050175,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050176,
+   "rewardDisplayGroup": 96605017,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050181,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 61,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050182,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050183,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050184,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020004,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050185,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050186,
+   "rewardDisplayGroup": 96605018,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050191,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 64,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050192,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050193,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050194,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020067,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050195,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050196,
+   "rewardDisplayGroup": 96605019,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 4800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050201,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 67,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050202,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050203,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050204,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020136,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050205,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050206,
+   "rewardDisplayGroup": 96605020,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050211,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 70,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050212,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050213,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050214,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020186,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050215,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050216,
+   "rewardDisplayGroup": 96605021,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050221,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 73,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050222,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050223,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050224,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020233,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050225,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050226,
+   "rewardDisplayGroup": 96605022,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050231,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 76,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050232,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050233,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050234,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020290,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050235,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050236,
+   "rewardDisplayGroup": 96605023,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050241,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 79,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050242,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 5,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050243,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1002
+  },
+  {
+   "rewardDisplayIndex": 966050244,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020337,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050245,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050246,
+   "rewardDisplayGroup": 96605024,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 5800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050251,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 82,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050252,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050253,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050254,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020364,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050255,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050256,
+   "rewardDisplayGroup": 96605025,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050261,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 85,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050262,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050263,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050264,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020397,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050265,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 2,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050266,
+   "rewardDisplayGroup": 96605026,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050271,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 88,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050272,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050273,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050274,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020004,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050275,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050276,
+   "rewardDisplayGroup": 96605027,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050281,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 91,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050282,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050283,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050284,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020067,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050285,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050286,
+   "rewardDisplayGroup": 96605028,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6600,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050291,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 94,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050292,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050293,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 6,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050294,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020136,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050295,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050296,
+   "rewardDisplayGroup": 96605029,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 6800,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050301,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 97,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050302,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050303,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050304,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020186,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050305,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050306,
+   "rewardDisplayGroup": 96605030,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050311,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 100,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050312,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050313,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050314,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020233,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050315,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050316,
+   "rewardDisplayGroup": 96605031,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7200,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050321,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 103,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050322,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050323,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050324,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020290,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050325,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 3,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050326,
+   "rewardDisplayGroup": 96605032,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7400,
+   "rewardDisplayGoodsIndex": 1
+  },
+  {
+   "rewardDisplayIndex": 966050331,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 106,
+   "rewardDisplayGoodsIndex": 15001
+  },
+  {
+   "rewardDisplayIndex": 966050332,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 12105
+  },
+  {
+   "rewardDisplayIndex": 966050333,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 7,
+   "rewardDisplayGoodsIndex": 1003
+  },
+  {
+   "rewardDisplayIndex": 966050334,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 1,
+   "rewardDisplayGoodsIndex": 3020337,
+   "rewardDisplayLocalNameTag": "HallOfElements.RandomMemory.Name"
+  },
+  {
+   "rewardDisplayIndex": 966050335,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 13,
+   "rewardDisplayCount": 4,
+   "rewardDisplayGoodsIndex": 15002
+  },
+  {
+   "rewardDisplayIndex": 966050336,
+   "rewardDisplayGroup": 96605033,
+   "rewardDisplayType": 1,
+   "rewardDisplayCount": 7600,
+   "rewardDisplayGoodsIndex": 1
   }
  ]
 }
