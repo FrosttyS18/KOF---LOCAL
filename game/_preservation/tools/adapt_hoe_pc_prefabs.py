@@ -11,10 +11,13 @@ which carries no Tag_In state, no TagAction sub-state machine and no Tag_In tran
 character stack's literal 0x3AA6180 names "KOFCharacterController", which has
 Battle_Layer.TagAction.Tag_In. So the elite needs its "Prefabs/Character/<Fighter>/<Fighter>"
 root (root GameObject present in the cached prefabs_character_<fighter> bundle), the root the
-other three elements' elites already carry. (2) CharacterInitializer_AI.SetAI (0x1810908E0)
-appends StringDefine.BehaviourTreePath_Mob ("_Mob", dump.cs 26369) to the AiGroupTable base
-node before AttachBehaviourTree, while MonsterInitializer_AI.SetAI (0x1810A2280) loads the
-base node as-is; the PC ships _Mob AI graphs only for the fighter-as-NPC families, so aiGroup
+other three elements' elites already carry. (2) The NPC fighter is initialized through
+CharacterInitializer_Monster.SetAI (0x1810954E0), which appends
+StringDefine.BehaviourTreePath_Mob ("_Mob", literal slot 0x183A96E38, dump.cs 26369) to the
+AiGroupTable base node before AttachBehaviourTree -- CharacterInitializer_Boss.SetAI
+(0x181092170) appends the same suffix, while CharacterInitializer_AI.SetAI (0x1810908E0)
+appends "_Auto" and is not this path -- and MonsterInitializer_AI.SetAI (0x1810A2280) loads
+the base node as-is; the PC ships _Mob AI graphs only for the fighter-as-NPC families, so aiGroup
 702 (Elite_Short_Normal) asks for Elite_Short_Normal_Mob -- absent from prefabs_ai_elite --
 and the ResourceLoad task hangs into DATA DOWNLOAD HAS FAILED before combat. aiGroup 706
 (FighterBoss_Normal) resolves to FighterBoss_Normal_Mob, present in
