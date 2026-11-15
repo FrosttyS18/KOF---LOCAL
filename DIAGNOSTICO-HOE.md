@@ -139,3 +139,5 @@
 
 - Revisão pós-integração do coordenador: compilação em memória de todos os módulos server/tools aprovada; chaves primárias únicas nas onze tabelas adicionadas; prefixos das 186 tabelas existentes iguais ao HEAD. Compatibilidade da coleção verificada com o estado real somente lido, sem gravação: 464 personagens jogáveis, 450 NPCs separados, 80 personagens salvos preservados. `git diff --check` aprovado com tratamento de CRLF do projeto.
 - Bundle DM20319 localizado na referência Android; compatibilidade com PC ainda NÃO demonstrada. Não foi copiado para o cache Windows, nem alterado o índice de bundles.
+
+- Rótulo do cartão HoE aplicado: somente `QuestEvent.Name.41001` passou de `Hall of Elements - Purple` para `Hall of Elements`, conforme a opção do mantenedor por abas só com as cores. Verificação da função exportada: `(0, 1)` na primeira execução, `(0, 0)` na segunda; QuestEventTable e quatro nomes restantes intactos. Pacotes 1022 regenerados após o título. A faixa preta superior ainda está sem texto recuperado; não foi considerada concluída.
