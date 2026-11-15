@@ -41812,7 +41812,7 @@
    "thumbnailBigEtc": "Prefabs/UI_Data/UI_Texture/Thumbnail/chathumb_orochiiori/character_orochiiori_98_middle",
    "thumbnailSmall": "Prefabs/UI_Data/UI_Texture/Thumbnail/chathumb_orochiiori/character_orochiiori_98_small",
    "thumbnailMicro": "Prefabs/UI_Data/UI_Texture/Thumbnail/chathumb_orochiiori/character_orochiiori_98_micro",
-   "characterPrefab": "Prefabs/Character/98_orochiiori_dm/98_OrochiIori_DM",
+   "characterPrefab": "Prefabs/Character/98_orochiiori/98_orochiiori",
    "characterSpine": "Prefabs/SpineCharacter/orochiiori_98_spine",
    "pictureBookShow": 0,
    "pictureBookShowSortOrder": 5021,

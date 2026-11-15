@@ -27,13 +27,14 @@ referenced id in neither place aborts the run naming the gap, and no value is ev
 names with no row in any source are reported as orphans and left alone (Hall of Elements precedent).
 The Prove closure is PC-first and resumable: every dependency is derived from all consumed rows (the
 project's own when present, so a partially applied import still closes what it already carries), and the
-growth/evolve whole-type step skips by content, which keeps re-runs idempotent across re-indexes. The
-only field ever rewritten on appended rows is the NEW boss fighters' pictureBookShow (set to 0 -- UI
-adaptation, keeps the 450 NPC duel enemies out of the collection book the client builds from that flag;
-every combat field stays verbatim). Fighters whose character prefab bundle is not in the PC cache are
-imported anyway but flagged in the report -- the table row is correct; only the client cannot load that
-one boss until its bundle exists (today: 20319 orochiiori_98, prefabs_character_98_orochiiori_dm, in no
-local source).
+growth/evolve whole-type step skips by content, which keeps re-runs idempotent across re-indexes. Two
+fields are ever rewritten, each documented at its site: the NEW boss fighters' pictureBookShow (set to
+0 -- UI adaptation, keeps the 450 NPC duel enemies out of the collection book the client builds from
+that flag), and -- the tool's single in-place exception -- 20319 orochiiori_98 DM's characterPrefab,
+whose bundle exists locally only as an ANDROID build and is repointed at the PC base bundle (see
+DM_PREFAB_ALIAS). Fighters whose character prefab bundle is not in the PC cache are imported anyway but
+flagged in the report -- the table row is correct; only the client cannot load that boss until its
+bundle exists.
 
 --mode gates the two halves for INCREMENTAL validation; the complete closure ("all", the default and
 the end goal) is unchanged. "buffselect" touches no player-facing table (no CharacterTable, SkillTable
@@ -67,6 +68,19 @@ BS_BUFF_FIELD = "buffIndex"
 SKILL_SLOTS = ("activeSkill1Index", "activeSkill2Index", "activeSkill3Index", "activeSkill4Index",
                "activeSkill5Index", "activeSkill6Index", "activeSkill7Index", "specialSkill1Index",
                "supporterSkill1Index")
+
+# 20319 orochiiori_98 DM: the ONLY boss whose mobile prefab dir (98_orochiiori_dm) has no PC bundle. The
+# one local copy (mobile-files/assetbundles) is an ANDROID build (SerializedFile targetPlatform 13; the
+# PC bundles are 19) and cannot load on this client. The PC-faithful adaptation -- evidence in
+# native-analysis/prove-buff-contract.md and the bridge's prove20319-assets.md -- repoints ONLY this
+# row's characterPrefab at the exact base string PC fighter 1268 loads. A fighter's skills are components
+# serialized inside its own bundle's prefabs; the base bundle embeds the same 22 Skill.OrochiIori.*
+# families the DM skill set references (matched by base name, no '#version' in either bundle), and the
+# client resolves asset names case-insensitively (the other 449 bosses already load CamelCase mobile
+# names against lowercase PC container paths). Every other field stays verbatim; if a PC build of the DM
+# bundle ever lands in the cache this alias must be dropped (the guard below enforces it).
+DM_PREFAB_ALIAS = {20319: ("Prefabs/Character/98_orochiiori_dm/98_OrochiIori_DM",
+                           "Prefabs/Character/98_orochiiori/98_orochiiori")}
 
 
 def fail(msg):
@@ -283,6 +297,29 @@ def prove_plan(schema, src, stages, quest_stage_of):
         # playable fighters. 0 keeps them out of the book while every combat field stays verbatim --
         # the duel path (SetBossCharacters) reads the row by index and never this field.
         r["pictureBookShow"] = 0
+    aliased, repaired = [], []
+    for r in chars_all:
+        idx = mono.as_int(r.get("characterIndex"), "characterIndex")
+        original, aliased_path = DM_PREFAB_ALIAS.get(idx, (None, None))
+        if not original:
+            continue
+        dm_bundle = "prefabs_" + "_".join(p.lower() for p in original.split("/")[1:-1])
+        pc_bundle = "prefabs_" + "_".join(p.lower() for p in aliased_path.split("/")[1:-1])
+        if os.path.isfile(bundle_path(dm_bundle)):
+            continue          # a PC build of the DM bundle exists: keep the row verbatim, alias retired
+        current = r.get("characterPrefab")
+        if current == aliased_path:
+            continue          # the alias is already in place (a fresh append or an earlier repair)
+        if current != original:
+            fail(f"CharacterTable {idx}: prefab is {current!r}, DM_PREFAB_ALIAS expects {original!r} "
+                 "-- the alias table is stale")
+        if not os.path.isfile(bundle_path(pc_bundle)):
+            fail(f"CharacterTable {idx}: alias target bundle {pc_bundle} missing from the PC cache")
+        r["characterPrefab"] = aliased_path
+        if idx in mst_char:
+            repaired.append(idx)     # row an earlier run already appended: an in-place one-field repair
+        else:
+            aliased.append(idx)      # row this run appends with the aliased path from the start
     uncached_prefabs = sorted({r["characterPrefab"] for r in chars_all
                                if not os.path.isfile(bundle_path("prefabs_" + "_".join(
                                    p.lower() for p in r["characterPrefab"].split("/")[1:-1])))})
@@ -368,6 +405,7 @@ def prove_plan(schema, src, stages, quest_stage_of):
            ("CharacterLevelingTable", "characterLevelingIndex", leveling)]
     tags = {r.get("characterNameTag") for r in chars}
     return add, tags, {"fighters": len(fighters), "npc_book_hidden": len(chars),
+                       "dm_prefab_alias": aliased, "dm_prefab_repaired": repaired,
                        "uncached_character_prefabs": uncached_prefabs,
                        "character_growth": growth_notes, "character_evolve": evolve_notes}
 
@@ -421,6 +459,19 @@ def main():
         if not prove_stages:
             fail("ProveDungeonStageTable: no rows in the project tables")
         pv_add, pv_tags, pv_notes = prove_plan(schema, src, prove_stages, quest_stage_of)
+        for idx in pv_notes.get("dm_prefab_repaired", []):
+            # The tool's ONE in-place exception (import_dungeons has three of its own): a row this tool
+            # already appended carries the DM prefab path an earlier run planned, and no PC build of that
+            # bundle exists -- rewrite exactly that one field so the boss can load at all.
+            original, aliased_path = DM_PREFAB_ALIAS[idx]
+            doc = base.load_data("CharacterTable")
+            row = next((r for r in doc["rows"] if mono.as_int(r.get("characterIndex"), "characterIndex")
+                        == idx), None)
+            if row is None or row.get("characterPrefab") != original:
+                fail(f"CharacterTable {idx}: repair refused -- row missing or prefab already "
+                     f"{(row or {}).get('characterPrefab')!r}")
+            row["characterPrefab"] = aliased_path
+            base.save_data("CharacterTable", doc)
 
     text_tables = {"MonsterTable": ["MonsterTable"], "BuffTable": ["BuffTable"],
                    "CharacterTable": ["CharacterTable"]}
@@ -445,6 +496,16 @@ def main():
     if bs_notes.get("skill_chain_orphans"):
         print("bundle skills with no row in any source (never invented): "
               + ", ".join(f"{n} [{m}]" for n, m in sorted(bs_notes["skill_chain_orphans"].items())))
+    if pv_notes.get("dm_prefab_alias") or pv_notes.get("dm_prefab_repaired"):
+        parts = []
+        if pv_notes.get("dm_prefab_alias"):
+            parts.append(f"aliased at append on {pv_notes['dm_prefab_alias']}")
+        if pv_notes.get("dm_prefab_repaired"):
+            parts.append(f"repaired in place on {pv_notes['dm_prefab_repaired']}")
+        print(f"CharacterTable 20319 orochiiori_98 DM: {'; '.join(parts)} -- its bundle exists only as an "
+              "ANDROID build (targetPlatform 13; PC is 19), unusable on this client, so the row points at "
+              "the base 98_orochiiori bundle PC fighter 1268 loads. Every other field verbatim; the alias "
+              "retires itself if a PC build of the DM bundle ever reaches the cache")
     if pv_notes.get("uncached_character_prefabs"):
         print("WARNING fighters whose character prefab bundle is NOT in the PC cache (client cannot load "
               "them until the bundle exists; row still imported): "
