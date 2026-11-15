@@ -43,9 +43,17 @@ is a no-op, a different non-zero value aborts. NOTE (npc-fallback-review.md 225)
 fallback initializes ONE Skill (Array.Find); the multi-skill path is the 16-slot table loop --
 sufficiency is an OPEN question, no fix claimed.
 
+PG ADAPTATION: the NPC boss Goenitz's graph reserves finisher/ultimate by BBParameter name;
+the CharacterBattleController checkPG delegate (b__73_1 @ 0x18115E500, chain skill+0x278 ->
+invoke(usePG@+0x180)) checks the skill's cost. NPC PG = 40 (CBC+0x128 -> NmssSvFloat+0x18), F01Start=300, U01Start=500
+-> both unreachable (resource deadlock). The PROJECTION rewrites usePGBase to 0.0 on exactly
+MonsterSkillTable rows 110609 (F01Start.IbukiNagayo) and 110626 (U01Start.SinYaotomeZissokoku)
+-- a declared NPC ADAPTATION to avoid the boss-graph deadlock, NOT a recovered original.
+Player-side SkillTable stays untouched (player Goenitz still pays 300/500).
+
 Idempotency: running against already-adapted data is a no-op when the existing rows match the
-projection value-by-value (skill rows) and every slot field (boss rows); a genuine conflict --
-same id/name or slot with DIFFERENT content -- aborts before any write.
+projection value-by-value (skill rows), every slot field (boss rows), and PG-adapted rows
+already carry usePGBase 0.0; a genuine conflict aborts before any write.
 
 Outputs (only with --apply, only to --output TEMP): MonsterSkillTable.additions.json (rows not
 already present), MonsterTable.row-patches.json (boss rows lacking the variation), report.json.
@@ -74,6 +82,8 @@ ROOT_TYPES = (1, 2, 3)          # active specials the 16-slot Character loop sho
 BASE_ATTACK_TYPE = 5            # Combo01..04 of the fighter's own prefab
 MAX_ROOT_SLOTS = 12
 EPS = 1e-6
+PG_ZERO = {110609: "Skill.Goenitz.F01Start.IbukiNagayo#3",
+           110626: "Skill.Goenitz.U01Start.SinYaotomeZissokoku#3"}
 
 
 def fail(msg):
@@ -265,8 +275,13 @@ def main():
                          "base": r.get("skillDamageRBase"), "perBefore": per_before,
                          "perAfter": step,
                          "provenLevels": {str(n): proven_lvs[n] for n in sorted(proven_lvs)}})
+            if sid in PG_ZERO:
+                if row.get("monsterSkillIndexString") != PG_ZERO[sid]:
+                    fail("PG adaptation skill identity mismatch for %d" % sid)
+                row["usePGBase"] = 0.0
             if sid in existing:
-                if existing[sid] != row:
+                existing_row = existing[sid]
+                if existing_row != row:
                     fail("monsterSkillIndex %d exists with DIFFERENT content -- conflict, abort" % sid)
                 already += 1
                 continue
@@ -373,11 +388,21 @@ def main():
               "openQuestion": "SetBattle fallback initializes one Skill (Array.Find); the 16-slot "
                               "table loop is the multi-skill path -- sufficiency of variation alone "
                               "is undecided; staging claims no fix",
+              "pgAdaptation": {
+                  "reason": "NPC boss graph reserves finisher/ultimate by BBParameter name; "
+                            "CharacterBattleController checkPG (b__73_1 @ 0x18115E500) enforces "
+                            "PG >= usePG; NPC PG=40, F01Start=300, U01Start=500 -> deadlock",
+                  "rows": {str(k): {"name": v, "usePGBase_original": (300.0 if k == 110609 else 500.0),
+                                    "usePGBase_adapted": 0.0}
+                           for k, v in PG_ZERO.items()},
+                  "declared": "NPC ADAPTATION to avoid resource deadlock, NOT a recovered original",
+                  "playerSkillTable": "unchanged (player Goenitz still pays 300/500)"},
               "preserved": "all original rows untouched; patched boss rows differ only in the slot "
                            "fields (baseAttack*/skill*) and skillVariationNumber; every projected "
                            "field stays the source's exact value EXCEPT skillDamageRPerLv of the "
                            "damageChannel.derivedRows (rewritten to the series' real step for the "
-                           "proven Monster consumer); cooldown Base/Per stay source-exact (cooldown "
+                           "proven Monster consumer) and usePGBase in pgAdaptation.rows; "
+                           "cooldown Base/Per stay source-exact (cooldown "
                            "consumer unproven, m_skillCooltime@0xB8)"}
     for name, d in (("MonsterSkillTable.additions.json", doc), ("MonsterTable.row-patches.json", patch_doc),
                     ("slot-proposals.json", {"_comment": "16-slot layer proposal (root actives 1/2/3 + "
