@@ -4,9 +4,9 @@
 
 ## De onde retomamos
 
-O início histórico do trabalho foi o Hall of Elements voltar ao menu durante o carregamento/download e apresentar ausência de inimigos, conforme registrado em `DIAGNOSTICO-HOE.md`. O último checkpoint atual é `b3125dc4c5f5fa19292fa40927cda970a929bb4e` (`fix: keep Buff Select tooltips inside the lobby`), commitado e enviado; HEAD e `origin/main` estão nesse checkpoint. A sequência anterior incluiu `424dfab` (`fix: restore Buff Select bonus values and power limits`), além das correções de conclusão do Buff Select, retenção do time e dados da Tower.
+O início histórico do trabalho foi o Hall of Elements voltar ao menu durante o carregamento/download e apresentar ausência de inimigos, conforme registrado em `DIAGNOSTICO-HOE.md`. O último checkpoint de código do escopo é `b3125dc4c5f5fa19292fa40927cda970a929bb4e` (`fix: keep Buff Select tooltips inside the lobby`), com runtime de tabelas v1027. O commit `85f9d17` é uma atualização documental histórica sobre a contagem da árvore de Goenitz, não um novo checkpoint de código. Antes dele, `424dfab` corrigiu os limites dos bônus, além das correções de conclusão, retenção do time e dados da Tower.
 
-O save mais recente registra clear=5/max=5, run=6, picks 4[1010] e 5[1002]. O usuário encontrou o Goenitz do andar 5 parado, derrotou-o e avançou; isso confirma o progresso salvo, mas não a IA correta nem a validação plena do modo. Um replay do andar 5 também ficou parado e terminou por tempo. O bônus numérico real observado em teste anterior foi +5% de chance crítica no Rugal 1256, para o buff 64000010 ativo em nível/stack 1. O usuário confirmou os textos dos três tooltips inteiros após reload e planeja avançar até o andar 11 para medir HP negativo; esse teste ainda não foi concluído.
+No registro do andar 5, o save indicava clear=5/max=5, run=6 e picks 4[1010]/5[1002]. O usuário alcançou o andar 13 e confirmou por amostra as três penalidades individuais nos andares 11–13. O Goenitz do andar 5 e o Krizalid do andar 10 permanecem com defeitos de IA observados.
 
 `NOTA-ENTREGA.md` está disponível, mas é um handoff histórico de 14/11. Use-o com as ressalvas do diagnóstico atual; sua antiga afirmação de “Time Attack 100%” cobria navegação/endpoints, não batalha completa. `DIAGNOSTICO-HOE.md` contém a sequência recente de evidências.
 
@@ -18,24 +18,33 @@ Esse número não representa 71,4% das fases, dos dados, do trabalho total, da f
 
 ## Estado e continuação
 
-| Modo | Estado observado | Pendente prioritário |
+| Modo | Resultado observado | Pendências principais |
 | --- | --- | --- |
-| Hall of Elements | Vitórias em amostras Purple 1/2/32/33, Blue 1, Red 1, Green 1 e Yellow 1. Blue sem identificação visual do chefe; Green teve modelo e ondas atacando. | Verificar elementos/fases restantes por amostragem representativa; validar IA individual de Yuri/King; não declarar 165 combates. |
-| Time Attack | Street Rumble (30101), três arenas, vencido com resultado e save registrados. | Validar os outros oito desafios e recompensas/continuidade representativas. |
-| Sura | Ninja Ambush vencido; first clear e desafio 2 desbloqueado. | Validar os outros 23 desafios por cobertura representativa. |
-| Tower of Illusion | Andar 1 vencido; andar 2 desbloqueado. Prévia e rótulo Lv. 32 do andar 2 vistos em v1025. | CP do andar 2 continua sem dado comprovado; validar progressão e amostras dos outros 49 andares. |
-| Buff Select | Andares 1–5 têm progresso/vitórias registrados no save; andares 1–3 também têm as runs detalhadas de recompensas, picks, HP/time e bônus 64000010 em Rugal. Andar 6 liberado; no andar 5, pick 1002 registrado. | **Prioridade alta:** Goenitz Lv. 40 do andar 5 foi visto parado com cinco barras; replay 5 também terminou por tempo. Capturas live mostraram FSM no estado CharacterAISample e árvore de IA em execução, sem alvo; no grafo, 5/64 nós estavam em Failure e 59/64 em Resting. Das 105 tasks, 3 estavam em Success, 76 em Resting e 26 sem campo de status. TaskCondition_BuffownerNodeID0 tinha initSuccess=true; FindWithTag/ActionFindObject da node 2 tiveram Success (`goenitz-floor5-character-ai.json`, `goenitz-floor5-ai-running.json`; snapshot `snapshot-buff-floor5-goenitz-active.json`). Save confirma clear=5/max=5/run=6 e picks 4[1010]/5[1002], logo avanço registrado não equivale a modo plenamente validado. Investigar IA do chefe. Barra Elite sem modelo aparente reapareceu no print do andar 5: defeito visual persistente, pendente de investigação/correção. Medir os demais bônus/efeitos e stacks; usuário planeja avançar até o andar 11 para medir HP negativo, ainda pendente. Valores negativos estão carregados no BuffTable vivo (5.827 linhas; -0,1 em base/per-level/max), mas redução efetiva de HP/ATK/DEF segue sem prova em combate. |
-| Prove | ModeTable com display=1 preparado/instalado; servidor fornece cinco adversários. Dois arrays de metadata lidos não expõem o índice 109 pela rota ChallengeTop; Scene 155 existe em rota alternativa do catálogo. | Card/tela ainda não comprovado ao usuário. ChallengeTop não expõe 109; rota alternativa pela Scene 155 ainda não foi comprovada. Batalha não validada. |
-| Advent | Evento 42001 abre a lista e volta ao hub por EventEndNotice. | Investigar emissor da notificação e viabilidade; nenhum combate do 42001 ou de outros eventos testado. |
+| Hall of Elements | Vitórias em amostras Purple 1/2/32/33, Blue 1, Red 1, Green 1 e Yellow 1. | Ampliar amostragem e verificar IA individual de Yuri/King; não há prova de 165 combates. |
+| Time Attack | Street Rumble (30101), três arenas, vencido com resultado/save registrados. | Validar os outros oito desafios e continuidade/recompensas representativas. |
+| Sura | Ninja Ambush vencido, first clear e desafio 2 desbloqueado. | Validar os outros 23 desafios por amostragem. |
+| Tower of Illusion | Andar 1 vencido; andar 2 desbloqueado, com rótulo e prévia vistos em v1025. | CP do andar 2 segue sem dado; validar progressão e amostras dos outros 49 andares. |
+| Buff Select | Vitórias registradas nos andares 1–5; usuário alcançou 13 e as três penalidades individuais foram confirmadas nos andares 11–13. | Goenitz (F5) e Krizalid (F10) ficaram parados; ambos sem correção. Barra Elite sem modelo persiste. Andares altos, efeitos visuais e combinações seguem parcialmente pendentes. |
+| Prove | ModeTable display=1 preparado/instalado; servidor fornece cinco adversários. | Card/rota de UI não comprovados; ChallengeTop não expõe índice 109 e a rota Scene 155 segue incerta. Nenhuma batalha validada. |
+| Advent | Evento 42001 (Yashiro) abre a lista e retorna ao hub via EventEndNotice. | Investigar emissor e viabilidade; nenhum combate validado. |
+
+## Evidências recentes do Buff Select
+
+- **Bônus positivos:** +5% de crítico confirmado no Rugal 1256 (64000010, nível/stack 1). Snapshot aprovado de 12:31:04 registra modificadores positivos empilhados e Fury no alvo de Rugal 1294; detalhes e campos estão no changelog. Buffs de crítico técnico 1010 e defesa 1009 estavam inativos no personagem Attack, como esperado. Efeitos visuais dos buffs estão em análise; nenhum efeito novo foi implementado.
+- **Penalidades negativas:** HP 64000103 no andar 11, ATK 64000101 no 12 e DEF 64000102 no 13 foram confirmados individualmente no alvo, L1/−0,1, com a penalidade anterior deixando de aparecer ativa ao avançar. Referências: `live-player-buffs-20261115-123104.json`, `live-player-buffs-20261115-123345.json` e `live-player-buffs-20261115-123641.json`. Reservas 1339/1225 estavam apenas self-inactive; não há prova de aplicação nos três personagens nem de combos nos andares 31/41.
+- **Goenitz, andar 5:** sem alvo; 64 nós (5 Failure, 59 Resting), 105 tasks (3 Success, 76 Resting, 26 sem status). ActionFind teve sucesso; replay terminou por tempo. Causa não estabelecida. TEMP: `goenitz-floor5-character-ai.json`, `goenitz-floor5-ai-running.json`.
+- **Krizalid, andar 10:** parado com 100% HP em duas leituras, com alvo; FSM rodava. Grafo 29 nós (5 Failure, 23 Resting, 1 Success); ActionSkill node 28 terminou em Failure. Sintoma distinto; causa não estabelecida. TEMP: `npc-ai-20261115-122457.json`, `npc-ai-20261115-122514.json`.
+- **Tooltip e barra Elite:** usuário confirmou os três tooltips inteiros após reload; review do bundle aprovou decodificação e preservação. Barra Elite sem modelo aparente segue visível no print do andar 5 e pendente de investigação.
 
 ## Pendências transversais
 
-1. Cobertura por amostras dos demais elementos/fases, dos andares altos 5/10/50 e desafios ainda não exercitados. Não confundir níveis de referência no preview com combate real.
-2. Medir em runtime valores numéricos restantes: bônus positivos, penalidades negativas, empilhamento, duração e alvos. O limite nativo foi corrigido com `Max := PerLv * MaxLevel` nas 18 referências; o crítico 64000010 foi medido em combate. Os valores negativos 64000101/102/103 foram lidos no BuffTable vivo com -0,1 nos três campos, evidência `native-analysis/cached-negative-buff-power-v1027.json`; isso não demonstra aplicação em combate.
+1. Cobertura representativa dos elementos, fases, desafios e andares altos que faltam. Não é necessário executar manualmente todas as 50 fases; mantenha declaradas as lacunas sem extrapolar amostras. Preview não substitui combate real.
+2. Medir efeitos, duração, alvos e empilhamentos que ainda não tenham cobertura suficiente; os limites nativos foram corrigidos. Resultados e limites por buff estão resumidos em “Evidências recentes do Buff Select” e no changelog.
 3. Investigar/corrigir a barra Elite sem modelo aparente, novamente observada no print do andar 5. O defeito visual persiste; vitória do chefe não o resolve.
 4. Reentradas, HP e time entre andares, recompensas, first clears e segurança de combate; realizar checks de regressão vizinhos conforme o fluxo de validação do projeto.
 5. Confirmar se a rota alternativa do Prove pela Scene 155 pode ser alcançada pela UI; a rota ChallengeTop não expõe o índice 109. Investigar EventEndNotice e combate Advent.
 6. Hot reload não existe; alterações de conteúdo ainda requerem reiniciar. Reavaliar o banner apenas depois de validação mais ampla e de definir uma métrica reproduzível.
+7. O pedido de remover indicadores Wi-Fi/bateria no cliente PC segue sem alteração instalada.
 
 ## Origem dos dados e classificação das afirmações
 
