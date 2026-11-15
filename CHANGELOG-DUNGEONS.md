@@ -2,11 +2,18 @@
 
 **Escopo:** histórico temático do trabalho de restauração das sete dungeons. Este arquivo resume commits já presentes em `main` e validações registradas; não substitui o diagnóstico detalhado do Hall of Elements em [`DIAGNOSTICO-HOE.md`](DIAGNOSTICO-HOE.md).
 
+## 15/11 — primeira rodada real automatizada em segundo plano
+
+- Ponte temporária acionou os mesmos métodos do cliente usados pela interface, na thread principal, sem entrada global de mouse/teclado: lobby → andar 1 → início → AUTO → vitória → retorno ao lobby.
+- Resultado real do cliente: andar 1, vitória, ClearTime 19.164 ms, AUTO. Replay preservou pick1[1010], com choice vazia e sem popup de nova escolha carregado. Servidor atualizado com `016c2d1`.
+- Instrumentação desconectada e restauração dos 24 bytes verificada em cada comando. Nenhum executável, metadado, prefs ou save foi editado diretamente pela ponte. Frida 17.26.3 fica em ambiente isolado TEMP, fora do Python embutido.
+- A rotina de lote ainda está em implementação; esta é uma amostra real, não prova de todos os 50 andares. Goenitz e Krizalid continuam pendentes; adaptação de skills permanece em staging e revisão.
+
 ## 15/11 — HUD do PC e teste do gate Goenitz
 
 - Indicador de Wi-Fi/bateria desativado no objeto PhoneInfo da interface de combate: um byte alterado, 4.146 objetos e demais dados preservados; usuário confirmou que desapareceu. Gerador `build_pc_status_icons_off.py`.
 - Gate refletido do Goenitz adaptado de Monster para Actor; um campo do grafo, demais 18 objetos e três referências de collider preservados. A IA avança, mas o chefe continua parado no teste do usuário: não é correção completa. Gerador `build_buffselect_goenitz_pc.py`.
-- Replay de andar já concluído oferecia nova escolha e acumulava picks. `ext_buffselect.py` agora oferece escolha só no avanço, exige opção pendente e impede duplicação. Pendências legítimas são preservadas; escolhas antigas de replay não bloqueiam avanço. 22 verificações do produtor e 15 verificações independentes dos handlers em memória aprovadas; interface após reinício ainda pendente. Nenhum pick existente foi removido.
+- Replay de andar já concluído oferecia nova escolha e acumulava picks. `ext_buffselect.py` agora oferece escolha só no avanço, exige opção pendente e impede duplicação. Pendências legítimas são preservadas; escolhas antigas de replay não bloqueiam avanço. 22 verificações do produtor e 15 verificações independentes dos handlers em memória aprovadas; correção carregada e replay real do andar 1 validado sem nova escolha, pick anterior preservado, retorno ao lobby. Nenhum pick existente foi removido.
 
 ## Fontes e limites da evidência
 
