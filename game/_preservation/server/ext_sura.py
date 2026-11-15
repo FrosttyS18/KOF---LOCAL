@@ -20,9 +20,11 @@ PenaltyTable/PenaltyBuffTable and the BuffTable row their debuff needs are stage
 tools/import_sura_penalties.py; until that staging is applied the client reads them empty and fights
 without penalties.
 
-Auto-Clear stays unlimited per the maintainer's request (info always reports FreeMopUpPlayCount 0),
-although QuestEvent 10801 itself says isAbleMopUp 0 / mopUpMaxCount 3; with nothing of a phase swept it
-answers ResultCode 1 instead of inventing a reward."""
+Auto-Clear grants one collection per local calendar day. Batch and repeated requests are rejected
+under the api lock before granting rewards or saving state. Legacy counts above one remain collected
+for that day without removing earlier rewards. info reports today's use capped at one in
+FreeMopUpPlayCount and zero in PayMopUpPlayCount; missing phase rewards fail without consuming the
+daily collection. QuestEvent 10801's isAbleMopUp 0 / mopUpMaxCount 3 are legacy table metadata."""
 import time
 
 import gameapi as G
@@ -72,11 +74,12 @@ def sura_info(req):
         pr = state.setdefault("sura", {})
         clear, nxt = progress(st, pr)
         phase = int((nxt or {}).get("suraDungeonDifficultyIndex") or 1)
+        free_mopups = min(today_count(pr), 1)
         G.save_state(state)
     plays = pr.get("plays") or {}
     return G.ok(SuraDungeon={"SuraDungeonDifficultyIndex": phase, "SuraDungeonClearStageIndex": clear,
                              "SuraDungeonClearStageIndexMax": max(clear, int(pr.get("max") or 0)),
-                             "FreeMopUpPlayCount": 0, "PayMopUpPlayCount": 0},
+                             "FreeMopUpPlayCount": free_mopups, "PayMopUpPlayCount": 0},
                 SuraDungeonStageList=[{"SuraDungeonStageIndex": int(r["suraDungeonStageIndex"]),
                                        "BattleResult": 1 if int(r["suraDungeonStageIndex"]) <= clear else 0,
                                        "PlayCount": max(1, int(plays.get(str(r["suraDungeonStageIndex"])) or 0))
@@ -149,11 +152,15 @@ def sura_end(req):
 def sura_mopup(req):
     st, df = sura_rows()
     runs = max(1, int(req.get("MopUpCount") or 1))
+    if runs > 1:
+        return fail("Sura Auto-Clear allows only one collection per day")
     with G._lock:
         state = G.load_state()
         if state is None:
             return fail("no account")
         pr = state.setdefault("sura", {})
+        if today_count(pr) >= 1:
+            return fail("Sura Auto-Clear already collected today")
         clear, nxt = progress(st, pr)
         phase = int((nxt or {}).get("suraDungeonDifficultyIndex") or 1)
         all_done = bool(st) and clear >= int(st[-1]["suraDungeonStageIndex"])
