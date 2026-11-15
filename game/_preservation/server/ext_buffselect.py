@@ -201,6 +201,17 @@ def bs_end(req):
     first = 0
     with G._lock:
         state = G.load_state()
+        pr = state.get("buffselect") or {}
+        choice = pr.get("choice") or {}
+        c_floor = int(choice.get("floor") or 0)
+        c_options = [int(x) for x in choice.get("options") or []]
+        c_picked = (pr.get("picks") or {}).get(str(c_floor)) or []
+        c_valid_floor = any(int(r.get("stageIndex") or 0) == c_floor for r in floors())
+        pending = (c_floor and 0 < c_floor <= int(pr.get("clear") or 0) and c_valid_floor
+                   and c_options and all(o in buffs() for o in c_options) and not c_picked)
+        if won and q and n > int(pr.get("clear") or 0) and pending:
+            return {"ResultCode": 1,
+                    "ResultMessage": "a buff choice for floor %d is still pending" % c_floor}
         pr = state.setdefault("buffselect", {})
         hp = pr.setdefault("hp", {})
         main = [int((pr.get("team") or {}).get(k) or 0) for k in MAIN_KEYS]
@@ -211,15 +222,17 @@ def bs_end(req):
             for c in list(hp):
                 if int(hp[c]) <= 0 and int(c) not in main:
                     hp[c] = 30
-            if n > int(pr.get("clear") or 0):
+            progressed = n > int(pr.get("clear") or 0)
+            if progressed:
                 pr["clear"] = n
             if n > int(pr.get("max") or 0):
                 first = 1
                 pr["max"] = n
                 out["ClearRewardList"] = G.give_rewards(
                     state, q.get("questEventStageFirstClearRewardGroup", 0))[0]
-            options = sorted(random.sample(buffs(), 3))
-            pr["choice"] = {"floor": n, "options": options}
+            if progressed:
+                options = sorted(random.sample(buffs(), 3))
+                pr["choice"] = {"floor": n, "options": options}
             account = req.get("PlayerAccount") or {}
             before = max(state.get("exp", 0), int(account.get("Exp") or 0))
             state["exp"] = before + G.QUEST_EVENT_EXP_PER_AP * BS_AP
@@ -242,14 +255,20 @@ def bs_pick(req):
     b = int(req.get("DungeonBuffIndex") or 0)
     with G._lock:
         state = G.load_state()
-        pr = state.setdefault("buffselect", {})
+        pr = state.get("buffselect") or {}
         choice = pr.get("choice") or {}
-        floor_n = int(choice.get("floor") or pr.get("clear") or 0)
-        if b and b in buffs():
-            pr.setdefault("picks", {}).setdefault(str(floor_n), []).append(b)
-        pr["choice"] = {}
-        G.save_state(state)
-    taken = (pr.get("picks") or {}).get(str(floor_n), [])
+        floor_n = int(choice.get("floor") or 0)
+        options = [int(x) for x in choice.get("options") or []]
+        picked = (pr.get("picks") or {}).get(str(floor_n)) or []
+        valid_floor = any(int(r.get("stageIndex") or 0) == floor_n for r in floors())
+        if valid_floor and floor_n <= int(pr.get("clear") or 0) \
+                and b in options and b in buffs() and not picked:
+            if "buffselect" not in state:
+                state["buffselect"] = pr
+            pr.setdefault("picks", {})[str(floor_n)] = [b]
+            pr["choice"] = {}
+            G.save_state(state)
+    taken = ((pr.get("picks") or {}).get(str(floor_n))) or []
     return G.ok(Dungeon=dungeon_view(pr), Stage={"StageIndex": floor_n,
                                                  "BuffIndex": ",".join(str(i) for i in taken)})
 

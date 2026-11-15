@@ -6,7 +6,7 @@
 
 - Indicador de Wi-Fi/bateria desativado no objeto PhoneInfo da interface de combate: um byte alterado, 4.146 objetos e demais dados preservados; usuário confirmou que desapareceu. Gerador `build_pc_status_icons_off.py`.
 - Gate refletido do Goenitz adaptado de Monster para Actor; um campo do grafo, demais 18 objetos e três referências de collider preservados. A IA avança, mas o chefe continua parado no teste do usuário: não é correção completa. Gerador `build_buffselect_goenitz_pc.py`.
-- Replay de andar já concluído oferece nova escolha e acumula picks: bug confirmado em código/save, ajuste em andamento. Nenhum pick existente foi removido.
+- Replay de andar já concluído oferecia nova escolha e acumulava picks. `ext_buffselect.py` agora oferece escolha só no avanço, exige opção pendente e impede duplicação. Pendências legítimas são preservadas; escolhas antigas de replay não bloqueiam avanço. 22 verificações do produtor e 15 verificações independentes dos handlers em memória aprovadas; interface após reinício ainda pendente. Nenhum pick existente foi removido.
 
 ## Fontes e limites da evidência
 
