@@ -35241,7 +35241,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 70
   },
   {
    "stageBalanceIndex": 3900022,
@@ -35306,7 +35307,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 72
   },
   {
    "stageBalanceIndex": 3900023,
@@ -35371,7 +35373,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 74
   },
   {
    "stageBalanceIndex": 3900024,
@@ -35436,7 +35439,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 76
   },
   {
    "stageBalanceIndex": 3900025,
@@ -35501,7 +35505,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 78
   },
   {
    "stageBalanceIndex": 3900026,
@@ -35566,7 +35571,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 80
   },
   {
    "stageBalanceIndex": 3900027,
@@ -35631,7 +35637,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 82
   },
   {
    "stageBalanceIndex": 3900028,
@@ -35696,7 +35703,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 84
   },
   {
    "stageBalanceIndex": 3900029,
@@ -35761,7 +35769,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 86
   },
   {
    "stageBalanceIndex": 3900030,
@@ -35826,7 +35835,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 88
   },
   {
    "stageBalanceIndex": 3900031,
@@ -35891,7 +35901,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 90
   },
   {
    "stageBalanceIndex": 3900032,
@@ -35956,7 +35967,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 92
   },
   {
    "stageBalanceIndex": 3900033,
@@ -36021,7 +36033,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 94
   },
   {
    "stageBalanceIndex": 3900034,
@@ -36086,7 +36099,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 96
   },
   {
    "stageBalanceIndex": 3900035,
@@ -36151,7 +36165,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 98
   },
   {
    "stageBalanceIndex": 3900036,
@@ -36216,7 +36231,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 100
   },
   {
    "stageBalanceIndex": 3900037,
@@ -36281,7 +36297,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 102
   },
   {
    "stageBalanceIndex": 3900038,
@@ -36346,7 +36363,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 104
   },
   {
    "stageBalanceIndex": 3900039,
@@ -36411,7 +36429,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 106
   },
   {
    "stageBalanceIndex": 3900040,
@@ -36476,7 +36495,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 108
   },
   {
    "stageBalanceIndex": 3900041,
@@ -36541,7 +36561,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 110
   },
   {
    "stageBalanceIndex": 3900042,
@@ -36606,7 +36627,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 112
   },
   {
    "stageBalanceIndex": 3900043,
@@ -36671,7 +36693,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 114
   },
   {
    "stageBalanceIndex": 3900044,
@@ -36736,7 +36759,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 116
   },
   {
    "stageBalanceIndex": 3900045,
@@ -36801,7 +36825,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 118
   },
   {
    "stageBalanceIndex": 3900046,
@@ -36866,7 +36891,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 120
   },
   {
    "stageBalanceIndex": 3900047,
@@ -36931,7 +36957,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 122
   },
   {
    "stageBalanceIndex": 3900048,
@@ -36996,7 +37023,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 124
   },
   {
    "stageBalanceIndex": 3900049,
@@ -37061,7 +37089,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 126
   },
   {
    "stageBalanceIndex": 3900050,
@@ -37126,7 +37155,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 128
   },
   {
    "stageBalanceIndex": 4100101,
@@ -49216,7 +49246,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 30
   },
   {
    "stageBalanceIndex": 3900002,
@@ -49281,7 +49312,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 32
   },
   {
    "stageBalanceIndex": 3900003,
@@ -49346,7 +49378,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 34
   },
   {
    "stageBalanceIndex": 3900004,
@@ -49411,7 +49444,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 36
   },
   {
    "stageBalanceIndex": 3900005,
@@ -49476,7 +49510,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 38
   },
   {
    "stageBalanceIndex": 3900006,
@@ -49541,7 +49576,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 40
   },
   {
    "stageBalanceIndex": 3900007,
@@ -49606,7 +49642,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 42
   },
   {
    "stageBalanceIndex": 3900008,
@@ -49671,7 +49708,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 44
   },
   {
    "stageBalanceIndex": 3900009,
@@ -49736,7 +49774,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 46
   },
   {
    "stageBalanceIndex": 3900010,
@@ -49801,7 +49840,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 48
   },
   {
    "stageBalanceIndex": 3900011,
@@ -49866,7 +49906,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 50
   },
   {
    "stageBalanceIndex": 3900012,
@@ -49931,7 +49972,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 52
   },
   {
    "stageBalanceIndex": 3900013,
@@ -49996,7 +50038,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 54
   },
   {
    "stageBalanceIndex": 3900014,
@@ -50061,7 +50104,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 56
   },
   {
    "stageBalanceIndex": 3900015,
@@ -50126,7 +50170,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 58
   },
   {
    "stageBalanceIndex": 3900016,
@@ -50191,7 +50236,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 60
   },
   {
    "stageBalanceIndex": 3900017,
@@ -50256,7 +50302,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 62
   },
   {
    "stageBalanceIndex": 3900018,
@@ -50321,7 +50368,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 64
   },
   {
    "stageBalanceIndex": 3900019,
@@ -50386,7 +50434,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 66
   },
   {
    "stageBalanceIndex": 3900020,
@@ -50451,7 +50500,8 @@
    "skill4Rate3": 1.0,
    "skill5Rate3": 1.0,
    "skill6Rate3": 1.0,
-   "skill7Rate3": 1.0
+   "skill7Rate3": 1.0,
+   "monsterLevel": 68
   }
  ]
 }

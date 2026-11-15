@@ -15477,6 +15477,1126 @@
    "rewardDisplayGrade": 0,
    "rewardDisplayCount": 1,
    "rewardDisplayGoodsIndex": 17101
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100001,
+   "rewardDisplayCount": 6000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000001
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100001,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000002
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100001,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000003
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100002,
+   "rewardDisplayCount": 7000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000004
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100002,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000005
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100002,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000006
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100003,
+   "rewardDisplayCount": 8000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000007
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100003,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000008
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100003,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000009
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100004,
+   "rewardDisplayCount": 9000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000010
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100004,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000011
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100004,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000012
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100005,
+   "rewardDisplayCount": 10000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000013
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100005,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000014
+  },
+  {
+   "rewardDisplayGoodsIndex": 17002,
+   "rewardDisplayGroup": 94100005,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000015
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100006,
+   "rewardDisplayCount": 11000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000016
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100006,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000017
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100006,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000018
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100007,
+   "rewardDisplayCount": 12000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000019
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100007,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000020
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100007,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000021
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100008,
+   "rewardDisplayCount": 13000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000022
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100008,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000023
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100008,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000024
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100009,
+   "rewardDisplayCount": 14000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000025
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100009,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000026
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100009,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000027
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100010,
+   "rewardDisplayCount": 15000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000028
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100010,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000029
+  },
+  {
+   "rewardDisplayGoodsIndex": 17002,
+   "rewardDisplayGroup": 94100010,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000030
+  },
+  {
+   "rewardDisplayGoodsIndex": 11701,
+   "rewardDisplayGroup": 94100010,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000031
+  },
+  {
+   "rewardDisplayGoodsIndex": 14001,
+   "rewardDisplayGroup": 94100010,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000032
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100011,
+   "rewardDisplayCount": 16000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000033
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100011,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000034
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100011,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000035
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100012,
+   "rewardDisplayCount": 17000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000036
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100012,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000037
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100012,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000038
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100013,
+   "rewardDisplayCount": 18000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000039
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100013,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000040
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100013,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000041
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100014,
+   "rewardDisplayCount": 19000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000042
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100014,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000043
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100014,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000044
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100015,
+   "rewardDisplayCount": 20000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000045
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100015,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000046
+  },
+  {
+   "rewardDisplayGoodsIndex": 17002,
+   "rewardDisplayGroup": 94100015,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000047
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100016,
+   "rewardDisplayCount": 21000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000048
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100016,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000049
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100016,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000050
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100017,
+   "rewardDisplayCount": 22000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000051
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100017,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000052
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100017,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000053
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100018,
+   "rewardDisplayCount": 23000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000054
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100018,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000055
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100018,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000056
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100019,
+   "rewardDisplayCount": 24000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000057
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100019,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000058
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100019,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000059
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100020,
+   "rewardDisplayCount": 25000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000060
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100020,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000061
+  },
+  {
+   "rewardDisplayGoodsIndex": 17002,
+   "rewardDisplayGroup": 94100020,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000062
+  },
+  {
+   "rewardDisplayGoodsIndex": 11702,
+   "rewardDisplayGroup": 94100020,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000063
+  },
+  {
+   "rewardDisplayGoodsIndex": 14001,
+   "rewardDisplayGroup": 94100020,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000064
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100021,
+   "rewardDisplayCount": 26000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000065
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100021,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000066
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100021,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000067
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100022,
+   "rewardDisplayCount": 27000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000068
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100022,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000069
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100022,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000070
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100023,
+   "rewardDisplayCount": 28000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000071
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100023,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000072
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100023,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000073
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100024,
+   "rewardDisplayCount": 29000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000074
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100024,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000075
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100024,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000076
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100025,
+   "rewardDisplayCount": 30000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000077
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100025,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000078
+  },
+  {
+   "rewardDisplayGoodsIndex": 17002,
+   "rewardDisplayGroup": 94100025,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000079
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100026,
+   "rewardDisplayCount": 31000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000080
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100026,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000081
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100026,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000082
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100027,
+   "rewardDisplayCount": 32000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000083
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100027,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000084
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100027,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000085
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100028,
+   "rewardDisplayCount": 33000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000086
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100028,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000087
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100028,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000088
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100029,
+   "rewardDisplayCount": 34000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000089
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100029,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000090
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100029,
+   "rewardDisplayCount": 3,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000091
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100030,
+   "rewardDisplayCount": 35000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000092
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100030,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000093
+  },
+  {
+   "rewardDisplayGoodsIndex": 17003,
+   "rewardDisplayGroup": 94100030,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000094
+  },
+  {
+   "rewardDisplayGoodsIndex": 11703,
+   "rewardDisplayGroup": 94100030,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000095
+  },
+  {
+   "rewardDisplayGoodsIndex": 14001,
+   "rewardDisplayGroup": 94100030,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000096
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100031,
+   "rewardDisplayCount": 36000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000097
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100031,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000098
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100031,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000099
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100032,
+   "rewardDisplayCount": 37000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000100
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100032,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000101
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100032,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000102
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100033,
+   "rewardDisplayCount": 38000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000103
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100033,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000104
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100033,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000105
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100034,
+   "rewardDisplayCount": 39000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000106
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100034,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000107
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100034,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000108
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100035,
+   "rewardDisplayCount": 40000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000109
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100035,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000110
+  },
+  {
+   "rewardDisplayGoodsIndex": 17003,
+   "rewardDisplayGroup": 94100035,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000111
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100036,
+   "rewardDisplayCount": 41000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000112
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100036,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000113
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100036,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000114
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100037,
+   "rewardDisplayCount": 42000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000115
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100037,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000116
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100037,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000117
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100038,
+   "rewardDisplayCount": 43000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000118
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100038,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000119
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100038,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000120
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100039,
+   "rewardDisplayCount": 44000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000121
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100039,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000122
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100039,
+   "rewardDisplayCount": 4,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000123
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100040,
+   "rewardDisplayCount": 45000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000124
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100040,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000125
+  },
+  {
+   "rewardDisplayGoodsIndex": 17003,
+   "rewardDisplayGroup": 94100040,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000126
+  },
+  {
+   "rewardDisplayGoodsIndex": 11701,
+   "rewardDisplayGroup": 94100040,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000127
+  },
+  {
+   "rewardDisplayGoodsIndex": 14001,
+   "rewardDisplayGroup": 94100040,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000128
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100041,
+   "rewardDisplayCount": 46000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000129
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100041,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000130
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100041,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000131
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100042,
+   "rewardDisplayCount": 47000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000132
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100042,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000133
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100042,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000134
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100043,
+   "rewardDisplayCount": 48000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000135
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100043,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000136
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100043,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000137
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100044,
+   "rewardDisplayCount": 49000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000138
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100044,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000139
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100044,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000140
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100045,
+   "rewardDisplayCount": 50000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000141
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100045,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000142
+  },
+  {
+   "rewardDisplayGoodsIndex": 17003,
+   "rewardDisplayGroup": 94100045,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000143
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100046,
+   "rewardDisplayCount": 51000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000144
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100046,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000145
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100046,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000146
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100047,
+   "rewardDisplayCount": 52000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000147
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100047,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000148
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100047,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000149
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100048,
+   "rewardDisplayCount": 53000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000150
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100048,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000151
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100048,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000152
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100049,
+   "rewardDisplayCount": 54000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000153
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100049,
+   "rewardDisplayCount": 20,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000154
+  },
+  {
+   "rewardDisplayGoodsIndex": 1003,
+   "rewardDisplayGroup": 94100049,
+   "rewardDisplayCount": 5,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000155
+  },
+  {
+   "rewardDisplayGoodsIndex": 1,
+   "rewardDisplayGroup": 94100050,
+   "rewardDisplayCount": 55000,
+   "rewardDisplayType": 1,
+   "rewardDisplayIndex": 1300000156
+  },
+  {
+   "rewardDisplayGoodsIndex": 2,
+   "rewardDisplayGroup": 94100050,
+   "rewardDisplayCount": 100,
+   "rewardDisplayType": 2,
+   "rewardDisplayIndex": 1300000157
+  },
+  {
+   "rewardDisplayGoodsIndex": 17003,
+   "rewardDisplayGroup": 94100050,
+   "rewardDisplayCount": 2,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000158
+  },
+  {
+   "rewardDisplayGoodsIndex": 11702,
+   "rewardDisplayGroup": 94100050,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000159
+  },
+  {
+   "rewardDisplayGoodsIndex": 17004,
+   "rewardDisplayGroup": 94100050,
+   "rewardDisplayCount": 1,
+   "rewardDisplayType": 13,
+   "rewardDisplayIndex": 1300000160
   }
  ]
 }

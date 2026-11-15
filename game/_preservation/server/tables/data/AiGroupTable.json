@@ -389,37 +389,43 @@
    "aiGroupIndex": 8401,
    "aiGroup": 840,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_3"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelectGimmickMonster_AI",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8411,
    "aiGroup": 841,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_Elite_Short",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8421,
    "aiGroup": 842,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8431,
    "aiGroup": 843,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_Goenitz_1_Normal",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8441,
    "aiGroup": 844,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/Suicide_Bombing_Spider_AI",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8451,
    "aiGroup": 845,
    "aiGrade": 1,
-   "aiBaseNodeName": "Prefabs/AI/GuildCoop/ai_outer_god_3_4"
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiOperationValue": 1.0
   },
   {
    "aiGroupIndex": 8461,
@@ -1430,6 +1436,118 @@
    "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter000/Fighter000",
    "aiGroup": 690,
    "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 84202,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 2
+  },
+  {
+   "aiGroupIndex": 84203,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 3
+  },
+  {
+   "aiGroupIndex": 84204,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 4
+  },
+  {
+   "aiGroupIndex": 84205,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 5
+  },
+  {
+   "aiGroupIndex": 84206,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 6
+  },
+  {
+   "aiGroupIndex": 84207,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 7
+  },
+  {
+   "aiGroupIndex": 84208,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 8
+  },
+  {
+   "aiGroupIndex": 84209,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_MonsterBoss",
+   "aiGroup": 842,
+   "aiOperationValue": 1.0,
+   "aiGrade": 9
+  },
+  {
+   "aiGroupIndex": 84502,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 2
+  },
+  {
+   "aiGroupIndex": 84503,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 3
+  },
+  {
+   "aiGroupIndex": 84504,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 4
+  },
+  {
+   "aiGroupIndex": 84505,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 5
+  },
+  {
+   "aiGroupIndex": 84506,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 6
+  },
+  {
+   "aiGroupIndex": 84507,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 7
+  },
+  {
+   "aiGroupIndex": 84508,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 8
+  },
+  {
+   "aiGroupIndex": 84509,
+   "aiBaseNodeName": "Prefabs/AI/BuffSelect/BuffSelect_FighterBoss",
+   "aiGroup": 845,
+   "aiOperationValue": 1.0,
+   "aiGrade": 9
   }
  ]
 }

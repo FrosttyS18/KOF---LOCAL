@@ -155,7 +155,7 @@
    "modeDescriptionTag": "Mode.Desc.Prove",
    "colorAble": 1,
    "contentsType": 109,
-   "displayContentsCondition": 0,
+   "displayContentsCondition": 1,
    "enableReplay": 1
   },
   {
