@@ -141,3 +141,5 @@
 - Bundle DM20319 localizado na referência Android; compatibilidade com PC ainda NÃO demonstrada. Não foi copiado para o cache Windows, nem alterado o índice de bundles.
 
 - Rótulo do cartão HoE aplicado: somente `QuestEvent.Name.41001` passou de `Hall of Elements - Purple` para `Hall of Elements`, conforme a opção do mantenedor por abas só com as cores. Verificação da função exportada: `(0, 1)` na primeira execução, `(0, 0)` na segunda; QuestEventTable e quatro nomes restantes intactos. Pacotes 1022 regenerados após o título. A faixa preta superior ainda está sem texto recuperado; não foi considerada concluída.
+
+- Contrato Prove corrigido no servidor: cinco adversários em vez de três, conforme os cinco confrontos criados por `Model_ProveDungeon.get_RandomBossTeamSelectList` (0x180D5DF90). Verificação própria em memória: 30 estágios × 20 seeds com cinco índices distintos do grupo correto e faixa tier2 preservada; migração da lista antiga de três para cinco manteve stage/max/team/support e replay da lista de cinco ficou estável. Código ainda não carregado pelo servidor 1021; batalha Prove pendente.

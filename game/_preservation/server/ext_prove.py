@@ -1,18 +1,25 @@
 """Prove Dungeon / Dungeon of Trials (QuestEvent 10901, questEventType 6) -- Battle > Dungeon of Trials
 (real mobile tables, tools/import_dungeons.py; ModeTable 109, Scene_Single_Prove).
 
-A 3v3 duel against three random bosses: ProveDungeonStageTable picks the stage (30) and its
-bossGroupIndex, ProveDungeonRandomBossTable the pool (highTierBossMin/Max of the stage decide how many
-tier-2 bosses). proveDungeon/rematch rerolls the bosses for the stage's bossRematchCost rubies;
-stageEnd wins at WinRoundCount >= 3 and pays proveDungeonWinRewardGroup (first clear) or
-proveDungeonAllKillBonus (repeat / Auto-Clear). Progress lives in save.json "prove"
-({"stage": current, "max": highest, "team": [3], "support": [], "bosses": [3]})."""
+A best-of-five duel against five random bosses, first to three round wins: the PC client's
+Model_ProveDungeon.SetBossCharacters consumes one server boss per match (any count -- the parse
+never validates the list length) and get_RandomBossTeamSelectList builds five 4-slot matches whose
+center slot is the server's k-th boss while its own two filler rolls exclude every server index,
+so the five must be distinct. ProveDungeonStageTable picks the stage (30) and its bossGroupIndex,
+ProveDungeonRandomBossTable the pool (highTierBossMin/Max of the stage decide how many tier-2
+bosses, tier-2 first, the rest tier-1). proveDungeon/rematch rerolls the five for the stage's
+bossRematchCost rubies; stageEnd wins at WinRoundCount >= 3 and pays proveDungeonWinRewardGroup
+(first clear) or proveDungeonAllKillBonus (repeat / Auto-Clear). Progress lives in save.json
+"prove" ({"stage": current, "max": highest, "team": [...], "support": [...], "bosses": [5]}); a
+save from the earlier three-boss build just gets its bosses rerolled -- stage, max, team and
+support are kept as they are."""
 import random
 
 import gameapi as G
 import ext_phantom as P
 
 PROVE_AP = 8
+ROUNDS = 5
 
 EMPTY_LISTS = ("RewardItemList", "RewardBattleCardList", "RewardCharacterList", "RewardContentsList",
                "HandicapRewardContentsList", "RewardImprintStoneList", "GuildBuffList",
@@ -29,22 +36,23 @@ def random_bosses(row):
     tier2 = [int(r["randomBossIndex"]) for r in pool if int(r.get("randomBossTier") or 0) >= 2]
     tier1 = [int(r["randomBossIndex"]) for r in pool if int(r.get("randomBossTier") or 0) < 2] or tier2
     lo, hi = int(row.get("highTierBossMin") or 0), int(row.get("highTierBossMax") or 0)
-    k = min(3, random.randint(min(lo, hi), max(lo, hi))) if tier2 else 0
+    k = min(ROUNDS, random.randint(min(lo, hi), max(lo, hi))) if tier2 else 0
     picked = random.sample(tier2, min(k, len(tier2))) if k else []
-    picked += random.sample([i for i in tier1 if i not in picked], min(3 - len(picked), len(tier1)))
+    picked += random.sample([i for i in tier1 if i not in picked], min(ROUNDS - len(picked), len(tier1)))
     random.shuffle(picked)
     return picked
 
 
 def current(state):
-    """-> (stage number, its row); rolls the bosses when the stage changed."""
+    """-> (stage number, its row); rolls the bosses when the stage changed or the save still
+    carries a list of another size (the three-boss era rerolls to five on first touch)."""
     rows = stage_rows()
     last = int(rows[-1]["proveDungeonStageIndex"]) if rows else 0
     pr = state.setdefault("prove", {})
     n = min(int(pr.get("stage") or 1), last) if last else 0
     pr["stage"] = n
     row = next((r for r in rows if int(r["proveDungeonStageIndex"]) == n), {})
-    if n and (len(pr.get("bosses") or []) != 3 or int(pr.get("boss_stage") or 0) != n):
+    if n and (len(pr.get("bosses") or []) != ROUNDS or int(pr.get("boss_stage") or 0) != n):
         pr["bosses"] = random_bosses(row)
         pr["boss_stage"] = n
     return n, row
