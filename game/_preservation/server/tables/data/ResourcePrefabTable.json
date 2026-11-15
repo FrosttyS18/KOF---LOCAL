@@ -5,6 +5,11 @@
    "resourcePrefabIndex": 1,
    "resourcePrefabIndexString": "UI.Break.UIUnit.BreakSystemSlider",
    "resourcePrefab": "Prefabs/UI_Data/UI_Unit/BreakSystem/UIUnit_BreakSystemSlider"
+  },
+  {
+   "resourcePrefabIndex": 2,
+   "resourcePrefabIndexString": "UI.Sura.UIUnit.LimitSliderBar",
+   "resourcePrefab": "Prefabs/UI_Data/UI_Unit/UIUnit_LimitSliderBar"
   }
  ]
 }
