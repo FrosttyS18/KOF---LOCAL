@@ -34,8 +34,13 @@ Tower of Illusion floors onto the restored 1070001..1070050 ids (the reference's
 collide with the daily Crucible Tower here) or leaves them alone while the project still runs
 the legacy 10721..10750 import. The PC adaptations also cover the two HoE elites' Character
 prefab/AI switch (tools/adapt_hoe_pc_prefabs), the Time Attack trigger swap and its six
-ResourceMapTable zone maps (tools/adapt_timeattack_pc, tools/import_timeattack_dependencies)
-and the Time Attack score/display metadata (tools/adapt_timeattack_metadata). Fields follow
+ResourceMapTable zone maps (tools/adapt_timeattack_pc, tools/import_timeattack_dependencies),
+the Time Attack score/display metadata (tools/adapt_timeattack_metadata) and the BuffSelect
+AiGroupTable bases (tools/adapt_buffselect_pc_ai): its oracle preflight runs in main before any
+table is written, and after every merge the helper re-adapts the existing 840..845 rows so a
+normal re-import keeps the PC's _Mob-suffix reality instead of reintroducing the mobile bases
+(the six legacy GuildCoop grade-1 rows return to the oracle's BuffSelect paths with
+aiOperationValue; group 845's trailing _Mob is stripped). Fields follow
 server/tables/schema.json.
 
 usage: import_dungeons.py <kofas_server folder> [questEventIndex ...]
@@ -49,6 +54,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)   # the embedded python's _pth never adds the script's own folder
 import read_unityfs
+import adapt_buffselect_pc_ai as pc_ai
 import adapt_hoe_pc_prefabs as pc_prefabs
 
 DATA = os.path.join(HERE, "..", "server", "tables", "data")
@@ -547,6 +553,12 @@ def main():
     schema = json.load(open(SCHEMA, encoding="utf-8"))
     todo = qes + CHALLENGE_QES
 
+    try:
+        pc_ai.preflight(load_data("AiGroupTable")["rows"],
+                        pc_ai.oracle_pairs(os.path.join(src, "tabel")))
+    except pc_ai.Divergence as exc:
+        sys.exit(f"adapt_buffselect_pc_ai: {exc}")
+
     mobile_stages = mobile_rows(src, "QuestEventStageTable")
     adapt_phantom_tower([r for r in mobile_stages
                          if int(r.get("questEventIndex") or 0) == PHANTOM_QE])
@@ -655,6 +667,11 @@ def main():
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
     import adapt_timeattack_metadata
     ta_meta = adapt_timeattack_metadata.adapt_timeattack_metadata(DATA)
+    try:
+        buff_ai = pc_ai.adapt_current_master(DATA, os.path.join(src, "tabel"))
+    except pc_ai.Divergence as exc:
+        sys.exit(f"adapt_buffselect_pc_ai: {exc}")
+    print(f"BuffSelect PC AI re-adapted: {len(buff_ai)} AiGroupTable changes")
     summary = " | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo"
     print(f"{summary} | TimeAttack PC triggers +{ta_adapted} | TimeAttack maps +{ta_maps['added']} | "
           f"TimeAttack metadata: score->ms +{ta_meta['score_converted']}, "

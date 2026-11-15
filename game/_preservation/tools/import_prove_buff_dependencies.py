@@ -3,13 +3,36 @@
 The two modes spawn their enemies through chains the other imports do not cover:
 
   Buff Select (Scene per floor, trigger prefabs/EventSystem/Trigger/Event/BuffSelect_N/BuffSelect_01..50,
-  QuestEventStage 810101..810150, no monsterSpawnGroup): every monster named by the trigger graphs of the
-  PC bundle prefabs_eventsystem_trigger_event_buffselect_n -- 63 rows today: the 49 BuffSellect attribute
-  machines (skill-less) plus Nests, LowComedown mobs, SteelyPuncher and the five suicide bombing spiders,
-  which DO carry skills and so need the same m_linkedSkill chain closure as Hall of Elements
-  (MonsterBattleController.SetSkillData walks Skill+0x88; a missing child row kills the spawn coroutine).
-  The buffs themselves (BuffSelectDungeonBuffTable buffMainType 2/3 -> BuffTable 64000001..64000103) and
-  every monster's AiGroupTable row at each floor's aiGrade (1..9) close the battle.
+  QuestEventStage 810101..810150, no monsterSpawnGroup): the monsters each floor really spawns come from
+  a pointer-exact walk -- each singleTriggerName's root GameObject is followed through
+  component->Transform->children PPtrs only (read_unity_serialized), every NodeCanvas.BehaviourTree
+  linked under that subtree is decoded as a whole bounded length-prefixed JSON
+  (import_timeattack_dependencies._graph_json) and only the two real typed spawn structures are read:
+  ActionNode._action.m_makeMonsterList[].szMonsterName (the 49 BuffSellect attribute machines,
+  skill-less) and the m_spawnList task variable's $content[].m_indexString (the wave Nests, the five
+  suicide bombing spiders and the one intro boss every floor carries; a floor missing either structure
+  aborts, and so does a floor whose graphs do not carry EXACTLY ONE m_spawnType "Intro" boss -- the
+  live fifty floors each have exactly one, always through the task variable, and a floor that loses
+  it keeps spawning waves with no boss and stalls, the measured BuffSelect 810101 v1024 hang).
+  A bundle-wide Monster.* regex is NOT used -- it is blind to single-segment names (the 14
+  *_BuffSelect_Nests bosses) and counts monsters no floor spawns: the standalone graph assets the walk
+  meets in the same bundle (m_GameObject PPtr 0, unreached by any root) are reported only, never
+  imported. Spawn names resolve against the tables case-insensitively (Monster.FindByString is
+  ordinal-ignore-case; a casefold collision aborts), every floor's OWN aiGrade/monsterLevel drive its
+  spawned monsters' AiGroupTable and MonsterLevelStatTable needs (no all-floors-by-all-groups product),
+  the buffs (BuffSelectDungeonBuffTable buffMainType 2/3 -> BuffTable 64000001..64000103) close as
+  before, and every consumed monster's prefab bundle must be in the client manifest AND the PC cache.
+  The AI rows land mobile-original, then adapt_buffselect_pc_ai closes the PC's _Mob contract inside
+  the same run: its preflight runs over the CURRENT AiGroupTable plus the planned AI rows BEFORE any
+  table is written (a divergence aborts with nothing written) and adapt_current_master re-applies it
+  after the merges -- the six legacy grade-1 rows restored to the BuffSelect originals
+  (+aiOperationValue 1.0, local ids kept) and the 845 base stripped of its original _Mob suffix
+  (Character-rooted fighters: the PC appends _Mob back at load). Group 842 spawns through
+  Prefabs/Monster/, so MonsterInitializer_AI loads BuffSelect_MonsterBoss AS-IS and no alias is
+  claimed for it; the one PENDING ASSET -- printed on every buffselect/all run and never verified
+  here -- is 843's runtime alias BuffSelect_Goenitz_1_Normal_Mob, shipped separately (floor 810105's
+  boss cannot load its AI until it ships). --mode prove never runs the adapter.
+  Index/asset level only; nothing here claims combat.
 
   Prove (Scene_Single_ProveDungeonReady -> duel, trigger Tri_Prove_Common, no monsterSpawnGroup): the
   bosses are FIGHTERS, not monsters. Model_ProveDungeon.SetBossCharacters (0x180D5C720) finds each rolled
@@ -59,11 +82,13 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import import_dungeons as base          # one merge semantics: fields_of/load_data/save_data/merge/strings_add
 import import_dungeon_monsters as mono  # strict int/key/dup guards of the monster closure import
+import import_timeattack_dependencies as ta_deps  # _graph_json bounded decode + client bundle manifest
+import read_unity_serialized            # canonical SerializedFile v22 index + PPtr-only subtree walk
+import adapt_buffselect_pc_ai as bs_ai  # PC _Mob-contract adaptation of the BuffSelect AI rows (116)
 
 
 BUFF_QE = 8101
 PROVE_QE = 10901
-BS_TRIGGER_BUNDLE = "prefabs_eventsystem_trigger_event_buffselect_n"
 BS_BUFF_FIELD = "buffIndex"
 SKILL_SLOTS = ("activeSkill1Index", "activeSkill2Index", "activeSkill3Index", "activeSkill4Index",
                "activeSkill5Index", "activeSkill6Index", "activeSkill7Index", "specialSkill1Index",
@@ -91,15 +116,6 @@ def bundle_path(name):
     return os.path.join(base.BUNDLES, hashlib.md5(name.encode()).hexdigest())
 
 
-def bundle_monster_names(path):
-    """Every Monster.* string of a cached UnityFS bundle (the trigger graphs' spawn roots)."""
-    names = sorted(set(re.findall(r"Monster\.[A-Za-z0-9_]+(?:\.[A-Za-z0-9_]+)+",
-                                  base.read_unityfs.load(path).decode("latin-1"))))
-    if not names:
-        fail(f"{path}: no Monster.* names -- not the BuffSelect trigger bundle?")
-    return names
-
-
 def bundle_skill_names(path):
     """Sorted Skill.* strings of a cached UnityFS bundle, path-tail false positives dropped."""
     blob = base.read_unityfs.load(path).decode("latin-1")
@@ -108,13 +124,14 @@ def bundle_skill_names(path):
 
 
 def monster_prefab_bundle(row):
-    """The CDN bundle of a monster prefab is named after its directory (Prefabs/Monster/<dir>/<prefab>)."""
+    """The CDN bundle of a prefab is named after its full directory path
+    (Prefabs/Monster/Death/Death -> prefabs_monster_death). NOT hardcoded to prefabs_monster_*:
+    the BuffSelect fighter bosses' monsterPrefab legitimately lives under Prefabs/Character/
+    (Goenitz_96, Mukai, Ash_03, Rock_14, Nakoruru and the TF bosses reuse the fighter's own
+    bundle), and a prefabs_monster_ fabrication for those rows names a bundle that exists
+    nowhere in the client."""
     parts = row["monsterPrefab"].split("/")
-    return "prefabs_monster_" + parts[-2].lower()
-
-
-def rows_by(rows, key, allowed):
-    return mono.dup_guard(rows, lambda r: r.get(key), allowed, key)
+    return "_".join(parts[:-1]).lower() if len(parts) > 1 else None
 
 
 def wanted_or_fail(label, wanted, have, mobile, key):
@@ -178,28 +195,206 @@ def whole_type_rows(schema, src, table, index_field, type_field, types):
     return out, {"pc_row_kept": pc_wins, "reindexed": reindexed, "resumed_content": resumed}
 
 
+def _typed_stage_spawns(graph, label):
+    """(make_monster, spawn_list, intro_bosses): the two real typed spawn structures of one
+    decoded graph, recursed whole so nested lists cannot hide an entry -- ActionNode._action.
+    m_makeMonsterList[].szMonsterName and the m_spawnList carriers' $content[].m_indexString,
+    each entry KEEPING its typed m_spawnType ("Spawn" wave or "Intro" boss; the live fifty
+    floors carry their one and only Intro through the m_spawnList TASK VARIABLE -- the
+    ActionSpawnMonsterWrap field is an always-empty list there). An entry whose typed name
+    field is missing or empty aborts (a Json.NET "$ref" entry would too), and so does a
+    m_spawnList carrier that is itself malformed (m_value without a $content list, or the
+    action field not serialized as a list -- all 50 live actions carry it): a broken spawn
+    source must never disappear just because another carrier of the same graph is valid."""
+    make_monster, spawn_list, intro_bosses = set(), set(), set()
+
+    def spawn_entries(entries, carrier):
+        for e in entries:
+            name = e.get("m_indexString") if isinstance(e, dict) else None
+            if not isinstance(name, str) or not name:
+                fail(f"{label}: {carrier} entry without m_indexString -- refusing")
+            spawn_list.add(name)
+            if e.get("m_spawnType") == "Intro":
+                intro_bosses.add(name)
+
+    def rec(node):
+        if isinstance(node, dict):
+            lst = node.get("m_makeMonsterList")
+            if isinstance(lst, list):
+                for e in lst:
+                    name = e.get("szMonsterName") if isinstance(e, dict) else None
+                    if not isinstance(name, str) or not name:
+                        fail(f"{label}: m_makeMonsterList entry without szMonsterName -- refusing")
+                    make_monster.add(name)
+            if node.get("m_variableName") == "m_spawnList":
+                value = node.get("m_value")
+                content = value.get("$content") if isinstance(value, dict) else None
+                if not isinstance(content, list):
+                    fail(f"{label}: m_spawnList task variable without a $content list -- refusing")
+                spawn_entries(content, "m_spawnList task variable")
+            if node.get("$type", "").endswith("ActionSpawnMonsterWrap"):
+                if not isinstance(node.get("m_spawnList"), list):
+                    fail(f"{label}: ActionSpawnMonsterWrap without an m_spawnList list -- refusing")
+                spawn_entries(node["m_spawnList"], "ActionSpawnMonsterWrap.m_spawnList")
+            for v in node.values():
+                rec(v)
+        elif isinstance(node, list):
+            for v in node:
+                rec(v)
+
+    rec(graph)
+    return make_monster, spawn_list, intro_bosses
+
+
+def buffselect_stage_spawns(stages, manifest):
+    """({stageIndex: {"root", "bundle", "make_monster", "spawn_list"}}, standalone_assets):
+    the per-floor typed spawn closure. Each floor's singleTriggerName names its trigger prefab;
+    the root GameObject is located by name inside that bundle only to pick the PPtr the walk
+    then follows (component->Transform->children), every NodeCanvas.BehaviourTree linked under
+    the subtree is decoded bounded, and a floor with no graph, no m_makeMonsterList or no
+    m_spawnList aborts (all fifty live floors carry the attribute machine AND the boss).
+    Graphs in the same bundles no floor root reaches (the fifty standalone assets,
+    m_GameObject PPtr 0) are collected for the report and demand nothing."""
+    indexed, linked = {}, {}
+    per_stage, standalone = {}, []
+    for s in stages:
+        idx = mono.as_int(s.get("questEventStageIndex"), "questEventStageIndex")
+        path = s.get("singleTriggerName") or ""
+        root_name = path.rsplit("/", 1)[-1] if "/" in path else ""
+        if not root_name:
+            fail(f"QuestEventStage {idx}: no singleTriggerName -- the trigger root cannot be located")
+        bundle = ta_deps.bundle_of_prefab(path)
+        if not bundle or bundle not in manifest:
+            fail(f"QuestEventStage {idx}: trigger bundle of {path!r} is not in the client manifest")
+        if not os.path.isfile(bundle_path(bundle)):
+            fail(f"QuestEventStage {idx}: trigger bundle {bundle} has no file in the PC cache")
+        if bundle not in indexed:
+            try:
+                _, gos, mbs, trs, _ = read_unity_serialized.index_bundle(bundle_path(bundle))
+            except Exception as exc:
+                fail(f"trigger bundle {bundle}: cannot parse ({exc!r}) -- refusing")
+            indexed[bundle] = (gos, mbs, trs)
+            linked[bundle] = set()
+        gos, mbs, trs = indexed[bundle]
+        roots = [p for p, g in gos.items() if g["name"] == root_name]
+        if not roots:
+            fail(f"QuestEventStage {idx}: root GameObject {root_name!r} not found in bundle {bundle}")
+        sub = set()
+        for rp in roots:
+            sub |= read_unity_serialized.subtree_gameobjects(gos, trs, rp)
+        make_monster, spawn_list, intro_bosses, graph_pids = set(), set(), set(), set()
+        for pid, m in mbs.items():
+            if m["go_pid"] not in sub or read_unity_serialized.GRAPH_MARKER not in m["payload"]:
+                continue
+            graph = ta_deps._graph_json(m["payload"])
+            graph_pids.add(pid)
+            mk, sl, intro = _typed_stage_spawns(graph, f"stage {idx} {root_name}")
+            make_monster |= mk
+            spawn_list |= sl
+            intro_bosses |= intro
+        if not graph_pids:
+            fail(f"QuestEventStage {idx}: no NodeCanvas.BehaviourTree linked under root {root_name!r}")
+        if not make_monster or not spawn_list:
+            fail(f"QuestEventStage {idx}: graph under {root_name!r} lost a typed spawn structure "
+                 f"(make_monster={len(make_monster)}, spawn_list={len(spawn_list)}) -- refusing")
+        if len(intro_bosses) != 1:
+            fail(f"QuestEventStage {idx}: graphs under {root_name!r} carry {len(intro_bosses)} intro "
+                 f"bosses (m_spawnType \"Intro\" of the m_spawnList task variable), exactly 1 expected "
+                 f"-- the live fifty floors each carry one, and a floor that loses it spawns its waves "
+                 f"with no boss and stalls (measured: BuffSelect 810101 v1024, 55s hang, "
+                 f"ActionSpawnMonsterWrap Failure)")
+        linked[bundle] |= graph_pids
+        per_stage[idx] = {"root": root_name, "bundle": bundle, "intro": sorted(intro_bosses)[0],
+                          "make_monster": make_monster, "spawn_list": spawn_list}
+    for bundle in sorted(indexed):
+        gos, mbs, trs = indexed[bundle]
+        for pid in sorted(mbs):
+            m = mbs[pid]
+            if pid in linked[bundle] or read_unity_serialized.GRAPH_MARKER not in m["payload"]:
+                continue
+            try:
+                mk, sl, _ = _typed_stage_spawns(ta_deps._graph_json(m["payload"]),
+                                                f"standalone asset {pid:016x} of {bundle}")
+            except SystemExit as exc:
+                standalone.append({"bundle": bundle, "mb_pid": f"{pid:016x}",
+                                   "monsters": [f"<unreadable graph: {exc}>"]})
+                continue
+            monsters = sorted(mk | sl)
+            if monsters:
+                standalone.append({"bundle": bundle, "mb_pid": f"{pid:016x}", "monsters": monsters})
+    return per_stage, standalone
+
+
+def _row_by_casefold(names, rows, table):
+    """name -> row resolved the client's way (Monster.FindByString is ORDINAL_IGNORE_CASE,
+    0x180D42B20): the spawn name matches a monsterIndexString case-insensitively. Only rows
+    matching one of `names` are considered; two rows (or two distinct strings) answering the
+    same spawn name abort -- a spawn may never resolve to two monsters."""
+    wanted = {n.casefold() for n in names}
+    by_casefold = {}
+    for r in rows:
+        s = r.get("monsterIndexString")
+        if not isinstance(s, str) or not s or s.casefold() not in wanted:
+            continue
+        prev = by_casefold.setdefault(s.casefold(), r)
+        if prev is not r:
+            fail(f"{table}: spawn names {s!r} and {prev.get('monsterIndexString')!r} collide "
+                 f"case-insensitively -- refusing to guess which one the floor spawns")
+    return {n: by_casefold[n.casefold()] for n in names if n.casefold() in by_casefold}
+
+
 def buffselect_plan(schema, src, stages):
     """(per-table rows to append, string tag sets, notes) of the Buff Select closure."""
-    path = bundle_path(BS_TRIGGER_BUNDLE)
-    if not os.path.isfile(path):
-        fail(f"cache lacks {BS_TRIGGER_BUNDLE} ({path}) -- the trigger graphs cannot be read")
-    names = bundle_monster_names(path)
-    mon_fields = base.fields_of(schema, "MonsterTable")
-    mobile_mon = rows_by([r for r in base.mobile_rows(src, "MonsterTable")
-                          if r.get("monsterIndexString") in set(names)],
-                         "monsterIndexString", mon_fields)
-    mst_mon = rows_by([r for r in base.load_data("MonsterTable")["rows"]
-                       if r.get("monsterIndexString") in set(names)],
-                      "monsterIndexString", mon_fields)
-    gap = [n for n in names if n not in mobile_mon and n not in mst_mon]
+    manifest = ta_deps.bundle_manifest()
+    per_stage, standalone = buffselect_stage_spawns(stages, manifest)
+    names = sorted({n for s in per_stage.values()
+                    for n in (s["make_monster"] | s["spawn_list"])})
+    mob_map = _row_by_casefold(names, base.mobile_rows(src, "MonsterTable"), "MonsterTable (mobile)")
+    mst_map = _row_by_casefold(names, base.load_data("MonsterTable")["rows"], "MonsterTable (project)")
+    gap = [n for n in names if n not in mob_map and n not in mst_map]
     if gap:
-        fail(f"MonsterTable: trigger-graph monsters in neither the project tables nor the mobile source: {gap}")
+        fail(f"MonsterTable: typed floor spawns in neither the project tables nor the mobile source: {gap}")
 
-    monsters = [(mst_mon.get(n) or mobile_mon[n]) for n in names]   # PC row first, like prove_plan
-    uncached = sorted({monster_prefab_bundle(r) for r in monsters
-                       if not os.path.isfile(bundle_path(monster_prefab_bundle(r)))})
+    row_of = {n: (mst_map.get(n) or mob_map[n]) for n in names}   # PC row first, like prove_plan
+    monsters = [row_of[n] for n in names]
+    uncached = []
+    for n, r in sorted(row_of.items()):
+        b = monster_prefab_bundle(r)
+        if b not in manifest or not os.path.isfile(bundle_path(b)):
+            uncached.append({"monster": n, "bundle": b, "alreadyInProjectTables": n in mst_map})
     if uncached:
-        fail(f"monster prefab bundles missing from the PC cache (the client could never load them): {uncached}")
+        fail(f"monster prefab bundles missing from the client manifest/PC cache (the client could "
+             f"never load them): {uncached}")
+
+    # every floor's OWN aiGrade/monsterLevel drive its spawned monsters' AI and level-stat needs
+    need_ai, need_lstat, floors_of_pair = set(), set(), {}
+    for s in stages:
+        idx = mono.as_int(s.get("questEventStageIndex"), "questEventStageIndex")
+        grade = mono.as_int(s.get("aiGrade"), "aiGrade") if s.get("aiGrade") else None
+        level = mono.as_int(s.get("monsterLevel"), "monsterLevel") if s.get("monsterLevel") else None
+        for n in sorted(per_stage[idx]["make_monster"] | per_stage[idx]["spawn_list"]):
+            r = row_of[n]
+            if r.get("aiGroup") is not None and grade is not None:
+                pair = (mono.as_int(r.get("aiGroup"), "aiGroup"), grade)
+                need_ai.add(pair)
+                floors_of_pair.setdefault(pair, []).append(idx)
+            if r.get("levelStatType") is not None and level is not None:
+                need_lstat.add((mono.as_int(r.get("levelStatType"), "levelStatType"), level))
+
+    pc_ai_rows = {(mono.as_int(r.get("aiGroup"), "aiGroup"), mono.as_int(r.get("aiGrade"), "aiGrade")): r
+                  for r in base.load_data("AiGroupTable")["rows"]}
+    mob_ai_rows = {(mono.as_int(r.get("aiGroup"), "aiGroup"), mono.as_int(r.get("aiGrade"), "aiGrade")): r
+                   for r in base.mobile_rows(src, "AiGroupTable")}
+    ai = wanted_or_fail("AiGroupTable", need_ai, set(pc_ai_rows), mob_ai_rows, "(aiGroup, aiGrade)")
+    # PC-first keeps the project's grade-1 rows; the divergence is reported, never overwritten
+    grade1_divergent = []
+    for pair in sorted(need_ai):
+        if pair[1] != 1:
+            continue
+        pc_row, mob_row = pc_ai_rows.get(pair), mob_ai_rows.get(pair)
+        if pc_row and mob_row and pc_row != mob_row:
+            grade1_divergent.append({"aiGroup": pair[0], "floors": sorted(floors_of_pair[pair]),
+                                     "pc_row": pc_row, "mobile_row": mob_row})
 
     skills = set()
     for r in monsters:
@@ -223,14 +418,6 @@ def buffselect_plan(schema, src, stages):
                             {int(r.get("monsterSkillIndex") or 0): r for r in base.mobile_rows(src, "MonsterSkillTable")},
                             "monsterSkillIndex")
 
-    grades = sorted({mono.as_int(s.get("aiGrade"), "aiGrade") for s in stages if s.get("aiGrade")})
-    groups = sorted({mono.as_int(r.get("aiGroup"), "aiGroup") for r in monsters if r.get("aiGroup") is not None})
-    ai = wanted_or_fail("AiGroupTable", {(g, gr) for g in groups for gr in grades},
-                        {(mono.as_int(r.get("aiGroup"), "aiGroup"), mono.as_int(r.get("aiGrade"), "aiGrade"))
-                         for r in base.load_data("AiGroupTable")["rows"]},
-                        {(mono.as_int(r.get("aiGroup"), "aiGroup"), mono.as_int(r.get("aiGrade"), "aiGrade")): r
-                         for r in base.mobile_rows(src, "AiGroupTable")}, "(aiGroup, aiGrade)")
-
     buffs = {mono.as_int(r.get(BS_BUFF_FIELD), BS_BUFF_FIELD)
              for r in base.load_data("BuffSelectDungeonBuffTable")["rows"] if r.get(BS_BUFF_FIELD)}
     buff_rows = wanted_or_fail("BuffTable", buffs,
@@ -238,9 +425,7 @@ def buffselect_plan(schema, src, stages):
                                {mono.as_int(r.get(BS_BUFF_FIELD), BS_BUFF_FIELD): r
                                 for r in base.mobile_rows(src, "BuffTable")}, BS_BUFF_FIELD)
 
-    levels = sorted({mono.as_int(s.get("monsterLevel"), "monsterLevel") for s in stages if s.get("monsterLevel")})
-    ltypes = {mono.as_int(r.get("levelStatType"), "levelStatType") for r in monsters if r.get("levelStatType")}
-    lstat = wanted_or_fail("MonsterLevelStatTable", {(t, l) for t in ltypes for l in levels},
+    lstat = wanted_or_fail("MonsterLevelStatTable", need_lstat,
                            {(mono.as_int(r.get("levelStatType"), "levelStatType"),
                              mono.as_int(r.get("monsterLevel"), "monsterLevel"))
                             for r in base.load_data("MonsterLevelStatTable")["rows"]},
@@ -261,8 +446,15 @@ def buffselect_plan(schema, src, stages):
     tags = ({r.get("monsterNameTag") for r in monsters}
             | {t for r in chain_rows + direct for t in (r.get("monsterNameTag"),) if t}
             | {t for r in buff_rows for t in (r.get("buffNameTag"), r.get("buffDescriptionTag")) if t})
-    add[-1] = ("MonsterGrowthTable", "monsterGrowthIndex", grow)
-    return add, tags, {"trigger_monsters": len(names), "skill_chain_orphans": orphans,
+    return add, tags, {"trigger_monsters": len(names), "floors": len(per_stage),
+                       "per_floor_spawns": {str(i): {"root": v["root"], "bundle": v["bundle"],
+                                                     "intro_boss": v["intro"],
+                                                     "make_monster": sorted(v["make_monster"]),
+                                                     "spawn_list": sorted(v["spawn_list"])}
+                                            for i, v in sorted(per_stage.items())},
+                       "standalone_graph_assets": standalone,
+                       "ai_grade1_pc_divergent": grade1_divergent,
+                       "skill_chain_orphans": orphans,
                        "monster_growth": grow_notes}
 
 
@@ -459,6 +651,18 @@ def main():
         if not prove_stages:
             fail("ProveDungeonStageTable: no rows in the project tables")
         pv_add, pv_tags, pv_notes = prove_plan(schema, src, prove_stages, quest_stage_of)
+    if args.mode != "prove":
+        # The AI rows land mobile-original; the PC _Mob contract is closed by the same run. The
+        # adapter's preflight runs over the post-merge table (current rows + every PLANNED AI row)
+        # BEFORE any write happens -- ids and row order are untouched -- so a divergence aborts
+        # with nothing written, and the apply after the merges only ever sees the validated state.
+        planned_ai = [r for t, _, rows in bs_add + pv_add if t == "AiGroupTable" for r in rows]
+        try:
+            bs_ai.preflight(base.load_data("AiGroupTable")["rows"] + planned_ai,
+                            bs_ai.oracle_pairs(os.path.join(src, "tabel")))
+        except bs_ai.Divergence as exc:
+            fail(f"AiGroupTable PC adaptation diverged (nothing written yet): {exc}")
+    if args.mode != "buffselect":
         for idx in pv_notes.get("dm_prefab_repaired", []):
             # The tool's ONE in-place exception (import_dungeons has three of its own): a row this tool
             # already appended carries the DM prefab path an earlier run planned, and no PC build of that
@@ -485,6 +689,16 @@ def main():
                      "rows": [{k: v for k, v in r.items() if k in base.fields_of(schema, table)} for r in added]})
     strings_added = len(json.load(open(strings_path, encoding="utf-8"))) - strings_before
 
+    ai_adaptation = []
+    if args.mode != "prove":
+        try:
+            applied = bs_ai.adapt_current_master(data, os.path.join(src, "tabel"))
+        except bs_ai.Divergence as exc:
+            fail(f"post-merge AiGroupTable adaptation diverged (tables already imported, the AI "
+                 f"table NOT adapted -- fix and rerun): {exc}")
+        ai_adaptation = [{"aiGroup": r.get("aiGroup"), "aiGrade": r.get("aiGrade"),
+                          "field": f, "old": o, "new": n} for r, f, o, n in applied]
+
     print(" | ".join(f"{t} +{n}" for t, n in appended.items() if n) or "tables: nothing to append")
     parts = [f"strings +{strings_added}"]
     if bs_notes:
@@ -496,6 +710,25 @@ def main():
     if bs_notes.get("skill_chain_orphans"):
         print("bundle skills with no row in any source (never invented): "
               + ", ".join(f"{n} [{m}]" for n, m in sorted(bs_notes["skill_chain_orphans"].items())))
+    if bs_notes.get("standalone_graph_assets"):
+        assets = bs_notes["standalone_graph_assets"]
+        monsters = sorted({m for a in assets for m in a["monsters"]})
+        print(f"standalone graph assets in the trigger bundle(s), REPORTED ONLY (no floor spawns them "
+              f"via PPtr, nothing imported, no row demanded): {len(assets)} assets -> "
+              + ", ".join(monsters))
+    if args.mode != "prove":
+        if ai_adaptation:
+            print(f"AiGroupTable adapted to the PC _Mob contract: {len(ai_adaptation)} field changes "
+                  "(six legacy grade-1 rows restored to the BuffSelect originals + aiOperationValue "
+                  "1.0, 845 base stripped of _Mob; aiGroupIndex, ids and every other field kept)")
+        else:
+            print("AiGroupTable already PC-adapted, nothing to do")
+        print("PENDING ASSET (never verified by this tool): aiGroup 843's base "
+              "Prefabs/AI/BuffSelect/BuffSelect_Goenitz_1_Normal needs the runtime alias "
+              "BuffSelect_Goenitz_1_Normal_Mob, shipped separately -- until it ships, floor 810105's "
+              "boss cannot load its AI; aiGroup 842 loads BuffSelect_MonsterBoss as-is through "
+              "MonsterInitializer_AI and needs no alias. Table-level adaptation only: runtime and "
+              "combat are not validated by this import")
     if pv_notes.get("dm_prefab_alias") or pv_notes.get("dm_prefab_repaired"):
         parts = []
         if pv_notes.get("dm_prefab_alias"):
@@ -529,6 +762,9 @@ def main():
         json.dump({"mode": args.mode, "tables": appended, "strings_added": strings_added, "notes": {
             "buffselect": {k: v for k, v in bs_notes.items() if k != "skill_chain_orphans"},
             "buffselect_chain_orphans": bs_notes.get("skill_chain_orphans", {}),
+            "ai_pc_adaptation": ai_adaptation,
+            "ai_pc_pending_asset": "Prefabs/AI/BuffSelect/BuffSelect_Goenitz_1_Normal_Mob (843; "
+                                   "alias shipped separately, not verified here)" if args.mode != "prove" else None,
             "prove": {k: (len(v) if k == "uncached_character_prefabs" else v)
                       for k, v in pv_notes.items()}}, "plan": plan},
                   open(args.report, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
