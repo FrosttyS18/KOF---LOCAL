@@ -35,7 +35,7 @@
   },
   {
    "cameraSetIndex": 401,
-   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_VS"
+   "cameraSetPrefab": "Prefabs/Camera/Camera_InGame_VS_2"
   }
  ]
 }
