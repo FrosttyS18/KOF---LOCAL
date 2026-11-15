@@ -16583,7 +16583,8 @@
    "thumbnailBig": "Prefabs/UI_Data/UI_Texture/Thumbnail/MonsterThumbs/monster_asurarakshasa_big",
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "monsterIndex": 520037,
@@ -16882,7 +16883,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 702,
@@ -16915,7 +16917,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 702,
@@ -16952,7 +16955,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 700,
@@ -16985,7 +16989,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 700,
@@ -17018,7 +17023,8 @@
    "synastryType": 2,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 700,
@@ -17051,7 +17057,8 @@
    "synastryType": 1,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 700,
@@ -17084,7 +17091,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 700,
@@ -17117,7 +17125,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 700,
@@ -17154,7 +17163,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 704,
@@ -17191,7 +17201,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 704,
@@ -17224,7 +17235,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 700,
@@ -17257,7 +17269,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 100
   },
   {
    "aiGroup": 706,
@@ -17286,7 +17299,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 706,
@@ -17315,7 +17329,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 702,
@@ -17350,7 +17365,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 702,
@@ -17385,7 +17401,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 702,
@@ -17420,7 +17437,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 703,
@@ -17453,7 +17471,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 703,
@@ -17486,7 +17505,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 703,
@@ -17519,7 +17539,8 @@
    "synastryType": 5,
    "useMaxHPdivision": 0,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 706,
@@ -17548,7 +17569,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 706,
@@ -17577,7 +17599,8 @@
    "synastryType": 6,
    "useMaxHPdivision": 1,
    "walkSpeed": 2.0,
-   "weightValue": 1
+   "weightValue": 1,
+   "extraValue": 250
   },
   {
    "aiGroup": 701,
