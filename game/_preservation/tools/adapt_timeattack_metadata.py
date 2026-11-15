@@ -1,6 +1,6 @@
 """Adapt Time Attack master metadata for the PC client (v1024+).
 
-Three adaptations, all derived from data already in the target dir (no new prizes,
+Four adaptations, all derived from data already in the target dir (no new prizes,
 ids or time rules are invented):
 
 1. ChallengeScoreTable.needTime seconds -> milliseconds. The PC client formats
@@ -29,6 +29,15 @@ ids or time rules are invented):
    known value 'Rewards', an absent/empty placeholder, or the target format itself are
    accepted; any other value aborts the whole run before a single file is written.
 
+4. strings_en.json result subtitle for System.Challenge.Text.80.Name. The only
+   'Sprite Background' in the master (root-confirmed) is this row, and the real 30101
+   result screen renders it verbatim under the title -- a placeholder, not a label.
+   Reversible UI ADAPTATION, not a recovered translation: the value becomes
+   'Time Attack', the mode's own on-screen name. Only the placeholder value or the
+   adapted value itself are accepted -- a missing row or any other value aborts the
+   whole run before a single file is written. Secondary consumers of the row and the
+   in-game rendering are pending validation; nothing here claims them.
+
 Ranking data and useChallengeRanking are untouched. Validation is complete before any
 write, files are rewritten with their original CRLF/LF line endings, and a run with
 nothing to change writes nothing. adapt_timeattack_metadata() is the reusable entry
@@ -48,6 +57,9 @@ GOODS_BY_TYPE = {1: 1, 2: 0}
 TIMER_FORMAT_TAG = "System.Challenge.Text.34.Name"
 TIMER_FORMAT = "{0:00}:{1:00}.{2:000}"
 TIMER_FORMAT_KNOWN_VALUES = ("Rewards", "", None)
+SUBTITLE_TAG = "System.Challenge.Text.80.Name"
+SUBTITLE = "Time Attack"
+SUBTITLE_KNOWN_VALUES = ("Sprite Background",)
 
 
 class AdaptationError(RuntimeError):
@@ -193,6 +205,18 @@ def _adapt_timer_format(strings_doc, name):
     return True
 
 
+def _adapt_subtitle(strings_doc, name):
+    value = strings_doc.get(SUBTITLE_TAG)
+    if value == SUBTITLE:
+        return False
+    if value not in SUBTITLE_KNOWN_VALUES:
+        raise AdaptationError("%s: %s holds %r (only the 'Sprite Background' placeholder or the "
+                              "adapted 'Time Attack' are accepted; missing rows refuse too)"
+                              % (name, SUBTITLE_TAG, value))
+    strings_doc[SUBTITLE_TAG] = SUBTITLE
+    return True
+
+
 def adapt_timeattack_metadata(data_dir, write=True):
     """Adapt the Time Attack tables in data_dir; returns a report dict.
 
@@ -217,6 +241,7 @@ def adapt_timeattack_metadata(data_dir, write=True):
 
     converted, already = _adapt_scores(score_doc, score_rows, "ChallengeScoreTable")
     timer_changed = _adapt_timer_format(strings_doc, "strings_en")
+    subtitle_changed = _adapt_subtitle(strings_doc, "strings_en")
     groups = _referenced_groups(sched_rows, score_rows)
     missing = sorted(g for g in groups
                      if not any(int(r.get("rewardGroup") or 0) == g for r in group_rows))
@@ -227,19 +252,19 @@ def adapt_timeattack_metadata(data_dir, write=True):
     derived, added, present = _derive_display_rows(group_rows, disp_rows, groups, goods_rows, item_rows)
 
     wrote = False
-    if write and (converted or added or timer_changed):
+    if write and (converted or added or timer_changed or subtitle_changed):
         if converted:
             _dump(os.path.join(data_dir, "ChallengeScoreTable.json"), score_doc, score_crlf)
         if added:
             _dump(os.path.join(data_dir, "RewardDisplayTable.json"), disp_doc, disp_crlf)
-        if timer_changed:
+        if timer_changed or subtitle_changed:
             _dump(os.path.join(data_dir, "strings_en.json"), strings_doc, strings_crlf)
         wrote = True
     return {"data_dir": data_dir, "wrote": wrote,
             "score_rows": len(score_rows), "score_converted": converted, "score_already_ms": already,
             "reward_groups": len(groups), "reward_rows": len(group_total),
             "display_derived": len(derived), "display_added": added, "display_present": present,
-            "timer_format_changed": timer_changed}
+            "timer_format_changed": timer_changed, "subtitle_changed": subtitle_changed}
 
 
 def main(argv=None):
