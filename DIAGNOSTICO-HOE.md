@@ -1,13 +1,13 @@
-# Diagnóstico e validação: Hall of Elements (2026-11-14)
+# Diagnóstico e validação: Hall of Elements (atualizado em 2026-11-15)
 
-## Estado atual: v1016 em teste
-- A v1014 carrega a arena Purple sem inimigos; a v1015 importa os chefes, mas também fica sem inimigos porque faltavam os monstros das ondas anteriores.
-- O grafo original Purple prepara Pierrena e Ryo antes de liberar Flame Walker. Os 15 nomes `Monster.*.HighComedown` da referência foram confirmados dentro do pacote original PC de gatilhos, e todos os seus pacotes de modelos estão presentes no cache.
-- Fechamento acumulado: 15 MonsterTable, 57 MonsterSkillTable, 6 MonsterGrowthTable (growthType 100), 151 MonsterLevelStatTable (levelStatType 100), 55 AiGroupTable (700/701/702/705/706) e 15 nomes traduzidos. SkillTable permanece intocada.
-- Importações em cópias descartáveis verificadas: todas as linhas preexistentes permanecem iguais; uma segunda execução não muda os arquivos. O teste v1016 acrescenta apenas os dez perfis, 37 habilidades, 44 registros de IA e dez nomes que faltavam após v1015.
-- Rebuild v1016 concluído e jogo reaberto. Presença/ação das ondas e chefes, vitória, recompensas e retorno à lista continuam pendentes de validação real.
-- O mantenedor autorizou fechar/reabrir o jogo conforme necessário, sem pedir confirmação a cada reinício. Os comandos de mouse e teclado continuam proibidos.
-- Checkpoint v1014 enviado para main: `3e61394`. Nenhuma funcionalidade além da evidência acima foi declarada concluída.
+## Estado atual: v1017, Purple com vitória nas fases 1, 32 e 33
+- Primeira fase Purple validada pelo mantenedor na v1016: ondas, chefe, vitória, recompensas e progresso persistido. Checkpoint enviado: `4eebcc1`; entrada/arena anterior: `3e61394`.
+- Na v1017, o Codex jogou as fases 32 e 33 usando a formação automática e o combate automático já disponível no jogo. Ambas carregaram, mataram os inimigos e o chefe, exibiram vitória/recompensas e voltaram progresso ao save. Isso comprova a correção do carregamento de grau 6 nestas fases; não comprova os demais modos ou todos os stages.
+- A adaptação acrescenta somente quatro registros de configuração dos lutadores (3016..3019). Todos os registros anteriores, inimigos, níveis, atributos, habilidades e recompensas ficaram idênticos. A configuração original desses graus não foi recuperada; a adaptação reutiliza o comportamento presente no cliente PC.
+- Cobertura acumulada dos inimigos HoE: 15 MonsterTable, 57 MonsterSkillTable, 6 MonsterGrowthTable, 151 MonsterLevelStatTable, 55 AiGroupTable e 15 nomes. SkillTable intocada.
+- Pendências visuais: texto da barra preta superior (`System.QuestEventEntryCount.Info_01.Name`) ausente das fontes disponíveis; textos/ícones das missões na tela YOU WIN apareceram incompletos nas fases Purple altas e Blue inicial. Causa encontrada: missões 9511090/9511105/9511120 pedem o grupo de recompensa 9610050, ausente do PC; o importador traz StageMissionTable mas não fecha suas recompensas. Pontuação de missão persistiu, porém esses prêmios não foram pagos. Correção pendente. A tela RESULT mostrou os itens e quantidades corretamente após a animação.
+- O mantenedor autorizou fechar/reabrir o jogo e usar mouse/teclado para testes; interações param durante análise/código. Pediu também automatizar os testes e remover a tela local de Sign In, que aceita entrada sem senha. Remoção ainda não implementada.
+- As seções abaixo são o histórico da investigação; instruções e pendências antigas não substituem este estado atual.
 
 ## Sintoma (evidência real)
 - Card "Hall of Elements - Purple" visível no hub; clique humano não abre nada e não gera endpoint nem erro nos logs (gate do próprio cliente).
@@ -65,7 +65,23 @@
 - Correção (aguardando execução do Codex em cópia): `import_hoe_monsters` agora seleciona TODOS os 15 rows fonte `Monster.*.HighComedown` (5 chefes + 10 mobs/elites das ondas), mesmo fechamento skill/growth/levelstat/aigroup; todos os 57 skillNIndex resolvem em MonsterSkillTable (SkillTable intocada). Versões 1016.
 - Previsto: MonsterTable +10 (530003/5/8/9/10/12/13/15/17/18), MonsterSkillTable +37, AiGroupTable +44 (700/701/702/706), Growth/LevelStat +0. Validação runtime (ondas + boss + fim de batalha) PENDENTE.
 
-## Validação real concluída na v1016
-- O mantenedor confirmou ondas, chefe derrotado e recompensas na primeira fase Purple. Prints mostram RESULT com ouro 3600, duas cápsulas e dez moedas; retorno com STAGE 1 COMPLETED e Entries visível.
-- Requisição real questEventEnd: stage 4100101, BattleResult 1, ClearTime 12, PlayTime 12764; resposta HTTP 200/ResultCode 0. Save persistiu clears 1 e três missões concluídas.
-- O último nível 4100133 ainda trava: a tabela de IA dos lutadores (grupo 301) não contém o grau 6 solicitado. Esse ajuste e a validação dos demais stages/modos ficam pendentes neste checkpoint.
+## Estado v1016 em runtime (2026-11-14)
+- Purple VALIDADA na primeira fase: ondas de mobs + boss + WIN + recompensas reais; `questEventStart/BattleResult` 4100101 = 1 e persistiu (clears 1 no save). Ratio real stage 33: HP 12.319 / Atk 107.642 / Lv 150 (recommended 250k) vs stage 1 Lv 20 (3.500).
+- Última fase 4100133: loading infinito. Cadeia no log: `CharacterManager.LoadCharacter ← MyInfo.AddLoadCharacters ← Scene_Single_Event.LoadingProcess` com NullReference — `AiGroupTable.Find` (predicado grupo E grau exatos, confirmado em Ghidra independente) pede player group 301 **grau 6**; o PC reconstruído só tem graus 1..5.
+- Prova direta do grau: dump.cs `QuestEventStageProto` linha 467503 — `_monsterGrade 0x88`, `_monsterLevel 0x8C`, `_aiGrade 0x100`; `MyInfo.GetAIGroupGrade` case 3/0xD faz Find e retorna row+0x100 = **aiGrade da própria stage** (4100133 → 6). Derivação anterior monsterLevel//25 era bug (row 32 também é aiGrade 6) — corrigida: grades = aiGrade>0 dos ref_rows. Revisão em cópia: ref_rows cobrem HoE 1..6, BuffSelect 8101 1..9, Prove 10901 1..8, Advent 42003..42006 inclui 6 → faltam {6,7,8,9} = **4 rows (3016..3019)**, todas necessárias à cobertura dos 7 modos.
+- Correção v1017 (ADAPTAÇÃO de compatibilidade, NÃO restauração): clones do row 301 grau 1 (3011) preservando todos os campos, só aiGrade e aiGroupIndex mudam (3011-1+grau → 3016..3019). Justificativas: todas as rows 301 compartilham o prefab Fighter001; seus 16 grafos NodeCanvas não têm nenhuma condição/BB param dependente de grau/aiOperationValue; `aiOperationValue` omitido mantém o default do cliente (`AiGroup.EffectiveOperationValue`: campo 0x24, 0 → const 0.2 lido da DLL), igual aos graus 1..5 funcionais — não inventar 1.0. Validação reforçada: todos os campos do grupo exceto aiGrade/aiGroupIndex devem ser IGUAIS ao template grau 1 (grupos com aiOperationValue/parâmetros distintos não são estendidos); teste do Codex em cópia confirma que os existentes são idênticos.
+- RISCO/INCERTEZA declarada: não dá para afirmar que um 3016 ORIGINAL existiu ou seu conteúdo — a fonte mobile não tem grupo 301 (único fighter default: 690/Fighter000) e a chave Netmarble das tabelas originais é desconhecida (keys.json), logo o aigrouptable.bin original é ilegível. Dados/atributos de INIMIGOS permanecem inalterados (rows 70506/70606 intactas).
+- Validações mantidas no gerador: template grau 1 único + todos os campos do grupo iguais ao template (exceto aiGrade/aiGroupIndex) + sem colisão de aiGroupIndex + append-only. Codex: import em cópia já produziu 4 rows (3016..3019); rebuild v1017 e teste runtime (subir até a 4100133 e cobrir BuffSelect/Prove) PENDENTES.
+
+
+## Validação v1017 executada pelo Codex (2026-11-15)
+- Gerador executado em cópia: apenas `AiGroupTable.json` mudou, com 3016/3017/3018/3019; todos os registros anteriores idênticos e segunda execução sem mudanças. Casos de parâmetros divergentes e colisão de índice foram recusados antes de escrever.
+- Rebuild terminou com código 0: packs common/lang/prohibited 1017, constantes do servidor e gerador iguais. Servidor/jogo reiniciados nessa versão.
+- `server/logs/server-codex-v1017.out.log`: `questEventStart`/`questEventEnd` reais de 4100132 e 4100133; BattleResult 1, ResultCode 0, KillMonstersList com 530005 (1), 530003 (4) e 530001 (1). Save: ambas `clears=1`, `result=1` e três missões concluídas.
+- Fase 32: ClearTime 9; RESULT com ouro 22200, alma Purple 7, cápsula 7, moeda dourada 103 e moeda roxa 3. Fase 33: ClearTime 10; RESULT com ouro 22800, alma Purple 7, cápsula 7, moeda dourada 106 e moeda roxa 4. AP foi de 1205 para 1145 e 1085; não se reduziu a dificuldade para passar o teste.
+- `player-codex-v1017.log` sem NullReferenceException, Exception: ou aviso DATA DOWNLOAD HAS FAILED até o resultado da fase 33.
+- Automação temporária, fora do repositório: arraste nativo lento da própria lista funcionou; arraste do marcador lateral pelos controles genéricos não moveu a lista. Nenhuma escrita de memória ou alteração do cliente foi usada nesses testes.
+- Ainda falta validar os demais elementos, o restante das fases e modos, o replay e a persistência após novo reinício. Nenhuma conclusão global das sete dungeons é reivindicada.
+
+- Verificação vizinha v1017: Blue primeira fase 4100201 terminou com vitória, recompensas base (ouro 3600, alma Blue, cápsula 2, moeda dourada 10), 40 EXP de conta e save `clears=1`. AP 1085→1065. A falha das missões descrita acima também aparece nessa fase e permanece pendente; os testes não comprovam pagamento dessas recompensas.
+- Revisão independente GLM-5.3 MAX: sem veto ao checkpoint; confirmou quatro registros anexados, anteriores idênticos, proteção de colisão/divergência e versão consistente. Limitação conhecida: grupos futuros com comportamento diferente por grau fazem o importador recusar a adaptação, em vez de assumir equivalência.

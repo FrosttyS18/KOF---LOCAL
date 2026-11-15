@@ -114,7 +114,7 @@ class Handler(BaseHTTPRequestHandler):
     do_GET = do_POST = do_PUT = _handle
 
 
-TABLE_PACK_VERSION = 1016  # must match tools/make_tablepacks.py
+TABLE_PACK_VERSION = 1017  # must match tools/make_tablepacks.py
 
 
 def r_config(req, m, body):

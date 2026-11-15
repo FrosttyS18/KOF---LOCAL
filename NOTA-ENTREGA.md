@@ -1,5 +1,11 @@
 # NOTA DE ENTREGA — estado do projeto (2026-11-14, ~22h)
 
+> Atualização do Codex: a nota abaixo é histórica. Consulte `DIAGNOSTICO-HOE.md` para a investigação e validação atuais.
+> Checkpoints enviados para `main`: `3e61394` (entrada/arena) e `4eebcc1` (ondas, chefe, vitória, recompensas e progresso persistido da primeira fase Purple, v1016).
+> Atualização v1017: fases Purple 32 e 33 validadas pelo Codex com ondas/chefe, vitória, recompensas e save. Foram acrescentados quatro registros de IA dos lutadores como adaptação de compatibilidade (originais não recuperados), preservando todos os dados anteriores. Demais elementos/stages/modos continuam pendentes; detalhes no diagnóstico.
+> A interpretação antiga da whitelist estava invertida: a lista restringia os eventos para usuários comuns. A tabela reconstruída foi esvaziada após leitura do cliente.
+> A afirmação antiga de “Time Attack 100%” comprova apenas navegação e endpoints; batalha completa e recompensas não foram validadas.
+
 Handoff para continuação (Codex ou outra sessão). Meta original: as 7 dungeons que faltavam
 funcionando na versão PC. Repositório: FrosttyS18/KOF---LOCAL (main). Últimos commits:
 `2cc518c` (as 7 dungeons: dados+handlers), `4934e44` (HoE: whitelist/EventPage/marcadores, commit do

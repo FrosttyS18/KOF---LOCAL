@@ -16,7 +16,9 @@ DifficultyTable.GetDifficultyRange for hardcoded modeIndex 202), and the name/de
 The Hall of Elements trigger graphs also require every HighComedown monster -- the five Flame Walker
 bosses plus the ten mob/elite wave monsters their graphs spawn first (the live GraphOwner dump showed
 NODE 7 creating Pierrena/Ryo waves before NODE 9's boss; boss-only v1015 left the arena empty) -- and
-their monster skills, growth curves, level stats and AI groups from the mobile reference.
+their monster skills, growth curves, level stats and AI groups from the mobile reference. The
+player-AI AiGroupTable rows the imported stages' aiGrade demands are a compatibility adaptation
+(a clone of the group's grade-1 row), documented in append_player_ai_grades.
 Existing rows are never touched; only appended -- the sole exception: adapt_triggers_to_pc renames
 questEvent 41001's singleTriggerName to the PC bundle's real asset name. Fields follow
 server/tables/schema.json.
@@ -180,6 +182,47 @@ def import_hoe_monsters(schema, src):
     return counts
 
 
+def append_player_ai_grades(schema, src, ref_rows):
+    """Compatibility ADAPTATION, not a restoration: the last HoE stage hangs loading characters
+    because AiGroupTable.Find wants the player group's row at the stage's own aiGrade (dump.cs
+    QuestEventStageProto _aiGrade 0x100 -- exactly what MyInfo.GetAIGroupGrade returns for
+    quest-event stages, per the independent Ghidra read) and the reconstructed player group 301
+    stops at grade 5. Grade 6 for group 301 exists in no available source (mobile has no group
+    301; the original PC aigrouptable.bin cannot be decrypted, so whether a real 3016 ever
+    existed is unknowable). Clones each player group's grade-1 row whole: only aiGrade and
+    aiGroupIndex change (template index - template grade + grade, the group's 301n numbering).
+    No combat behavior is invented: all 301 rows share the Fighter001 prefab, whose NodeCanvas
+    graphs hold no grade/aiOperationValue branch, and the omitted aiOperationValue keeps the
+    client default (AiGroup.EffectiveOperationValue: field 0x24, 0 => constant 0.2), exactly like
+    the working grades 1..5. Enemy rows (70506/70606) are never touched."""
+    rows = load_data("AiGroupTable")["rows"]
+    grades = {int(r["aiGrade"]) for r in ref_rows if int(r.get("aiGrade") or 0) > 0}
+    add, used = [], {int(r.get("aiGroupIndex") or 0) for r in rows}
+    for group in sorted({int(r["aiGroup"]) for r in load_data("CharacterTable")["rows"]
+                         if r.get("aiGroup") is not None}):
+        members = [r for r in rows if int(r.get("aiGroup") or 0) == group]
+        base = [r for r in members if int(r.get("aiGrade") or 0) == 1]
+        if not members or len(base) != 1:
+            sys.exit(f"AiGroupTable: player aiGroup {group} lacks a single grade-1 row to clone")
+        template = {k: v for k, v in base[0].items() if k not in ("aiGrade", "aiGroupIndex")}
+        strays = [r.get("aiGroupIndex") for r in members
+                  if {k: v for k, v in r.items() if k not in ("aiGrade", "aiGroupIndex")} != template]
+        if strays:
+            sys.exit(f"AiGroupTable: player aiGroup {group} rows {strays} differ from the grade-1 "
+                     "template beyond aiGrade/aiGroupIndex -- refusing to extend the group")
+        for grade in sorted(grades - {int(r.get("aiGrade") or 0) for r in members}):
+            index = int(base[0]["aiGroupIndex"]) - int(base[0]["aiGrade"]) + grade
+            if index in used:
+                sys.exit(f"AiGroupTable: player aiGroup {group} grade {grade} would collide at "
+                         f"aiGroupIndex {index}")
+            used.add(index)
+            clone = dict(base[0])
+            clone["aiGroupIndex"] = index
+            clone["aiGrade"] = grade
+            add.append(clone)
+    return len(merge(schema, "AiGroupTable", add, "aiGroupIndex", src, []))
+
+
 UI_TERMS = ("buffselect", "sura", "prove", "timeattack", "phantom", "challenge", "transcend", "comedown",
             "marathon", "hallofelements", "adventure.come", "questevententrycount")
 
@@ -247,6 +290,7 @@ def main():
     missions = {int(r[k]) for r in stage_rows for k in ("mission1Index", "mission2Index", "mission3Index")
                 if r.get(k)}
     ref_rows = stage_rows + load_data("ChallengeStageTable")["rows"]
+    ai_added = append_player_ai_grades(schema, src, ref_rows)
     maps = {int(r["resourceMapIndex"]) for r in ref_rows if r.get("resourceMapIndex")}
     balances = {int(r[k]) for r in ref_rows for k in
                 ("stageBalanceIndex", "singleStageBalanceIndex", "multiStageBalanceIndex") if r.get(k)}
@@ -304,6 +348,7 @@ def main():
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
     print(" | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo")
     print("Hall of Elements monsters: " + " | ".join(f"{t} +{n}" for t, n in hoe.items()))
+    print(f"player AI grades +{ai_added} (AiGroupTable)")
 
 
 if __name__ == "__main__":

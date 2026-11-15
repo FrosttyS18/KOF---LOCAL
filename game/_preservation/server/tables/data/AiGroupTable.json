@@ -1077,6 +1077,30 @@
    "aiBaseNodeName": "Prefabs/AI/FighterBoss/Normal/FighterBoss_Normal",
    "aiGroup": 706,
    "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 3016,
+   "aiGroup": 301,
+   "aiGrade": 6,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3017,
+   "aiGroup": 301,
+   "aiGrade": 7,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3018,
+   "aiGroup": 301,
+   "aiGrade": 8,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 3019,
+   "aiGroup": 301,
+   "aiGrade": 9,
+   "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
   }
  ]
 }
