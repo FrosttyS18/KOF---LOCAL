@@ -2,6 +2,12 @@
 
 **Escopo:** histórico temático do trabalho de restauração das sete dungeons. Este arquivo resume commits já presentes em `main` e validações registradas; não substitui o diagnóstico detalhado do Hall of Elements em [`DIAGNOSTICO-HOE.md`](DIAGNOSTICO-HOE.md).
 
+## 15/11 — HUD do PC e teste do gate Goenitz
+
+- Indicador de Wi-Fi/bateria desativado no objeto PhoneInfo da interface de combate: um byte alterado, 4.146 objetos e demais dados preservados; usuário confirmou que desapareceu. Gerador `build_pc_status_icons_off.py`.
+- Gate refletido do Goenitz adaptado de Monster para Actor; um campo do grafo, demais 18 objetos e três referências de collider preservados. A IA avança, mas o chefe continua parado no teste do usuário: não é correção completa. Gerador `build_buffselect_goenitz_pc.py`.
+- Replay de andar já concluído oferece nova escolha e acumula picks: bug confirmado em código/save, ajuste em andamento. Nenhum pick existente foi removido.
+
 ## Fontes e limites da evidência
 
 A fonte de verdade para o estado é o checkout atual, seus commits e os registros técnicos/documentais existentes. As adaptações de dados partiram principalmente das tabelas mobile importadas e dos bundles do cliente Windows disponíveis localmente. Contratos e comportamentos foram confrontados, conforme cada item, com estruturas Unity e código nativo analisados anteriormente em IDA e atualmente por leitura estática no Ghidra, além de logs/requisições reais do cliente e dados de save registrados durante testes. Referências comunitárias pontuais são citadas no diagnóstico; uma regra atribuída à comunidade não equivale a comprovação do comportamento original da Netmarble.

@@ -32,7 +32,10 @@ Esse número não representa 71,4% das fases, dos dados, do trabalho total, da f
 
 - **Bônus positivos:** +5% de crítico confirmado no Rugal 1256 (64000010, nível/stack 1). Snapshot aprovado de 12:31:04 registra modificadores positivos empilhados e Fury no alvo de Rugal 1294; detalhes e campos estão no changelog. Buffs de crítico técnico 1010 e defesa 1009 estavam inativos no personagem Attack, como esperado. Efeitos visuais dos buffs estão em análise; nenhum efeito novo foi implementado.
 - **Penalidades negativas:** HP 64000103 no andar 11, ATK 64000101 no 12 e DEF 64000102 no 13 foram confirmados individualmente no alvo, L1/−0,1, com a penalidade anterior deixando de aparecer ativa ao avançar. Referências: `live-player-buffs-20261115-123104.json`, `live-player-buffs-20261115-123345.json` e `live-player-buffs-20261115-123641.json`. Reservas 1339/1225 estavam apenas self-inactive; não há prova de aplicação nos três personagens nem de combos nos andares 31/41.
-- **Goenitz, andar 5:** sem alvo; 64 nós (5 Failure, 59 Resting), 105 tasks (3 Success, 76 Resting, 26 sem status). ActionFind teve sucesso; replay terminou por tempo. Causa não estabelecida. TEMP: `goenitz-floor5-character-ai.json`, `goenitz-floor5-ai-running.json`.
+- **Goenitz após ajuste do gate:** `Monster|get_isHoldAnyUpdate` foi adaptado para `Actor`, mantendo os demais campos. Instalado e revisado, mas usuário confirmou que o chefe continua parado. Captura viva de 13:05:08: 21 Failure/43 Resting; Action_ReservedSkill do nó 42 falha. A correção permitiu avançar na árvore, sem resolver o combate.
+- **Repetição de andares:** código e save confirmam nova escolha e picks duplicados após replay de andares já concluídos; correção em andamento, sem limpeza dos picks existentes.
+- **HUD do PC:** usuário confirmou que Wi-Fi/bateria desapareceram após alteração de um byte no objeto PhoneInfo da interface de combate.
+- **Goenitz antes do ajuste, andar 5:** sem alvo; 64 nós (5 Failure, 59 Resting), 105 tasks (3 Success, 76 Resting, 26 sem status). ActionFind teve sucesso; replay terminou por tempo. Causa não estabelecida. TEMP: `goenitz-floor5-character-ai.json`, `goenitz-floor5-ai-running.json`.
 - **Krizalid, andar 10:** parado com 100% HP em duas leituras, com alvo; FSM rodava. Grafo 29 nós (5 Failure, 23 Resting, 1 Success); ActionSkill node 28 terminou em Failure. Sintoma distinto; causa não estabelecida. TEMP: `npc-ai-20261115-122457.json`, `npc-ai-20261115-122514.json`.
 - **Tooltip e barra Elite:** usuário confirmou os três tooltips inteiros após reload; review do bundle aprovou decodificação e preservação. Barra Elite sem modelo aparente segue visível no print do andar 5 e pendente de investigação.
 
@@ -44,7 +47,7 @@ Esse número não representa 71,4% das fases, dos dados, do trabalho total, da f
 4. Reentradas, HP e time entre andares, recompensas, first clears e segurança de combate; realizar checks de regressão vizinhos conforme o fluxo de validação do projeto.
 5. Confirmar se a rota alternativa do Prove pela Scene 155 pode ser alcançada pela UI; a rota ChallengeTop não expõe o índice 109. Investigar EventEndNotice e combate Advent.
 6. Hot reload não existe; alterações de conteúdo ainda requerem reiniciar. Reavaliar o banner apenas depois de validação mais ampla e de definir uma métrica reproduzível.
-7. O pedido de remover indicadores Wi-Fi/bateria no cliente PC segue sem alteração instalada.
+7. Indicadores Wi-Fi/bateria removidos e confirmados pelo usuário na interface de combate do PC; tela de treinamento não foi alterada.
 
 ## Origem dos dados e classificação das afirmações
 
