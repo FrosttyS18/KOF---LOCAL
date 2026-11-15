@@ -42479,5 +42479,6 @@
  "Item.Desc.2020172": "Soul of B. Jenet (Xmas). Used to Limit Break this fighter. Salvage it to get Soul Dust.",
  "Item.Name.2020053": "Brian Battler (TF) Soul",
  "Item.Name.2020368": "Shermie Soul",
- "Item.Type.2020104": "Fighter Soul"
+ "Item.Type.2020104": "Fighter Soul",
+ "System.QuestEventEntryCount.Info_01.Name": "Remaining Count"
 }

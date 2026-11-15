@@ -1,11 +1,14 @@
 """Import the monster closure of the nine Time Attack challenges (ChallengeStageTable).
 
-Derivation is pointer-exact, never by proximity: each challengeStage row's flowTrigger names a
-prefab in the prefabs_eventsystem_trigger_timeattack bundle; the root GameObject (m_Name ==
-flowTrigger basename) is walked through component->Transform->children PPtrs only, and the
-NodeCanvas.BehaviourTree MonoBehaviour linked to that subtree supplies the Monster.* tokens
-those graphs spawn (tools/read_unity_serialized.py parses the bundle canonically). Every
-challenge's tokens must resolve in the project tables or the mobile source, or the run aborts.
+Derivation is pointer-exact, never by proximity: each challengeStage row's EFFECTIVE trigger
+path names a prefab in the prefabs_eventsystem_trigger_timeattack bundle -- `flowTrigger` on
+pre-adapt rows, `triggerName` after tools/adapt_timeattack_pc.py moved it there (the PC
+adaptation for the LoadingProcess callback path); both modes yield the same nine standalone
+roots. The root GameObject (m_Name == path basename) is walked through
+component->Transform->children PPtrs only, and the NodeCanvas.BehaviourTree MonoBehaviour
+linked to that subtree supplies the Monster.* tokens those graphs spawn
+(tools/read_unity_serialized.py parses the bundle canonically). Every challenge's tokens must
+resolve in the project tables or the mobile source, or the run aborts.
 
 The closure then follows tools/import_dungeon_monsters.py semantics, reusing its helpers without
 editing them: PC rows win when both sides carry the monsterIndexString (divergences logged,
@@ -108,22 +111,26 @@ def main():
     stages = dg.load_data("ChallengeStageTable")["rows"]
     guards.dup_guard(stages, lambda r: r.get("challengeStageIndex"),
                      dg.fields_of(schema, "ChallengeStageTable"), "ChallengeStageTable (project)")
-    flow = [(guards.as_int(r.get("challengeStageIndex"), "challengeStageIndex"),
-             r.get("flowTrigger"),
-             guards.as_int(r.get("monsterLevel"), "monsterLevel"),
-             guards.as_int(r.get("aiGrade"), "aiGrade"))
-            for r in stages if r.get("flowTrigger")]
+    flow = []
+    for r in stages:
+        path = r.get("flowTrigger") or r.get("triggerName") or ""
+        if not path:
+            fail(f"ChallengeStageTable: stage {r.get('challengeStageIndex')} carries neither "
+                 f"flowTrigger nor triggerName")
+        flow.append((guards.as_int(r.get("challengeStageIndex"), "challengeStageIndex"), path,
+                     guards.as_int(r.get("monsterLevel"), "monsterLevel"),
+                     guards.as_int(r.get("aiGrade"), "aiGrade")))
     if not flow:
-        fail("ChallengeStageTable: no row carries a flowTrigger")
+        fail("ChallengeStageTable: no rows")
     bare = [idx for idx, ft, _, _ in flow if "/" not in ft]
     if bare:
-        fail(f"flowTrigger without a bundle path in stages {bare}")
+        fail(f"trigger path without a bundle directory in stages {bare}")
 
     manifest = bundle_manifest()
     bundle_names = sorted({bundle_of_prefab(ft) for _, ft, _, _ in flow})
     for b in bundle_names:
         if b not in manifest or not os.path.isfile(bundle_file(b)):
-            fail(f"bundle {b} (from flowTrigger) is not in the client manifest/cache")
+            fail(f"bundle {b} (from the trigger path) is not in the client manifest/cache")
 
     monsters_of_stage, orphans, indexed = {}, [], {}
     for b in bundle_names:

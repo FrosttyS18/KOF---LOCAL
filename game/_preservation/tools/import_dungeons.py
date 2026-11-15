@@ -45,6 +45,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)   # the embedded python's _pth never adds the script's own folder
 import read_unityfs
+import adapt_hoe_pc_prefabs as pc_prefabs
 
 DATA = os.path.join(HERE, "..", "server", "tables", "data")
 SCHEMA = os.path.join(HERE, "..", "server", "tables", "schema.json")
@@ -313,16 +314,37 @@ def adapt_hoe_tab_elements():
     return changed
 
 
+def pc_prefab_adapt(rows):
+    """tools/adapt_hoe_pc_prefabs' Character-root adaptation (the two TagIn elites whose Monster
+    prefab cannot reach the Animator's Tag_In state) with its cache preflight: a Divergence aborts
+    the import before any write rather than leave the master pointing at a bundle the PC client
+    cannot load."""
+    try:
+        return pc_prefabs.adapt_rows(rows, pc_prefabs.CACHE, pc_prefabs.bundle_manifest(pc_prefabs.CACHE))
+    except pc_prefabs.Divergence as exc:
+        sys.exit(f"adapt_hoe_pc_prefabs: {exc}")
+
+
 def import_hoe_monsters(schema, src):
     """Import every monster named by the PC HighComedown trigger graphs (5 Flame Walker bosses + the
     10 mob/elite wave monsters their graphs spawn before each boss) and their table dependencies.
-    All skillNIndex references resolve in MonsterSkillTable, and the monsters' prefab skill chains
-    are closed on top (close_hoe_skill_chains); SkillTable is never touched."""
+    All skillNIndex references resolve in MonsterSkillTable; the source rows go through the PC
+    prefab adaptation before merging and the effective master rows again after it (so an already
+    imported master is adapted by the normal import too, no manual command), and the monsters'
+    prefab skill chains are closed on top from those effective master rows (close_hoe_skill_chains);
+    SkillTable is never touched."""
     monsters = [r for r in mobile_rows(src, "MonsterTable")
                 if str(r.get("monsterIndexString", "")).startswith("Monster.")
                 and str(r.get("monsterIndexString", "")).endswith(".HighComedown")]
     if len(monsters) != 15:
         raise ValueError(f"Hall of Elements: expected fifteen HighComedown monster rows, found {len(monsters)}")
+    master_now = {int(r.get("monsterIndex") or 0): r for r in load_data("MonsterTable")["rows"]}
+    try:
+        pc_prefabs.preflight([master_now.get(int(m["monsterIndex"]), m) for m in monsters],
+                             pc_prefabs.CACHE, pc_prefabs.bundle_manifest(pc_prefabs.CACHE))
+    except pc_prefabs.Divergence as exc:
+        sys.exit(f"adapt_hoe_pc_prefabs: {exc}")
+    pc_prefab_adapt(monsters)
     skills = {int(v) for r in monsters for k, v in r.items()
               if re.fullmatch(r"skill\d+Index", k) and v}
     plans = []
@@ -343,7 +365,16 @@ def import_hoe_monsters(schema, src):
               for table, key, rows in plans}
     counts["MonsterTable"] = len(merge(schema, "MonsterTable", monsters, "monsterIndex", src,
                                       ["MonsterTable"]))
-    counts["MonsterSkillChain"], orphans = close_hoe_skill_chains(schema, src, monsters)
+    ids = {int(m["monsterIndex"]) for m in monsters}
+    table = load_data("MonsterTable")
+    master = [r for r in table["rows"] if int(r.get("monsterIndex") or 0) in ids]
+    if len(master) != len(ids):
+        sys.exit(f"MonsterTable: expected the {len(ids)} imported Hall of Elements rows in the project "
+                 f"tables to close their skill chains, found {len(master)}")
+    counts["MonsterPCPrefabs"] = len(pc_prefab_adapt(master))
+    if counts["MonsterPCPrefabs"]:
+        save_data("MonsterTable", table)
+    counts["MonsterSkillChain"], orphans = close_hoe_skill_chains(schema, src, master)
     return counts, orphans
 
 
@@ -357,11 +388,12 @@ def close_hoe_skill_chains(schema, src, monsters):
     (0x1811EFD20: m_data at +0x168, null -> a '#'-less static fallback) feeds Int32.Parse a whole
     asset name and the spawn coroutine dies in FormatException -- green 4100401's first-wave Yuri
     never entered combat and the boss never spawned. The mobile rows carry the chain links only in
-    the prefabs, so the closure reads each monster's cached prefabs_monster_<name> bundle
-    (tools/read_unityfs.py; the CDN file name is md5 of the bundle name) and appends the original
-    mobile row of every Skill.* name it contains, version '#1' (the only one any Hall of Elements
-    row carries). Skill-less monsters (Ryo/Kyo/Kdash: skill-less in the mobile source as well, so
-    SetSkillData never runs for them) need no bundle; a skill-carrying monster without its cached
+    the prefabs, so the closure reads the bundle the PC actually loads for each row's monsterPrefab
+    ('_'.join(path.split('/')[:-1]).lower(); the CDN file name is md5 of the bundle name,
+    tools/read_unityfs.py decompresses it) and appends the original mobile row of every Skill.*
+    name it contains, version '#1' (the only one any Hall of Elements row carries). Skill-less
+    monsters (Ryo/Kyo/Kdash: skill-less in the mobile source as well, so SetSkillData never runs
+    for them) need no bundle; a skill-carrying monster without monsterPrefab or without its cached
     bundle aborts the import rather than guess the chain. Bundle skill names with no row in the
     project or the mobile source are reported as orphans and left alone -- never invented."""
     doc = load_data("MonsterSkillTable")
@@ -370,13 +402,17 @@ def close_hoe_skill_chains(schema, src, monsters):
     by_string = {r.get("monsterSkillIndexString"): r for r in mobile}
     wanted, orphans = set(), {}
     for m in monsters:
-        parts = m["monsterIndexString"].split(".")     # Monster.<Name>.<Grade>.HighComedown
-        bundle = os.path.join(BUNDLES, hashlib.md5(f"prefabs_monster_{parts[1].lower()}".encode()).hexdigest())
         if not [v for k, v in m.items() if re.fullmatch(r"skill\d+Index", k) and v]:
             continue
+        prefab = m.get("monsterPrefab")
+        if not prefab:
+            sys.exit(f"MonsterTable: skill-carrying {m['monsterIndexString']} has no monsterPrefab to "
+                     f"derive its skill-chain bundle from")
+        bundle_name = "_".join(prefab.split("/")[:-1]).lower()
+        bundle = os.path.join(BUNDLES, hashlib.md5(bundle_name.encode()).hexdigest())
         if not os.path.isfile(bundle):
-            sys.exit(f"prefabs_monster_{parts[1].lower()}: skill-carrying {m['monsterIndexString']} has "
-                     f"no cached bundle to close its skill chain from")
+            sys.exit(f"{bundle_name}: skill-carrying {m['monsterIndexString']} has no cached bundle to "
+                     f"close its skill chain from")
         for name in bundle_skill_names(bundle):
             if name + "#1" in have:
                 continue
@@ -466,12 +502,34 @@ def placeholder(tag):
 def ui_strings(src):
     """The dungeons' UI texts (System.* of the mobile SystemTable): added when missing, and replacing
     the placeholders the last build derived for them (a placeholder would show as the raw tag words,
-    e.g. the login popup's 'BuffSelectDungeon Title SeasonInformation')."""
+    e.g. the login popup's 'BuffSelectDungeon Title SeasonInformation'). The battle HUD's entry-count
+    band reads System.QuestEventEntryCount.Info_01.Name, which no available source carries (the
+    original PC lang pack is undecryptable, the mobile tables lack it), so as an offline label
+    ADAPTATION -- not a recovered original translation -- a still-missing Info_01 falls back to the
+    real value the same band already shows at System.QuestEventEntryCount.RemainingCount.Name. An
+    empty Info_01 counts as missing, and a mobile original also retires our own recognizable
+    fallback (a master Info_01 still equal to the Remaining value), since the generic import only
+    fills missing/placeholder entries; any other translated value is a customization and is never
+    overwritten. No fallback is invented when the Remaining label itself is unavailable."""
     texts = mobile_texts(src, "SystemTable")
     keys = {k for k in texts if any(t in k.lower() for t in UI_TERMS)}
     strings = json.load(open(os.path.join(DATA, "strings_en.json"), encoding="utf-8"))
     add = {k: v for k, v in texts.items() if k in keys and (k not in strings or strings[k] == placeholder(k))}
     strings.update(add)
+    info1 = "System.QuestEventEntryCount.Info_01.Name"
+    label = strings.get("System.QuestEventEntryCount.RemainingCount.Name")
+    if not label or label == placeholder("System.QuestEventEntryCount.RemainingCount.Name"):
+        label = None
+    current = strings.get(info1)
+    if current in (None, "") or current == placeholder(info1):
+        current = None
+    original = texts.get(info1) or None
+    if original and (current is None or (label and current == label)):
+        add[info1] = original
+        strings[info1] = original
+    elif current is None and label:
+        strings[info1] = label
+        add[info1] = label
     json.dump(strings, open(os.path.join(DATA, "strings_en.json"), "w", encoding="utf-8"),
               indent=1, ensure_ascii=False)
     return len(add)
@@ -506,6 +564,8 @@ def main():
                       "questEventScheduleIndex", src, [])
     added = {t: len(merge(schema, t, mobile_rows(src, t), key, src, ["ModeTable"] if t in MENU else []))
              for t, key in {**DEDICATED, **MENU}.items()}
+    import adapt_timeattack_pc   # local: the helper imports this module back
+    ta_adapted, _ = adapt_timeattack_pc.apply(DATA)
 
     stage_rows = [r for r in load_data("QuestEventStageTable")["rows"]
                   if int(r.get("questEventIndex") or 0) in todo]
@@ -587,7 +647,8 @@ def main():
           f"ResourceMapTable +{len(resmaps)} | StageBalanceTable +{len(resbalances)} | "
           f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
-    print(" | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo")
+    summary = " | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo"
+    print(f"{summary} | TimeAttack PC triggers +{ta_adapted}")
     print("Hall of Elements monsters: " + " | ".join(f"{t} +{n}" for t, n in hoe.items()))
     if hoe_orphans:
         print("Hall of Elements bundle skills with no table row in any source (left as-is): "

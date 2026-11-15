@@ -15401,6 +15401,22 @@
    "skillDamageRPerLv": 0.05,
    "skillRangeZ": 1.0,
    "accPGBase": 400
+  },
+  {
+   "monsterSkillIndex": 600078,
+   "monsterSkillIndexString": "Skill.King.U01.VenomShot#1",
+   "monsterSkillNameTag": "MonsterSkill.Name.600078",
+   "activeSkillPriority": 8,
+   "activeSkillKind": 1,
+   "characterTarget": 1,
+   "maxRange": 2.0,
+   "skillRangeZ": 1.0,
+   "maxLv": 10,
+   "skillDamageRBase": 1.0,
+   "skillDamageRPerLv": 0.05,
+   "coolTimeBase": 13.5,
+   "activeSkillTalentType": 1,
+   "accPGBase": 400
   }
  ]
 }
