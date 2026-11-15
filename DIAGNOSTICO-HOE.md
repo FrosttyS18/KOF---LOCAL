@@ -1,6 +1,11 @@
 # Diagnóstico e validação: Hall of Elements (atualizado em 2026-11-15)
 
-## Estado atual: v1021 reconstruída e aberta; combate desta versão ainda não validado
+## Estado atual: v1022 EM PREPARAÇÃO; nenhuma batalha nova alegada (ver seção final)
+
+- Teste real da 1021: Green 4100401 entrou na arena em AUTO, sem chefe/avanço até 33 segundos; Yellow 4100501 mostrou dois HairPunchers e depois ficou vazia até 48 segundos, sem chefe. Ambos encerrados por surrender, sem vitória. O `player.log` desta sessão não voltou a registrar a antiga FormatException, nem outra exceção de combate; isso não comprova que as ondas estejam corretas.
+- Sura: menu, requisitos, time e arena da primeira fase (`Ninja Ambush`, 3800101) abriram; não apareceram inimigos em 32 segundos. Surrender retornou BattleResult 0 e ResultCode 0. Tower ainda não foi testada em combate.
+- O controle antigo Sky perdeu a janela; o MCP unificado `cua_repl` recuperou leitura e cliques. O bloco visual foi encerrado com `completion_summary` e resposta final imediata, antes de retomar análise/código. Nenhuma captura foi salva explicitamente como arquivo nesse bloco.
+- Checkpoint das alterações estáticas da 1021: `b4a1bbc`, enviado e remoto conferido. As linhas seguintes descrevem o conteúdo integrado e o histórico; não são uma alegação de sucesso dos combates que falharam.
 
 - v1021: 13 habilidades reais encadeadas de Yuri/King acrescentadas para tratar a exceção `MonsterBattleController.SetSkillData` observada na onda Green. Green e Yellow ainda precisam passar no combate real após esta atualização.
 - Tower QE107 restaurada para 50 andares em `1070001..1070050`, com cadeia de abertura própria e leitura compatível do progresso antigo. As 838 fases fora desse evento ficaram idênticas; o importador foi verificado em cópia para não reintroduzir os IDs antigos. Dependências dos andares 1–50 integradas.
@@ -122,3 +127,15 @@
 - Torre/Sura: novo `import_dungeon_monsters.py` recalcula e valida o fecho de dados, com guardas para grupo vazio, inteiro inválido, duplicata conflitante, colisão e stage Sura apontando outro evento. Revisão independente GLM-5.3 MAX aprovou e executou 38 verificações em cópia; revisão do Codex confirmou append puro e idempotência. Aplicados ao master: 438 MonsterSpawn, 86 Monster, 117 MonsterSkill, 8 AiGroup e 86 nomes reais; nenhum registro anterior foi alterado. Os 117 textos de habilidades sem fonte continuam declarados ausentes. Rebuild e batalha pendentes; cadeias entre habilidades também precisam do fecho específico em preparação.
 - Lacuna estrutural da Torre em tratamento separado: IDs 10701..10720 já pertencem ao Crucible 106 no master, e a importação anterior omitiu os andares 1..20 de QE107. Não sobrescrever esses IDs nem declarar a Torre completa só pelos trinta andares atualmente importados. Agente dedicado analisa namespace separado e compatibilidade de progresso.
 - Pedido do mantenedor: apagar os prints de diagnóstico gerados por Codex/ZCode depois dos testes. Preservar prints enviados pelo usuário, arte original, banner instalado, saves, prefs, backups e logs. Inventário inicial dos diretórios desta tarefa não encontrou PNGs de capturas no projeto; imagens do sandbox são fixtures/arte de teste, não tratar bibliotecas/cache do jogo como prints. Não gerar capturas em arquivo sem necessidade.
+
+## Checkpoint v1022 EM PREPARAÇÃO (2026-11-15, sem teste runtime)
+- Master integrado em cadeia pelo coordenador; rebuild v1022 executado com código 0 e 601 arquivos dos três packs conferidos por tamanho/hash/versão. Restart/runtime v1022 AINDA NÃO EXECUTADOS — servidor/jogo seguem na v1021. Nada abaixo é alegação de batalha funcionando.
+- Contagens do master atual: MonsterTable 527→800, MonsterSkillTable 823→1065, AiGroupTable 185→222, BuffTable 5809→5827.
+- Bloco NPC 450: CharacterTable/skillset/core +450, CharacterGrowth +5242 (reindex 108), Evolve +25, Item +443, SkillTable +4742. Todas as 186 tabelas preservaram os prefixos antigos; CharacterTable 914 = 464 player + 450 NPC; verificação Gpt: 80 personagens do save preservados e 0 NPCs automáticos.
+- Advent desta sessão: fechamento revisado (+128 skills linked de bases cruzadas via bundles de modelo/AI/trigger, resolução ordinal-ignore-case e órfãos declarados) aprovado na revisão e já aplicado ao master em cadeia; atribuição por PPtr segue pendente do parser v22 exato.
+- HoE Green real (v1021, jogo pausado aos 22 s): 2 HairPunchers gerados e mortos, depois arena vazia com Progress 1. Snapshot read-only: 1 ator ativo, 0 geradores, módulo 7 Running. O timeout com condFailure é comportamento NORMAL, não causa. Agente do snapshot investiga ator/subgrafos.
+- Falhas anteriores de Yellow e Sura (v1021) continuam ABERTAS; nenhuma progressão de ondas comprovada.
+- Dependências de Time Attack, Advent, Sura, Buff e Prove integradas ao master; validação runtime v1022 pendente. Gap de bundle do asset DM20319 (Prove/NPC) ainda aberto.
+
+- Revisão pós-integração do coordenador: compilação em memória de todos os módulos server/tools aprovada; chaves primárias únicas nas onze tabelas adicionadas; prefixos das 186 tabelas existentes iguais ao HEAD. Compatibilidade da coleção verificada com o estado real somente lido, sem gravação: 464 personagens jogáveis, 450 NPCs separados, 80 personagens salvos preservados. `git diff --check` aprovado com tratamento de CRLF do projeto.
+- Bundle DM20319 localizado na referência Android; compatibilidade com PC ainda NÃO demonstrada. Não foi copiado para o cache Windows, nem alterado o índice de bundles.

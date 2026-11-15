@@ -2320,6 +2320,1806 @@
    "coreBoardIndex": 101,
    "coreBoardIndexString": "Balance_101",
    "coreBoardDescriptionTag": "Offline.CoreBoard.3.Desc"
+  },
+  {
+   "coreBoardIndex": 5153,
+   "coreBoardIndexString": "CoreBoard_5153"
+  },
+  {
+   "coreBoardIndex": 10232,
+   "coreBoardIndexString": "CoreBoard_10232"
+  },
+  {
+   "coreBoardIndex": 11209,
+   "coreBoardIndexString": "CoreBoard_11209"
+  },
+  {
+   "coreBoardIndex": 13190,
+   "coreBoardIndexString": "CoreBoard_13190"
+  },
+  {
+   "coreBoardIndex": 20001,
+   "coreBoardIndexString": "CoreBoard_20001"
+  },
+  {
+   "coreBoardIndex": 20002,
+   "coreBoardIndexString": "CoreBoard_20002"
+  },
+  {
+   "coreBoardIndex": 20003,
+   "coreBoardIndexString": "CoreBoard_20003"
+  },
+  {
+   "coreBoardIndex": 20004,
+   "coreBoardIndexString": "CoreBoard_20004"
+  },
+  {
+   "coreBoardIndex": 20005,
+   "coreBoardIndexString": "CoreBoard_20005"
+  },
+  {
+   "coreBoardIndex": 20006,
+   "coreBoardIndexString": "CoreBoard_20006"
+  },
+  {
+   "coreBoardIndex": 20007,
+   "coreBoardIndexString": "CoreBoard_20007"
+  },
+  {
+   "coreBoardIndex": 20008,
+   "coreBoardIndexString": "CoreBoard_20008"
+  },
+  {
+   "coreBoardIndex": 20009,
+   "coreBoardIndexString": "CoreBoard_20009"
+  },
+  {
+   "coreBoardIndex": 20010,
+   "coreBoardIndexString": "CoreBoard_20010"
+  },
+  {
+   "coreBoardIndex": 20011,
+   "coreBoardIndexString": "CoreBoard_20011"
+  },
+  {
+   "coreBoardIndex": 20012,
+   "coreBoardIndexString": "CoreBoard_20012"
+  },
+  {
+   "coreBoardIndex": 20013,
+   "coreBoardIndexString": "CoreBoard_20013"
+  },
+  {
+   "coreBoardIndex": 20014,
+   "coreBoardIndexString": "CoreBoard_20014"
+  },
+  {
+   "coreBoardIndex": 20015,
+   "coreBoardIndexString": "CoreBoard_20015"
+  },
+  {
+   "coreBoardIndex": 20016,
+   "coreBoardIndexString": "CoreBoard_20016"
+  },
+  {
+   "coreBoardIndex": 20017,
+   "coreBoardIndexString": "CoreBoard_20017"
+  },
+  {
+   "coreBoardIndex": 20018,
+   "coreBoardIndexString": "CoreBoard_20018"
+  },
+  {
+   "coreBoardIndex": 20019,
+   "coreBoardIndexString": "CoreBoard_20019"
+  },
+  {
+   "coreBoardIndex": 20020,
+   "coreBoardIndexString": "CoreBoard_20020"
+  },
+  {
+   "coreBoardIndex": 20021,
+   "coreBoardIndexString": "CoreBoard_20021"
+  },
+  {
+   "coreBoardIndex": 20022,
+   "coreBoardIndexString": "CoreBoard_20022"
+  },
+  {
+   "coreBoardIndex": 20023,
+   "coreBoardIndexString": "CoreBoard_20023"
+  },
+  {
+   "coreBoardIndex": 20024,
+   "coreBoardIndexString": "CoreBoard_20024"
+  },
+  {
+   "coreBoardIndex": 20025,
+   "coreBoardIndexString": "CoreBoard_20025"
+  },
+  {
+   "coreBoardIndex": 20026,
+   "coreBoardIndexString": "CoreBoard_20026"
+  },
+  {
+   "coreBoardIndex": 20027,
+   "coreBoardIndexString": "CoreBoard_20027"
+  },
+  {
+   "coreBoardIndex": 20028,
+   "coreBoardIndexString": "CoreBoard_20028"
+  },
+  {
+   "coreBoardIndex": 20029,
+   "coreBoardIndexString": "CoreBoard_20029"
+  },
+  {
+   "coreBoardIndex": 20030,
+   "coreBoardIndexString": "CoreBoard_20030"
+  },
+  {
+   "coreBoardIndex": 20031,
+   "coreBoardIndexString": "CoreBoard_20031"
+  },
+  {
+   "coreBoardIndex": 20032,
+   "coreBoardIndexString": "CoreBoard_20032"
+  },
+  {
+   "coreBoardIndex": 20033,
+   "coreBoardIndexString": "CoreBoard_20033"
+  },
+  {
+   "coreBoardIndex": 20034,
+   "coreBoardIndexString": "CoreBoard_20034"
+  },
+  {
+   "coreBoardIndex": 20035,
+   "coreBoardIndexString": "CoreBoard_20035"
+  },
+  {
+   "coreBoardIndex": 20036,
+   "coreBoardIndexString": "CoreBoard_20036"
+  },
+  {
+   "coreBoardIndex": 20037,
+   "coreBoardIndexString": "CoreBoard_20037"
+  },
+  {
+   "coreBoardIndex": 20038,
+   "coreBoardIndexString": "CoreBoard_20038"
+  },
+  {
+   "coreBoardIndex": 20039,
+   "coreBoardIndexString": "CoreBoard_20039"
+  },
+  {
+   "coreBoardIndex": 20040,
+   "coreBoardIndexString": "CoreBoard_20040"
+  },
+  {
+   "coreBoardIndex": 20041,
+   "coreBoardIndexString": "CoreBoard_20041"
+  },
+  {
+   "coreBoardIndex": 20042,
+   "coreBoardIndexString": "CoreBoard_20042"
+  },
+  {
+   "coreBoardIndex": 20043,
+   "coreBoardIndexString": "CoreBoard_20043"
+  },
+  {
+   "coreBoardIndex": 20044,
+   "coreBoardIndexString": "CoreBoard_20044"
+  },
+  {
+   "coreBoardIndex": 20045,
+   "coreBoardIndexString": "CoreBoard_20045"
+  },
+  {
+   "coreBoardIndex": 20046,
+   "coreBoardIndexString": "CoreBoard_20046"
+  },
+  {
+   "coreBoardIndex": 20047,
+   "coreBoardIndexString": "CoreBoard_20047"
+  },
+  {
+   "coreBoardIndex": 20048,
+   "coreBoardIndexString": "CoreBoard_20048"
+  },
+  {
+   "coreBoardIndex": 20049,
+   "coreBoardIndexString": "CoreBoard_20049"
+  },
+  {
+   "coreBoardIndex": 20050,
+   "coreBoardIndexString": "CoreBoard_20050"
+  },
+  {
+   "coreBoardIndex": 20051,
+   "coreBoardIndexString": "CoreBoard_20051"
+  },
+  {
+   "coreBoardIndex": 20052,
+   "coreBoardIndexString": "CoreBoard_20052"
+  },
+  {
+   "coreBoardIndex": 20053,
+   "coreBoardIndexString": "CoreBoard_20053"
+  },
+  {
+   "coreBoardIndex": 20054,
+   "coreBoardIndexString": "CoreBoard_20054"
+  },
+  {
+   "coreBoardIndex": 20055,
+   "coreBoardIndexString": "CoreBoard_20055"
+  },
+  {
+   "coreBoardIndex": 20056,
+   "coreBoardIndexString": "CoreBoard_20056"
+  },
+  {
+   "coreBoardIndex": 20057,
+   "coreBoardIndexString": "CoreBoard_20057"
+  },
+  {
+   "coreBoardIndex": 20058,
+   "coreBoardIndexString": "CoreBoard_20058"
+  },
+  {
+   "coreBoardIndex": 20059,
+   "coreBoardIndexString": "CoreBoard_20059"
+  },
+  {
+   "coreBoardIndex": 20060,
+   "coreBoardIndexString": "CoreBoard_20060"
+  },
+  {
+   "coreBoardIndex": 20061,
+   "coreBoardIndexString": "CoreBoard_20061"
+  },
+  {
+   "coreBoardIndex": 20062,
+   "coreBoardIndexString": "CoreBoard_20062"
+  },
+  {
+   "coreBoardIndex": 20063,
+   "coreBoardIndexString": "CoreBoard_20063"
+  },
+  {
+   "coreBoardIndex": 20064,
+   "coreBoardIndexString": "CoreBoard_20064"
+  },
+  {
+   "coreBoardIndex": 20065,
+   "coreBoardIndexString": "CoreBoard_20065"
+  },
+  {
+   "coreBoardIndex": 20066,
+   "coreBoardIndexString": "CoreBoard_20066"
+  },
+  {
+   "coreBoardIndex": 20067,
+   "coreBoardIndexString": "CoreBoard_20067"
+  },
+  {
+   "coreBoardIndex": 20068,
+   "coreBoardIndexString": "CoreBoard_20068"
+  },
+  {
+   "coreBoardIndex": 20069,
+   "coreBoardIndexString": "CoreBoard_20069"
+  },
+  {
+   "coreBoardIndex": 20070,
+   "coreBoardIndexString": "CoreBoard_20070"
+  },
+  {
+   "coreBoardIndex": 20071,
+   "coreBoardIndexString": "CoreBoard_20071"
+  },
+  {
+   "coreBoardIndex": 20072,
+   "coreBoardIndexString": "CoreBoard_20072"
+  },
+  {
+   "coreBoardIndex": 20073,
+   "coreBoardIndexString": "CoreBoard_20073"
+  },
+  {
+   "coreBoardIndex": 20074,
+   "coreBoardIndexString": "CoreBoard_20074"
+  },
+  {
+   "coreBoardIndex": 20075,
+   "coreBoardIndexString": "CoreBoard_20075"
+  },
+  {
+   "coreBoardIndex": 20076,
+   "coreBoardIndexString": "CoreBoard_20076"
+  },
+  {
+   "coreBoardIndex": 20077,
+   "coreBoardIndexString": "CoreBoard_20077"
+  },
+  {
+   "coreBoardIndex": 20078,
+   "coreBoardIndexString": "CoreBoard_20078"
+  },
+  {
+   "coreBoardIndex": 20079,
+   "coreBoardIndexString": "CoreBoard_20079"
+  },
+  {
+   "coreBoardIndex": 20080,
+   "coreBoardIndexString": "CoreBoard_20080"
+  },
+  {
+   "coreBoardIndex": 20081,
+   "coreBoardIndexString": "CoreBoard_20081"
+  },
+  {
+   "coreBoardIndex": 20082,
+   "coreBoardIndexString": "CoreBoard_20082"
+  },
+  {
+   "coreBoardIndex": 20083,
+   "coreBoardIndexString": "CoreBoard_20083"
+  },
+  {
+   "coreBoardIndex": 20084,
+   "coreBoardIndexString": "CoreBoard_20084"
+  },
+  {
+   "coreBoardIndex": 20085,
+   "coreBoardIndexString": "CoreBoard_20085"
+  },
+  {
+   "coreBoardIndex": 20086,
+   "coreBoardIndexString": "CoreBoard_20086"
+  },
+  {
+   "coreBoardIndex": 20087,
+   "coreBoardIndexString": "CoreBoard_20087"
+  },
+  {
+   "coreBoardIndex": 20088,
+   "coreBoardIndexString": "CoreBoard_20088"
+  },
+  {
+   "coreBoardIndex": 20089,
+   "coreBoardIndexString": "CoreBoard_20089"
+  },
+  {
+   "coreBoardIndex": 20090,
+   "coreBoardIndexString": "CoreBoard_20090"
+  },
+  {
+   "coreBoardIndex": 20091,
+   "coreBoardIndexString": "CoreBoard_20091"
+  },
+  {
+   "coreBoardIndex": 20092,
+   "coreBoardIndexString": "CoreBoard_20092"
+  },
+  {
+   "coreBoardIndex": 20093,
+   "coreBoardIndexString": "CoreBoard_20093"
+  },
+  {
+   "coreBoardIndex": 20094,
+   "coreBoardIndexString": "CoreBoard_20094"
+  },
+  {
+   "coreBoardIndex": 20095,
+   "coreBoardIndexString": "CoreBoard_20095"
+  },
+  {
+   "coreBoardIndex": 20096,
+   "coreBoardIndexString": "CoreBoard_20096"
+  },
+  {
+   "coreBoardIndex": 20097,
+   "coreBoardIndexString": "CoreBoard_20097"
+  },
+  {
+   "coreBoardIndex": 20098,
+   "coreBoardIndexString": "CoreBoard_20098"
+  },
+  {
+   "coreBoardIndex": 20099,
+   "coreBoardIndexString": "CoreBoard_20099"
+  },
+  {
+   "coreBoardIndex": 20100,
+   "coreBoardIndexString": "CoreBoard_20100"
+  },
+  {
+   "coreBoardIndex": 20101,
+   "coreBoardIndexString": "CoreBoard_20101"
+  },
+  {
+   "coreBoardIndex": 20102,
+   "coreBoardIndexString": "CoreBoard_20102"
+  },
+  {
+   "coreBoardIndex": 20103,
+   "coreBoardIndexString": "CoreBoard_20103"
+  },
+  {
+   "coreBoardIndex": 20104,
+   "coreBoardIndexString": "CoreBoard_20104"
+  },
+  {
+   "coreBoardIndex": 20105,
+   "coreBoardIndexString": "CoreBoard_20105"
+  },
+  {
+   "coreBoardIndex": 20106,
+   "coreBoardIndexString": "CoreBoard_20106"
+  },
+  {
+   "coreBoardIndex": 20107,
+   "coreBoardIndexString": "CoreBoard_20107"
+  },
+  {
+   "coreBoardIndex": 20108,
+   "coreBoardIndexString": "CoreBoard_20108"
+  },
+  {
+   "coreBoardIndex": 20109,
+   "coreBoardIndexString": "CoreBoard_20109"
+  },
+  {
+   "coreBoardIndex": 20110,
+   "coreBoardIndexString": "CoreBoard_20110"
+  },
+  {
+   "coreBoardIndex": 20111,
+   "coreBoardIndexString": "CoreBoard_20111"
+  },
+  {
+   "coreBoardIndex": 20112,
+   "coreBoardIndexString": "CoreBoard_20112"
+  },
+  {
+   "coreBoardIndex": 20114,
+   "coreBoardIndexString": "CoreBoard_20114"
+  },
+  {
+   "coreBoardIndex": 20115,
+   "coreBoardIndexString": "CoreBoard_20115"
+  },
+  {
+   "coreBoardIndex": 20116,
+   "coreBoardIndexString": "CoreBoard_20116"
+  },
+  {
+   "coreBoardIndex": 20117,
+   "coreBoardIndexString": "CoreBoard_20117"
+  },
+  {
+   "coreBoardIndex": 20118,
+   "coreBoardIndexString": "CoreBoard_20118"
+  },
+  {
+   "coreBoardIndex": 20119,
+   "coreBoardIndexString": "CoreBoard_20119"
+  },
+  {
+   "coreBoardIndex": 20120,
+   "coreBoardIndexString": "CoreBoard_20120"
+  },
+  {
+   "coreBoardIndex": 20121,
+   "coreBoardIndexString": "CoreBoard_20121"
+  },
+  {
+   "coreBoardIndex": 20122,
+   "coreBoardIndexString": "CoreBoard_20122"
+  },
+  {
+   "coreBoardIndex": 20123,
+   "coreBoardIndexString": "CoreBoard_20123"
+  },
+  {
+   "coreBoardIndex": 20124,
+   "coreBoardIndexString": "CoreBoard_20124"
+  },
+  {
+   "coreBoardIndex": 20125,
+   "coreBoardIndexString": "CoreBoard_20125"
+  },
+  {
+   "coreBoardIndex": 20126,
+   "coreBoardIndexString": "CoreBoard_20126"
+  },
+  {
+   "coreBoardIndex": 20127,
+   "coreBoardIndexString": "CoreBoard_20127"
+  },
+  {
+   "coreBoardIndex": 20128,
+   "coreBoardIndexString": "CoreBoard_20128"
+  },
+  {
+   "coreBoardIndex": 20129,
+   "coreBoardIndexString": "CoreBoard_20129"
+  },
+  {
+   "coreBoardIndex": 20130,
+   "coreBoardIndexString": "CoreBoard_20130"
+  },
+  {
+   "coreBoardIndex": 20131,
+   "coreBoardIndexString": "CoreBoard_20131"
+  },
+  {
+   "coreBoardIndex": 20132,
+   "coreBoardIndexString": "CoreBoard_20132"
+  },
+  {
+   "coreBoardIndex": 20133,
+   "coreBoardIndexString": "CoreBoard_20133"
+  },
+  {
+   "coreBoardIndex": 20134,
+   "coreBoardIndexString": "CoreBoard_20134"
+  },
+  {
+   "coreBoardIndex": 20135,
+   "coreBoardIndexString": "CoreBoard_20135"
+  },
+  {
+   "coreBoardIndex": 20136,
+   "coreBoardIndexString": "CoreBoard_20136"
+  },
+  {
+   "coreBoardIndex": 20138,
+   "coreBoardIndexString": "CoreBoard_20138"
+  },
+  {
+   "coreBoardIndex": 20139,
+   "coreBoardIndexString": "CoreBoard_20139"
+  },
+  {
+   "coreBoardIndex": 20140,
+   "coreBoardIndexString": "CoreBoard_20140"
+  },
+  {
+   "coreBoardIndex": 20141,
+   "coreBoardIndexString": "CoreBoard_20141"
+  },
+  {
+   "coreBoardIndex": 20142,
+   "coreBoardIndexString": "CoreBoard_20142"
+  },
+  {
+   "coreBoardIndex": 20143,
+   "coreBoardIndexString": "CoreBoard_20143"
+  },
+  {
+   "coreBoardIndex": 20144,
+   "coreBoardIndexString": "CoreBoard_20144"
+  },
+  {
+   "coreBoardIndex": 20145,
+   "coreBoardIndexString": "CoreBoard_20145"
+  },
+  {
+   "coreBoardIndex": 20146,
+   "coreBoardIndexString": "CoreBoard_20146"
+  },
+  {
+   "coreBoardIndex": 20147,
+   "coreBoardIndexString": "CoreBoard_20147"
+  },
+  {
+   "coreBoardIndex": 20148,
+   "coreBoardIndexString": "CoreBoard_20148"
+  },
+  {
+   "coreBoardIndex": 20149,
+   "coreBoardIndexString": "CoreBoard_20149"
+  },
+  {
+   "coreBoardIndex": 20150,
+   "coreBoardIndexString": "CoreBoard_20150"
+  },
+  {
+   "coreBoardIndex": 20151,
+   "coreBoardIndexString": "CoreBoard_20151"
+  },
+  {
+   "coreBoardIndex": 20152,
+   "coreBoardIndexString": "CoreBoard_20152"
+  },
+  {
+   "coreBoardIndex": 20153,
+   "coreBoardIndexString": "CoreBoard_20153"
+  },
+  {
+   "coreBoardIndex": 20154,
+   "coreBoardIndexString": "CoreBoard_20154"
+  },
+  {
+   "coreBoardIndex": 20155,
+   "coreBoardIndexString": "CoreBoard_20155"
+  },
+  {
+   "coreBoardIndex": 20156,
+   "coreBoardIndexString": "CoreBoard_20156"
+  },
+  {
+   "coreBoardIndex": 20157,
+   "coreBoardIndexString": "CoreBoard_20157"
+  },
+  {
+   "coreBoardIndex": 20158,
+   "coreBoardIndexString": "CoreBoard_20158"
+  },
+  {
+   "coreBoardIndex": 20159,
+   "coreBoardIndexString": "CoreBoard_20159"
+  },
+  {
+   "coreBoardIndex": 20160,
+   "coreBoardIndexString": "CoreBoard_20160"
+  },
+  {
+   "coreBoardIndex": 20161,
+   "coreBoardIndexString": "CoreBoard_20161"
+  },
+  {
+   "coreBoardIndex": 20162,
+   "coreBoardIndexString": "CoreBoard_20162"
+  },
+  {
+   "coreBoardIndex": 20163,
+   "coreBoardIndexString": "CoreBoard_20163"
+  },
+  {
+   "coreBoardIndex": 20164,
+   "coreBoardIndexString": "CoreBoard_20164"
+  },
+  {
+   "coreBoardIndex": 20165,
+   "coreBoardIndexString": "CoreBoard_20165"
+  },
+  {
+   "coreBoardIndex": 20166,
+   "coreBoardIndexString": "CoreBoard_20166"
+  },
+  {
+   "coreBoardIndex": 20167,
+   "coreBoardIndexString": "CoreBoard_20167"
+  },
+  {
+   "coreBoardIndex": 20168,
+   "coreBoardIndexString": "CoreBoard_20168"
+  },
+  {
+   "coreBoardIndex": 20169,
+   "coreBoardIndexString": "CoreBoard_20169"
+  },
+  {
+   "coreBoardIndex": 20170,
+   "coreBoardIndexString": "CoreBoard_20170"
+  },
+  {
+   "coreBoardIndex": 20171,
+   "coreBoardIndexString": "CoreBoard_20171"
+  },
+  {
+   "coreBoardIndex": 20172,
+   "coreBoardIndexString": "CoreBoard_20172"
+  },
+  {
+   "coreBoardIndex": 20173,
+   "coreBoardIndexString": "CoreBoard_20173"
+  },
+  {
+   "coreBoardIndex": 20174,
+   "coreBoardIndexString": "CoreBoard_20174"
+  },
+  {
+   "coreBoardIndex": 20175,
+   "coreBoardIndexString": "CoreBoard_20175"
+  },
+  {
+   "coreBoardIndex": 20176,
+   "coreBoardIndexString": "CoreBoard_20176"
+  },
+  {
+   "coreBoardIndex": 20177,
+   "coreBoardIndexString": "CoreBoard_20177"
+  },
+  {
+   "coreBoardIndex": 20178,
+   "coreBoardIndexString": "CoreBoard_20178"
+  },
+  {
+   "coreBoardIndex": 20179,
+   "coreBoardIndexString": "CoreBoard_20179"
+  },
+  {
+   "coreBoardIndex": 20180,
+   "coreBoardIndexString": "CoreBoard_20180"
+  },
+  {
+   "coreBoardIndex": 20181,
+   "coreBoardIndexString": "CoreBoard_20181"
+  },
+  {
+   "coreBoardIndex": 20182,
+   "coreBoardIndexString": "CoreBoard_20182"
+  },
+  {
+   "coreBoardIndex": 20183,
+   "coreBoardIndexString": "CoreBoard_20183"
+  },
+  {
+   "coreBoardIndex": 20184,
+   "coreBoardIndexString": "CoreBoard_20184"
+  },
+  {
+   "coreBoardIndex": 20185,
+   "coreBoardIndexString": "CoreBoard_20185"
+  },
+  {
+   "coreBoardIndex": 20186,
+   "coreBoardIndexString": "CoreBoard_20186"
+  },
+  {
+   "coreBoardIndex": 20187,
+   "coreBoardIndexString": "CoreBoard_20187"
+  },
+  {
+   "coreBoardIndex": 20188,
+   "coreBoardIndexString": "CoreBoard_20188"
+  },
+  {
+   "coreBoardIndex": 20189,
+   "coreBoardIndexString": "CoreBoard_20189"
+  },
+  {
+   "coreBoardIndex": 20190,
+   "coreBoardIndexString": "CoreBoard_20190"
+  },
+  {
+   "coreBoardIndex": 20191,
+   "coreBoardIndexString": "CoreBoard_20191"
+  },
+  {
+   "coreBoardIndex": 20192,
+   "coreBoardIndexString": "CoreBoard_20192"
+  },
+  {
+   "coreBoardIndex": 20193,
+   "coreBoardIndexString": "CoreBoard_20193"
+  },
+  {
+   "coreBoardIndex": 20194,
+   "coreBoardIndexString": "CoreBoard_20194"
+  },
+  {
+   "coreBoardIndex": 20195,
+   "coreBoardIndexString": "CoreBoard_20195"
+  },
+  {
+   "coreBoardIndex": 20196,
+   "coreBoardIndexString": "CoreBoard_20196"
+  },
+  {
+   "coreBoardIndex": 20197,
+   "coreBoardIndexString": "CoreBoard_20197"
+  },
+  {
+   "coreBoardIndex": 20198,
+   "coreBoardIndexString": "CoreBoard_20198"
+  },
+  {
+   "coreBoardIndex": 20199,
+   "coreBoardIndexString": "CoreBoard_20199"
+  },
+  {
+   "coreBoardIndex": 20200,
+   "coreBoardIndexString": "CoreBoard_20200"
+  },
+  {
+   "coreBoardIndex": 20201,
+   "coreBoardIndexString": "CoreBoard_20201"
+  },
+  {
+   "coreBoardIndex": 20202,
+   "coreBoardIndexString": "CoreBoard_20202"
+  },
+  {
+   "coreBoardIndex": 20203,
+   "coreBoardIndexString": "CoreBoard_20203"
+  },
+  {
+   "coreBoardIndex": 20204,
+   "coreBoardIndexString": "CoreBoard_20204"
+  },
+  {
+   "coreBoardIndex": 20205,
+   "coreBoardIndexString": "CoreBoard_20205"
+  },
+  {
+   "coreBoardIndex": 20206,
+   "coreBoardIndexString": "CoreBoard_20206"
+  },
+  {
+   "coreBoardIndex": 20207,
+   "coreBoardIndexString": "CoreBoard_20207"
+  },
+  {
+   "coreBoardIndex": 20208,
+   "coreBoardIndexString": "CoreBoard_20208"
+  },
+  {
+   "coreBoardIndex": 20209,
+   "coreBoardIndexString": "CoreBoard_20209"
+  },
+  {
+   "coreBoardIndex": 20210,
+   "coreBoardIndexString": "CoreBoard_20210"
+  },
+  {
+   "coreBoardIndex": 20211,
+   "coreBoardIndexString": "CoreBoard_20211"
+  },
+  {
+   "coreBoardIndex": 20212,
+   "coreBoardIndexString": "CoreBoard_20212"
+  },
+  {
+   "coreBoardIndex": 20213,
+   "coreBoardIndexString": "CoreBoard_20213"
+  },
+  {
+   "coreBoardIndex": 20214,
+   "coreBoardIndexString": "CoreBoard_20214"
+  },
+  {
+   "coreBoardIndex": 20215,
+   "coreBoardIndexString": "CoreBoard_20215"
+  },
+  {
+   "coreBoardIndex": 20216,
+   "coreBoardIndexString": "CoreBoard_20216"
+  },
+  {
+   "coreBoardIndex": 20217,
+   "coreBoardIndexString": "CoreBoard_20217"
+  },
+  {
+   "coreBoardIndex": 20218,
+   "coreBoardIndexString": "CoreBoard_20218"
+  },
+  {
+   "coreBoardIndex": 20219,
+   "coreBoardIndexString": "CoreBoard_20219"
+  },
+  {
+   "coreBoardIndex": 20220,
+   "coreBoardIndexString": "CoreBoard_20220"
+  },
+  {
+   "coreBoardIndex": 20221,
+   "coreBoardIndexString": "CoreBoard_20221"
+  },
+  {
+   "coreBoardIndex": 20222,
+   "coreBoardIndexString": "CoreBoard_20222"
+  },
+  {
+   "coreBoardIndex": 20223,
+   "coreBoardIndexString": "CoreBoard_20223"
+  },
+  {
+   "coreBoardIndex": 20224,
+   "coreBoardIndexString": "CoreBoard_20224"
+  },
+  {
+   "coreBoardIndex": 20225,
+   "coreBoardIndexString": "CoreBoard_20225"
+  },
+  {
+   "coreBoardIndex": 20226,
+   "coreBoardIndexString": "CoreBoard_20226"
+  },
+  {
+   "coreBoardIndex": 20227,
+   "coreBoardIndexString": "CoreBoard_20227"
+  },
+  {
+   "coreBoardIndex": 20228,
+   "coreBoardIndexString": "CoreBoard_20228"
+  },
+  {
+   "coreBoardIndex": 20229,
+   "coreBoardIndexString": "CoreBoard_20229"
+  },
+  {
+   "coreBoardIndex": 20230,
+   "coreBoardIndexString": "CoreBoard_20230"
+  },
+  {
+   "coreBoardIndex": 20231,
+   "coreBoardIndexString": "CoreBoard_20231"
+  },
+  {
+   "coreBoardIndex": 20232,
+   "coreBoardIndexString": "CoreBoard_20232"
+  },
+  {
+   "coreBoardIndex": 20233,
+   "coreBoardIndexString": "CoreBoard_20233"
+  },
+  {
+   "coreBoardIndex": 20234,
+   "coreBoardIndexString": "CoreBoard_20234"
+  },
+  {
+   "coreBoardIndex": 20235,
+   "coreBoardIndexString": "CoreBoard_20235"
+  },
+  {
+   "coreBoardIndex": 20236,
+   "coreBoardIndexString": "CoreBoard_20236"
+  },
+  {
+   "coreBoardIndex": 20237,
+   "coreBoardIndexString": "CoreBoard_20237"
+  },
+  {
+   "coreBoardIndex": 20238,
+   "coreBoardIndexString": "CoreBoard_20238"
+  },
+  {
+   "coreBoardIndex": 20239,
+   "coreBoardIndexString": "CoreBoard_20239"
+  },
+  {
+   "coreBoardIndex": 20240,
+   "coreBoardIndexString": "CoreBoard_20240"
+  },
+  {
+   "coreBoardIndex": 20241,
+   "coreBoardIndexString": "CoreBoard_20241"
+  },
+  {
+   "coreBoardIndex": 20242,
+   "coreBoardIndexString": "CoreBoard_20242"
+  },
+  {
+   "coreBoardIndex": 20243,
+   "coreBoardIndexString": "CoreBoard_20243"
+  },
+  {
+   "coreBoardIndex": 20244,
+   "coreBoardIndexString": "CoreBoard_20244"
+  },
+  {
+   "coreBoardIndex": 20245,
+   "coreBoardIndexString": "CoreBoard_20245"
+  },
+  {
+   "coreBoardIndex": 20246,
+   "coreBoardIndexString": "CoreBoard_20246"
+  },
+  {
+   "coreBoardIndex": 20247,
+   "coreBoardIndexString": "CoreBoard_20247"
+  },
+  {
+   "coreBoardIndex": 20248,
+   "coreBoardIndexString": "CoreBoard_20248"
+  },
+  {
+   "coreBoardIndex": 20249,
+   "coreBoardIndexString": "CoreBoard_20249"
+  },
+  {
+   "coreBoardIndex": 20250,
+   "coreBoardIndexString": "CoreBoard_20250"
+  },
+  {
+   "coreBoardIndex": 20251,
+   "coreBoardIndexString": "CoreBoard_20251"
+  },
+  {
+   "coreBoardIndex": 20252,
+   "coreBoardIndexString": "CoreBoard_20252"
+  },
+  {
+   "coreBoardIndex": 20253,
+   "coreBoardIndexString": "CoreBoard_20253"
+  },
+  {
+   "coreBoardIndex": 20254,
+   "coreBoardIndexString": "CoreBoard_20254"
+  },
+  {
+   "coreBoardIndex": 20255,
+   "coreBoardIndexString": "CoreBoard_20255"
+  },
+  {
+   "coreBoardIndex": 20256,
+   "coreBoardIndexString": "CoreBoard_20256"
+  },
+  {
+   "coreBoardIndex": 20257,
+   "coreBoardIndexString": "CoreBoard_20257"
+  },
+  {
+   "coreBoardIndex": 20258,
+   "coreBoardIndexString": "CoreBoard_20258"
+  },
+  {
+   "coreBoardIndex": 20259,
+   "coreBoardIndexString": "CoreBoard_20259"
+  },
+  {
+   "coreBoardIndex": 20260,
+   "coreBoardIndexString": "CoreBoard_20260"
+  },
+  {
+   "coreBoardIndex": 20261,
+   "coreBoardIndexString": "CoreBoard_20261"
+  },
+  {
+   "coreBoardIndex": 20262,
+   "coreBoardIndexString": "CoreBoard_20262"
+  },
+  {
+   "coreBoardIndex": 20263,
+   "coreBoardIndexString": "CoreBoard_20263"
+  },
+  {
+   "coreBoardIndex": 20264,
+   "coreBoardIndexString": "CoreBoard_20264"
+  },
+  {
+   "coreBoardIndex": 20265,
+   "coreBoardIndexString": "CoreBoard_20265"
+  },
+  {
+   "coreBoardIndex": 20266,
+   "coreBoardIndexString": "CoreBoard_20266"
+  },
+  {
+   "coreBoardIndex": 20267,
+   "coreBoardIndexString": "CoreBoard_20267"
+  },
+  {
+   "coreBoardIndex": 20268,
+   "coreBoardIndexString": "CoreBoard_20268"
+  },
+  {
+   "coreBoardIndex": 20269,
+   "coreBoardIndexString": "CoreBoard_20269"
+  },
+  {
+   "coreBoardIndex": 20270,
+   "coreBoardIndexString": "CoreBoard_20270"
+  },
+  {
+   "coreBoardIndex": 20271,
+   "coreBoardIndexString": "CoreBoard_20271"
+  },
+  {
+   "coreBoardIndex": 20272,
+   "coreBoardIndexString": "CoreBoard_20272"
+  },
+  {
+   "coreBoardIndex": 20273,
+   "coreBoardIndexString": "CoreBoard_20273"
+  },
+  {
+   "coreBoardIndex": 20274,
+   "coreBoardIndexString": "CoreBoard_20274"
+  },
+  {
+   "coreBoardIndex": 20275,
+   "coreBoardIndexString": "CoreBoard_20275"
+  },
+  {
+   "coreBoardIndex": 20276,
+   "coreBoardIndexString": "CoreBoard_20276"
+  },
+  {
+   "coreBoardIndex": 20277,
+   "coreBoardIndexString": "CoreBoard_20277"
+  },
+  {
+   "coreBoardIndex": 20278,
+   "coreBoardIndexString": "CoreBoard_20278"
+  },
+  {
+   "coreBoardIndex": 20279,
+   "coreBoardIndexString": "CoreBoard_20279"
+  },
+  {
+   "coreBoardIndex": 20280,
+   "coreBoardIndexString": "CoreBoard_20280"
+  },
+  {
+   "coreBoardIndex": 20281,
+   "coreBoardIndexString": "CoreBoard_20281"
+  },
+  {
+   "coreBoardIndex": 20282,
+   "coreBoardIndexString": "CoreBoard_20282"
+  },
+  {
+   "coreBoardIndex": 20283,
+   "coreBoardIndexString": "CoreBoard_20283"
+  },
+  {
+   "coreBoardIndex": 20284,
+   "coreBoardIndexString": "CoreBoard_20284"
+  },
+  {
+   "coreBoardIndex": 20285,
+   "coreBoardIndexString": "CoreBoard_20285"
+  },
+  {
+   "coreBoardIndex": 20286,
+   "coreBoardIndexString": "CoreBoard_20286"
+  },
+  {
+   "coreBoardIndex": 20287,
+   "coreBoardIndexString": "CoreBoard_20287"
+  },
+  {
+   "coreBoardIndex": 20288,
+   "coreBoardIndexString": "CoreBoard_20288"
+  },
+  {
+   "coreBoardIndex": 20289,
+   "coreBoardIndexString": "CoreBoard_20289"
+  },
+  {
+   "coreBoardIndex": 20290,
+   "coreBoardIndexString": "CoreBoard_20290"
+  },
+  {
+   "coreBoardIndex": 20291,
+   "coreBoardIndexString": "CoreBoard_20291"
+  },
+  {
+   "coreBoardIndex": 20292,
+   "coreBoardIndexString": "CoreBoard_20292"
+  },
+  {
+   "coreBoardIndex": 20293,
+   "coreBoardIndexString": "CoreBoard_20293"
+  },
+  {
+   "coreBoardIndex": 20294,
+   "coreBoardIndexString": "CoreBoard_20294"
+  },
+  {
+   "coreBoardIndex": 20295,
+   "coreBoardIndexString": "CoreBoard_20295"
+  },
+  {
+   "coreBoardIndex": 20296,
+   "coreBoardIndexString": "CoreBoard_20296"
+  },
+  {
+   "coreBoardIndex": 20297,
+   "coreBoardIndexString": "CoreBoard_20297"
+  },
+  {
+   "coreBoardIndex": 20299,
+   "coreBoardIndexString": "CoreBoard_20299"
+  },
+  {
+   "coreBoardIndex": 20300,
+   "coreBoardIndexString": "CoreBoard_20300"
+  },
+  {
+   "coreBoardIndex": 20301,
+   "coreBoardIndexString": "CoreBoard_20301"
+  },
+  {
+   "coreBoardIndex": 20302,
+   "coreBoardIndexString": "CoreBoard_20302"
+  },
+  {
+   "coreBoardIndex": 20303,
+   "coreBoardIndexString": "CoreBoard_20303"
+  },
+  {
+   "coreBoardIndex": 20304,
+   "coreBoardIndexString": "CoreBoard_20304"
+  },
+  {
+   "coreBoardIndex": 20305,
+   "coreBoardIndexString": "CoreBoard_20305"
+  },
+  {
+   "coreBoardIndex": 20306,
+   "coreBoardIndexString": "CoreBoard_20306"
+  },
+  {
+   "coreBoardIndex": 20307,
+   "coreBoardIndexString": "CoreBoard_20307"
+  },
+  {
+   "coreBoardIndex": 20308,
+   "coreBoardIndexString": "CoreBoard_20308"
+  },
+  {
+   "coreBoardIndex": 20309,
+   "coreBoardIndexString": "CoreBoard_20309"
+  },
+  {
+   "coreBoardIndex": 20310,
+   "coreBoardIndexString": "CoreBoard_20310"
+  },
+  {
+   "coreBoardIndex": 20311,
+   "coreBoardIndexString": "CoreBoard_20311"
+  },
+  {
+   "coreBoardIndex": 20312,
+   "coreBoardIndexString": "CoreBoard_20312"
+  },
+  {
+   "coreBoardIndex": 20313,
+   "coreBoardIndexString": "CoreBoard_20313"
+  },
+  {
+   "coreBoardIndex": 20314,
+   "coreBoardIndexString": "CoreBoard_20314"
+  },
+  {
+   "coreBoardIndex": 20315,
+   "coreBoardIndexString": "CoreBoard_20315"
+  },
+  {
+   "coreBoardIndex": 20316,
+   "coreBoardIndexString": "CoreBoard_20316"
+  },
+  {
+   "coreBoardIndex": 20317,
+   "coreBoardIndexString": "CoreBoard_20317"
+  },
+  {
+   "coreBoardIndex": 20318,
+   "coreBoardIndexString": "CoreBoard_20318"
+  },
+  {
+   "coreBoardIndex": 20319,
+   "coreBoardIndexString": "CoreBoard_20319"
+  },
+  {
+   "coreBoardIndex": 20320,
+   "coreBoardIndexString": "CoreBoard_20320"
+  },
+  {
+   "coreBoardIndex": 20321,
+   "coreBoardIndexString": "CoreBoard_20321"
+  },
+  {
+   "coreBoardIndex": 20322,
+   "coreBoardIndexString": "CoreBoard_20322"
+  },
+  {
+   "coreBoardIndex": 20323,
+   "coreBoardIndexString": "CoreBoard_20323"
+  },
+  {
+   "coreBoardIndex": 20324,
+   "coreBoardIndexString": "CoreBoard_20324"
+  },
+  {
+   "coreBoardIndex": 20325,
+   "coreBoardIndexString": "CoreBoard_20325"
+  },
+  {
+   "coreBoardIndex": 20326,
+   "coreBoardIndexString": "CoreBoard_20326"
+  },
+  {
+   "coreBoardIndex": 20327,
+   "coreBoardIndexString": "CoreBoard_20327"
+  },
+  {
+   "coreBoardIndex": 20328,
+   "coreBoardIndexString": "CoreBoard_20328"
+  },
+  {
+   "coreBoardIndex": 20329,
+   "coreBoardIndexString": "CoreBoard_20329"
+  },
+  {
+   "coreBoardIndex": 20330,
+   "coreBoardIndexString": "CoreBoard_20330"
+  },
+  {
+   "coreBoardIndex": 20331,
+   "coreBoardIndexString": "CoreBoard_20331"
+  },
+  {
+   "coreBoardIndex": 20332,
+   "coreBoardIndexString": "CoreBoard_20332"
+  },
+  {
+   "coreBoardIndex": 20333,
+   "coreBoardIndexString": "CoreBoard_20333"
+  },
+  {
+   "coreBoardIndex": 20334,
+   "coreBoardIndexString": "CoreBoard_20334"
+  },
+  {
+   "coreBoardIndex": 20335,
+   "coreBoardIndexString": "CoreBoard_20335"
+  },
+  {
+   "coreBoardIndex": 20336,
+   "coreBoardIndexString": "CoreBoard_20336"
+  },
+  {
+   "coreBoardIndex": 20337,
+   "coreBoardIndexString": "CoreBoard_20337"
+  },
+  {
+   "coreBoardIndex": 20338,
+   "coreBoardIndexString": "CoreBoard_20338"
+  },
+  {
+   "coreBoardIndex": 20339,
+   "coreBoardIndexString": "CoreBoard_20339"
+  },
+  {
+   "coreBoardIndex": 20340,
+   "coreBoardIndexString": "CoreBoard_20340"
+  },
+  {
+   "coreBoardIndex": 20341,
+   "coreBoardIndexString": "CoreBoard_20341"
+  },
+  {
+   "coreBoardIndex": 20342,
+   "coreBoardIndexString": "CoreBoard_20342"
+  },
+  {
+   "coreBoardIndex": 20343,
+   "coreBoardIndexString": "CoreBoard_20343"
+  },
+  {
+   "coreBoardIndex": 20344,
+   "coreBoardIndexString": "CoreBoard_20344"
+  },
+  {
+   "coreBoardIndex": 20345,
+   "coreBoardIndexString": "CoreBoard_20345"
+  },
+  {
+   "coreBoardIndex": 20346,
+   "coreBoardIndexString": "CoreBoard_20346"
+  },
+  {
+   "coreBoardIndex": 20347,
+   "coreBoardIndexString": "CoreBoard_20347"
+  },
+  {
+   "coreBoardIndex": 20348,
+   "coreBoardIndexString": "CoreBoard_20348"
+  },
+  {
+   "coreBoardIndex": 20349,
+   "coreBoardIndexString": "CoreBoard_20349"
+  },
+  {
+   "coreBoardIndex": 20350,
+   "coreBoardIndexString": "CoreBoard_20350"
+  },
+  {
+   "coreBoardIndex": 20351,
+   "coreBoardIndexString": "CoreBoard_20351"
+  },
+  {
+   "coreBoardIndex": 20352,
+   "coreBoardIndexString": "CoreBoard_20352"
+  },
+  {
+   "coreBoardIndex": 20353,
+   "coreBoardIndexString": "CoreBoard_20353"
+  },
+  {
+   "coreBoardIndex": 20354,
+   "coreBoardIndexString": "CoreBoard_20354"
+  },
+  {
+   "coreBoardIndex": 20355,
+   "coreBoardIndexString": "CoreBoard_20355"
+  },
+  {
+   "coreBoardIndex": 20356,
+   "coreBoardIndexString": "CoreBoard_20356"
+  },
+  {
+   "coreBoardIndex": 20357,
+   "coreBoardIndexString": "CoreBoard_20357"
+  },
+  {
+   "coreBoardIndex": 20358,
+   "coreBoardIndexString": "CoreBoard_20358"
+  },
+  {
+   "coreBoardIndex": 20359,
+   "coreBoardIndexString": "CoreBoard_20359"
+  },
+  {
+   "coreBoardIndex": 20360,
+   "coreBoardIndexString": "CoreBoard_20360"
+  },
+  {
+   "coreBoardIndex": 20361,
+   "coreBoardIndexString": "CoreBoard_20361"
+  },
+  {
+   "coreBoardIndex": 20362,
+   "coreBoardIndexString": "CoreBoard_20362"
+  },
+  {
+   "coreBoardIndex": 20363,
+   "coreBoardIndexString": "CoreBoard_20363"
+  },
+  {
+   "coreBoardIndex": 20364,
+   "coreBoardIndexString": "CoreBoard_20364"
+  },
+  {
+   "coreBoardIndex": 20365,
+   "coreBoardIndexString": "CoreBoard_20365"
+  },
+  {
+   "coreBoardIndex": 20366,
+   "coreBoardIndexString": "CoreBoard_20366"
+  },
+  {
+   "coreBoardIndex": 20367,
+   "coreBoardIndexString": "CoreBoard_20367"
+  },
+  {
+   "coreBoardIndex": 20368,
+   "coreBoardIndexString": "CoreBoard_20368"
+  },
+  {
+   "coreBoardIndex": 20369,
+   "coreBoardIndexString": "CoreBoard_20369"
+  },
+  {
+   "coreBoardIndex": 20370,
+   "coreBoardIndexString": "CoreBoard_20370"
+  },
+  {
+   "coreBoardIndex": 20371,
+   "coreBoardIndexString": "CoreBoard_20371"
+  },
+  {
+   "coreBoardIndex": 20372,
+   "coreBoardIndexString": "CoreBoard_20372"
+  },
+  {
+   "coreBoardIndex": 20373,
+   "coreBoardIndexString": "CoreBoard_20373"
+  },
+  {
+   "coreBoardIndex": 20374,
+   "coreBoardIndexString": "CoreBoard_20374"
+  },
+  {
+   "coreBoardIndex": 20375,
+   "coreBoardIndexString": "CoreBoard_20375"
+  },
+  {
+   "coreBoardIndex": 20376,
+   "coreBoardIndexString": "CoreBoard_20376"
+  },
+  {
+   "coreBoardIndex": 20377,
+   "coreBoardIndexString": "CoreBoard_20377"
+  },
+  {
+   "coreBoardIndex": 20378,
+   "coreBoardIndexString": "CoreBoard_20378"
+  },
+  {
+   "coreBoardIndex": 20379,
+   "coreBoardIndexString": "CoreBoard_20379"
+  },
+  {
+   "coreBoardIndex": 20380,
+   "coreBoardIndexString": "CoreBoard_20380"
+  },
+  {
+   "coreBoardIndex": 20381,
+   "coreBoardIndexString": "CoreBoard_20381"
+  },
+  {
+   "coreBoardIndex": 20382,
+   "coreBoardIndexString": "CoreBoard_20382"
+  },
+  {
+   "coreBoardIndex": 20383,
+   "coreBoardIndexString": "CoreBoard_20383"
+  },
+  {
+   "coreBoardIndex": 20384,
+   "coreBoardIndexString": "CoreBoard_20384"
+  },
+  {
+   "coreBoardIndex": 20385,
+   "coreBoardIndexString": "CoreBoard_20385"
+  },
+  {
+   "coreBoardIndex": 20386,
+   "coreBoardIndexString": "CoreBoard_20386"
+  },
+  {
+   "coreBoardIndex": 20387,
+   "coreBoardIndexString": "CoreBoard_20387"
+  },
+  {
+   "coreBoardIndex": 20388,
+   "coreBoardIndexString": "CoreBoard_20388"
+  },
+  {
+   "coreBoardIndex": 20389,
+   "coreBoardIndexString": "CoreBoard_20389"
+  },
+  {
+   "coreBoardIndex": 20390,
+   "coreBoardIndexString": "CoreBoard_20390"
+  },
+  {
+   "coreBoardIndex": 20391,
+   "coreBoardIndexString": "CoreBoard_20391"
+  },
+  {
+   "coreBoardIndex": 20392,
+   "coreBoardIndexString": "CoreBoard_20392"
+  },
+  {
+   "coreBoardIndex": 20393,
+   "coreBoardIndexString": "CoreBoard_20393"
+  },
+  {
+   "coreBoardIndex": 20394,
+   "coreBoardIndexString": "CoreBoard_20394"
+  },
+  {
+   "coreBoardIndex": 20395,
+   "coreBoardIndexString": "CoreBoard_20395"
+  },
+  {
+   "coreBoardIndex": 20396,
+   "coreBoardIndexString": "CoreBoard_20396"
+  },
+  {
+   "coreBoardIndex": 20397,
+   "coreBoardIndexString": "CoreBoard_20397"
+  },
+  {
+   "coreBoardIndex": 20398,
+   "coreBoardIndexString": "CoreBoard_20398"
+  },
+  {
+   "coreBoardIndex": 20399,
+   "coreBoardIndexString": "CoreBoard_20399"
+  },
+  {
+   "coreBoardIndex": 20400,
+   "coreBoardIndexString": "CoreBoard_20400"
+  },
+  {
+   "coreBoardIndex": 20401,
+   "coreBoardIndexString": "CoreBoard_20401"
+  },
+  {
+   "coreBoardIndex": 20402,
+   "coreBoardIndexString": "CoreBoard_20402"
+  },
+  {
+   "coreBoardIndex": 20403,
+   "coreBoardIndexString": "CoreBoard_20403"
+  },
+  {
+   "coreBoardIndex": 20404,
+   "coreBoardIndexString": "CoreBoard_20404"
+  },
+  {
+   "coreBoardIndex": 20405,
+   "coreBoardIndexString": "CoreBoard_20405"
+  },
+  {
+   "coreBoardIndex": 20406,
+   "coreBoardIndexString": "CoreBoard_20406"
+  },
+  {
+   "coreBoardIndex": 20407,
+   "coreBoardIndexString": "CoreBoard_20407"
+  },
+  {
+   "coreBoardIndex": 20408,
+   "coreBoardIndexString": "CoreBoard_20408"
+  },
+  {
+   "coreBoardIndex": 20409,
+   "coreBoardIndexString": "CoreBoard_20409"
+  },
+  {
+   "coreBoardIndex": 20410,
+   "coreBoardIndexString": "CoreBoard_20410"
+  },
+  {
+   "coreBoardIndex": 20411,
+   "coreBoardIndexString": "CoreBoard_20411"
+  },
+  {
+   "coreBoardIndex": 20412,
+   "coreBoardIndexString": "CoreBoard_20412"
+  },
+  {
+   "coreBoardIndex": 20413,
+   "coreBoardIndexString": "CoreBoard_20413"
+  },
+  {
+   "coreBoardIndex": 20414,
+   "coreBoardIndexString": "CoreBoard_20414"
+  },
+  {
+   "coreBoardIndex": 20415,
+   "coreBoardIndexString": "CoreBoard_20415"
+  },
+  {
+   "coreBoardIndex": 20416,
+   "coreBoardIndexString": "CoreBoard_20416"
+  },
+  {
+   "coreBoardIndex": 20417,
+   "coreBoardIndexString": "CoreBoard_20417"
+  },
+  {
+   "coreBoardIndex": 20418,
+   "coreBoardIndexString": "CoreBoard_20418"
+  },
+  {
+   "coreBoardIndex": 20419,
+   "coreBoardIndexString": "CoreBoard_20419"
+  },
+  {
+   "coreBoardIndex": 20420,
+   "coreBoardIndexString": "CoreBoard_20420"
+  },
+  {
+   "coreBoardIndex": 20421,
+   "coreBoardIndexString": "CoreBoard_20421"
+  },
+  {
+   "coreBoardIndex": 20422,
+   "coreBoardIndexString": "CoreBoard_20422"
+  },
+  {
+   "coreBoardIndex": 20423,
+   "coreBoardIndexString": "CoreBoard_20423"
+  },
+  {
+   "coreBoardIndex": 20424,
+   "coreBoardIndexString": "CoreBoard_20424"
+  },
+  {
+   "coreBoardIndex": 20425,
+   "coreBoardIndexString": "CoreBoard_20425"
+  },
+  {
+   "coreBoardIndex": 20426,
+   "coreBoardIndexString": "CoreBoard_20426"
+  },
+  {
+   "coreBoardIndex": 20427,
+   "coreBoardIndexString": "CoreBoard_20427"
+  },
+  {
+   "coreBoardIndex": 20428,
+   "coreBoardIndexString": "CoreBoard_20428"
+  },
+  {
+   "coreBoardIndex": 20429,
+   "coreBoardIndexString": "CoreBoard_20429"
+  },
+  {
+   "coreBoardIndex": 20430,
+   "coreBoardIndexString": "CoreBoard_20430"
+  },
+  {
+   "coreBoardIndex": 20431,
+   "coreBoardIndexString": "CoreBoard_20431"
+  },
+  {
+   "coreBoardIndex": 20432,
+   "coreBoardIndexString": "CoreBoard_20432"
+  },
+  {
+   "coreBoardIndex": 20433,
+   "coreBoardIndexString": "CoreBoard_20433"
+  },
+  {
+   "coreBoardIndex": 20434,
+   "coreBoardIndexString": "CoreBoard_20434"
+  },
+  {
+   "coreBoardIndex": 20435,
+   "coreBoardIndexString": "CoreBoard_20435"
+  },
+  {
+   "coreBoardIndex": 20436,
+   "coreBoardIndexString": "CoreBoard_20436"
+  },
+  {
+   "coreBoardIndex": 20437,
+   "coreBoardIndexString": "CoreBoard_20437"
+  },
+  {
+   "coreBoardIndex": 20438,
+   "coreBoardIndexString": "CoreBoard_20438"
+  },
+  {
+   "coreBoardIndex": 20451,
+   "coreBoardIndexString": "CoreBoard_20451"
+  },
+  {
+   "coreBoardIndex": 20452,
+   "coreBoardIndexString": "CoreBoard_20452"
+  },
+  {
+   "coreBoardIndex": 20453,
+   "coreBoardIndexString": "CoreBoard_20453"
+  },
+  {
+   "coreBoardIndex": 42142,
+   "coreBoardIndexString": "CoreBoard_42142"
+  },
+  {
+   "coreBoardIndex": 43149,
+   "coreBoardIndexString": "CoreBoard_43149"
+  },
+  {
+   "coreBoardIndex": 46285,
+   "coreBoardIndexString": "CoreBoard_46285"
+  },
+  {
+   "coreBoardIndex": 47285,
+   "coreBoardIndexString": "CoreBoard_47285"
+  },
+  {
+   "coreBoardIndex": 57314,
+   "coreBoardIndexString": "CoreBoard_57314"
+  },
+  {
+   "coreBoardIndex": 58200,
+   "coreBoardIndexString": "CoreBoard_58200"
+  },
+  {
+   "coreBoardIndex": 60320,
+   "coreBoardIndexString": "CoreBoard_60320"
+  },
+  {
+   "coreBoardIndex": 70238,
+   "coreBoardIndexString": "CoreBoard_70238"
   }
  ]
 }

@@ -23,4 +23,5 @@ __pycache__/
 
 /native-analysis/
 /game/_preservation/tools/out_sura_penalties/
+/game/_preservation/tools/out_sura_enemies/
 /game/_preservation/server/tables/restore_phantom_tower_out/

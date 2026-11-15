@@ -218,9 +218,12 @@ def adapt_hoe_group_menu():
     At 0 the card dedups by SubType and UIPage_SPQuestMode.SetData lists every group of the param's
     SubType (FindAll b__0 @ 0x18086B700 compares only get_questEventSubType), i.e. one card ->
     per-boss tabs -> each boss's 33 stages, with Type 10 and every other row untouched. The card
-    title still reads the first row's nameTag (Purple): the tabs are UILabels fed the per-event
-    nameTags, both from the same string -- no string is changed until a separate root-title source
-    is proven."""
+    title reads the first row's nameTag, so the collapsed card would say "Hall of Elements -
+    Purple" while its color-only tabs (the maintainer's call) already carry each element: the
+    maintainer authorized rewriting QuestEvent.Name.41001 in place to the exact common prefix of
+    the five imported event names ("Hall of Elements") as the offline hub label. Deliberate UI
+    label, no game data: the other four names, bosses, elements, difficulties and rewards stay
+    exactly as imported; refuses unless the five real names share that prefix."""
     doc = load_data("QuestEventTable")
     rows = [r for r in doc["rows"] if 41001 <= int(r.get("questEventIndex") or 0) <= 41005]
     if (len(rows) != 5
@@ -237,7 +240,21 @@ def adapt_hoe_group_menu():
             changed += 1
     if changed:
         save_data("QuestEventTable", doc)
-    return changed
+    strings = json.load(open(os.path.join(DATA, "strings_en.json"), encoding="utf-8"))
+    names = {i: strings.get(f"QuestEvent.Name.{i}") for i in range(41001, 41006)}
+    prefix = os.path.commonprefix([names[i] for i in range(41001, 41006)]).rstrip(" -")
+    if (any(v is None for v in names.values()) or prefix != "Hall of Elements"
+            or not all(names[i].startswith(prefix + " ") and len(names[i]) > len(prefix) + 1
+                       for i in range(41002, 41006))):
+        sys.exit("strings_en: QuestEvent.Name.41001..41005 should read 'Hall of Elements - <element>' "
+                 "before deriving the hub label -- refusing to title the card")
+    retitled = 0
+    if strings["QuestEvent.Name.41001"] != prefix:
+        strings["QuestEvent.Name.41001"] = prefix
+        json.dump(strings, open(os.path.join(DATA, "strings_en.json"), "w", encoding="utf-8"),
+                  indent=1, ensure_ascii=False)
+        retitled = 1
+    return changed, retitled
 
 
 def adapt_hoe_tab_elements():
@@ -394,12 +411,21 @@ def append_player_ai_grades(schema, src, ref_rows):
     No combat behavior is invented: all 301 rows share the Fighter001 prefab, whose NodeCanvas
     graphs hold no grade/aiOperationValue branch, and the omitted aiOperationValue keeps the
     client default (AiGroup.EffectiveOperationValue: field 0x24, 0 => constant 0.2), exactly like
-    the working grades 1..5. Enemy rows (70506/70606) are never touched."""
+    the working grades 1..5. Enemy rows (70506/70606) are never touched.
+
+    Only PLAYER groups are extended: the Prove boss fighters (ProveDungeonBossTeamTable
+    bossTeamStringIndex/bossTeamStrikerIndex -- identified by data, never by name tag) are NPC duel
+    enemies whose aiGroup rows the source already carries per grade (group 690: 69000..69010) and
+    heterogeneous by design -- cloning them as player groups would abort the guards below and
+    corrupt enemy AI. Their groups are skipped whole; their original rows stay untouched."""
     rows = load_data("AiGroupTable")["rows"]
     grades = {int(r["aiGrade"]) for r in ref_rows if int(r.get("aiGrade") or 0) > 0}
+    npc = {int(r[k]) for r in load_data("ProveDungeonBossTeamTable")["rows"]
+           for k in ("bossTeamStringIndex", "bossTeamStrikerIndex") if r.get(k)}
     add, used = [], {int(r.get("aiGroupIndex") or 0) for r in rows}
     for group in sorted({int(r["aiGroup"]) for r in load_data("CharacterTable")["rows"]
-                         if r.get("aiGroup") is not None}):
+                         if r.get("aiGroup") is not None
+                         and int(r["characterIndex"]) not in npc}):
         members = [r for r in rows if int(r.get("aiGroup") or 0) == group]
         base = [r for r in members if int(r.get("aiGrade") or 0) == 1]
         if not members or len(base) != 1:
@@ -471,7 +497,7 @@ def main():
                     if int(r.get("questEventIndex") or 0) in todo],
                    "questEventStageIndex", src, ["QuestEventStageTable"])
     renamed = adapt_triggers_to_pc()
-    grouped = adapt_hoe_group_menu()
+    grouped, retitled = adapt_hoe_group_menu()
     recolored = adapt_hoe_tab_elements()
     hoe, hoe_orphans = import_hoe_monsters(schema, src)
     schedules = merge(schema, "QuestEventScheduleTable",
@@ -555,7 +581,8 @@ def main():
           "rewardDisplayIndex", src, [])
 
     print(f"QuestEventTable +{len(events)} | QuestEventStageTable +{len(stages)} "
-          f"(PC triggers {renamed}, HoE menu grouped {grouped}, tab elements {recolored}) | "
+          f"(PC triggers {renamed}, HoE menu grouped {grouped}, hub titled {retitled}, "
+          f"tab elements {recolored}) | "
           f"QuestEventScheduleTable +{len(schedules)} | RewardGroupTable +{len(rewards)} | "
           f"ResourceMapTable +{len(resmaps)} | StageBalanceTable +{len(resbalances)} | "
           f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "

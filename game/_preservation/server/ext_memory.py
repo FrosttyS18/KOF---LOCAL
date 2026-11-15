@@ -27,8 +27,8 @@ def generic_item(grade, element):
 
 
 def bonus_memory(element):
-    """a purple (frame 90) fighter's own memory of the element"""
-    ids = {r["characterIndex"] for r in G.table_rows("CharacterTable")
+    """a purple (frame 90) player fighter's own memory of the element (Prove NPC bosses excluded)"""
+    ids = {r["characterIndex"] for r in G.player_character_rows()
            if r.get("frameGrade") == 90 and r.get("synastryType") == element}
     rows = [r["itemIndex"] for r in G.table_rows("ItemTable")
             if r.get("itemType") == 50 and r.get("characterIndex") in ids and not r.get("itemSubType")]

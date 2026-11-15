@@ -110,14 +110,42 @@ def start_grades():
     return {r["characterIndex"]: r.get("characterStartGrade", 3) for r in table_rows("CharacterTable")}
 
 
+# The Prove Dungeon's bosses are real CharacterTable fighters the client's duel path needs
+# (Model_ProveDungeon.SetBossCharacters resolves ProveDungeonBossTeamTable's bossTeamStringIndex and
+# bossTeamStrikerIndex there), but they are not collectible: while save.json carries "ownAllFighters"
+# they must not become owned fighters, fighter-memory drops, gacha frame entries or owns() hits (loading
+# their prefabs from the roster could even ask for a bundle the cache lacks). The set is derived from the
+# boss-team table itself -- never from name tags -- so a row keeps its NPC status by data, and every
+# playable fighter stays untouched. Lookups the bosses themselves need (by index: leveling, growth,
+# character_state) keep reading the whole table.
+_npc_cache = {}
+
+
+def npc_fighter_indexes():
+    """CharacterIndex set of the Prove boss/striker fighters, cached per ProveDungeonBossTeamTable mtime."""
+    f = os.path.join(TABLES, "ProveDungeonBossTeamTable.json")
+    key = os.path.getmtime(f) if os.path.exists(f) else 0
+    if _npc_cache.get("key") != key:
+        _npc_cache.update(key=key, data={int(r[k]) for r in table_rows("ProveDungeonBossTeamTable")
+                                         for k in ("bossTeamStringIndex", "bossTeamStrikerIndex") if r.get(k)})
+    return _npc_cache["data"]
+
+
+def player_character_rows():
+    """CharacterTable rows minus the Prove NPC fighters: the roster/memory/gacha view of the table."""
+    npc = npc_fighter_indexes()
+    return [r for r in table_rows("CharacterTable") if r["characterIndex"] not in npc]
+
+
 def owned_characters(state):
-    """The saved fighters, plus every fighter of our CharacterTable (tools/gen_roster.py) at its start grade while
-    save.json has "ownAllFighters": true (the default; set it to false to keep only what the account earned)."""
+    """The saved fighters, plus every player fighter of our CharacterTable (tools/gen_roster.py) at its start
+    grade while save.json has "ownAllFighters": true (the default; set it to false to keep only what the
+    account earned). The Prove NPC bosses are never auto-owned (player_character_rows)."""
     chars = list(state["characters"])
     if state.get("ownAllFighters", True):
         have = {c["index"] for c in chars}
         chars += [{"index": r["characterIndex"], "grade": r.get("characterStartGrade", 3), "exp": 0,
-                   "created": state["created"]} for r in table_rows("CharacterTable") if r["characterIndex"] not in have]
+                   "created": state["created"]} for r in player_character_rows() if r["characterIndex"] not in have]
     if state.get("unlimited"):
         max_levels(chars)
     return chars
@@ -409,7 +437,7 @@ def player_profile(req):
 # (DownloadManager.OnCheckTableVersion: "table" and "banner" if present, "lang_global" always - missing threw
 # KeyNotFoundException and the page never opened); the same versions as the table download (kofserver.py
 # TABLE_PACK_VERSION = tools/make_tablepacks.py), so nothing reads as newer.
-TABLE_PACK_VERSION = 1021
+TABLE_PACK_VERSION = 1022
 
 
 @api("player/cdnVersion")
@@ -893,7 +921,7 @@ def hoe_memory(element):
     """A random fighter Memory of the element (markers 3999991-95 stand for one in the reward groups)."""
     import random
     have = {r.get("itemIndex") for r in table_rows("ItemTable")}
-    pool = [3_000_000 + int(c["characterIndex"]) for c in table_rows("CharacterTable")
+    pool = [3_000_000 + int(c["characterIndex"]) for c in player_character_rows()
             if int(c.get("synastryType") or 0) == element and 3_000_000 + int(c["characterIndex"]) in have]
     return random.choice(pool) if pool else 0
 # The Gold Dungeon (questEventSubType 31, tools/gen_dungeon.py): its pot is the StageDropTable row's stageDropGoldMax,
@@ -1644,7 +1672,10 @@ DUPLICATE_SOULS = {3: 10, 4: 20, 5: 50, 6: 100}   # souls for a fighter the acco
 
 
 def owns(state, index):
-    return state.get("ownAllFighters", True) or any(c["index"] == index for c in state["characters"])
+    """Saved, or auto-owned while ownAllFighters -- never a Prove NPC boss: no reward may grant one, so it
+    must not resolve as an owned duplicate either (give_fighter would mint its souls)."""
+    return (state.get("ownAllFighters", True) and index not in npc_fighter_indexes()) \
+        or any(c["index"] == index for c in state["characters"])
 
 
 def give_fighter(state, index, grade):
@@ -2697,7 +2728,7 @@ def lineup_rates(banner, lineup, picked=(), pick_rate=0.0):
     goodsProbability; so a pick takes its rate from its own group (seen in game: the group's share stays)"""
     frames = {}
     if banner.get("frameGradeRate"):
-        frames = {(FIGHTER_GOODS, r["characterIndex"]): r.get("frameGrade") for r in table_rows("CharacterTable")}
+        frames = {(FIGHTER_GOODS, r["characterIndex"]): r.get("frameGrade") for r in player_character_rows()}
         frames.update({(CARD_GOODS, r["battleCardIndex"]): r.get("frameGrade") for r in table_rows("BattleCardTable")})
     groups = {}
     for r in lineup:
