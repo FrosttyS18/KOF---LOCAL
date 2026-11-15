@@ -37903,7 +37903,7 @@
  "System.Challenge.Text.03.Name": "Best Time",
  "System.Challenge.Text.04.Name": "Clear Time",
  "System.Challenge.Text.05.Name": "Ranking",
- "System.Challenge.Text.34.Name": "Rewards",
+ "System.Challenge.Text.34.Name": "{0:00}:{1:00}.{2:000}",
  "System.Challenge.Text.40.Name": "Ends",
  "System.Challenge.Text.47.Name": "Mission",
  "System.Challenge.Text.48.Name": "Mission Rewards",

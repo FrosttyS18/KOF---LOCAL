@@ -14,6 +14,17 @@ import gameapi as G
 TA_AP = 10
 
 
+def mission_cleared(clear_ms, need_time_ms):
+    """Mission threshold in milliseconds: the client sends ClearRankTime in ms
+    (ChallengeEndRequest.ClearRankTime, with ClearTime seconds as fallback) and the
+    adapted ChallengeScoreTable stores needTime in ms (the PC client formats needTime
+    as ms; see tools/adapt_timeattack_metadata.py), so a mission is met when the clear
+    time is at or under the row's needTime."""
+    clear_ms = int(clear_ms or 0)
+    need_time_ms = int(need_time_ms or 0)
+    return clear_ms > 0 and need_time_ms > 0 and clear_ms <= need_time_ms
+
+
 def schedule(no):
     return next((r for r in G.table_rows("ChallengeScheduleTable")
                  if int(r.get("challengeScheduleIndex") or 0) == int(no or 0)), {})
@@ -106,7 +117,7 @@ def ta_end(req):
             done = [int(i) for i in pr.get("missions") or []]
             for r in score_rows(no):
                 i = int(r["challengeScoreIndex"])
-                if i not in done and seconds <= int(r.get("needTime") or 0):
+                if i not in done and mission_cleared(ms, r.get("needTime")):
                     done.append(i)
                     rewards += G.give_rewards(state, r.get("scoreRewardGroup", 0))[0]
             pr["missions"] = sorted(done)

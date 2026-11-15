@@ -529,6 +529,48 @@
    "resourceMapIndexString": "C_Battle_Prove_01",
    "resourceMapScene": "C_Battle_Prove_01",
    "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9811,
+   "resourceMapIndexString": "Comedown_Japan_Festival_A_N_TimeAttack",
+   "resourceMapScene": "Comedown_Japan_Festival_A_N",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": -11
+  },
+  {
+   "resourceMapIndex": 9812,
+   "resourceMapIndexString": "Comedown_Dungeon_B_TimeAttack",
+   "resourceMapScene": "Comedown_Dungeon_B",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": -11
+  },
+  {
+   "resourceMapIndex": 9813,
+   "resourceMapIndexString": "T_96_Final_Battle_Stadium_destroyed_TimeAttack",
+   "resourceMapScene": "T_96_Final_Battle_Stadium_destroyed",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": -1
+  },
+  {
+   "resourceMapIndex": 9814,
+   "resourceMapIndexString": "T_Orochi_Square_Hukkatsu_TimeAttack",
+   "resourceMapScene": "T_Orochi_Square_Hukkatsu",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": 1
+  },
+  {
+   "resourceMapIndex": 9815,
+   "resourceMapIndexString": "Comedown_Dungeon_C_TimeAttack",
+   "resourceMapScene": "Comedown_Dungeon_C",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": -11
+  },
+  {
+   "resourceMapIndex": 9816,
+   "resourceMapIndexString": "Comedown_Dungeon_D_TimeAttack",
+   "resourceMapScene": "Comedown_Dungeon_D",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": -9
   }
  ]
 }

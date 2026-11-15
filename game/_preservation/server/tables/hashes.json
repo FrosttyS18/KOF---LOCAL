@@ -36,7 +36,7 @@
   "CameraSetTable": "cc94b3d52a60cc8f231bc5b93c186adb",
   "ChallengeEntryTable": "433ccd5f68a91a87f79e591d8a66a606",
   "ChallengeScheduleTable": "a93897868d19ade9c521db2b3f8a5bf1",
-  "ChallengeScoreTable": "6d40f270800766a44bb525beb2773b1a",
+  "ChallengeScoreTable": "15536a8c5eb4ec4e5cb09697525e499f",
   "ChallengeStageTable": "51f944c9f20e6e4d8bf0351b77dcb701",
   "ChangeUpTable": "41e727dba4544df3f34b5dbae79ff7b7",
   "ChapterTable": "9180689bc9fd0c967adc81cf79349a3b",
@@ -131,7 +131,7 @@
   "MonsterLevelStatTable": "c55f22e3440edc92bc72ea13c4fbbdff",
   "MonsterSkillTable": "836a1bbe4c423ab57d7f7c931b98e593",
   "MonsterSpawnTable": "be9556c1b5bae9d2ec02a0fc97a579e1",
-  "MonsterTable": "9f2bb6bcb61e5d680be53aa15e3420fc",
+  "MonsterTable": "7a68328d0c07bc1004d9f08a8d1d2468",
   "MopUpCostTable": "5e6edfd037415cc7ef9b80157f3414c8",
   "PenaltyBuffTable": "6c69116a51ad561a3f26e40826f99218",
   "PenaltyTable": "bf9276aa2b8357f5d45e8aa438b0d9ff",
@@ -148,9 +148,9 @@
   "QuestPointRewardTable": "727ea7c0e7f306dafd32b329dc9b77ca",
   "QuestPointTable": "ef6f9921f07453bdaba91b1bba9582d9",
   "QuestTable": "fba47abd07a2fe6a754db34bbc47f0de",
-  "ResourceMapTable": "de28e66a3cacdb6bd17e5a70b62c0102",
+  "ResourceMapTable": "d90c391edf364285538732e0468b1a71",
   "ResourcePrefabTable": "343d2bf4c09eb50021032bcaf1d9f88c",
-  "RewardDisplayTable": "681d2a50fba818e2e32de4bd1502699c",
+  "RewardDisplayTable": "8f804f9a98cf6081f5e2fff2d0cd4295",
   "RewardGroupTable": "fa41cc13506a72ac56f8c9e69979ea80",
   "RouletteGroupTable": "db5006f53b6c5ccb0cc8dff1a8b8fe03",
   "RouletteRewardTable": "32fbc61fe53c764f34823e6333e04f21",
@@ -252,7 +252,7 @@
   "TutorialGroupTable": "d41d8cd98f00b204e9800998ecf8427e",
   "TutorialTable": "d41d8cd98f00b204e9800998ecf8427e",
   "YearNameTable": "d41d8cd98f00b204e9800998ecf8427e",
-  "SystemTable": "aa2ba9e837734029c6635a17e13d0171"
+  "SystemTable": "cb337f467d6fb99ed1c69c9e0f003733"
  },
  "prohibited": {}
 }

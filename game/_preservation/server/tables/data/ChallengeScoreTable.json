@@ -4,7 +4,7 @@
   {
    "challengeScoreIndex": 11,
    "challengeScoreGroup": 1,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620011,
@@ -14,7 +14,7 @@
   {
    "challengeScoreIndex": 12,
    "challengeScoreGroup": 1,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620012,
@@ -24,7 +24,7 @@
   {
    "challengeScoreIndex": 13,
    "challengeScoreGroup": 1,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620013,
@@ -34,7 +34,7 @@
   {
    "challengeScoreIndex": 21,
    "challengeScoreGroup": 2,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620021,
@@ -44,7 +44,7 @@
   {
    "challengeScoreIndex": 22,
    "challengeScoreGroup": 2,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620022,
@@ -54,7 +54,7 @@
   {
    "challengeScoreIndex": 23,
    "challengeScoreGroup": 2,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620023,
@@ -64,7 +64,7 @@
   {
    "challengeScoreIndex": 31,
    "challengeScoreGroup": 3,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620031,
@@ -74,7 +74,7 @@
   {
    "challengeScoreIndex": 32,
    "challengeScoreGroup": 3,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620032,
@@ -84,7 +84,7 @@
   {
    "challengeScoreIndex": 33,
    "challengeScoreGroup": 3,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620033,
@@ -94,7 +94,7 @@
   {
    "challengeScoreIndex": 41,
    "challengeScoreGroup": 4,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620041,
@@ -104,7 +104,7 @@
   {
    "challengeScoreIndex": 42,
    "challengeScoreGroup": 4,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620042,
@@ -114,7 +114,7 @@
   {
    "challengeScoreIndex": 43,
    "challengeScoreGroup": 4,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620043,
@@ -124,7 +124,7 @@
   {
    "challengeScoreIndex": 51,
    "challengeScoreGroup": 5,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620051,
@@ -134,7 +134,7 @@
   {
    "challengeScoreIndex": 52,
    "challengeScoreGroup": 5,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620052,
@@ -144,7 +144,7 @@
   {
    "challengeScoreIndex": 53,
    "challengeScoreGroup": 5,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620053,
@@ -154,7 +154,7 @@
   {
    "challengeScoreIndex": 61,
    "challengeScoreGroup": 6,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620061,
@@ -164,7 +164,7 @@
   {
    "challengeScoreIndex": 62,
    "challengeScoreGroup": 6,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620062,
@@ -174,7 +174,7 @@
   {
    "challengeScoreIndex": 63,
    "challengeScoreGroup": 6,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620063,
@@ -184,7 +184,7 @@
   {
    "challengeScoreIndex": 71,
    "challengeScoreGroup": 7,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620071,
@@ -194,7 +194,7 @@
   {
    "challengeScoreIndex": 72,
    "challengeScoreGroup": 7,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620072,
@@ -204,7 +204,7 @@
   {
    "challengeScoreIndex": 73,
    "challengeScoreGroup": 7,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620073,
@@ -214,7 +214,7 @@
   {
    "challengeScoreIndex": 81,
    "challengeScoreGroup": 8,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620081,
@@ -224,7 +224,7 @@
   {
    "challengeScoreIndex": 82,
    "challengeScoreGroup": 8,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620082,
@@ -234,7 +234,7 @@
   {
    "challengeScoreIndex": 83,
    "challengeScoreGroup": 8,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620083,
@@ -244,7 +244,7 @@
   {
    "challengeScoreIndex": 91,
    "challengeScoreGroup": 9,
-   "needTime": 300,
+   "needTime": 300000,
    "needTimeDescTag1": "Challenge.Mission.1",
    "needTimeDescTag2": "Challenge.MissionShort.1",
    "scoreRewardGroup": 94620091,
@@ -254,7 +254,7 @@
   {
    "challengeScoreIndex": 92,
    "challengeScoreGroup": 9,
-   "needTime": 180,
+   "needTime": 180000,
    "needTimeDescTag1": "Challenge.Mission.2",
    "needTimeDescTag2": "Challenge.MissionShort.2",
    "scoreRewardGroup": 94620092,
@@ -264,7 +264,7 @@
   {
    "challengeScoreIndex": 93,
    "challengeScoreGroup": 9,
-   "needTime": 120,
+   "needTime": 120000,
    "needTimeDescTag1": "Challenge.Mission.3",
    "needTimeDescTag2": "Challenge.MissionShort.3",
    "scoreRewardGroup": 94620093,

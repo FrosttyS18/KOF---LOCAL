@@ -32,7 +32,11 @@ natively, adapt_hoe_tab_elements rewrites the 165 HoE stages' dungeonType to eac
 element so those tabs stop rendering all-Purple, and adapt_phantom_tower renumbers the mobile
 Tower of Illusion floors onto the restored 1070001..1070050 ids (the reference's 10701..10720
 collide with the daily Crucible Tower here) or leaves them alone while the project still runs
-the legacy 10721..10750 import. Fields follow server/tables/schema.json.
+the legacy 10721..10750 import. The PC adaptations also cover the two HoE elites' Character
+prefab/AI switch (tools/adapt_hoe_pc_prefabs), the Time Attack trigger swap and its six
+ResourceMapTable zone maps (tools/adapt_timeattack_pc, tools/import_timeattack_dependencies)
+and the Time Attack score/display metadata (tools/adapt_timeattack_metadata). Fields follow
+server/tables/schema.json.
 
 usage: import_dungeons.py <kofas_server folder> [questEventIndex ...]
 """
@@ -564,8 +568,10 @@ def main():
                       "questEventScheduleIndex", src, [])
     added = {t: len(merge(schema, t, mobile_rows(src, t), key, src, ["ModeTable"] if t in MENU else []))
              for t, key in {**DEDICATED, **MENU}.items()}
-    import adapt_timeattack_pc   # local: the helper imports this module back
+    import adapt_timeattack_pc
     ta_adapted, _ = adapt_timeattack_pc.apply(DATA)
+    import import_timeattack_dependencies
+    ta_maps = import_timeattack_dependencies.close_trigger_maps(src, DATA)
 
     stage_rows = [r for r in load_data("QuestEventStageTable")["rows"]
                   if int(r.get("questEventIndex") or 0) in todo]
@@ -647,8 +653,12 @@ def main():
           f"ResourceMapTable +{len(resmaps)} | StageBalanceTable +{len(resbalances)} | "
           f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
+    import adapt_timeattack_metadata
+    ta_meta = adapt_timeattack_metadata.adapt_timeattack_metadata(DATA)
     summary = " | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo"
-    print(f"{summary} | TimeAttack PC triggers +{ta_adapted}")
+    print(f"{summary} | TimeAttack PC triggers +{ta_adapted} | TimeAttack maps +{ta_maps['added']} | "
+          f"TimeAttack metadata: score->ms +{ta_meta['score_converted']}, "
+          f"reward displays +{ta_meta['display_added']}")
     print("Hall of Elements monsters: " + " | ".join(f"{t} +{n}" for t, n in hoe.items()))
     if hoe_orphans:
         print("Hall of Elements bundle skills with no table row in any source (left as-is): "
