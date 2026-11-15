@@ -1101,6 +1101,76 @@
    "aiGroup": 301,
    "aiGrade": 9,
    "aiBaseNodeName": "Prefabs/AI/Fighter/Default/Fighter001/Fighter001"
+  },
+  {
+   "aiGroupIndex": 70303,
+   "aiGrade": 3,
+   "aiBaseNodeName": "Prefabs/AI/Elite/Elite_Long_Normal",
+   "aiGroup": 703,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70304,
+   "aiGrade": 4,
+   "aiBaseNodeName": "Prefabs/AI/Elite/Elite_Long_Normal",
+   "aiGroup": 703,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70305,
+   "aiGrade": 5,
+   "aiBaseNodeName": "Prefabs/AI/Elite/Elite_Long_Normal",
+   "aiGroup": 703,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70401,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Boss_Short",
+   "aiGroup": 704,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70402,
+   "aiGrade": 2,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Boss_Short",
+   "aiGroup": 704,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70403,
+   "aiGrade": 3,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Boss_Short",
+   "aiGroup": 704,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70404,
+   "aiGrade": 4,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Boss_Short",
+   "aiGroup": 704,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70405,
+   "aiGrade": 5,
+   "aiBaseNodeName": "Prefabs/AI/Boss/Boss_Short",
+   "aiGroup": 704,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70301,
+   "aiGrade": 1,
+   "aiBaseNodeName": "Prefabs/AI/Elite/Elite_Long_Normal",
+   "aiGroup": 703,
+   "aiOperationValue": 1.0
+  },
+  {
+   "aiGroupIndex": 70302,
+   "aiGrade": 2,
+   "aiBaseNodeName": "Prefabs/AI/Elite/Elite_Long_Normal",
+   "aiGroup": 703,
+   "aiOperationValue": 1.0
   }
  ]
 }

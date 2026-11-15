@@ -1,0 +1,197 @@
+{
+ "_comment": "real mobile table (tools/import_sura_penalties.py; the full file, a new master table for the project's server/tables/data/PenaltyBuffTable.json)",
+ "rows": [
+  {
+   "targetConditionBuffIndex": 1001,
+   "targetConditionGroupIndex": 1001,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1002,
+   "targetConditionGroupIndex": 1002,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1003,
+   "targetConditionGroupIndex": 1003,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1004,
+   "targetConditionGroupIndex": 1004,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1005,
+   "targetConditionGroupIndex": 1005,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1006,
+   "targetConditionGroupIndex": 1006,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1007,
+   "targetConditionGroupIndex": 1007,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1008,
+   "targetConditionGroupIndex": 1008,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1009,
+   "targetConditionGroupIndex": 1009,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1010,
+   "targetConditionGroupIndex": 1010,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1011,
+   "targetConditionGroupIndex": 1011,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1012,
+   "targetConditionGroupIndex": 1012,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1013,
+   "targetConditionGroupIndex": 1013,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1014,
+   "targetConditionGroupIndex": 1014,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1015,
+   "targetConditionGroupIndex": 1015,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1016,
+   "targetConditionGroupIndex": 1016,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1017,
+   "targetConditionGroupIndex": 1017,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1018,
+   "targetConditionGroupIndex": 1018,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1019,
+   "targetConditionGroupIndex": 1019,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1020,
+   "targetConditionGroupIndex": 1020,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1021,
+   "targetConditionGroupIndex": 1021,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1022,
+   "targetConditionGroupIndex": 1022,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1023,
+   "targetConditionGroupIndex": 1023,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  },
+  {
+   "targetConditionBuffIndex": 1024,
+   "targetConditionGroupIndex": 1024,
+   "targetConditionPenaltyBuffIndex": 63000001,
+   "targetConditionPenaltyBuffValue": 1,
+   "targetConditionPenaltyNameTag": "Sura.Penalty.Buff",
+   "targetConditionAdvantageNameTag": "Sura.Penalty.Ok"
+  }
+ ]
+}

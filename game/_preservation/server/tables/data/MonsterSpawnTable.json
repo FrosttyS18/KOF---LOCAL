@@ -57516,6 +57516,7306 @@
    "weakType": "",
    "synastryType": 0,
    "monsterLevel": 77
+  },
+  {
+   "monsterSpawnIndex": 1070293,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 1,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070294,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 1,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070295,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 1,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070296,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 2,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070297,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 2,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070298,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 2,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070299,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 3,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070300,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 3,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070301,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 3,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070302,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 4,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070303,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 4,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070304,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 4,
+   "monsterIndex": 520033,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070305,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 5,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070306,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 5,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070307,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 5,
+   "monsterIndex": 520055,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070308,
+   "monsterSpawnGroup": 10721,
+   "waveNumber": 1000,
+   "monsterIndex": 520123,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 70
+  },
+  {
+   "monsterSpawnIndex": 1070309,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 1,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070310,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 1,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070311,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 1,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070312,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 2,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070313,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 2,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070314,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 2,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070315,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 3,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070316,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 3,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070317,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 3,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070318,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 4,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070319,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 4,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070320,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 4,
+   "monsterIndex": 520043,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070321,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 5,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070322,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 5,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070323,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 5,
+   "monsterIndex": 520085,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070324,
+   "monsterSpawnGroup": 10722,
+   "waveNumber": 1000,
+   "monsterIndex": 520136,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 72
+  },
+  {
+   "monsterSpawnIndex": 1070325,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 1,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070326,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 1,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070327,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 1,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070328,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 2,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070329,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 2,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070330,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 2,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070331,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 3,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070332,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 3,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070333,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 3,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070334,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 4,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070335,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 4,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070336,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 4,
+   "monsterIndex": 520076,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070337,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 5,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070338,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 5,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070339,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 5,
+   "monsterIndex": 520099,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070340,
+   "monsterSpawnGroup": 10723,
+   "waveNumber": 1000,
+   "monsterIndex": 520019,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 74
+  },
+  {
+   "monsterSpawnIndex": 1070341,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 1,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070342,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 1,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070343,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 1,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070344,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 2,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070345,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 2,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070346,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 2,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070347,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 3,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070348,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 3,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070349,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 3,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070350,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 4,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070351,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 4,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070352,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 4,
+   "monsterIndex": 520097,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070353,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 5,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070354,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 5,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070355,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 5,
+   "monsterIndex": 520122,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070356,
+   "monsterSpawnGroup": 10724,
+   "waveNumber": 1000,
+   "monsterIndex": 520042,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 76
+  },
+  {
+   "monsterSpawnIndex": 1070357,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 1000,
+   "monsterIndex": 520101,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070358,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 1,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070359,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 1,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070360,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 2,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070361,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 2,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070362,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 101,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070363,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 102,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070364,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 201,
+   "monsterIndex": 520125,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070365,
+   "monsterSpawnGroup": 10725,
+   "waveNumber": 202,
+   "monsterIndex": 520129,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 78
+  },
+  {
+   "monsterSpawnIndex": 1070366,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 1,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070367,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 1,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070368,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 1,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070369,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 2,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070370,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 2,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070371,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 2,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070372,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 3,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070373,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 3,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070374,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 3,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070375,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 4,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070376,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 4,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070377,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 4,
+   "monsterIndex": 520129,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070378,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 5,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070379,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 5,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070380,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 5,
+   "monsterIndex": 520017,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070381,
+   "monsterSpawnGroup": 10726,
+   "waveNumber": 1000,
+   "monsterIndex": 520093,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 80
+  },
+  {
+   "monsterSpawnIndex": 1070382,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 1,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070383,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 1,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070384,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 1,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070385,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 2,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070386,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 2,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070387,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 2,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070388,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 3,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070389,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 3,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070390,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 3,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070391,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 4,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070392,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 4,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070393,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 4,
+   "monsterIndex": 520006,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070394,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 5,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070395,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 5,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070396,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 5,
+   "monsterIndex": 520041,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070397,
+   "monsterSpawnGroup": 10727,
+   "waveNumber": 1000,
+   "monsterIndex": 520119,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 82
+  },
+  {
+   "monsterSpawnIndex": 1070398,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 1,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070399,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 1,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070400,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 1,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070401,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 2,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070402,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 2,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070403,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 2,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070404,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 3,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070405,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 3,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070406,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 3,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070407,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 4,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070408,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 4,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070409,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 4,
+   "monsterIndex": 520038,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070410,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 5,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070411,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 5,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070412,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 5,
+   "monsterIndex": 520072,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070413,
+   "monsterSpawnGroup": 10728,
+   "waveNumber": 1000,
+   "monsterIndex": 520128,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 84
+  },
+  {
+   "monsterSpawnIndex": 1070414,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 1,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070415,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 1,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070416,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 1,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070417,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 2,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070418,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 2,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070419,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 2,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070420,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 3,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070421,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 3,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070422,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 3,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070423,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 4,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070424,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 4,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070425,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 4,
+   "monsterIndex": 520058,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070426,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 5,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070427,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 5,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070428,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 5,
+   "monsterIndex": 520092,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070429,
+   "monsterSpawnGroup": 10729,
+   "waveNumber": 1000,
+   "monsterIndex": 520004,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 86
+  },
+  {
+   "monsterSpawnIndex": 1070430,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 1000,
+   "monsterIndex": 520070,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070431,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 1,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070432,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 1,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070433,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 2,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070434,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 2,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070435,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 101,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070436,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 102,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070437,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 201,
+   "monsterIndex": 520097,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070438,
+   "monsterSpawnGroup": 10730,
+   "waveNumber": 202,
+   "monsterIndex": 520102,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 88
+  },
+  {
+   "monsterSpawnIndex": 1070439,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 1,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070440,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 1,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070441,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 1,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070442,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 2,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070443,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 2,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070444,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 2,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070445,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 3,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070446,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 3,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070447,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 3,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070448,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 4,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070449,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 4,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070450,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 4,
+   "monsterIndex": 520102,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070451,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 5,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070452,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 5,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070453,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 5,
+   "monsterIndex": 520126,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070454,
+   "monsterSpawnGroup": 10731,
+   "waveNumber": 1000,
+   "monsterIndex": 520055,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 90
+  },
+  {
+   "monsterSpawnIndex": 1070455,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 1,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070456,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 1,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070457,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 1,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070458,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 2,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070459,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 2,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070460,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 2,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070461,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 3,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070462,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 3,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070463,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 3,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070464,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 4,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070465,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 4,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070466,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 4,
+   "monsterIndex": 520123,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070467,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 5,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070468,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 5,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070469,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 5,
+   "monsterIndex": 520147,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070470,
+   "monsterSpawnGroup": 10732,
+   "waveNumber": 1000,
+   "monsterIndex": 520085,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 92
+  },
+  {
+   "monsterSpawnIndex": 1070471,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 1,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070472,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 1,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070473,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 1,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070474,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 2,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070475,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 2,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070476,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 2,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070477,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 3,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070478,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 3,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070479,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 3,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070480,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 4,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070481,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 4,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070482,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 4,
+   "monsterIndex": 520136,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070483,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 5,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070484,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 5,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070485,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 5,
+   "monsterIndex": 520034,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070486,
+   "monsterSpawnGroup": 10733,
+   "waveNumber": 1000,
+   "monsterIndex": 520099,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 94
+  },
+  {
+   "monsterSpawnIndex": 1070487,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 1,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070488,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 1,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070489,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 1,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070490,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 2,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070491,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 2,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070492,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 2,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070493,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 3,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070494,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 3,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070495,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 3,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070496,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 4,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070497,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 4,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070498,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 4,
+   "monsterIndex": 520019,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070499,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 5,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070500,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 5,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070501,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 5,
+   "monsterIndex": 520044,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070502,
+   "monsterSpawnGroup": 10734,
+   "waveNumber": 1000,
+   "monsterIndex": 520122,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 96
+  },
+  {
+   "monsterSpawnIndex": 1070503,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 1000,
+   "monsterIndex": 520025,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070504,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 1,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070505,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 1,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070506,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 2,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070507,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 2,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070508,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 101,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070509,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 102,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070510,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 201,
+   "monsterIndex": 520058,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070511,
+   "monsterSpawnGroup": 10735,
+   "waveNumber": 202,
+   "monsterIndex": 520075,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 98
+  },
+  {
+   "monsterSpawnIndex": 1070512,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 1,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070513,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 1,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070514,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 1,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070515,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 2,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070516,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 2,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070517,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 2,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070518,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 3,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070519,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 3,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070520,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 3,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070521,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 4,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070522,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 4,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070523,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 4,
+   "monsterIndex": 520075,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070524,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 5,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070525,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 5,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070526,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 5,
+   "monsterIndex": 520098,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070527,
+   "monsterSpawnGroup": 10736,
+   "waveNumber": 1000,
+   "monsterIndex": 520017,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 100
+  },
+  {
+   "monsterSpawnIndex": 1070528,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 1,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070529,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 1,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070530,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 1,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070531,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 2,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070532,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 2,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070533,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 2,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070534,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 3,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070535,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 3,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070536,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 3,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070537,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 4,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070538,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 4,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070539,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 4,
+   "monsterIndex": 520093,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070540,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 5,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070541,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 5,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070542,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 5,
+   "monsterIndex": 520121,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070543,
+   "monsterSpawnGroup": 10737,
+   "waveNumber": 1000,
+   "monsterIndex": 520041,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 102
+  },
+  {
+   "monsterSpawnIndex": 1070544,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 1,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070545,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 1,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070546,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 1,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070547,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 2,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070548,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 2,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070549,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 2,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070550,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 3,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070551,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 3,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070552,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 3,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070553,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 4,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070554,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 4,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070555,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 4,
+   "monsterIndex": 520119,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070556,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 5,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070557,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 5,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070558,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 5,
+   "monsterIndex": 520132,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070559,
+   "monsterSpawnGroup": 10738,
+   "waveNumber": 1000,
+   "monsterIndex": 520072,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 104
+  },
+  {
+   "monsterSpawnIndex": 1070560,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070561,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 1,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070562,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 1,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070563,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070564,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 2,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070565,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 2,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070566,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070567,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 3,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070568,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 3,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070569,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 4,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070570,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 4,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070571,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 4,
+   "monsterIndex": 520128,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070572,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 5,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070573,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 5,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070574,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 5,
+   "monsterIndex": 520016,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070575,
+   "monsterSpawnGroup": 10739,
+   "waveNumber": 1000,
+   "monsterIndex": 520092,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 106
+  },
+  {
+   "monsterSpawnIndex": 1070576,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 1000,
+   "monsterIndex": 520137,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070577,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 1,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070578,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 1,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070579,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 2,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070580,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 2,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070581,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 101,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070582,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 102,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070583,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 201,
+   "monsterIndex": 520019,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070584,
+   "monsterSpawnGroup": 10740,
+   "waveNumber": 202,
+   "monsterIndex": 520035,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 108
+  },
+  {
+   "monsterSpawnIndex": 1070585,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 1,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070586,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 1,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070587,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 1,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070588,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 2,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070589,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 2,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070590,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 2,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070591,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 3,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070592,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 3,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070593,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 3,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070594,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 4,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070595,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 4,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070596,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 4,
+   "monsterIndex": 520035,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070597,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 5,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070598,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 5,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070599,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 5,
+   "monsterIndex": 520063,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070600,
+   "monsterSpawnGroup": 10741,
+   "waveNumber": 1000,
+   "monsterIndex": 520126,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 110
+  },
+  {
+   "monsterSpawnIndex": 1070601,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 1,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070602,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 1,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070603,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 1,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070604,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 2,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070605,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 2,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070606,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 2,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070607,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 3,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070608,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 3,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070609,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 3,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070610,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 4,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070611,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 4,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070612,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 4,
+   "monsterIndex": 520055,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070613,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 5,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070614,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 5,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070615,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 5,
+   "monsterIndex": 520089,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070616,
+   "monsterSpawnGroup": 10742,
+   "waveNumber": 1000,
+   "monsterIndex": 520147,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 112
+  },
+  {
+   "monsterSpawnIndex": 1070617,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 1,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070618,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 1,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070619,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 1,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070620,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 2,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070621,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 2,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070622,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 2,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070623,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 3,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070624,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 3,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070625,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 3,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070626,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 4,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070627,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 4,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070628,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 4,
+   "monsterIndex": 520085,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070629,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 5,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070630,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 5,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070631,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 5,
+   "monsterIndex": 520106,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070632,
+   "monsterSpawnGroup": 10743,
+   "waveNumber": 1000,
+   "monsterIndex": 520034,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 114
+  },
+  {
+   "monsterSpawnIndex": 1070633,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 1,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070634,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070635,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 1,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070636,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 2,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070637,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070638,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 2,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070639,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 3,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070640,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070641,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 3,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070642,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 4,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070643,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 4,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070644,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 4,
+   "monsterIndex": 520099,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070645,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 5,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070646,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 5,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070647,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 5,
+   "monsterIndex": 520125,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070648,
+   "monsterSpawnGroup": 10744,
+   "waveNumber": 1000,
+   "monsterIndex": 520044,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 116
+  },
+  {
+   "monsterSpawnIndex": 1070649,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 1000,
+   "monsterIndex": 520087,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070650,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 1,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070651,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 1,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070652,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 2,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070653,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 2,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070654,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 101,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070655,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 102,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070656,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 201,
+   "monsterIndex": 520128,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070657,
+   "monsterSpawnGroup": 10745,
+   "waveNumber": 202,
+   "monsterIndex": 520135,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 118
+  },
+  {
+   "monsterSpawnIndex": 1070658,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 1,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070659,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 1,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070660,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 1,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070661,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 2,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070662,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 2,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070663,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 2,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070664,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 3,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070665,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 3,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070666,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 3,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070667,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 4,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070668,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 4,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070669,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 4,
+   "monsterIndex": 520135,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070670,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 5,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070671,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 5,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070672,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 5,
+   "monsterIndex": 520033,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070673,
+   "monsterSpawnGroup": 10746,
+   "waveNumber": 1000,
+   "monsterIndex": 520098,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 120
+  },
+  {
+   "monsterSpawnIndex": 1070674,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 1,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070675,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 1,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070676,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 1,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070677,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 2,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070678,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 2,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070679,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 2,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070680,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 3,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070681,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 3,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070682,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 3,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070683,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 4,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070684,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 4,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070685,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 4,
+   "monsterIndex": 520017,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070686,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 5,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070687,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 5,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070688,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 5,
+   "monsterIndex": 520043,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070689,
+   "monsterSpawnGroup": 10747,
+   "waveNumber": 1000,
+   "monsterIndex": 520121,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 122
+  },
+  {
+   "monsterSpawnIndex": 1070690,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 1,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070691,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 1,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070692,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 1,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070693,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 2,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070694,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 2,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070695,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 2,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070696,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 3,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070697,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 3,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070698,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 3,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070699,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 4,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070700,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 4,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070701,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 4,
+   "monsterIndex": 520041,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070702,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 5,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070703,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 5,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070704,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 5,
+   "monsterIndex": 520076,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070705,
+   "monsterSpawnGroup": 10748,
+   "waveNumber": 1000,
+   "monsterIndex": 520132,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 124
+  },
+  {
+   "monsterSpawnIndex": 1070706,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 1,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070707,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 1,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070708,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070709,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 2,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070710,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 2,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070711,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070712,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 3,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070713,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 3,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070714,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070715,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 4,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070716,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 4,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070717,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 4,
+   "monsterIndex": 520072,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070718,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 5,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070719,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 5,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070720,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 5,
+   "monsterIndex": 520097,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070721,
+   "monsterSpawnGroup": 10749,
+   "waveNumber": 1000,
+   "monsterIndex": 520016,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 126
+  },
+  {
+   "monsterSpawnIndex": 1070722,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 1000,
+   "monsterIndex": 520062,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070723,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 1,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070724,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 1,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070725,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 2,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070726,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 2,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070727,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 101,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070728,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 102,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070729,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 201,
+   "monsterIndex": 520099,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070730,
+   "monsterSpawnGroup": 10750,
+   "waveNumber": 202,
+   "monsterIndex": 520109,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 128
+  },
+  {
+   "monsterSpawnIndex": 1070001,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070002,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 1,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070003,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 1,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070004,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070005,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 2,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070006,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 2,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070007,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070008,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 3,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070009,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 3,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070010,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 4,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070011,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 4,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070012,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 4,
+   "monsterIndex": 520017,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070013,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 5,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070014,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 5,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070015,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 5,
+   "monsterIndex": 520043,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070016,
+   "monsterSpawnGroup": 10701,
+   "waveNumber": 1000,
+   "monsterIndex": 520121,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 30
+  },
+  {
+   "monsterSpawnIndex": 1070017,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 1,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070018,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 1,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070019,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 1,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070020,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 2,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070021,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 2,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070022,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 2,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070023,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 3,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070024,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 3,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070025,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 3,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070026,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 4,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070027,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 4,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070028,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 4,
+   "monsterIndex": 520041,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070029,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 5,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070030,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 5,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070031,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 5,
+   "monsterIndex": 520076,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070032,
+   "monsterSpawnGroup": 10702,
+   "waveNumber": 1000,
+   "monsterIndex": 520132,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 32
+  },
+  {
+   "monsterSpawnIndex": 1070033,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 1,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070034,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 1,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070035,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 1,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070036,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 2,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070037,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 2,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070038,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 2,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070039,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 3,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070040,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 3,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070041,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 3,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070042,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 4,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070043,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 4,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070044,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 4,
+   "monsterIndex": 520072,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070045,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 5,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070046,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 5,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070047,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 5,
+   "monsterIndex": 520097,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070048,
+   "monsterSpawnGroup": 10703,
+   "waveNumber": 1000,
+   "monsterIndex": 520016,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 34
+  },
+  {
+   "monsterSpawnIndex": 1070049,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 1,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070050,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 1,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070051,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 1,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070052,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 2,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070053,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 2,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070054,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 2,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070055,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 3,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070056,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 3,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070057,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 3,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070058,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 4,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070059,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 4,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070060,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 4,
+   "monsterIndex": 520092,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070061,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 5,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070062,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 5,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070063,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 5,
+   "monsterIndex": 520120,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070064,
+   "monsterSpawnGroup": 10704,
+   "waveNumber": 1000,
+   "monsterIndex": 520039,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 36
+  },
+  {
+   "monsterSpawnIndex": 1070065,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 1000,
+   "monsterIndex": 520108,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070066,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 1,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070067,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 1,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070068,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 2,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070069,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 2,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070070,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 101,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070071,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 102,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070072,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 201,
+   "monsterIndex": 520122,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070073,
+   "monsterSpawnGroup": 10705,
+   "waveNumber": 202,
+   "monsterIndex": 520126,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 38
+  },
+  {
+   "monsterSpawnIndex": 1070074,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 1,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070075,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070076,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 1,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070077,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 2,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070078,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070079,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 2,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070080,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 3,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070081,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070082,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 3,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070083,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 4,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070084,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 4,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070085,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 4,
+   "monsterIndex": 520126,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070086,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 5,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070087,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 5,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070088,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 5,
+   "monsterIndex": 520006,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070089,
+   "monsterSpawnGroup": 10706,
+   "waveNumber": 1000,
+   "monsterIndex": 520089,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 40
+  },
+  {
+   "monsterSpawnIndex": 1070090,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 1,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070091,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 1,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070092,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 1,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070093,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 2,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070094,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 2,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070095,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 2,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070096,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 3,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070097,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 3,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070098,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 3,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070099,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 4,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070100,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 4,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070101,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 4,
+   "monsterIndex": 520147,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070102,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 5,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070103,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 5,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070104,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 5,
+   "monsterIndex": 520038,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070105,
+   "monsterSpawnGroup": 10707,
+   "waveNumber": 1000,
+   "monsterIndex": 520106,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 42
+  },
+  {
+   "monsterSpawnIndex": 1070106,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 1,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070107,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 1,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070108,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 1,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070109,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 2,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070110,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 2,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070111,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 2,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070112,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 3,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070113,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 3,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070114,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 3,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070115,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 4,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070116,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 4,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070117,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 4,
+   "monsterIndex": 520034,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070118,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 5,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070119,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 5,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070120,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 5,
+   "monsterIndex": 520058,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070121,
+   "monsterSpawnGroup": 10708,
+   "waveNumber": 1000,
+   "monsterIndex": 520125,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 44
+  },
+  {
+   "monsterSpawnIndex": 1070122,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 1,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070123,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 1,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070124,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 1,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070125,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 2,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070126,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 2,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070127,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 2,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070128,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 3,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070129,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 3,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070130,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 3,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070131,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 4,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070132,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 4,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070133,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 4,
+   "monsterIndex": 520044,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070134,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 5,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070135,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 5,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070136,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 5,
+   "monsterIndex": 520088,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070137,
+   "monsterSpawnGroup": 10709,
+   "waveNumber": 1000,
+   "monsterIndex": 520140,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 46
+  },
+  {
+   "monsterSpawnIndex": 1070138,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 1000,
+   "monsterIndex": 520080,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070139,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 1,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070140,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 1,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070141,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 2,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070142,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 2,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070143,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 101,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070144,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 102,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070145,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 201,
+   "monsterIndex": 520092,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070146,
+   "monsterSpawnGroup": 10710,
+   "waveNumber": 202,
+   "monsterIndex": 520098,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 48
+  },
+  {
+   "monsterSpawnIndex": 1070147,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 1,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070148,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 1,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070149,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 1,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070150,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 2,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070151,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 2,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070152,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 2,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070153,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 3,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070154,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 3,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070155,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 3,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070156,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 4,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070157,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 4,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070158,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 4,
+   "monsterIndex": 520098,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070159,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 5,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070160,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 5,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070161,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 5,
+   "monsterIndex": 520123,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070162,
+   "monsterSpawnGroup": 10711,
+   "waveNumber": 1000,
+   "monsterIndex": 520043,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 50
+  },
+  {
+   "monsterSpawnIndex": 1070163,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 1,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070164,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 1,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070165,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 1,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070166,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 2,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070167,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 2,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070168,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 2,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070169,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 3,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070170,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 3,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070171,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 3,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070172,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 4,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070173,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 4,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070174,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 4,
+   "monsterIndex": 520121,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070175,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 5,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070176,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 5,
+   "monsterIndex": 520051,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070177,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 5,
+   "monsterIndex": 520136,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070178,
+   "monsterSpawnGroup": 10712,
+   "waveNumber": 1000,
+   "monsterIndex": 520076,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 52
+  },
+  {
+   "monsterSpawnIndex": 1070179,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 1,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070180,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 1,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070181,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 1,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070182,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 2,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070183,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 2,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070184,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 2,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070185,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 3,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070186,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 3,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070187,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 3,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070188,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 4,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070189,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 4,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070190,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 4,
+   "monsterIndex": 520132,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070191,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 5,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070192,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 5,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070193,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 5,
+   "monsterIndex": 520019,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070194,
+   "monsterSpawnGroup": 10713,
+   "waveNumber": 1000,
+   "monsterIndex": 520097,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 54
+  },
+  {
+   "monsterSpawnIndex": 1070195,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 1,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070196,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 1,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070197,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 1,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070198,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 2,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070199,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 2,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070200,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 2,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070201,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 3,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070202,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 3,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070203,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 3,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070204,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 4,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070205,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 4,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070206,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 4,
+   "monsterIndex": 520016,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070207,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 5,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070208,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 5,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070209,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 5,
+   "monsterIndex": 520042,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070210,
+   "monsterSpawnGroup": 10714,
+   "waveNumber": 1000,
+   "monsterIndex": 520120,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 56
+  },
+  {
+   "monsterSpawnIndex": 1070211,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 1000,
+   "monsterIndex": 520037,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070212,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 1,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070213,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 1,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070214,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 2,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070215,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 2,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070216,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 101,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070217,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 102,
+   "monsterIndex": 520020,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070218,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 201,
+   "monsterIndex": 520044,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070219,
+   "monsterSpawnGroup": 10715,
+   "waveNumber": 202,
+   "monsterIndex": 520063,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 58
+  },
+  {
+   "monsterSpawnIndex": 1070220,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 1,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070221,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 1,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070222,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 1,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070223,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 2,
+   "monsterIndex": 520048,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070224,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 2,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070225,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 2,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070226,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 3,
+   "monsterIndex": 520069,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070227,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 3,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070228,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 3,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070229,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 4,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070230,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 4,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070231,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 4,
+   "monsterIndex": 520063,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070232,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 5,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070233,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 5,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070234,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 5,
+   "monsterIndex": 520093,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070235,
+   "monsterSpawnGroup": 10716,
+   "waveNumber": 1000,
+   "monsterIndex": 520006,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 1,
+   "monsterLevel": 60
+  },
+  {
+   "monsterSpawnIndex": 1070236,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 1,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070237,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 1,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070238,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 1,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070239,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 2,
+   "monsterIndex": 520064,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070240,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 2,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070241,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 2,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070242,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 3,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070243,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 3,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070244,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 3,
+   "monsterIndex": 520008,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070245,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 4,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070246,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 4,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070247,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 4,
+   "monsterIndex": 520089,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070248,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 5,
+   "monsterIndex": 520029,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070249,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 5,
+   "monsterIndex": 520046,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070250,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 5,
+   "monsterIndex": 520119,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070251,
+   "monsterSpawnGroup": 10717,
+   "waveNumber": 1000,
+   "monsterIndex": 520038,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 2,
+   "monsterLevel": 62
+  },
+  {
+   "monsterSpawnIndex": 1070252,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 1,
+   "monsterIndex": 520059,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070253,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 1,
+   "monsterIndex": 520068,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070254,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 1,
+   "monsterIndex": 520094,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070255,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 2,
+   "monsterIndex": 520111,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070256,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 2,
+   "monsterIndex": 520115,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070257,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 2,
+   "monsterIndex": 520131,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070258,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 3,
+   "monsterIndex": 520009,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070259,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 3,
+   "monsterIndex": 520012,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070260,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 3,
+   "monsterIndex": 520015,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070261,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 4,
+   "monsterIndex": 520021,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070262,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 4,
+   "monsterIndex": 520030,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070263,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 4,
+   "monsterIndex": 520106,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070264,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 5,
+   "monsterIndex": 520054,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070265,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 5,
+   "monsterIndex": 520060,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070266,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 5,
+   "monsterIndex": 520128,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070267,
+   "monsterSpawnGroup": 10718,
+   "waveNumber": 1000,
+   "monsterIndex": 520058,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 3,
+   "monsterLevel": 64
+  },
+  {
+   "monsterSpawnIndex": 1070268,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 1,
+   "monsterIndex": 520095,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070269,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 1,
+   "monsterIndex": 520112,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 2,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070270,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 1,
+   "monsterIndex": 520116,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 3,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070271,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 2,
+   "monsterIndex": 520141,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070272,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 2,
+   "monsterIndex": 520010,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070273,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 2,
+   "monsterIndex": 520013,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 6,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070274,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 3,
+   "monsterIndex": 520018,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 7,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070275,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 3,
+   "monsterIndex": 520027,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070276,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 3,
+   "monsterIndex": 520045,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070277,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 4,
+   "monsterIndex": 520050,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 10,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070278,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 4,
+   "monsterIndex": 520056,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 11,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070279,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 4,
+   "monsterIndex": 520125,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070280,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 5,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070281,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 5,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 14,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070282,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 5,
+   "monsterIndex": 520004,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 15,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070283,
+   "monsterSpawnGroup": 10719,
+   "waveNumber": 1000,
+   "monsterIndex": 520088,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 4,
+   "monsterLevel": 66
+  },
+  {
+   "monsterSpawnIndex": 1070284,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 1000,
+   "monsterIndex": 520144,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 1,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070285,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 1,
+   "monsterIndex": 520081,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 4,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070286,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 1,
+   "monsterIndex": 520096,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 5,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070287,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 2,
+   "monsterIndex": 520113,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 8,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070288,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 2,
+   "monsterIndex": 520118,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 9,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070289,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 101,
+   "monsterIndex": 520011,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 12,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070290,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 102,
+   "monsterIndex": 520014,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 13,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070291,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 201,
+   "monsterIndex": 520016,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 16,
+   "synastryType": 5,
+   "monsterLevel": 68
+  },
+  {
+   "monsterSpawnIndex": 1070292,
+   "monsterSpawnGroup": 10720,
+   "waveNumber": 202,
+   "monsterIndex": 520033,
+   "spawnDelayTime": 0.0,
+   "spawnPosition": 17,
+   "synastryType": 5,
+   "monsterLevel": 68
   }
  ]
 }

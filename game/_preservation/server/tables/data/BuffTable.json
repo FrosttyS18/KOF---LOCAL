@@ -213760,6 +213760,25 @@
    "buffNameTag": "Offline.Buff.9860336.Name",
    "buffDescriptionTag": "Offline.Buff.9860336.Desc",
    "targetSkillIndexString": "Skill.Ken.PUE01.PUESkill01#45"
+  },
+  {
+   "buffIndex": 63000001,
+   "buffIndexString": "Buff.SuraPenalty.63000001",
+   "buffNameTag": "Buff.Name.SP.63000001",
+   "buffDescriptionTag": "Buff.Desc.SP.63000001",
+   "buffConditionTerm": 20,
+   "buffInfoMainType": 10,
+   "buffInfoSubType": "12",
+   "buffMaxLevel": 80,
+   "buffPowerBase": 0.0,
+   "buffPowerPerLv": -0.005,
+   "attachRateBase": 10000,
+   "target": "Owner",
+   "buffEffectType": 2,
+   "overlapType": 3,
+   "buffIcon": "attack_reduce",
+   "buffAtlas": "Atlas_Buff_Icon",
+   "buffPrefabStart": "Prefabs/Buff/debuff_start"
   }
  ]
 }

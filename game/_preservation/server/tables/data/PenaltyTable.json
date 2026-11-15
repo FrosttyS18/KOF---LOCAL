@@ -1,0 +1,197 @@
+{
+ "_comment": "real mobile table (tools/import_sura_penalties.py; the full file, a new master table for the project's server/tables/data/PenaltyTable.json)",
+ "rows": [
+  {
+   "targetConditionIndex": 1001,
+   "targetConditionGroupIndex": 1001,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 6700
+  },
+  {
+   "targetConditionIndex": 1002,
+   "targetConditionGroupIndex": 1002,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 8000
+  },
+  {
+   "targetConditionIndex": 1003,
+   "targetConditionGroupIndex": 1003,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 9300
+  },
+  {
+   "targetConditionIndex": 1004,
+   "targetConditionGroupIndex": 1004,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 10700
+  },
+  {
+   "targetConditionIndex": 1005,
+   "targetConditionGroupIndex": 1005,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 12000
+  },
+  {
+   "targetConditionIndex": 1006,
+   "targetConditionGroupIndex": 1006,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 13300
+  },
+  {
+   "targetConditionIndex": 1007,
+   "targetConditionGroupIndex": 1007,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 16700
+  },
+  {
+   "targetConditionIndex": 1008,
+   "targetConditionGroupIndex": 1008,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 18700
+  },
+  {
+   "targetConditionIndex": 1009,
+   "targetConditionGroupIndex": 1009,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 20700
+  },
+  {
+   "targetConditionIndex": 1010,
+   "targetConditionGroupIndex": 1010,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 22700
+  },
+  {
+   "targetConditionIndex": 1011,
+   "targetConditionGroupIndex": 1011,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 24700
+  },
+  {
+   "targetConditionIndex": 1012,
+   "targetConditionGroupIndex": 1012,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 26700
+  },
+  {
+   "targetConditionIndex": 1013,
+   "targetConditionGroupIndex": 1013,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 30000
+  },
+  {
+   "targetConditionIndex": 1014,
+   "targetConditionGroupIndex": 1014,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 32000
+  },
+  {
+   "targetConditionIndex": 1015,
+   "targetConditionGroupIndex": 1015,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 34000
+  },
+  {
+   "targetConditionIndex": 1016,
+   "targetConditionGroupIndex": 1016,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 36000
+  },
+  {
+   "targetConditionIndex": 1017,
+   "targetConditionGroupIndex": 1017,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 38000
+  },
+  {
+   "targetConditionIndex": 1018,
+   "targetConditionGroupIndex": 1018,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 40000
+  },
+  {
+   "targetConditionIndex": 1019,
+   "targetConditionGroupIndex": 1019,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 43300
+  },
+  {
+   "targetConditionIndex": 1020,
+   "targetConditionGroupIndex": 1020,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 46000
+  },
+  {
+   "targetConditionIndex": 1021,
+   "targetConditionGroupIndex": 1021,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 48700
+  },
+  {
+   "targetConditionIndex": 1022,
+   "targetConditionGroupIndex": 1022,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 51300
+  },
+  {
+   "targetConditionIndex": 1023,
+   "targetConditionGroupIndex": 1023,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 54000
+  },
+  {
+   "targetConditionIndex": 1024,
+   "targetConditionGroupIndex": 1024,
+   "targetConditionStringNameTag": "Sura.Penalty.Name",
+   "targetConditionDescriptionNameTag": "Sura.Penalty.Desc",
+   "targetConditionType": 2,
+   "targetConditionSubType": 56700
+  }
+ ]
+}

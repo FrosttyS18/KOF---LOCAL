@@ -2,18 +2,26 @@
 (real mobile tables, tools/import_dungeons.py).
 
 The floors are QuestEventStageTable rows of event 107 with stageType != 4. The client enters a floor
-only when its openValue == lastClearStageIndex + 1, so the tower stays server-driven:
+only when its openValue == lastClearStageIndex, so the tower stays server-driven:
 questEvent/phantomTowerInfo without a body answers the tower state (an absent PhantomTower object
 NREs the client), phantomTowerStart/End run a floor like a QuestEvent battle (Scene_Single_Event,
 subtype 82), and phantomTowerMopUp pays the top floor's questEventCrucibleTowerClearRewardGroup once
 a day. The Auto-Clear button itself only shows while QuestEventTable.isAbleMopUp is 1; the endpoint
-answers anyway. Progress lives in save.json "phantom" (last floor, mopup ms, register ms)."""
+answers anyway. Progress lives in save.json "phantom" (last floor, mopup ms, register ms).
+
+tools/restore_phantom_tower.py renumbers the floors onto 1070001..1070050 (the reference ids
+10701..10720 belong to the daily Crucible Tower here), so saves written before that keep
+phantom.last as 10721..10750; legacy_last() maps those onto 1070021..1070050 in memory -- the
+old ids match no row anymore. The save itself is only rewritten by the natural handlers
+(a win, a mopup)."""
 import time
 
 import gameapi as G
 
 ILUSION_QE = 107
 ILUSION_AP = 10
+LEGACY_FIRST, LEGACY_LAST_ID = 10721, 10750
+LEGACY_SHIFT = 1070021 - 10721
 
 EMPTY_LISTS = ("RewardItemList", "RewardCharacterList", "RewardBattleCardList", "CharacterList",
                "ClearRewardList", "AffectionRewardList1", "AffectionRewardList2", "AffectionRewardList3",
@@ -31,10 +39,15 @@ def today(ms):
     return time.strftime("%Y-%m-%d", time.localtime(ms or 0)) == time.strftime("%Y-%m-%d")
 
 
+def legacy_last(pr):
+    last = int(pr.get("last") or 0)
+    return last + LEGACY_SHIFT if LEGACY_FIRST <= last <= LEGACY_LAST_ID else last
+
+
 def tower_info(l):
     pr = (G.load_state() or {}).get("phantom", {})
     ids = [int(r.get("questEventStageIndex") or 0) for r in l]
-    last = min(int(pr.get("last") or 0), ids[-1] if ids else 0)
+    last = min(legacy_last(pr), ids[-1] if ids else 0)
     nxt = (last + 1) if last else (ids[0] if ids else 0)
     mopup = int(pr.get("mopup") or 0)
     return {"stageIndex": min(nxt, ids[-1]) if ids else 0, "lastClearStageIndex": last, "mopupTime": mopup,
@@ -84,7 +97,7 @@ def phantom_end(req):
         state = G.load_state()
         pr = state.setdefault("phantom", {})
         if won and row:
-            if sid > int(pr.get("last") or 0):
+            if sid > legacy_last(pr):
                 out["ClearRewardList"] = G.give_rewards(
                     state, row.get("questEventStageFirstClearRewardGroup", 0))[0]
                 pr["last"] = sid

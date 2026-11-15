@@ -409,7 +409,7 @@ def player_profile(req):
 # (DownloadManager.OnCheckTableVersion: "table" and "banner" if present, "lang_global" always - missing threw
 # KeyNotFoundException and the page never opened); the same versions as the table download (kofserver.py
 # TABLE_PACK_VERSION = tools/make_tablepacks.py), so nothing reads as newer.
-TABLE_PACK_VERSION = 1020
+TABLE_PACK_VERSION = 1021
 
 
 @api("player/cdnVersion")
@@ -936,6 +936,7 @@ def dungeon_schedules():
     # SubCategory 3 (EDungeonType Growth/Event), while EventQuestShortcut.IsOpenDungeon admits the
     # card only when a Category 3 schedule carries the event's index -- so each event sends both.
     out += [apidefaults.default("OperateSchedule", Version=1, Category=c, SubCategory=EVENT_DUNGEON, Index=i,
+                                TagList=[1] if types.get(i) == 2 else [],
                                 Detail=apidefaults.default("OperateScheduleData",
                                                            SubGroup=[1] if types.get(i) == 2 else [],
                                                            OffOnSched=ALWAYS_OPEN))
