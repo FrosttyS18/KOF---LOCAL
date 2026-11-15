@@ -848,6 +848,54 @@ DUNGEON_SCHEDULES = [3201, 3101, 3301, 3302, 3303, 3304, 3305, 3501,
 # (SubCategory 2); Advent and Hall of Elements are Event banners (SubCategory 3, Advent SubGroup [1]).
 TRANSCEND_QES = (41001, 41002, 41003, 41004, 41005, 42001, 42002, 42003, 42004, 42005, 42006)
 EVENT_DUNGEON = 3
+# Hall of Elements (real mobile rules, the community build's v158): one group for the five elements
+# (QuestEventGroup 41000) whose QuestEventGroupList entry carries today's entry count -- the client's
+# EventQuestShortcut.OnCheckSpecialOpen reads it before it ever opens the stage list (without it the
+# entry hangs on NOW LOADING). 3 entries a day across the elements, stages unlock in sequence per
+# element, and clear rewards pay "memory marker" items 3999991-95 that the game swaps for a random
+# fighter Memory of that element (item 3000000 + characterIndex; items imported from the mobile set).
+HOE_QES = (41001, 41002, 41003, 41004, 41005)
+HOE_GROUP, HOE_DAILY, HOE_MARKER = 41000, 3, 3_999_990
+HOE_ELEMENTS = {HOE_MARKER + 1: 1, HOE_MARKER + 2: 2, HOE_MARKER + 3: 3, HOE_MARKER + 4: 4, HOE_MARKER + 5: 5}
+
+
+def hoe_prog(state):
+    p = state.setdefault("hoe", {})
+    today = time.strftime("%Y-%m-%d")
+    if p.get("day") != today:
+        p["day"] = today
+        p["n"] = 0
+    return p
+
+
+def hoe_group(state):
+    # ReOpenEndTime feeds QuestEventGroup's ReOpenEndTime (IsToday): a past date keeps the group open
+    return {"QuestEventGroup": HOE_GROUP, "ClearCount": int(hoe_prog(state).get("n") or 0),
+            "ReOpenEndTime": "2000-01-01T00:00:00"}
+
+
+def hoe_open(state):
+    """The Hall of Elements stages the list may show: each element's cleared ones plus the next."""
+    open_ids, played = set(), state.get("questEventStages", {})
+    for qe in HOE_QES:
+        rows = sorted((r for r in table_rows("QuestEventStageTable")
+                       if int(r.get("questEventIndex") or 0) == qe),
+                      key=lambda r: int(r.get("questEventStageLevel") or 0))
+        for r in rows:
+            sid = int(r["questEventStageIndex"])
+            open_ids.add(sid)
+            if not played.get(str(sid), {}).get("result"):
+                break
+    return open_ids
+
+
+def hoe_memory(element):
+    """A random fighter Memory of the element (markers 3999991-95 stand for one in the reward groups)."""
+    import random
+    have = {r.get("itemIndex") for r in table_rows("ItemTable")}
+    pool = [3_000_000 + int(c["characterIndex"]) for c in table_rows("CharacterTable")
+            if int(c.get("synastryType") or 0) == element and 3_000_000 + int(c["characterIndex"]) in have]
+    return random.choice(pool) if pool else 0
 # The Gold Dungeon (questEventSubType 31, tools/gen_dungeon.py): its pot is the StageDropTable row's stageDropGoldMax,
 # where the client ends the run ("a fixed amount of gold", the fan guide). questEventStart hands out gold pools; the
 # client splits each over the actors it counts in the stage script (DropItemManager.MakeGoldData: Jaco = the script's
@@ -884,7 +932,11 @@ def dungeon_schedules():
                                Index=i, Detail=apidefaults.default("OperateScheduleData", SubGroup=[i],
                                                                    OffOnSched=ALWAYS_OPEN))
            for i in DUNGEON_SCHEDULES]
-    out += [apidefaults.default("OperateSchedule", Version=1, Category=DUNGEON_CATEGORY,
+    # EventQuestShortcut.IsOpenDungeon looks the schedule up by CATEGORY: a type-3 event is a Growth
+    # banner (category 2); Advent and Hall of Elements (types 2/10) are Event banners -- category 3.
+    # The hub's banner list still filters by SubCategory 3, so Event banners carry both.
+    out += [apidefaults.default("OperateSchedule", Version=1,
+                                Category=DUNGEON_CATEGORY if types.get(i) == 3 else EVENT_DUNGEON,
                                 SubCategory=GROWTH_DUNGEON if types.get(i) == 3 else EVENT_DUNGEON, Index=i,
                                 Detail=apidefaults.default("OperateScheduleData",
                                                            SubGroup=[1] if types.get(i) == 2 else [],
@@ -927,15 +979,37 @@ def quest_event_stage(state, row):
 @api("questEvent/questEventList")
 def quest_event_list(req):
     """Stage states of the quest events: the stages the account has played (no entry = never played -> NEW!).
-    The Transcendence stages are always sent: a stage the server never lists reads as locked."""
+    The Transcendence stages are always sent: a stage the server never lists reads as locked; the Hall of
+    Elements list is its cleared stages plus the next of each element, and the group entry carries today's
+    entry count (the client's banner shortcut reads it before opening the stage list)."""
     log_story("questEventList", req)
     state = load_state() or {}
     played = state.get("questEventStages", {})
+    hoe_ids = hoe_open(state)
+    stages = [quest_event_stage(state, r) for r in table_rows("QuestEventStageTable")
+              if str(r["questEventStageIndex"]) in played
+              or int(r.get("questEventIndex") or 0) in TRANSCEND_QES]
+    stages = [s for s in stages if int(s.get("QuestEventIndex") or 0) not in HOE_QES
+              or int(s.get("QuestEventStageIndex") or 0) in hoe_ids]
     return ok(QuestEventList=[apidefaults.default("QuestEventWEBData", QuestEventIndex=r["questEventIndex"])
                               for r in table_rows("QuestEventTable")],
-              QuestEventStageList=[quest_event_stage(state, r) for r in table_rows("QuestEventStageTable")
-                                   if str(r["questEventStageIndex"]) in played
-                                   or int(r.get("questEventIndex") or 0) in TRANSCEND_QES])
+              QuestEventStageList=stages,
+              QuestEventGroupList=[hoe_group(state)],
+              QuestEventTicketRechargeList=[], HotTimeEnterList=[], MarathonPlayCheckList=[])
+
+
+@api("questEvent/questEventOpen")
+def quest_event_open(req):
+    """One event's stage states, asked entering a dungeon from its banner."""
+    qe = int(req.get("QuestEventIndex") or 0)
+    state = load_state() or {}
+    rows = [r for r in table_rows("QuestEventStageTable") if int(r.get("questEventIndex") or 0) == qe]
+    if qe in HOE_QES:
+        ids = hoe_open(state)
+        rows = [r for r in rows if int(r["questEventStageIndex"]) in ids]
+    return ok(QuestEvent=apidefaults.default("QuestEventWEBData", QuestEventIndex=qe),
+              QuestEventStageList=[quest_event_stage(state, r) for r in rows],
+              QuestEventGroupList=[hoe_group(state)] if qe in HOE_QES else [])
 
 
 @api("questEvent/questEventStart")
@@ -1025,6 +1099,7 @@ def quest_event_end(req):
                 give_rewards(state, mission_groups.get(m, 0))
         missions = mission_reward_lists([row.get(f"mission{i}Index", 0) for i in (1, 2, 3)], got,
                                         lambda m: reward_contents(mission_groups.get(m, 0)))
+        is_hoe = int(row.get("questEventIndex") or 0) in HOE_QES
         first_clear = give_rewards(state, row.get("questEventStageFirstClearRewardGroup", 0))[0] if first else []
         clear = give_rewards(state, row.get("questEventStageClearRewardGroup", 0))[0] if won else []
         # Parse_QuestEventEnd adds each RewardItemList entry's Qty to the inventory (ItemInventory.InnerAddCount):
@@ -1046,7 +1121,8 @@ def quest_event_end(req):
               RewardComedown=None, RemainItem=None,
               QuestEvent=apidefaults.default("QuestEventWEBData", QuestEventIndex=row.get("questEventIndex", 0)),
               QuestEventStage=quest_event_stage(state, row) if row else apidefaults.default("QuestEventStageWEBData"),
-              CompleteQuestList=completed, **missions)
+              CompleteQuestList=completed,
+              **({"QuestEventGroup": hoe_group(state)} if is_hoe else {}), **missions)
 
 
 # ---------------------------------------------------------------- AUTO-CLEAR (mop-up)
@@ -1551,6 +1627,10 @@ def give_rewards(state, group):
             wallet[key] = int(wallet.get(key, 0)) + count
             contents.append(reward(kind, count))
         elif kind == ITEM_GOODS:
+            if index in HOE_ELEMENTS:      # the Hall of Elements "memory markers": a random Memory of the element
+                index = hoe_memory(HOE_ELEMENTS[index])
+                if not index:
+                    continue
             inv = items(state)
             inv[str(index)] = int(inv.get(str(index), 0)) + count
             item_ids.append(index)

@@ -40,7 +40,7 @@ def sura_info(req):
         G.save_state(state)
     return G.ok(SuraDungeon={"SuraDungeonDifficultyIndex": phase, "SuraDungeonClearStageIndex": clear,
                              "SuraDungeonClearStageIndexMax": max(clear, int(pr.get("max") or 0)),
-                             "FreeMopUpPlayCount": today_count(pr), "PayMopUpPlayCount": 0},
+                             "FreeMopUpPlayCount": 0, "PayMopUpPlayCount": 0},
                 SuraDungeonStageList=[{"SuraDungeonStageIndex": int(r["suraDungeonStageIndex"]),
                                        "BattleResult": 1 if int(r["suraDungeonStageIndex"]) <= clear else 0,
                                        "PlayCount": 1 if int(r["suraDungeonStageIndex"]) <= clear else 0}

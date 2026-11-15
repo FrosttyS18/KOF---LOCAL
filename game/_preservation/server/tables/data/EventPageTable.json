@@ -1,0 +1,93 @@
+{
+ "_comment": "real mobile table (tools/import_dungeons.py)",
+ "rows": [
+  {
+   "eventPageIndex": 41001,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_violet_list",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_orochi_bs",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_violet_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_violet_list",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/flame_walker_purple_spine"
+  },
+  {
+   "eventPageIndex": 41002,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_blue_list",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_goenitz_bs",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_blue_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_blue_list",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/flame_walker_blue_spine"
+  },
+  {
+   "eventPageIndex": 41003,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_red_list",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_krizalid_bs",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_red_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_red_list",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/flame_walker_red_spine"
+  },
+  {
+   "eventPageIndex": 41004,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_green_list",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_zerooriginal_ep3",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_green_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_green_list",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/flame_walker_green_spine"
+  },
+  {
+   "eventPageIndex": 41005,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_yellow_list",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_leona_bs",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_yellow_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/flame_walker_yellow_list",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/flame_walker_yellow_spine"
+  },
+  {
+   "eventPageIndex": 42001,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yashiro_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_yashiro_halloween",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yashiro_lv4_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yashiro_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/yashiro_halloween_sp_spine"
+  },
+  {
+   "eventPageIndex": 42002,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/sakura_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_athena_sakura_sp",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/sakura_lv4_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/sakura_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/athena_sakura_sp_spine"
+  },
+  {
+   "eventPageIndex": 42003,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/ikariranger_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_clark_sp",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/ikariranger_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/ikariranger_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/clark_ralf_spine"
+  },
+  {
+   "eventPageIndex": 42004,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yamazaki_sp_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_yamazaki_sp",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yamazaki_sp_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/yamazaki_sp_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/yamazaki_gs_spine"
+  },
+  {
+   "eventPageIndex": 42005,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/statuegoenitz_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_goenitz_statue_sp",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/statuegoenitz_lv4_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/statuegoenitz_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/goenitz_statue_sp_spine"
+  },
+  {
+   "eventPageIndex": 42006,
+   "eventPageCharThumbnail": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/saisyu_sp_sd_thumbnail",
+   "eventPageBackGroundImage": "Prefabs/UI_Data/UI_Texture/SpineBackGroundImage/spinebg_saisyu_sp",
+   "eventPageStageImage1": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/saisyu_sp_list",
+   "eventPageMedalCharThumb": "Prefabs/UI_Data/UI_Texture/Thumbnail/EventPage/saisyu_sp_sd_thumbnail",
+   "eventCharacterSpine": "Prefabs/SpineCharacter/saisyu_sp_spine"
+  }
+ ]
+}

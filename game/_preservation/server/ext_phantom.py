@@ -106,7 +106,7 @@ def phantom_mopup(req):
     with G._lock:
         state = G.load_state()
         pr = state.setdefault("phantom", {})
-        if row and row.get("questEventCrucibleTowerClearRewardGroup") and not inf["mopupCount"]:
+        if row and row.get("questEventCrucibleTowerClearRewardGroup"):
             out["RewardContentsList"] = G.give_rewards(
                 state, row.get("questEventCrucibleTowerClearRewardGroup", 0))[0]
             pr["mopup"] = G.now_ms()

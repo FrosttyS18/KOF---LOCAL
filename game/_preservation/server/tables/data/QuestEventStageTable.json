@@ -202,8 +202,8 @@
    "eventStrikerType": 1,
    "mopUpCostIndex": 1,
    "dropRewardDisplayGroup": 310104,
-   "limitPlayType": 2,
-   "limitPlayValue1": 3
+   "limitPlayType": 0,
+   "limitPlayValue1": 0
   },
   {
    "questEventStageIndex": 330101,

@@ -37,6 +37,8 @@ DEDICATED = {  # table -> its primary key (all present in the PC schema)
     "ProveDungeonBossTeamTable": "bossTeamIndex",
     "BuffSelectDungeonStageTable": "stageIndex",
     "BuffSelectDungeonBuffTable": "dungeonBuffIndex",
+    "EventPageTable": "eventPageIndex",
+    "EventPageMissionGroupTable": "eventPageMissionGroupIndex",
 }
 MENU = {  # merged into the project's own rows (the dungeon buttons read ModeTable)
     "ModeTable": "modeIndex",
@@ -184,7 +186,8 @@ def main():
     rewards = merge(schema, "RewardGroupTable", reward_rows, "rewardGroupIndex", src, [])
     items = {int(r["contentsIndex"]) for r in reward_rows if int(r.get("rewardType") or 0) == 13
              and r.get("contentsIndex")}
-    item_rows = [r for r in mobile_rows(src, "ItemTable") if int(r.get("itemIndex") or 0) in items]
+    item_rows = [r for r in mobile_rows(src, "ItemTable")
+                 if int(r.get("itemIndex") or 0) in items or 3_000_000 <= int(r.get("itemIndex") or 0) < 4_000_000]
     items_added = merge(schema, "ItemTable", item_rows, "itemIndex", src, ["ItemTable"])
     merge(schema, "StageMissionTable",
           [r for r in mobile_rows(src, "StageMissionTable")
