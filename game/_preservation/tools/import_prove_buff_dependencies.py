@@ -85,6 +85,7 @@ import import_dungeon_monsters as mono  # strict int/key/dup guards of the monst
 import import_timeattack_dependencies as ta_deps  # _graph_json bounded decode + client bundle manifest
 import read_unity_serialized            # canonical SerializedFile v22 index + PPtr-only subtree walk
 import adapt_buffselect_pc_ai as bs_ai  # PC _Mob-contract adaptation of the BuffSelect AI rows (116)
+import adapt_buffselect_pc_power as bs_power  # PC power-fold of the referenced BuffSelect buffs
 
 
 BUFF_QE = 8101
@@ -662,6 +663,11 @@ def main():
                             bs_ai.oracle_pairs(os.path.join(src, "tabel")))
         except bs_ai.Divergence as exc:
             fail(f"AiGroupTable PC adaptation diverged (nothing written yet): {exc}")
+        planned_buffs = [r for t, _, rows in bs_add + pv_add if t == "BuffTable" for r in rows]
+        try:
+            bs_power.preflight_rows(base.load_data("BuffTable")["rows"] + planned_buffs, data)
+        except bs_power.Divergence as exc:
+            fail(f"BuffTable power adaptation diverged (nothing written yet): {exc}")
     if args.mode != "buffselect":
         for idx in pv_notes.get("dm_prefab_repaired", []):
             # The tool's ONE in-place exception (import_dungeons has three of its own): a row this tool
@@ -689,7 +695,7 @@ def main():
                      "rows": [{k: v for k, v in r.items() if k in base.fields_of(schema, table)} for r in added]})
     strings_added = len(json.load(open(strings_path, encoding="utf-8"))) - strings_before
 
-    ai_adaptation = []
+    ai_adaptation, power_fold = [], []
     if args.mode != "prove":
         try:
             applied = bs_ai.adapt_current_master(data, os.path.join(src, "tabel"))
@@ -698,6 +704,11 @@ def main():
                  f"table NOT adapted -- fix and rerun): {exc}")
         ai_adaptation = [{"aiGroup": r.get("aiGroup"), "aiGrade": r.get("aiGrade"),
                           "field": f, "old": o, "new": n} for r, f, o, n in applied]
+        try:
+            power_fold = bs_power.mutate_tables(data)
+        except bs_power.Divergence as exc:
+            fail(f"post-merge BuffTable power fold diverged (tables already imported, the buffs "
+                 f"NOT folded -- fix and rerun): {exc}")
 
     print(" | ".join(f"{t} +{n}" for t, n in appended.items() if n) or "tables: nothing to append")
     parts = [f"strings +{strings_added}"]
@@ -723,6 +734,12 @@ def main():
                   "1.0, 845 base stripped of _Mob; aiGroupIndex, ids and every other field kept)")
         else:
             print("AiGroupTable already PC-adapted, nothing to do")
+        if power_fold:
+            print(f"BuffTable power folded to the PC contract: {len(power_fold)} referenced buffs "
+                  "base := perLv and max := perLv*buffMaxLevel (the client's Max clamp kept the "
+                  "default 0 at zero; levels, perLv and every other field kept)")
+        else:
+            print("BuffTable power already folded, nothing to do")
         print("PENDING ASSET (never verified by this tool): aiGroup 843's base "
               "Prefabs/AI/BuffSelect/BuffSelect_Goenitz_1_Normal needs the runtime alias "
               "BuffSelect_Goenitz_1_Normal_Mob, shipped separately -- until it ships, floor 810105's "
@@ -763,6 +780,9 @@ def main():
             "buffselect": {k: v for k, v in bs_notes.items() if k != "skill_chain_orphans"},
             "buffselect_chain_orphans": bs_notes.get("skill_chain_orphans", {}),
             "ai_pc_adaptation": ai_adaptation,
+            "power_pc_fold": [{"buffIndex": i, "buffPowerBase": p, "buffPowerMax": c}
+                              for i, p, c in power_fold]
+                              if args.mode != "prove" else None,
             "ai_pc_pending_asset": "Prefabs/AI/BuffSelect/BuffSelect_Goenitz_1_Normal_Mob (843; "
                                    "alias shipped separately, not verified here)" if args.mode != "prove" else None,
             "prove": {k: (len(v) if k == "uncached_character_prefabs" else v)

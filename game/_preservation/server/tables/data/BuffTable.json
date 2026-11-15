@@ -213789,7 +213789,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.05,
    "buffPowerPerLv": 0.05,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213797,7 +213797,8 @@
    "overlapType": 3,
    "buffIcon": "power_gage_per_add",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/powergauge"
+   "buffPrefabStart": "Prefabs/Buff/powergauge",
+   "buffPowerMax": 1.0
   },
   {
    "buffIndex": 64000002,
@@ -213808,7 +213809,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "32",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.06,
    "buffPowerPerLv": 0.06,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213816,7 +213817,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 1.2
   },
   {
    "buffIndex": 64000003,
@@ -213827,7 +213829,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "22",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.06,
    "buffPowerPerLv": 0.06,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213835,7 +213837,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 1.2
   },
   {
    "buffIndex": 64000004,
@@ -213846,7 +213849,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "51",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.03,
    "buffPowerPerLv": 0.03,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213854,7 +213857,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 0.6
   },
   {
    "buffIndex": 64000005,
@@ -213865,7 +213869,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "56",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213873,7 +213877,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000006,
@@ -213884,7 +213889,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "502",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213892,7 +213897,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000007,
@@ -213903,7 +213909,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "699",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.04,
    "buffPowerPerLv": 0.04,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213911,7 +213917,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 0.8
   },
   {
    "buffIndex": 64000008,
@@ -213922,7 +213929,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213933,7 +213940,8 @@
    "buffVitalizationTermTargetTypeString": "1",
    "buffIcon": "attack_add",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000009,
@@ -213944,7 +213952,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "32",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.12,
    "buffPowerPerLv": 0.12,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213955,7 +213963,8 @@
    "buffVitalizationTermTargetTypeString": "2",
    "buffIcon": "defense_add",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.4
   },
   {
    "buffIndex": 64000010,
@@ -213966,7 +213975,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "51",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.05,
    "buffPowerPerLv": 0.05,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213977,7 +213986,8 @@
    "buffVitalizationTermTargetTypeString": "3",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 1.0
   },
   {
    "buffIndex": 64000011,
@@ -213988,7 +213998,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -213999,7 +214009,8 @@
    "buffVitalizationTermTargetTypeString": "1",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000012,
@@ -214010,7 +214021,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214021,7 +214032,8 @@
    "buffVitalizationTermTargetTypeString": "2",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000013,
@@ -214032,7 +214044,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214043,7 +214055,8 @@
    "buffVitalizationTermTargetTypeString": "3",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000014,
@@ -214054,7 +214067,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214065,7 +214078,8 @@
    "buffVitalizationTermTargetTypeString": "4",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000015,
@@ -214076,7 +214090,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 20,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": 0.1,
    "buffPowerPerLv": 0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214087,7 +214101,8 @@
    "buffVitalizationTermTargetTypeString": "5",
    "buffIcon": "Icon_D_BuffArrowUp",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/buff_start"
+   "buffPrefabStart": "Prefabs/Buff/buff_start",
+   "buffPowerMax": 2.0
   },
   {
    "buffIndex": 64000101,
@@ -214098,7 +214113,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "12",
    "buffMaxLevel": 1,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": -0.1,
    "buffPowerPerLv": -0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214106,7 +214121,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowDown",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/debuff_start"
+   "buffPrefabStart": "Prefabs/Buff/debuff_start",
+   "buffPowerMax": -0.1
   },
   {
    "buffIndex": 64000102,
@@ -214117,7 +214133,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "32",
    "buffMaxLevel": 1,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": -0.1,
    "buffPowerPerLv": -0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214125,7 +214141,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowDown",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/debuff_start"
+   "buffPrefabStart": "Prefabs/Buff/debuff_start",
+   "buffPowerMax": -0.1
   },
   {
    "buffIndex": 64000103,
@@ -214136,7 +214153,7 @@
    "buffInfoMainType": 10,
    "buffInfoSubType": "22",
    "buffMaxLevel": 1,
-   "buffPowerBase": 0.0,
+   "buffPowerBase": -0.1,
    "buffPowerPerLv": -0.1,
    "attachRateBase": 10000,
    "target": "Owner",
@@ -214144,7 +214161,8 @@
    "overlapType": 3,
    "buffIcon": "Icon_D_BuffArrowDown",
    "buffAtlas": "Atlas_Buff_Icon",
-   "buffPrefabStart": "Prefabs/Buff/debuff_start"
+   "buffPrefabStart": "Prefabs/Buff/debuff_start",
+   "buffPowerMax": -0.1
   }
  ]
 }
