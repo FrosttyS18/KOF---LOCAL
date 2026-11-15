@@ -889,7 +889,7 @@
    "moveShopSubType": 704,
    "rewardMedalItemIndex": 15001,
    "eventPageIndex": 41001,
-   "specialQuestEventGroupOnOff": 1
+   "specialQuestEventGroupOnOff": 0
   },
   {
    "questEventIndex": 41002,
@@ -912,7 +912,7 @@
    "moveShopSubType": 704,
    "rewardMedalItemIndex": 15001,
    "eventPageIndex": 41002,
-   "specialQuestEventGroupOnOff": 1
+   "specialQuestEventGroupOnOff": 0
   },
   {
    "questEventIndex": 41003,
@@ -935,7 +935,7 @@
    "moveShopSubType": 704,
    "rewardMedalItemIndex": 15001,
    "eventPageIndex": 41003,
-   "specialQuestEventGroupOnOff": 1
+   "specialQuestEventGroupOnOff": 0
   },
   {
    "questEventIndex": 41004,
@@ -958,7 +958,7 @@
    "moveShopSubType": 704,
    "rewardMedalItemIndex": 15001,
    "eventPageIndex": 41004,
-   "specialQuestEventGroupOnOff": 1
+   "specialQuestEventGroupOnOff": 0
   },
   {
    "questEventIndex": 41005,
@@ -981,7 +981,7 @@
    "moveShopSubType": 704,
    "rewardMedalItemIndex": 15001,
    "eventPageIndex": 41005,
-   "specialQuestEventGroupOnOff": 1
+   "specialQuestEventGroupOnOff": 0
   },
   {
    "questEventIndex": 42001,

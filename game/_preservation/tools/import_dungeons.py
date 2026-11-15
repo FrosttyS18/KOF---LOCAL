@@ -9,19 +9,27 @@ Two sets, all from the real mobile tables:
     SuraDungeon*Table, ProveDungeon*Table, BuffSelectDungeon*Table) wholesale, and the ModeTable /
     ContentsUnlockTable / ContentsAdmissionTable rows that add the menu buttons.
 
-Plus the closure of everything those rows reference: RewardGroupTable groups, StageMissionTable rows,
-RewardDisplayTable groups, ItemTable rows paid by type-13 rewards, the ResourceMapTable maps,
-StageBalanceTable balances and DifficultyTable rows the stages load (the PC's Time Attack also asks
-DifficultyTable.GetDifficultyRange for hardcoded modeIndex 202), and the name/description strings.
+Plus the closure of everything those rows reference: RewardGroupTable groups (including the
+missionCompleteRewardGroup of every referenced StageMissionTable row -- the YOU WIN missions' own
+rewards; Hall of Elements' 9610050 pays 50 rubies as rewardType 2, which carries no contentsIndex
+and needs no ItemTable row), StageMissionTable rows, RewardDisplayTable groups, ItemTable rows paid
+by type-13 rewards, the ResourceMapTable maps, StageBalanceTable balances and DifficultyTable rows
+the stages load (the PC's Time Attack also asks DifficultyTable.GetDifficultyRange for hardcoded
+modeIndex 202), and the name/description strings. Every referenced mission and reward group must
+exist in the project tables or the mobile source -- the import aborts rather than fill a gap with
+an invented default.
 The Hall of Elements trigger graphs also require every HighComedown monster -- the five Flame Walker
 bosses plus the ten mob/elite wave monsters their graphs spawn first (the live GraphOwner dump showed
 NODE 7 creating Pierrena/Ryo waves before NODE 9's boss; boss-only v1015 left the arena empty) -- and
 their monster skills, growth curves, level stats and AI groups from the mobile reference. The
 player-AI AiGroupTable rows the imported stages' aiGrade demands are a compatibility adaptation
 (a clone of the group's grade-1 row), documented in append_player_ai_grades.
-Existing rows are never touched; only appended -- the sole exception: adapt_triggers_to_pc renames
-questEvent 41001's singleTriggerName to the PC bundle's real asset name. Fields follow
-server/tables/schema.json.
+Existing rows are never touched; only appended -- three deliberate in-place compatibility/UI
+adaptations of already-imported rows: adapt_triggers_to_pc renames questEvent 41001's
+singleTriggerName to the PC bundle's real asset name, adapt_hoe_group_menu zeroes the five HoE
+rows' specialQuestEventGroupOnOff so the hub collapses to one card whose per-boss tabs then open
+natively, and adapt_hoe_tab_elements rewrites the 165 HoE stages' dungeonType to each arena's
+element so those tabs stop rendering all-Purple. Fields follow server/tables/schema.json.
 
 usage: import_dungeons.py <kofas_server folder> [questEventIndex ...]
 """
@@ -150,6 +158,90 @@ def adapt_triggers_to_pc():
     return renamed
 
 
+def adapt_hoe_group_menu():
+    """UI adaptation (the second in-place exception): the hub's Transcendence menu renders one card
+    per QuestEvent row with specialQuestEventGroupOnOff != 0 -- five Hall of Elements cards today.
+    At 0 the card dedups by SubType and UIPage_SPQuestMode.SetData lists every group of the param's
+    SubType (FindAll b__0 @ 0x18086B700 compares only get_questEventSubType), i.e. one card ->
+    per-boss tabs -> each boss's 33 stages, with Type 10 and every other row untouched. The card
+    title still reads the first row's nameTag (Purple): the tabs are UILabels fed the per-event
+    nameTags, both from the same string -- no string is changed until a separate root-title source
+    is proven."""
+    doc = load_data("QuestEventTable")
+    rows = [r for r in doc["rows"] if 41001 <= int(r.get("questEventIndex") or 0) <= 41005]
+    if (len(rows) != 5
+            or {int(r["questEventIndex"]) for r in rows} != set(range(41001, 41006))
+            or any(int(r.get("questEventType") or 0) != 10
+                             or int(r.get("questEventSubType") or 0) != 27
+                             or int(r.get("questEventGroup") or 0) != 41000 for r in rows)):
+        sys.exit("QuestEventTable: expected the five Hall of Elements rows as Type 10 / SubType 27 / "
+                 "group 41000 before grouping their menu card")
+    changed = 0
+    for row in rows:
+        if row.get("specialQuestEventGroupOnOff") != 0:
+            row["specialQuestEventGroupOnOff"] = 0
+            changed += 1
+    if changed:
+        save_data("QuestEventTable", doc)
+    return changed
+
+
+def adapt_hoe_tab_elements():
+    """UI adaptation (the third in-place exception): the grouped card's per-boss tabs take their
+    color from the group's first stage's dungeonType -- UIPage_SPQuestMode.SetTab (0x18086A130)
+    passes QuestEventStageProto+0x6C to UIUnit_SPQuestTab.SetData (0x18086F920), whose only use of
+    the value is StringDefine.GetFighterSynastryIcon (0x180505010) for the tab's active and
+    inactive sprites; SynastryType 1 Purple, 2 Blue, 3 Red, 4 Green, 5 Yellow. The mobile source
+    ships every HoE stage with dungeonType 1, so all five tabs render Purple; each stage already
+    carries its arena's element in its own setSynastry{Normal,Elite,Boss}MonsterValue (the 33 rows
+    of questEvent 4100n agree on n). Rewrites only dungeonType of the 165 HoE stages to that
+    element; nothing else in those rows and no other row changes. Refuses (before writing) anything
+    unexpected: missing/extra events, a stage count other than 33, questEventStageIndex other than
+    each event's 4100n01..4100n33 exactly once, setSynastry disagreement inside a row or across an
+    event's rows, elements outside 1..5 or not the five distinct values, or a current dungeonType
+    that is neither the mobile source's 1 nor the element itself."""
+    doc = load_data("QuestEventStageTable")
+    per_event = {}
+    for row in doc["rows"]:
+        if 41001 <= int(row.get("questEventIndex") or 0) <= 41005:
+            per_event.setdefault(int(row["questEventIndex"]), []).append(row)
+    counts = {event: len(rows) for event, rows in sorted(per_event.items())}
+    if set(per_event) != set(range(41001, 41006)) or any(n != 33 for n in counts.values()):
+        sys.exit(f"QuestEventStageTable: expected the five Hall of Elements events 41001-41005 with "
+                 f"33 stages each before recoloring their tabs, got {counts}")
+    changed = 0
+    elements = {}
+    for event, rows in sorted(per_event.items()):
+        indexes = [int(row.get("questEventStageIndex") or 0) for row in rows]
+        expected = {event * 100 + n for n in range(1, 34)}
+        if len(set(indexes)) != len(indexes) or set(indexes) != expected:
+            sys.exit(f"QuestEventStageTable: questEvent {event}'s 33 questEventStageIndex should be "
+                     f"{event * 100 + 1}..{event * 100 + 33} once each, got {sorted(indexes)}")
+        values = {v for row in rows for v in (int(row.get(k) or 0) for k in
+                   ("setSynastryNormalMonsterValue", "setSynastryEliteMonsterValue",
+                    "setSynastryBossMonsterValue"))}
+        if len(values) != 1 or not 1 <= next(iter(values)) <= 5:
+            sys.exit(f"QuestEventStageTable: questEvent {event}'s stages disagree on their "
+                     f"setSynastry*MonsterValue element {sorted(values)} -- refusing to pick one")
+        elements[event] = next(iter(values))
+        for row in rows:
+            current = int(row.get("dungeonType") or 0)
+            if current == elements[event]:
+                continue
+            if current != 1:
+                sys.exit(f"QuestEventStageTable: questEvent {event} stage "
+                         f"{row.get('questEventStageIndex')} has dungeonType {current}, expected "
+                         f"the mobile source's 1 -- refusing to overwrite it")
+            row["dungeonType"] = elements[event]
+            changed += 1
+    if set(elements.values()) != set(range(1, 6)):
+        sys.exit(f"QuestEventStageTable: the five Hall of Elements arenas should carry the five "
+                 f"distinct elements 1-5, got {elements} -- refusing to recolor")
+    if changed:
+        save_data("QuestEventStageTable", doc)
+    return changed
+
+
 def import_hoe_monsters(schema, src):
     """Import every monster named by the PC HighComedown trigger graphs (5 Flame Walker bosses + the
     10 mob/elite wave monsters their graphs spawn before each boss) and their table dependencies.
@@ -268,6 +360,8 @@ def main():
                     if int(r.get("questEventIndex") or 0) in todo],
                    "questEventStageIndex", src, ["QuestEventStageTable"])
     renamed = adapt_triggers_to_pc()
+    grouped = adapt_hoe_group_menu()
+    recolored = adapt_hoe_tab_elements()
     hoe = import_hoe_monsters(schema, src)
     schedules = merge(schema, "QuestEventScheduleTable",
                       [r for r in mobile_rows(src, "QuestEventScheduleTable")
@@ -323,6 +417,18 @@ def main():
                  if isinstance(v, str)}
     diff_strings = strings_add(src, ["DifficultyTable", "SystemTable"], diff_tags)
 
+    mission_rows = closure("StageMissionTable", "stageMissionIndex", missions)
+    groups |= {int(r["missionCompleteRewardGroup"]) for r in mission_rows
+               + [m for m in load_data("StageMissionTable")["rows"]
+                  if int(m.get("stageMissionIndex") or 0) in missions]
+               if r.get("missionCompleteRewardGroup")}
+    nowhere = sorted(groups
+                     - {int(r["rewardGroup"]) for r in load_data("RewardGroupTable")["rows"]}
+                     - {int(r["rewardGroup"]) for r in mobile_rows(src, "RewardGroupTable")})
+    if nowhere:
+        sys.exit(f"RewardGroupTable: rewardGroup referenced by the imported stages or missions but in "
+                 f"neither the project tables nor the mobile source: {nowhere}")
+
     reward_rows = [r for r in mobile_rows(src, "RewardGroupTable")
                    if int(r.get("rewardGroup") or 0) in groups]
     rewards = merge(schema, "RewardGroupTable", reward_rows, "rewardGroupIndex", src, [])
@@ -331,17 +437,14 @@ def main():
     item_rows = [r for r in mobile_rows(src, "ItemTable")
                  if int(r.get("itemIndex") or 0) in items or 3_000_000 <= int(r.get("itemIndex") or 0) < 4_000_000]
     items_added = merge(schema, "ItemTable", item_rows, "itemIndex", src, ["ItemTable"])
-    merge(schema, "StageMissionTable",
-          [r for r in mobile_rows(src, "StageMissionTable")
-           if int(r.get("stageMissionIndex") or 0) in missions],
-          "stageMissionIndex", src, ["StageMissionTable"])
+    merge(schema, "StageMissionTable", mission_rows, "stageMissionIndex", src, ["StageMissionTable"])
     merge(schema, "RewardDisplayTable",
           [r for r in mobile_rows(src, "RewardDisplayTable")
            if int(r.get("rewardDisplayGroup") or 0) in displays],
           "rewardDisplayIndex", src, [])
 
     print(f"QuestEventTable +{len(events)} | QuestEventStageTable +{len(stages)} "
-          f"(PC triggers {renamed}) | "
+          f"(PC triggers {renamed}, HoE menu grouped {grouped}, tab elements {recolored}) | "
           f"QuestEventScheduleTable +{len(schedules)} | RewardGroupTable +{len(rewards)} | "
           f"ResourceMapTable +{len(resmaps)} | StageBalanceTable +{len(resbalances)} | "
           f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "

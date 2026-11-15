@@ -70122,6 +70122,30 @@
    "rewardDisplaySortOrder": 1,
    "showRewardCount": 1,
    "rewardSubGroupRate": 10000
+  },
+  {
+   "rewardGroupIndex": 9600001,
+   "rewardGroup": 9600001,
+   "rewardType": 2,
+   "contentsCountMin": 3,
+   "randomRewardProbability": 10000,
+   "rewardSubGroup": 1,
+   "showReward": 1,
+   "rewardDisplaySortOrder": 1,
+   "showRewardCount": 1,
+   "rewardSubGroupRate": 10000
+  },
+  {
+   "rewardGroupIndex": 9610050,
+   "rewardGroup": 9610050,
+   "rewardType": 2,
+   "contentsCountMin": 50,
+   "randomRewardProbability": 10000,
+   "rewardSubGroup": 1,
+   "showReward": 1,
+   "rewardDisplaySortOrder": 1,
+   "showRewardCount": 1,
+   "rewardSubGroupRate": 10000
   }
  ]
 }

@@ -5,6 +5,11 @@
 > Atualização v1017: fases Purple 32 e 33 validadas pelo Codex com ondas/chefe, vitória, recompensas e save. Foram acrescentados quatro registros de IA dos lutadores como adaptação de compatibilidade (originais não recuperados), preservando todos os dados anteriores. Demais elementos/stages/modos continuam pendentes; detalhes no diagnóstico.
 > A interpretação antiga da whitelist estava invertida: a lista restringia os eventos para usuários comuns. A tabela reconstruída foi esvaziada após leitura do cliente.
 > A afirmação antiga de “Time Attack 100%” comprova apenas navegação e endpoints; batalha completa e recompensas não foram validadas.
+> Checkpoint posterior enviado: `7ad4fff` (v1017, carregamento de grau 6; Purple 32/33 com vitória e Blue 1 também validada).
+> Trabalho atual: missões de 50 rubis corrigidas e pagas na v1018 (Purple 2). Na v1019, card único e navegação pelas cinco abas foram observados no cliente; todas as bolinhas ficaram roxas. Correção de dungeonType aplicada e empacotada na v1020, ainda sem teste visual. Título genérico separado continua pendente.
+> Nome do save atual alterado para `Frostty`, só esse campo, com backup; strings e imagem do banner também atualizadas para Frostty. A v1020 foi aberta após rebuild/instalação; exibição no cliente pendente. Manter 68% até concluir e testar as demais dungeons; não declarar esses modos concluídos pelo banner.
+> O retorno 0 do notificador e o reset NÃO foram suficientes: houve novo relato de controle visual ativo durante análise. Não retomar testes visuais até resolver o encerramento; manter análise/código/delegação sem controle do desktop. Detalhes no diagnóstico.
+
 
 Handoff para continuação (Codex ou outra sessão). Meta original: as 7 dungeons que faltavam
 funcionando na versão PC. Repositório: FrosttyS18/KOF---LOCAL (main). Últimos commits:

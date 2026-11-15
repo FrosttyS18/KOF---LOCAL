@@ -11,6 +11,9 @@ server/state/backup: save-<name>.json + kofallstar-<name>.prefs (new_game.py and
                                        (save.json "unlimited", server/gameapi.py UNLIMITED_*; test accounts have it)
   python tools/account.py allcores on|off    every spot of every fighter's core board unlocked (save.json "allCores")
   python tools/account.py spcards on|off     one of every special (SP) battle card (save.json "allSpecialCards")
+  python tools/account.py nickname NAME  rename the account in place, e.g. "nickname Frostty" (save.json
+                                       "nickname" only, 1-16 characters; the save is backed up, then swapped in
+                                       atomically -- no account switch, prefs untouched)
 
 Before an account is replaced it is saved as save-<date-time>.json (+ prefs), unless an identical pair exists, so
 nothing played is lost. The first switch away from your own account remembers it as "home" (backup/home.txt);
@@ -107,6 +110,27 @@ def unlimited(on):
     switch("unlimited", on, "unlimited resources")
 
 
+def nickname(nick):
+    """Rename the account in place: only save.json "nickname" changes (session/create caps nicknames at 16)."""
+    if game_running():
+        sys.exit("close the game first (the server rewrites save.json while it plays)")
+    if not nick.strip() or not 1 <= len(nick) <= 16:
+        sys.exit("nickname must be 1-16 characters (not only spaces)")
+    st = json.load(open(SAVE, encoding="utf-8"))
+    if st.get("nickname") == nick:
+        print(f"the account in place is already called {nick}")
+        return
+    bak = os.path.join(BACKUP, f"save-{time.strftime('%Y%m%d-%H%M%S')}.json")
+    if os.path.exists(bak):
+        sys.exit(f"{os.path.basename(bak)} already exists; wait a second and run it again")   # never overwrite one
+    shutil.copy2(SAVE, bak)
+    st["nickname"] = nick
+    tmp = SAVE + ".tmp"                    # save_state()'s atomic swap: a crash cannot truncate the save
+    json.dump(st, open(tmp, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    os.replace(tmp, SAVE)
+    print(f"renamed the account in place to {nick} (previous save: {os.path.basename(bak)})")
+
+
 def main():
     args = sys.argv[1:]
     if args[:1] == ["use"] and len(args) == 2:
@@ -119,6 +143,8 @@ def main():
         switch("allCores", args[1] == "on", "every fighter's core board fully unlocked")
     elif args[:1] == ["spcards"] and args[1:] in (["on"], ["off"]):
         switch("allSpecialCards", args[1] == "on", "one of every special (SP) battle card")
+    elif args[:1] == ["nickname"] and len(args) == 2:
+        nickname(args[1])
     elif args == ["home"]:
         if home() is None:
             print("your own account is in place already")
