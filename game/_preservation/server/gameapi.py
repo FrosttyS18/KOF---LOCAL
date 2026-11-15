@@ -932,16 +932,14 @@ def dungeon_schedules():
                                Index=i, Detail=apidefaults.default("OperateScheduleData", SubGroup=[i],
                                                                    OffOnSched=ALWAYS_OPEN))
            for i in DUNGEON_SCHEDULES]
-    # EventQuestShortcut.IsOpenDungeon looks the schedule up by CATEGORY: a type-3 event is a Growth
-    # banner (category 2); Advent and Hall of Elements (types 2/10) are Event banners -- category 3.
-    # The hub's banner list still filters by SubCategory 3, so Event banners carry both.
-    out += [apidefaults.default("OperateSchedule", Version=1,
-                                Category=DUNGEON_CATEGORY if types.get(i) == 3 else EVENT_DUNGEON,
-                                SubCategory=GROWTH_DUNGEON if types.get(i) == 3 else EVENT_DUNGEON, Index=i,
+    # The transcendence events read one schedule two ways: the hub's banner list filters Category 2 /
+    # SubCategory 3 (EDungeonType Growth/Event), while EventQuestShortcut.IsOpenDungeon admits the
+    # card only when a Category 3 schedule carries the event's index -- so each event sends both.
+    out += [apidefaults.default("OperateSchedule", Version=1, Category=c, SubCategory=EVENT_DUNGEON, Index=i,
                                 Detail=apidefaults.default("OperateScheduleData",
                                                            SubGroup=[1] if types.get(i) == 2 else [],
                                                            OffOnSched=ALWAYS_OPEN))
-            for i in TRANSCEND_QES]
+            for i in TRANSCEND_QES for c in (DUNGEON_CATEGORY, EVENT_DUNGEON)]
     return out
 
 
