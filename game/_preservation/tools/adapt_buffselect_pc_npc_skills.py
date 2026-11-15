@@ -1,5 +1,8 @@
-"""Project the REAL fighter skills of the BuffSelect NPC bosses Goenitz (monster 582013) and
-Krizalid (monster 582020) into PC MonsterSkillTable rows -- staging/TEMP only.
+"""Project the REAL fighter skills of the 8 BuffSelect NPC Character bosses (Goenitz 582013,
+Krizalid 582020, Mukai 582028, Ash 582033, Nakoruru 582048, Chang 582056, ZeroOriginal 582061,
+MrBIG 582074) into PC MonsterSkillTable rows -- staging/TEMP only. Rock Howard (582042) and
+ZeroClone (582068) are BLOCKED: no type-5 combos and cooldown non-constant steps in every
+same-prefab fighter -- explicitly out of scope.
 
 Schema-driven projection: target fields are the INTERSECTION of SkillProto (97) and
 MonsterSkillProto (51) field names from schema.json (renaming skillIndex/skillIndexString/
@@ -72,7 +75,15 @@ sys.path.insert(0, HERE)   # the embedded python's _pth never adds the script's 
 import read_unity_typed_fields as T
 
 BOSSES = {582013: ("1106", "prefabs_character_goenitz", 3),
-          582020: ("1184", "prefabs_character_99_krizalid", 6)}
+          582020: ("1184", "prefabs_character_99_krizalid", 6),
+          582028: ("1249", "prefabs_character_03_mukai", 10),
+          582033: ("1021", "prefabs_character_03_ash", 10),
+          582048: ("1252", "prefabs_character_14_nakoruru", 14),
+          582056: ("1059", "prefabs_character_tf_chang", 20),
+          582061: ("1369", "prefabs_character_tf_zerooriginal", 20),
+          582074: ("1247", "prefabs_character_tf_mrbig", 20)}
+BLOCKED = {582042, 582068}  # Rock Howard + ZeroClone: no type-5 combos, cooldown non-constant
+LEGACY = {582013, 582020}   # Goenitz/Krizalid: preserve the curve derivation of the existing 51 rows
 ALIASES = {"1106": "20122", "1184": "20451"}
 RENAMES = {"skillIndex": "monsterSkillIndex", "skillIndexString": "monsterSkillIndexString",
            "skillNameTag": "monsterSkillNameTag"}
@@ -84,6 +95,47 @@ MAX_ROOT_SLOTS = 12
 EPS = 1e-6
 PG_ZERO = {110609: "Skill.Goenitz.F01Start.IbukiNagayo#3",
            110626: "Skill.Goenitz.U01Start.SinYaotomeZissokoku#3"}
+
+
+def float32_ulp(x):
+    """True float32 ULP via exponent extraction (math.ulp returns the DOUBLE ULP)."""
+    import math, struct
+    f = struct.unpack("f", struct.pack("f", x))[0]
+    if math.isnan(f) or math.isinf(f):
+        fail("float32_ulp: non-finite input %r" % x)
+    if f == 0.0:
+        return struct.unpack("f", struct.pack("I", 1))[0]
+    bits = struct.unpack("I", struct.pack("f", f))[0]
+    exp = (bits >> 23) & 0xFF
+    if exp == 0:
+        return struct.unpack("f", struct.pack("I", 1))[0]
+    return 2.0 ** (exp - 127 - 23)
+
+
+def damage_curve_legacy(row):
+    """Legacy curve derivation (round to 6dp) — used ONLY for LEGACY bosses whose existing
+    MonsterSkillTable rows were created with this algorithm; produces byte-exact matches."""
+    lvs = {n: row.get("skillDamageRLv%d" % n) for n in range(1, 11)
+           if row.get("skillDamageRLv%d" % n) is not None}
+    if not lvs:
+        return None, {}
+    b = row.get("skillDamageRBase")
+    if b is None:
+        fail("legacy damage curve: skill %s carries Lv series but no skillDamageRBase"
+             % row.get("skillIndex"))
+    if 1 in lvs and abs(float(lvs[1]) - float(b)) > EPS:
+        fail("legacy damage curve: skillDamageRLv1=%r != skillDamageRBase=%r for skill %s"
+             % (lvs[1], b, row.get("skillIndex")))
+    order = sorted(lvs)
+    if len(order) < 2:
+        return None, lvs
+    step = round((float(lvs[order[-1]]) - float(lvs[order[0]])) / (order[-1] - order[0]), 6)
+    for n in order:
+        expect = float(b) + step * (n - 1)
+        if abs(float(lvs[n]) - expect) > EPS:
+            fail("legacy damage curve: skill %s Lv%d=%r != Base+step*(N-1)=%.6f"
+                 % (row.get("skillIndex"), n, lvs[n], expect))
+    return step, lvs
 
 
 def fail(msg):
@@ -158,41 +210,45 @@ def curve_guard(row):
 def damage_curve(row):
     """Derive the Monster-channel skillDamageRPerLv from the source row's own explicit series.
 
-    The proven Monster consumer (Skill.InitializeData 0x1811FAC50) computes
-    m_skillDamageRatio = skillDamageRBase + skillDamageRPerLv*(level-1) and never reads the
-    Lv slots (MonsterSkillProto SkillDamageRLv1..10 are stub 0), so the only faithful copy of
-    a constant-step series is Per = the real step. Every existing skillDamageRLvN point
-    (N in 1..10, holes preserved, real level indices) is validated against
-    Base + step*(N-1); Lv1 must equal Base, a non-linear series aborts, a constant series
-    keeps step 0. Returns (step, {level: value}); (None, {}) when the row carries no series
-    or a single point (nothing to derive -- the source Per stays)."""
+    Consumer formula (Skill.InitializeData 0x1811FAC50): Base + PerLv*(level-1). The step is
+    OLS-anchored at skillDamageRBase, then quantized to float32 (the real protobuf format).
+    Every point is validated against the QUANTIZED PerLv with tolerance = 4dp rounding
+    (±0.00005) + true float32 ULP at that magnitude. A non-linear series beyond this bound
+    aborts. Returns (perLv, {level: value}, max_residual); (None, {}, 0) when no series."""
+    import struct
     lvs = {n: row.get("skillDamageRLv%d" % n) for n in range(1, 11)
            if row.get("skillDamageRLv%d" % n) is not None}
     if not lvs:
-        return None, {}
+        return None, {}, 0.0
     b = row.get("skillDamageRBase")
     if b is None:
         fail("damage curve: skill %s carries a Lv series but no skillDamageRBase"
              % row.get("skillIndex"))
-    if 1 in lvs and abs(float(lvs[1]) - float(b)) > EPS:
-        fail("damage curve: skillDamageRLv1=%r != skillDamageRBase=%r for skill %s"
-             % (lvs[1], b, row.get("skillIndex")))
-    order = sorted(lvs)
-    if len(order) < 2:
-        return None, lvs
-    first, second = order[0], order[1]
-    step = round((float(lvs[second]) - float(lvs[first])) / (second - first), 6)
-    for n in order:
-        expect = float(b) + step * (n - 1)
-        if abs(float(lvs[n]) - expect) > EPS:
-            fail("damage curve: skill %s Lv%d=%r != Base+step*(N-1)=%.6f -- non-linear "
-                 "series, not representable in Base/Per (Monster consumer is linear)"
-                 % (row.get("skillIndex"), n, lvs[n], expect))
-    return step, lvs
+    b = float(b)
+    if len(lvs) < 2:
+        return None, lvs, 0.0
+    if 1 in lvs and abs(float(lvs[1]) - b) > 0.00005 + float32_ulp(abs(float(lvs[1]))):
+        fail("damage curve: skill %s Lv1=%r != Base=%r beyond 4dp+ULP tolerance"
+             % (row.get("skillIndex"), lvs[1], b))
+    num = sum((n - 1) * (float(v) - b) for n, v in lvs.items())
+    den = sum((n - 1) ** 2 for n in lvs)
+    per_raw = num / den if den else 0.0
+    per = struct.unpack("f", struct.pack("f", per_raw))[0]
+    max_res = 0.0
+    for n, v in sorted(lvs.items()):
+        expect = b + per * (n - 1)
+        res = abs(float(v) - expect)
+        tol = 0.00005 + float32_ulp(abs(float(v)))
+        max_res = max(max_res, res)
+        if res > tol:
+            fail("damage curve: skill %s Lv%d=%r residual %.8f > tol %.8f "
+                 "(4dp±0.00005 + ULP32 at %.4f) -- non-linear for consumer Base+Per*(N-1)"
+                 % (row.get("skillIndex"), n, v, res, tol, abs(float(v))))
+    return per, lvs, max_res
 
 
 def main():
-    ap = argparse.ArgumentParser(description="project Goenitz/Krizalid fighter skills into "
+    ap = argparse.ArgumentParser(description="project eight BuffSelect bosses' fighter skills into "
                                              "MonsterSkillTable staging rows (readonly unless --apply)")
     ap.add_argument("--cache", required=True, help="client storage/cache dir (read-only)")
     ap.add_argument("--data", required=True, help="staging tables data dir to read (never master)")
@@ -246,43 +302,56 @@ def main():
     damage_derived = []  # rows whose skillDamageRPerLv was rewritten to the real series step
     damage_checked = 0   # damage series validated point-by-point (Monster consumer is linear)
     for mid, (fighter, bundle, version) in BOSSES.items():
+        if mid in BLOCKED:
+            continue
         canon = [r for r in skills if str(r.get("useFighterIndex")) == fighter]
         if not canon:
             fail("SkillTable carries no rows for fighter %s" % fighter)
-        versions = {str(r.get("skillIndexString", "")).rsplit("#", 1)[-1] for r in canon}
-        if versions != {str(version)}:
-            fail("fighter %s carries versions %s, expected only #%d" % (fighter, sorted(versions), version))
-        alias_names = {r.get("skillIndexString")
-                       for r in skills if str(r.get("useFighterIndex")) == ALIASES[fighter]}
-        if not alias_names <= {r.get("skillIndexString") for r in canon}:
-            fail("alias %s carries names outside canonical %s" % (ALIASES[fighter], fighter))
+        all_versions = {str(r.get("skillIndexString", "")).rsplit("#", 1)[-1] for r in canon}
+        if len(all_versions) > 1:
+            canon = [r for r in canon
+                     if str(r.get("skillIndexString", "")).rsplit("#", 1)[-1] == str(version)]
+        elif all_versions != {str(version)}:
+            fail("fighter %s carries versions %s, expected only #%d" % (fighter, sorted(all_versions), version))
+        alias = ALIASES.get(fighter)
+        if alias:
+            alias_names = {r.get("skillIndexString")
+                           for r in skills if str(r.get("useFighterIndex")) == alias}
+            if not alias_names <= {r.get("skillIndexString") for r in canon}:
+                fail("alias %s carries names outside canonical %s" % (alias, fighter))
         proven = bundle_skill_names(cache, bundle)
+        is_legacy = mid in LEGACY
         for r in sorted(canon, key=lambda x: int(x["skillIndex"])):
             curve_notes += curve_guard(r)
-            step, proven_lvs = damage_curve(r)
+            if is_legacy:
+                per, proven_lvs = damage_curve_legacy(r)
+            else:
+                per, proven_lvs, _mr = damage_curve(r)
             row = {out: r[src] for out, src in target.items() if r.get(src) is not None}
             sid = int(r["skillIndex"])
             base_name = str(r["skillIndexString"]).rsplit("#", 1)[0]
             if base_name not in proven:
                 fail("skill %s not proven by typed decode in bundle %s -- abort" % (base_name, bundle))
-            if step is not None:
+            if per is not None:
                 damage_checked += 1
                 per_before = row.get("skillDamageRPerLv")
-                if per_before is not None and abs(float(per_before) - step) > EPS:
-                    row["skillDamageRPerLv"] = step
+                if per_before is not None and abs(float(per_before) - per) > EPS:
+                    row["skillDamageRPerLv"] = per
                     damage_derived.append(
                         {"monsterSkillIndex": sid, "skillIndexString": r.get("skillIndexString"),
                          "base": r.get("skillDamageRBase"), "perBefore": per_before,
-                         "perAfter": step,
+                         "perAfter": per,
                          "provenLevels": {str(n): proven_lvs[n] for n in sorted(proven_lvs)}})
             if sid in PG_ZERO:
                 if row.get("monsterSkillIndexString") != PG_ZERO[sid]:
                     fail("PG adaptation skill identity mismatch for %d" % sid)
                 row["usePGBase"] = 0.0
             if sid in existing:
-                existing_row = existing[sid]
-                if existing_row != row:
-                    fail("monsterSkillIndex %d exists with DIFFERENT content -- conflict, abort" % sid)
+                if existing[sid] != row:
+                    diff = {k for k in set(existing[sid]) | set(row)
+                            if existing[sid].get(k) != row.get(k)}
+                    fail("monsterSkillIndex %d exists with DIFFERENT content (keys: %s) -- conflict, abort"
+                         % (sid, sorted(diff)))
                 already += 1
                 continue
             projected.append({"boss": mid, "fighter": fighter, "row": row})
@@ -290,8 +359,11 @@ def main():
     patches = []
     slot_proposals = {}
     for mid, (fighter, _bundle, version) in BOSSES.items():
+        if mid in BLOCKED:
+            continue
         base = monsters[mid]
-        canon = [r for r in skills if str(r.get("useFighterIndex")) == fighter]
+        canon = [r for r in skills if str(r.get("useFighterIndex")) == fighter
+                 and str(r.get("skillIndexString", "")).rsplit("#", 1)[-1] == str(version)]
         combos = sorted((r for r in canon if int(r.get("activeSkillType") or 0) == BASE_ATTACK_TYPE),
                         key=lambda r: int(r["skillIndex"]))
         roots = sorted((r for r in canon if int(r.get("activeSkillType") or 0) in ROOT_TYPES),
@@ -330,7 +402,8 @@ def main():
         if changed:
             patches.append(m)
 
-    print("fighters: 1106 (#3) 28 rows, 1184 (#6) 23 rows; typed-decode proven in both bundles")
+    print("bosses: %d scoped (%d legacy + %d new), %d blocked out of scope: %s" %
+          (len(BOSSES), len(LEGACY), len(BOSSES) - len(LEGACY), len(BLOCKED), sorted(BLOCKED)))
     print("new rows: %d | already identical (no-op): %d | row patches: %d"
           % (len(projected), already, len(patches)))
     print("target fields (%d of %d monster proto): %s" % (len(target), len(monster_fields),
