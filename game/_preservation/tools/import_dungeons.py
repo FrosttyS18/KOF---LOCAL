@@ -10,8 +10,12 @@ Two sets, all from the real mobile tables:
     ContentsUnlockTable / ContentsAdmissionTable rows that add the menu buttons.
 
 Plus the closure of everything those rows reference: RewardGroupTable groups, StageMissionTable rows,
-RewardDisplayTable groups, ItemTable rows paid by type-13 rewards, and the name/description strings.
-Existing rows are never touched; only appended. Fields follow server/tables/schema.json.
+RewardDisplayTable groups, ItemTable rows paid by type-13 rewards, the ResourceMapTable maps,
+StageBalanceTable balances and DifficultyTable rows the stages load (the PC's Time Attack also asks
+DifficultyTable.GetDifficultyRange for hardcoded modeIndex 202), and the name/description strings.
+Existing rows are never touched; only appended -- the sole exception: adapt_triggers_to_pc renames
+questEvent 41001's singleTriggerName to the PC bundle's real asset name. Fields follow
+server/tables/schema.json.
 
 usage: import_dungeons.py <kofas_server folder> [questEventIndex ...]
 """
@@ -116,8 +120,32 @@ def strings_add(src, text_tables, tags):
     return len(add)
 
 
+PC_TRIGGER_RENAME = {
+    "Prefabs/EventSystem/Trigger/Comedown/HighComedown/comedown_flame_walker_violet":
+        "Prefabs/EventSystem/Trigger/Comedown/HighComedown/comedown_flame_walker_purple",
+}
+
+
+def adapt_triggers_to_pc():
+    """The PC trigger bundle (md5 6af2d750a50492afb4a048f65fb10639) ships
+    comedown_flame_walker_purple.prefab and no violet asset, so the mobile rows' violet trigger
+    hangs every load behind it (live-proven: the DATA DOWNLOAD modal's stuck coroutine asked for
+    exactly that name). Renames questEvent 41001's trigger in place -- new and already-imported
+    rows alike: the sole append-only exception."""
+    doc = load_data("QuestEventStageTable")
+    renamed = 0
+    for row in doc["rows"]:
+        if (int(row.get("questEventIndex") or 0) == 41001
+                and row.get("singleTriggerName") in PC_TRIGGER_RENAME):
+            row["singleTriggerName"] = PC_TRIGGER_RENAME[row["singleTriggerName"]]
+            renamed += 1
+    if renamed:
+        save_data("QuestEventStageTable", doc)
+    return renamed
+
+
 UI_TERMS = ("buffselect", "sura", "prove", "timeattack", "phantom", "challenge", "transcend", "comedown",
-            "marathon", "hallofelements", "adventure.come")
+            "marathon", "hallofelements", "adventure.come", "questevententrycount")
 
 
 def placeholder(tag):
@@ -160,6 +188,7 @@ def main():
                    [r for r in mobile_rows(src, "QuestEventStageTable")
                     if int(r.get("questEventIndex") or 0) in todo],
                    "questEventStageIndex", src, ["QuestEventStageTable"])
+    renamed = adapt_triggers_to_pc()
     schedules = merge(schema, "QuestEventScheduleTable",
                       [r for r in mobile_rows(src, "QuestEventScheduleTable")
                        if int(r.get("questEventIndex") or 0) in qes],
@@ -180,6 +209,38 @@ def main():
     displays = {int(r["dropRewardDisplayGroup"]) for r in stage_rows if r.get("dropRewardDisplayGroup")}
     missions = {int(r[k]) for r in stage_rows for k in ("mission1Index", "mission2Index", "mission3Index")
                 if r.get(k)}
+    ref_rows = stage_rows + load_data("ChallengeStageTable")["rows"]
+    maps = {int(r["resourceMapIndex"]) for r in ref_rows if r.get("resourceMapIndex")}
+    balances = {int(r[k]) for r in ref_rows for k in
+                ("stageBalanceIndex", "singleStageBalanceIndex", "multiStageBalanceIndex") if r.get(k)}
+
+    def closure(table, key, wanted):
+        """Mobile rows of `table` the imported stages reference and the project lacks; exits when an id
+        is in neither place -- a stage pointing at a missing map or balance hangs the battle scene."""
+        have = {int(r.get(key) or 0) for r in load_data(table)["rows"]}
+        mobile = {int(r[key]): r for r in mobile_rows(src, table) if r.get(key) is not None}
+        nowhere = sorted(i for i in wanted if i not in have and i not in mobile)
+        if nowhere:
+            sys.exit(f"{table}: {key} referenced by the imported stages but in neither the project "
+                     f"tables nor the mobile source: {nowhere}")
+        return [mobile[i] for i in sorted(wanted) if i not in have]
+
+    resmaps = merge(schema, "ResourceMapTable", closure("ResourceMapTable", "resourceMapIndex", maps),
+                    "resourceMapIndex", src, [])
+    resbalances = merge(schema, "StageBalanceTable",
+                        closure("StageBalanceTable", "stageBalanceIndex", balances),
+                        "stageBalanceIndex", src, [])
+    diff_mobile = {int(r["difficultyIndex"]): r for r in mobile_rows(src, "DifficultyTable")
+                   if r.get("difficultyIndex") is not None}
+    difficulties = {int(r["difficultyType"]) for r in stage_rows if r.get("difficultyType")}
+    difficulties |= {i for i, r in diff_mobile.items() if int(r.get("modeIndex") or 0) == 202}
+    diff_rows = closure("DifficultyTable", "difficultyIndex", difficulties)
+    diffs = merge(schema, "DifficultyTable", diff_rows, "difficultyIndex", src, [])
+    diff_tags = {v for i in difficulties if i in diff_mobile
+                 for v in (diff_mobile[i].get("difficultyNameStringTag"),
+                           diff_mobile[i].get("difficultyNameStringTagEng"))
+                 if isinstance(v, str)}
+    diff_strings = strings_add(src, ["DifficultyTable", "SystemTable"], diff_tags)
 
     reward_rows = [r for r in mobile_rows(src, "RewardGroupTable")
                    if int(r.get("rewardGroup") or 0) in groups]
@@ -198,8 +259,11 @@ def main():
            if int(r.get("rewardDisplayGroup") or 0) in displays],
           "rewardDisplayIndex", src, [])
 
-    print(f"QuestEventTable +{len(events)} | QuestEventStageTable +{len(stages)} | "
+    print(f"QuestEventTable +{len(events)} | QuestEventStageTable +{len(stages)} "
+          f"(PC triggers {renamed}) | "
           f"QuestEventScheduleTable +{len(schedules)} | RewardGroupTable +{len(rewards)} | "
+          f"ResourceMapTable +{len(resmaps)} | StageBalanceTable +{len(resbalances)} | "
+          f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
     print(" | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo")
 

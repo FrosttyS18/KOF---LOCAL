@@ -372,6 +372,163 @@
    "resourceMapIndexString": "E_KOFXIV_SuperArena_D",
    "resourceMapScene": "E_KOFXIV_SuperArena_D",
    "stageBgm": "Prefabs/SND/BGM/BGM_Stage_Battle_Common_01"
+  },
+  {
+   "resourceMapIndex": 9131,
+   "resourceMapIndexString": "E_Phantom_Trans_City",
+   "resourceMapScene": "E_Phantom_Trans_City",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9132,
+   "resourceMapIndexString": "E_Phantom_Trans_Park",
+   "resourceMapScene": "E_Phantom_Trans_Park",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9201,
+   "resourceMapIndexString": "E_AttributeSoul_Purple",
+   "resourceMapScene": "E_AttributeSoul_Purple",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9202,
+   "resourceMapIndexString": "E_AttributeSoul_Blue",
+   "resourceMapScene": "E_AttributeSoul_Blue",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9203,
+   "resourceMapIndexString": "E_AttributeSoul_Red",
+   "resourceMapScene": "E_AttributeSoul_Red",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9204,
+   "resourceMapIndexString": "E_AttributeSoul_Green",
+   "resourceMapScene": "E_AttributeSoul_Green",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9205,
+   "resourceMapIndexString": "E_AttributeSoul_Yellow",
+   "resourceMapScene": "E_AttributeSoul_Yellow",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9211,
+   "resourceMapIndexString": "Comedown_Halloween_Common",
+   "resourceMapScene": "Comedown_Halloween_Common",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9213,
+   "resourceMapIndexString": "Comedown_SakuraAthena",
+   "resourceMapScene": "Comedown_SakuraAthena",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9214,
+   "resourceMapIndexString": "Comedown_Dungeon_Twins",
+   "resourceMapScene": "Comedown_Dungeon_Twins",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9215,
+   "resourceMapIndexString": "S_China_Backstreet_Nightmare",
+   "resourceMapScene": "S_China_Backstreet_Nightmare",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9216,
+   "resourceMapIndexString": "Comedown_Dungeon_A",
+   "resourceMapScene": "Comedown_Dungeon_A",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9217,
+   "resourceMapIndexString": "Comedown_Dungeon_Saisyu",
+   "resourceMapScene": "Comedown_Dungeon_Saisyu",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
+  },
+  {
+   "resourceMapIndex": 9701,
+   "resourceMapIndexString": "E_AwakeSoul_Blue_Long",
+   "resourceMapScene": "E_AwakeSoul_Blue_Long",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9702,
+   "resourceMapIndexString": "E_AwakeSoul_Red",
+   "resourceMapScene": "E_AwakeSoul_Red",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9703,
+   "resourceMapIndexString": "E_AwakeSoul_Blue",
+   "resourceMapScene": "E_AwakeSoul_Blue",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9704,
+   "resourceMapIndexString": "E_AwakeSoul_Green",
+   "resourceMapScene": "E_AwakeSoul_Green",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9705,
+   "resourceMapIndexString": "E_AwakeSoul_Yellow",
+   "resourceMapScene": "E_AwakeSoul_Yellow",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9706,
+   "resourceMapIndexString": "E_AwakeSoul_Purple",
+   "resourceMapScene": "E_AwakeSoul_Purple",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_sura_01"
+  },
+  {
+   "resourceMapIndex": 9801,
+   "resourceMapIndexString": "T_96_Final_Battle_Stadium.TimeAttack01",
+   "resourceMapScene": "T_96_Final_Battle_Stadium",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02",
+   "triggerPositionX": 1
+  },
+  {
+   "resourceMapIndex": 9802,
+   "resourceMapIndexString": "T_Orochi_Square_Hukkatsu.TimeAttack01",
+   "resourceMapScene": "T_Orochi_Square_Hukkatsu",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02"
+  },
+  {
+   "resourceMapIndex": 9803,
+   "resourceMapIndexString": "T_96_Final_Battle_Stadium_destroyed.TimeAttack01",
+   "resourceMapScene": "T_96_Final_Battle_Stadium_destroyed",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02"
+  },
+  {
+   "resourceMapIndex": 9804,
+   "resourceMapIndexString": "E_Arena_TK.TimeAttack01",
+   "resourceMapScene": "E_Arena_TK",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02"
+  },
+  {
+   "resourceMapIndex": 9805,
+   "resourceMapIndexString": "E_G_Kabukicho_A_D.TimeAttack01",
+   "resourceMapScene": "E_G_Kabukicho_A_D",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02"
+  },
+  {
+   "resourceMapIndex": 9806,
+   "resourceMapIndexString": "T_2013_SouthTown_D.TimeAttack01",
+   "resourceMapScene": "T_2013_SouthTown_D",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_event_common_02"
+  },
+  {
+   "resourceMapIndex": 9921,
+   "resourceMapIndexString": "C_Battle_Prove_01",
+   "resourceMapScene": "C_Battle_Prove_01",
+   "stageBgm": "Prefabs/SND/BGM/bgm_stage_battle_common_01"
   }
  ]
 }
