@@ -222,3 +222,31 @@
 - A correção 1027 mantém a base do primeiro pick e deriva `buffPowerMax := buffPowerPerLv * buffMaxLevel`, a partir dos próprios dados: 15 buffs positivos de nível máximo 20 e três penalidades de nível máximo 1. Não altera incrementos, níveis, alvos, duração, ondas, chefes ou recompensas. O novo adaptador e seu hook no importador preservam isso nas reimportações.
 - Revisão independente `verify_buff_cap_root.py`: contra 1026, somente 18 adições de `buffPowerMax`; 193 JSON inalterados; demais linhas e campos preservados; curva conferida incluindo os limites nativos; segunda execução byte-noop; dez entradas inválidas rejeitadas antes de escrever. Candidato 1027 compilado, payload BuffTable descriptografado igual ao protobuf esperado, 601 entradas conferidas e traduções preservadas. Instalação e HTTP table/lang_global/prohibited 1027 confirmados; resultado numérico em combate ainda pendente neste registro.
 - Validação numérica real da 1027 concluída: no andar 3, Rugal 1256, buff 64000010 ativo na lista de destino, nível 1/stack 1, `m_values[{key: 51, value: 0.05000000074505806}]`. Wrappers carregados: Base 0.05, PerLv 0.05, Max 1.0; flags special/exception falsas. O bônus medido passou de zero a +5% de chance crítica. Evidência `live-buff-via-target-20261115-113333.json`; leitura somente, nenhum comando de interface ou escrita de memória. Isso valida esse buff e esse acúmulo; os demais bônus, penalidades e repetições ainda têm cobertura estática, sem alegação de teste individual em combate.
+
+## Tooltip Buff List: defeito visual corrigido e validado pelo usuário (v1027)
+
+- Causalidade nativa comprovada: o root do tooltip é reposicionado dinamicamente a cada clique
+  (`UIView_BuffSelectDungeonLobby.HandleMessage` 0x1805226C0, telegrama 0x3DF de
+  `UIUnit_BuffSelectDungeonBuffInfo.OnClickSlot` 0x181AAB2F0), então correção de âncora no root
+  não persistiria; `UIUnit_SimpleTextToolTip.SetData` não altera pivots/localPosition — os
+  pivots serializados dos filhos persistem. A correção tocou apenas o ramo Non-Scroll:
+  `m_lblText (NonScroll) mPivot 8->6`, `m_sprTextBg mPivot 8->6` (BottomRight->BottomLeft,
+  preservando a vertical) e `m_sprTextBg Transform m_LocalPosition.x 18.0->-18.0` (mantém o
+  posicionamento do fundo à esquerda). O limite de largura 630 e o ramo Scroll ficaram intocados — texto integral
+  preservado, sem encurtar nada.
+- Ferramenta `tools/build_buffselect_tooltip.py` (único escritor desta sessão): decodificação
+  100% pelo `read_unity_typed_fields` validado (3131/3131 objetos, consumed==size); exatamente
+  3 edits de 4 bytes in-place; outros 3128 objetos e os demais campos dos 3 objetos intactos; nodes/resS/rows
+  preservados; manifest trocando exatamente 1 hash; verificador fortalecido para exigir
+  stream do candidato == original-patchado byte a byte (comprimento e valores novos).
+- Auditoria root (`install_tooltip_candidate.py`): stream inteiro == original+3fields,
+  rows/nodes/info/resource idênticos, manifest 1 hash, trigger 7ed8/AI alias preservados; três
+  gerações com o mesmo MD5 31fb0613db917c38e8aff2563ee4a798. Par instalado às 12:00 com backup
+  `backup-before-tooltip` (cache original 3294 preservado no backup); rerun da ferramenta
+  contra cópia TEMP do cache original reproduziu 31fb0613 com o verificador estrito.
+- **Usuário confirmou o texto dos 3 ícones CORRETO após o reload.** Tabelas 1027, combate e
+  bônus numéricos inalterados por esta mudança.
+- Registros de progresso do usuário (mesma sessão de teste): WIN no andar 3 (6500 gold,
+  10 rubies, pick Fury 1007) e andar 4 liberado; Defense 1009 não se aplica aos 3 tipos 1/1/3
+  do andar; poder +5% do Rugal comprovado antes (ver seção numérica acima). Nenhum teste dos
+  50 andares foi concluído — cobertura permanece parcial, sem alegação contrária.
