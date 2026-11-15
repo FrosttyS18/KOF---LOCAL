@@ -6,7 +6,7 @@
   "AffectionDailyRewardTable": "5ac184ddf14ff270817dacff72172ee8",
   "AffectionLevelTable": "92c661da81c0d13783a27564e50e0705",
   "AffectionPresentTable": "a513d9dd26e089daa04f9b1e5c5c66b6",
-  "AiGroupTable": "472cf1c6e308a2c9568caea7ae306330",
+  "AiGroupTable": "014f1c12957c05f4527e7ec597ee924c",
   "AttendanceRewardGroupTable": "5f76001d677ecbd9b17b1c51ab67b852",
   "AttributeTable": "9b2ccdceb173674959a30cceaa807b0f",
   "AwakenCoreBoardTable": "4a148b7c16df1608e20cc35dd10c28c8",
@@ -127,11 +127,11 @@
   "LobbyBGSettingTable": "a9523fde4c5d87d85fc609756aaec1b8",
   "MileageGoodsGroupTable": "63b432af44a595f34d7b9c43a5082821",
   "ModeTable": "7129ad11b19e9cde7039247697ba6c4b",
-  "MonsterGrowthTable": "23e20e81c7ee08faffd178fedab1e1e4",
-  "MonsterLevelStatTable": "8fa8ac83165cea7821f08f04cf27757d",
-  "MonsterSkillTable": "8044cf6c1bcdb97bea74e98b7dab6be4",
+  "MonsterGrowthTable": "a2804733c60281c0242d9e50f8f8db38",
+  "MonsterLevelStatTable": "c55f22e3440edc92bc72ea13c4fbbdff",
+  "MonsterSkillTable": "eb32cabf5883a7f5b5d2973bfe07428f",
   "MonsterSpawnTable": "efcf694a537ed6947e3546e24c791b0b",
-  "MonsterTable": "ae18006bde04bbb44eb73611a97070bb",
+  "MonsterTable": "758ce8981010692bd2236f2d039780ca",
   "MopUpCostTable": "5e6edfd037415cc7ef9b80157f3414c8",
   "PostTypeTable": "81e122e29bc8b2cff573aef90d379526",
   "PreparedBotTable": "3bc68a3db89ae22077ba733b5c2489d3",
@@ -250,7 +250,7 @@
   "TutorialGroupTable": "d41d8cd98f00b204e9800998ecf8427e",
   "TutorialTable": "d41d8cd98f00b204e9800998ecf8427e",
   "YearNameTable": "d41d8cd98f00b204e9800998ecf8427e",
-  "SystemTable": "335491f5e3937cccc78ee325c7fda0ce"
+  "SystemTable": "23b3bcf58da3ea74d3f15125913bd220"
  },
  "prohibited": {}
 }

@@ -1,4 +1,13 @@
-# Diagnóstico: Hall of Elements — card visível no hub não abre ao clicar (2026-11-14)
+# Diagnóstico e validação: Hall of Elements (2026-11-14)
+
+## Estado atual: v1016 em teste
+- A v1014 carrega a arena Purple sem inimigos; a v1015 importa os chefes, mas também fica sem inimigos porque faltavam os monstros das ondas anteriores.
+- O grafo original Purple prepara Pierrena e Ryo antes de liberar Flame Walker. Os 15 nomes `Monster.*.HighComedown` da referência foram confirmados dentro do pacote original PC de gatilhos, e todos os seus pacotes de modelos estão presentes no cache.
+- Fechamento acumulado: 15 MonsterTable, 57 MonsterSkillTable, 6 MonsterGrowthTable (growthType 100), 151 MonsterLevelStatTable (levelStatType 100), 55 AiGroupTable (700/701/702/705/706) e 15 nomes traduzidos. SkillTable permanece intocada.
+- Importações em cópias descartáveis verificadas: todas as linhas preexistentes permanecem iguais; uma segunda execução não muda os arquivos. O teste v1016 acrescenta apenas os dez perfis, 37 habilidades, 44 registros de IA e dez nomes que faltavam após v1015.
+- Rebuild v1016 concluído e jogo reaberto. Presença/ação das ondas e chefes, vitória, recompensas e retorno à lista continuam pendentes de validação real.
+- O mantenedor autorizou fechar/reabrir o jogo conforme necessário, sem pedir confirmação a cada reinício. Os comandos de mouse e teclado continuam proibidos.
+- Checkpoint v1014 enviado para main: `3e61394`. Nenhuma funcionalidade além da evidência acima foi declarada concluída.
 
 ## Sintoma (evidência real)
 - Card "Hall of Elements - Purple" visível no hub; clique humano não abre nada e não gera endpoint nem erro nos logs (gate do próprio cliente).
@@ -48,3 +57,15 @@
 - Rebuild 1014 concluído; diff contra HEAD = somente os 33 campos `singleTriggerName` (confirmado pelo Codex).
 - Teste do importador em cópia descartável: removidas as 33 stages Purple → o import repõe as 33 já com `..._purple`; rerun idempotente (0 renomes).
 - Runtime: o COMBATE ABRIU — screenshot Codex da arena Purple com HUD de controle 02:41, currentScene 60, entering 0. Fim de batalha/win e recompensas PENDENTES (usuário foi pedir para concluir a batalha).
+
+## Estado v1015 em runtime: arena sem inimigos (2026-11-14)
+- 5 chefes + deps (MonsterSkill/Growth/LevelStat/AiGroup, 193 rows) importados; cliente atualizou os packs sem exceções no log; os 5 chefes carregam NA RUNTIME com 423 protos de nome exato — stale-cache DESCARTADO.
+- Arena abre (Scene 60, timer roda), ZERO inimigos. `player-codex-v1015.log` sem nenhum erro/exception de Monster/trigger (só 2 avisos de vídeo) — o spawn falha silenciosamente.
+- CAUSA PROVADA pelo dump do GraphOwner em runtime (`native-analysis/hoe-live-graph.json`): StageMonsterList=6, preparedTypes=1, active=0. O grafo NODE 7 cria `Pierrena.Normal.HighComedown` e `Ryo.Elite.HighComedown` em 2 ondas ANTES do NODE 9 (boss Flame Walker). O PC NÃO tem esses 2 monstros (fonte: 530003/530005) — o import só de chefes ficou incompleto; NÃO é preciso patch nativo.
+- Correção (aguardando execução do Codex em cópia): `import_hoe_monsters` agora seleciona TODOS os 15 rows fonte `Monster.*.HighComedown` (5 chefes + 10 mobs/elites das ondas), mesmo fechamento skill/growth/levelstat/aigroup; todos os 57 skillNIndex resolvem em MonsterSkillTable (SkillTable intocada). Versões 1016.
+- Previsto: MonsterTable +10 (530003/5/8/9/10/12/13/15/17/18), MonsterSkillTable +37, AiGroupTable +44 (700/701/702/706), Growth/LevelStat +0. Validação runtime (ondas + boss + fim de batalha) PENDENTE.
+
+## Validação real concluída na v1016
+- O mantenedor confirmou ondas, chefe derrotado e recompensas na primeira fase Purple. Prints mostram RESULT com ouro 3600, duas cápsulas e dez moedas; retorno com STAGE 1 COMPLETED e Entries visível.
+- Requisição real questEventEnd: stage 4100101, BattleResult 1, ClearTime 12, PlayTime 12764; resposta HTTP 200/ResultCode 0. Save persistiu clears 1 e três missões concluídas.
+- O último nível 4100133 ainda trava: a tabela de IA dos lutadores (grupo 301) não contém o grau 6 solicitado. Esse ajuste e a validação dos demais stages/modos ficam pendentes neste checkpoint.

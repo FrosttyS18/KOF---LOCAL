@@ -2430,6 +2430,1213 @@
    "levelStatType": 12,
    "monsterLevel": 77,
    "maxHPBase": 37200.0
+  },
+  {
+   "monsterLevelStatIndex": 960000,
+   "levelStatType": 100,
+   "maxHPBase": 1.0,
+   "attackBase": 1.0,
+   "defenceBase": 1.0
+  },
+  {
+   "monsterLevelStatIndex": 960001,
+   "levelStatType": 100,
+   "monsterLevel": 1,
+   "maxHPBase": 1.0,
+   "attackBase": 1.0,
+   "defenceBase": 1.0
+  },
+  {
+   "monsterLevelStatIndex": 960002,
+   "levelStatType": 100,
+   "monsterLevel": 2,
+   "maxHPBase": 1.06,
+   "attackBase": 1.06,
+   "defenceBase": 1.06
+  },
+  {
+   "monsterLevelStatIndex": 960003,
+   "levelStatType": 100,
+   "monsterLevel": 3,
+   "maxHPBase": 1.12,
+   "attackBase": 1.12,
+   "defenceBase": 1.12
+  },
+  {
+   "monsterLevelStatIndex": 960004,
+   "levelStatType": 100,
+   "monsterLevel": 4,
+   "maxHPBase": 1.18,
+   "attackBase": 1.18,
+   "defenceBase": 1.18
+  },
+  {
+   "monsterLevelStatIndex": 960005,
+   "levelStatType": 100,
+   "monsterLevel": 5,
+   "maxHPBase": 1.24,
+   "attackBase": 1.24,
+   "defenceBase": 1.24
+  },
+  {
+   "monsterLevelStatIndex": 960006,
+   "levelStatType": 100,
+   "monsterLevel": 6,
+   "maxHPBase": 1.3,
+   "attackBase": 1.3,
+   "defenceBase": 1.3
+  },
+  {
+   "monsterLevelStatIndex": 960007,
+   "levelStatType": 100,
+   "monsterLevel": 7,
+   "maxHPBase": 1.36,
+   "attackBase": 1.36,
+   "defenceBase": 1.36
+  },
+  {
+   "monsterLevelStatIndex": 960008,
+   "levelStatType": 100,
+   "monsterLevel": 8,
+   "maxHPBase": 1.42,
+   "attackBase": 1.42,
+   "defenceBase": 1.42
+  },
+  {
+   "monsterLevelStatIndex": 960009,
+   "levelStatType": 100,
+   "monsterLevel": 9,
+   "maxHPBase": 1.48,
+   "attackBase": 1.48,
+   "defenceBase": 1.48
+  },
+  {
+   "monsterLevelStatIndex": 960010,
+   "levelStatType": 100,
+   "monsterLevel": 10,
+   "maxHPBase": 1.54,
+   "attackBase": 1.54,
+   "defenceBase": 1.54
+  },
+  {
+   "monsterLevelStatIndex": 960011,
+   "levelStatType": 100,
+   "monsterLevel": 11,
+   "maxHPBase": 1.6,
+   "attackBase": 1.6,
+   "defenceBase": 1.6
+  },
+  {
+   "monsterLevelStatIndex": 960012,
+   "levelStatType": 100,
+   "monsterLevel": 12,
+   "maxHPBase": 1.66,
+   "attackBase": 1.66,
+   "defenceBase": 1.66
+  },
+  {
+   "monsterLevelStatIndex": 960013,
+   "levelStatType": 100,
+   "monsterLevel": 13,
+   "maxHPBase": 1.72,
+   "attackBase": 1.72,
+   "defenceBase": 1.72
+  },
+  {
+   "monsterLevelStatIndex": 960014,
+   "levelStatType": 100,
+   "monsterLevel": 14,
+   "maxHPBase": 1.78,
+   "attackBase": 1.78,
+   "defenceBase": 1.78
+  },
+  {
+   "monsterLevelStatIndex": 960015,
+   "levelStatType": 100,
+   "monsterLevel": 15,
+   "maxHPBase": 1.84,
+   "attackBase": 1.84,
+   "defenceBase": 1.84
+  },
+  {
+   "monsterLevelStatIndex": 960016,
+   "levelStatType": 100,
+   "monsterLevel": 16,
+   "maxHPBase": 1.9,
+   "attackBase": 1.9,
+   "defenceBase": 1.9
+  },
+  {
+   "monsterLevelStatIndex": 960017,
+   "levelStatType": 100,
+   "monsterLevel": 17,
+   "maxHPBase": 1.96,
+   "attackBase": 1.96,
+   "defenceBase": 1.96
+  },
+  {
+   "monsterLevelStatIndex": 960018,
+   "levelStatType": 100,
+   "monsterLevel": 18,
+   "maxHPBase": 2.02,
+   "attackBase": 2.02,
+   "defenceBase": 2.02
+  },
+  {
+   "monsterLevelStatIndex": 960019,
+   "levelStatType": 100,
+   "monsterLevel": 19,
+   "maxHPBase": 2.08,
+   "attackBase": 2.08,
+   "defenceBase": 2.08
+  },
+  {
+   "monsterLevelStatIndex": 960020,
+   "levelStatType": 100,
+   "monsterLevel": 20,
+   "maxHPBase": 2.14,
+   "attackBase": 2.14,
+   "defenceBase": 2.14
+  },
+  {
+   "monsterLevelStatIndex": 960021,
+   "levelStatType": 100,
+   "monsterLevel": 21,
+   "maxHPBase": 2.2,
+   "attackBase": 2.2,
+   "defenceBase": 2.2
+  },
+  {
+   "monsterLevelStatIndex": 960022,
+   "levelStatType": 100,
+   "monsterLevel": 22,
+   "maxHPBase": 2.26,
+   "attackBase": 2.26,
+   "defenceBase": 2.26
+  },
+  {
+   "monsterLevelStatIndex": 960023,
+   "levelStatType": 100,
+   "monsterLevel": 23,
+   "maxHPBase": 2.32,
+   "attackBase": 2.32,
+   "defenceBase": 2.32
+  },
+  {
+   "monsterLevelStatIndex": 960024,
+   "levelStatType": 100,
+   "monsterLevel": 24,
+   "maxHPBase": 2.38,
+   "attackBase": 2.38,
+   "defenceBase": 2.38
+  },
+  {
+   "monsterLevelStatIndex": 960025,
+   "levelStatType": 100,
+   "monsterLevel": 25,
+   "maxHPBase": 2.44,
+   "attackBase": 2.44,
+   "defenceBase": 2.44
+  },
+  {
+   "monsterLevelStatIndex": 960026,
+   "levelStatType": 100,
+   "monsterLevel": 26,
+   "maxHPBase": 2.5,
+   "attackBase": 2.5,
+   "defenceBase": 2.5
+  },
+  {
+   "monsterLevelStatIndex": 960027,
+   "levelStatType": 100,
+   "monsterLevel": 27,
+   "maxHPBase": 2.56,
+   "attackBase": 2.56,
+   "defenceBase": 2.56
+  },
+  {
+   "monsterLevelStatIndex": 960028,
+   "levelStatType": 100,
+   "monsterLevel": 28,
+   "maxHPBase": 2.62,
+   "attackBase": 2.62,
+   "defenceBase": 2.62
+  },
+  {
+   "monsterLevelStatIndex": 960029,
+   "levelStatType": 100,
+   "monsterLevel": 29,
+   "maxHPBase": 2.68,
+   "attackBase": 2.68,
+   "defenceBase": 2.68
+  },
+  {
+   "monsterLevelStatIndex": 960030,
+   "levelStatType": 100,
+   "monsterLevel": 30,
+   "maxHPBase": 2.74,
+   "attackBase": 2.74,
+   "defenceBase": 2.74
+  },
+  {
+   "monsterLevelStatIndex": 960031,
+   "levelStatType": 100,
+   "monsterLevel": 31,
+   "maxHPBase": 2.8,
+   "attackBase": 2.8,
+   "defenceBase": 2.8
+  },
+  {
+   "monsterLevelStatIndex": 960032,
+   "levelStatType": 100,
+   "monsterLevel": 32,
+   "maxHPBase": 2.86,
+   "attackBase": 2.86,
+   "defenceBase": 2.86
+  },
+  {
+   "monsterLevelStatIndex": 960033,
+   "levelStatType": 100,
+   "monsterLevel": 33,
+   "maxHPBase": 2.92,
+   "attackBase": 2.92,
+   "defenceBase": 2.92
+  },
+  {
+   "monsterLevelStatIndex": 960034,
+   "levelStatType": 100,
+   "monsterLevel": 34,
+   "maxHPBase": 2.98,
+   "attackBase": 2.98,
+   "defenceBase": 2.98
+  },
+  {
+   "monsterLevelStatIndex": 960035,
+   "levelStatType": 100,
+   "monsterLevel": 35,
+   "maxHPBase": 3.04,
+   "attackBase": 3.04,
+   "defenceBase": 3.04
+  },
+  {
+   "monsterLevelStatIndex": 960036,
+   "levelStatType": 100,
+   "monsterLevel": 36,
+   "maxHPBase": 3.1,
+   "attackBase": 3.1,
+   "defenceBase": 3.1
+  },
+  {
+   "monsterLevelStatIndex": 960037,
+   "levelStatType": 100,
+   "monsterLevel": 37,
+   "maxHPBase": 3.16,
+   "attackBase": 3.16,
+   "defenceBase": 3.16
+  },
+  {
+   "monsterLevelStatIndex": 960038,
+   "levelStatType": 100,
+   "monsterLevel": 38,
+   "maxHPBase": 3.22,
+   "attackBase": 3.22,
+   "defenceBase": 3.22
+  },
+  {
+   "monsterLevelStatIndex": 960039,
+   "levelStatType": 100,
+   "monsterLevel": 39,
+   "maxHPBase": 3.28,
+   "attackBase": 3.28,
+   "defenceBase": 3.28
+  },
+  {
+   "monsterLevelStatIndex": 960040,
+   "levelStatType": 100,
+   "monsterLevel": 40,
+   "maxHPBase": 3.34,
+   "attackBase": 3.34,
+   "defenceBase": 3.34
+  },
+  {
+   "monsterLevelStatIndex": 960041,
+   "levelStatType": 100,
+   "monsterLevel": 41,
+   "maxHPBase": 3.4,
+   "attackBase": 3.4,
+   "defenceBase": 3.4
+  },
+  {
+   "monsterLevelStatIndex": 960042,
+   "levelStatType": 100,
+   "monsterLevel": 42,
+   "maxHPBase": 3.46,
+   "attackBase": 3.46,
+   "defenceBase": 3.46
+  },
+  {
+   "monsterLevelStatIndex": 960043,
+   "levelStatType": 100,
+   "monsterLevel": 43,
+   "maxHPBase": 3.52,
+   "attackBase": 3.52,
+   "defenceBase": 3.52
+  },
+  {
+   "monsterLevelStatIndex": 960044,
+   "levelStatType": 100,
+   "monsterLevel": 44,
+   "maxHPBase": 3.58,
+   "attackBase": 3.58,
+   "defenceBase": 3.58
+  },
+  {
+   "monsterLevelStatIndex": 960045,
+   "levelStatType": 100,
+   "monsterLevel": 45,
+   "maxHPBase": 3.64,
+   "attackBase": 3.64,
+   "defenceBase": 3.64
+  },
+  {
+   "monsterLevelStatIndex": 960046,
+   "levelStatType": 100,
+   "monsterLevel": 46,
+   "maxHPBase": 3.7,
+   "attackBase": 3.7,
+   "defenceBase": 3.7
+  },
+  {
+   "monsterLevelStatIndex": 960047,
+   "levelStatType": 100,
+   "monsterLevel": 47,
+   "maxHPBase": 3.76,
+   "attackBase": 3.76,
+   "defenceBase": 3.76
+  },
+  {
+   "monsterLevelStatIndex": 960048,
+   "levelStatType": 100,
+   "monsterLevel": 48,
+   "maxHPBase": 3.82,
+   "attackBase": 3.82,
+   "defenceBase": 3.82
+  },
+  {
+   "monsterLevelStatIndex": 960049,
+   "levelStatType": 100,
+   "monsterLevel": 49,
+   "maxHPBase": 3.88,
+   "attackBase": 3.88,
+   "defenceBase": 3.88
+  },
+  {
+   "monsterLevelStatIndex": 960050,
+   "levelStatType": 100,
+   "monsterLevel": 50,
+   "maxHPBase": 3.94,
+   "attackBase": 3.94,
+   "defenceBase": 3.94
+  },
+  {
+   "monsterLevelStatIndex": 960051,
+   "levelStatType": 100,
+   "monsterLevel": 51,
+   "maxHPBase": 4.0,
+   "attackBase": 4.0,
+   "defenceBase": 4.0
+  },
+  {
+   "monsterLevelStatIndex": 960052,
+   "levelStatType": 100,
+   "monsterLevel": 52,
+   "maxHPBase": 4.06,
+   "attackBase": 4.06,
+   "defenceBase": 4.06
+  },
+  {
+   "monsterLevelStatIndex": 960053,
+   "levelStatType": 100,
+   "monsterLevel": 53,
+   "maxHPBase": 4.12,
+   "attackBase": 4.12,
+   "defenceBase": 4.12
+  },
+  {
+   "monsterLevelStatIndex": 960054,
+   "levelStatType": 100,
+   "monsterLevel": 54,
+   "maxHPBase": 4.18,
+   "attackBase": 4.18,
+   "defenceBase": 4.18
+  },
+  {
+   "monsterLevelStatIndex": 960055,
+   "levelStatType": 100,
+   "monsterLevel": 55,
+   "maxHPBase": 4.24,
+   "attackBase": 4.24,
+   "defenceBase": 4.24
+  },
+  {
+   "monsterLevelStatIndex": 960056,
+   "levelStatType": 100,
+   "monsterLevel": 56,
+   "maxHPBase": 4.3,
+   "attackBase": 4.3,
+   "defenceBase": 4.3
+  },
+  {
+   "monsterLevelStatIndex": 960057,
+   "levelStatType": 100,
+   "monsterLevel": 57,
+   "maxHPBase": 4.36,
+   "attackBase": 4.36,
+   "defenceBase": 4.36
+  },
+  {
+   "monsterLevelStatIndex": 960058,
+   "levelStatType": 100,
+   "monsterLevel": 58,
+   "maxHPBase": 4.42,
+   "attackBase": 4.42,
+   "defenceBase": 4.42
+  },
+  {
+   "monsterLevelStatIndex": 960059,
+   "levelStatType": 100,
+   "monsterLevel": 59,
+   "maxHPBase": 4.48,
+   "attackBase": 4.48,
+   "defenceBase": 4.48
+  },
+  {
+   "monsterLevelStatIndex": 960060,
+   "levelStatType": 100,
+   "monsterLevel": 60,
+   "maxHPBase": 4.54,
+   "attackBase": 4.54,
+   "defenceBase": 4.54
+  },
+  {
+   "monsterLevelStatIndex": 960061,
+   "levelStatType": 100,
+   "monsterLevel": 61,
+   "maxHPBase": 4.6,
+   "attackBase": 4.6,
+   "defenceBase": 4.6
+  },
+  {
+   "monsterLevelStatIndex": 960062,
+   "levelStatType": 100,
+   "monsterLevel": 62,
+   "maxHPBase": 4.66,
+   "attackBase": 4.66,
+   "defenceBase": 4.66
+  },
+  {
+   "monsterLevelStatIndex": 960063,
+   "levelStatType": 100,
+   "monsterLevel": 63,
+   "maxHPBase": 4.72,
+   "attackBase": 4.72,
+   "defenceBase": 4.72
+  },
+  {
+   "monsterLevelStatIndex": 960064,
+   "levelStatType": 100,
+   "monsterLevel": 64,
+   "maxHPBase": 4.78,
+   "attackBase": 4.78,
+   "defenceBase": 4.78
+  },
+  {
+   "monsterLevelStatIndex": 960065,
+   "levelStatType": 100,
+   "monsterLevel": 65,
+   "maxHPBase": 4.84,
+   "attackBase": 4.84,
+   "defenceBase": 4.84
+  },
+  {
+   "monsterLevelStatIndex": 960066,
+   "levelStatType": 100,
+   "monsterLevel": 66,
+   "maxHPBase": 4.9,
+   "attackBase": 4.9,
+   "defenceBase": 4.9
+  },
+  {
+   "monsterLevelStatIndex": 960067,
+   "levelStatType": 100,
+   "monsterLevel": 67,
+   "maxHPBase": 4.96,
+   "attackBase": 4.96,
+   "defenceBase": 4.96
+  },
+  {
+   "monsterLevelStatIndex": 960068,
+   "levelStatType": 100,
+   "monsterLevel": 68,
+   "maxHPBase": 5.02,
+   "attackBase": 5.02,
+   "defenceBase": 5.02
+  },
+  {
+   "monsterLevelStatIndex": 960069,
+   "levelStatType": 100,
+   "monsterLevel": 69,
+   "maxHPBase": 5.08,
+   "attackBase": 5.08,
+   "defenceBase": 5.08
+  },
+  {
+   "monsterLevelStatIndex": 960070,
+   "levelStatType": 100,
+   "monsterLevel": 70,
+   "maxHPBase": 5.14,
+   "attackBase": 5.14,
+   "defenceBase": 5.14
+  },
+  {
+   "monsterLevelStatIndex": 960071,
+   "levelStatType": 100,
+   "monsterLevel": 71,
+   "maxHPBase": 5.2,
+   "attackBase": 5.2,
+   "defenceBase": 5.2
+  },
+  {
+   "monsterLevelStatIndex": 960072,
+   "levelStatType": 100,
+   "monsterLevel": 72,
+   "maxHPBase": 5.26,
+   "attackBase": 5.26,
+   "defenceBase": 5.26
+  },
+  {
+   "monsterLevelStatIndex": 960073,
+   "levelStatType": 100,
+   "monsterLevel": 73,
+   "maxHPBase": 5.32,
+   "attackBase": 5.32,
+   "defenceBase": 5.32
+  },
+  {
+   "monsterLevelStatIndex": 960074,
+   "levelStatType": 100,
+   "monsterLevel": 74,
+   "maxHPBase": 5.38,
+   "attackBase": 5.38,
+   "defenceBase": 5.38
+  },
+  {
+   "monsterLevelStatIndex": 960075,
+   "levelStatType": 100,
+   "monsterLevel": 75,
+   "maxHPBase": 5.44,
+   "attackBase": 5.44,
+   "defenceBase": 5.44
+  },
+  {
+   "monsterLevelStatIndex": 960076,
+   "levelStatType": 100,
+   "monsterLevel": 76,
+   "maxHPBase": 5.5,
+   "attackBase": 5.5,
+   "defenceBase": 5.5
+  },
+  {
+   "monsterLevelStatIndex": 960077,
+   "levelStatType": 100,
+   "monsterLevel": 77,
+   "maxHPBase": 5.56,
+   "attackBase": 5.56,
+   "defenceBase": 5.56
+  },
+  {
+   "monsterLevelStatIndex": 960078,
+   "levelStatType": 100,
+   "monsterLevel": 78,
+   "maxHPBase": 5.62,
+   "attackBase": 5.62,
+   "defenceBase": 5.62
+  },
+  {
+   "monsterLevelStatIndex": 960079,
+   "levelStatType": 100,
+   "monsterLevel": 79,
+   "maxHPBase": 5.68,
+   "attackBase": 5.68,
+   "defenceBase": 5.68
+  },
+  {
+   "monsterLevelStatIndex": 960080,
+   "levelStatType": 100,
+   "monsterLevel": 80,
+   "maxHPBase": 5.74,
+   "attackBase": 5.74,
+   "defenceBase": 5.74
+  },
+  {
+   "monsterLevelStatIndex": 960081,
+   "levelStatType": 100,
+   "monsterLevel": 81,
+   "maxHPBase": 5.8,
+   "attackBase": 5.8,
+   "defenceBase": 5.8
+  },
+  {
+   "monsterLevelStatIndex": 960082,
+   "levelStatType": 100,
+   "monsterLevel": 82,
+   "maxHPBase": 5.86,
+   "attackBase": 5.86,
+   "defenceBase": 5.86
+  },
+  {
+   "monsterLevelStatIndex": 960083,
+   "levelStatType": 100,
+   "monsterLevel": 83,
+   "maxHPBase": 5.92,
+   "attackBase": 5.92,
+   "defenceBase": 5.92
+  },
+  {
+   "monsterLevelStatIndex": 960084,
+   "levelStatType": 100,
+   "monsterLevel": 84,
+   "maxHPBase": 5.98,
+   "attackBase": 5.98,
+   "defenceBase": 5.98
+  },
+  {
+   "monsterLevelStatIndex": 960085,
+   "levelStatType": 100,
+   "monsterLevel": 85,
+   "maxHPBase": 6.04,
+   "attackBase": 6.04,
+   "defenceBase": 6.04
+  },
+  {
+   "monsterLevelStatIndex": 960086,
+   "levelStatType": 100,
+   "monsterLevel": 86,
+   "maxHPBase": 6.1,
+   "attackBase": 6.1,
+   "defenceBase": 6.1
+  },
+  {
+   "monsterLevelStatIndex": 960087,
+   "levelStatType": 100,
+   "monsterLevel": 87,
+   "maxHPBase": 6.16,
+   "attackBase": 6.16,
+   "defenceBase": 6.16
+  },
+  {
+   "monsterLevelStatIndex": 960088,
+   "levelStatType": 100,
+   "monsterLevel": 88,
+   "maxHPBase": 6.22,
+   "attackBase": 6.22,
+   "defenceBase": 6.22
+  },
+  {
+   "monsterLevelStatIndex": 960089,
+   "levelStatType": 100,
+   "monsterLevel": 89,
+   "maxHPBase": 6.28,
+   "attackBase": 6.28,
+   "defenceBase": 6.28
+  },
+  {
+   "monsterLevelStatIndex": 960090,
+   "levelStatType": 100,
+   "monsterLevel": 90,
+   "maxHPBase": 6.34,
+   "attackBase": 6.34,
+   "defenceBase": 6.34
+  },
+  {
+   "monsterLevelStatIndex": 960091,
+   "levelStatType": 100,
+   "monsterLevel": 91,
+   "maxHPBase": 6.4,
+   "attackBase": 6.4,
+   "defenceBase": 6.4
+  },
+  {
+   "monsterLevelStatIndex": 960092,
+   "levelStatType": 100,
+   "monsterLevel": 92,
+   "maxHPBase": 6.46,
+   "attackBase": 6.46,
+   "defenceBase": 6.46
+  },
+  {
+   "monsterLevelStatIndex": 960093,
+   "levelStatType": 100,
+   "monsterLevel": 93,
+   "maxHPBase": 6.52,
+   "attackBase": 6.52,
+   "defenceBase": 6.52
+  },
+  {
+   "monsterLevelStatIndex": 960094,
+   "levelStatType": 100,
+   "monsterLevel": 94,
+   "maxHPBase": 6.58,
+   "attackBase": 6.58,
+   "defenceBase": 6.58
+  },
+  {
+   "monsterLevelStatIndex": 960095,
+   "levelStatType": 100,
+   "monsterLevel": 95,
+   "maxHPBase": 6.64,
+   "attackBase": 6.64,
+   "defenceBase": 6.64
+  },
+  {
+   "monsterLevelStatIndex": 960096,
+   "levelStatType": 100,
+   "monsterLevel": 96,
+   "maxHPBase": 6.7,
+   "attackBase": 6.7,
+   "defenceBase": 6.7
+  },
+  {
+   "monsterLevelStatIndex": 960097,
+   "levelStatType": 100,
+   "monsterLevel": 97,
+   "maxHPBase": 6.76,
+   "attackBase": 6.76,
+   "defenceBase": 6.76
+  },
+  {
+   "monsterLevelStatIndex": 960098,
+   "levelStatType": 100,
+   "monsterLevel": 98,
+   "maxHPBase": 6.82,
+   "attackBase": 6.82,
+   "defenceBase": 6.82
+  },
+  {
+   "monsterLevelStatIndex": 960099,
+   "levelStatType": 100,
+   "monsterLevel": 99,
+   "maxHPBase": 6.88,
+   "attackBase": 6.88,
+   "defenceBase": 6.88
+  },
+  {
+   "monsterLevelStatIndex": 960100,
+   "levelStatType": 100,
+   "monsterLevel": 100,
+   "maxHPBase": 6.94,
+   "attackBase": 6.94,
+   "defenceBase": 6.94
+  },
+  {
+   "monsterLevelStatIndex": 960101,
+   "levelStatType": 100,
+   "monsterLevel": 101,
+   "maxHPBase": 7.0,
+   "attackBase": 7.0,
+   "defenceBase": 7.0
+  },
+  {
+   "monsterLevelStatIndex": 960102,
+   "levelStatType": 100,
+   "monsterLevel": 102,
+   "maxHPBase": 7.06,
+   "attackBase": 7.06,
+   "defenceBase": 7.06
+  },
+  {
+   "monsterLevelStatIndex": 960103,
+   "levelStatType": 100,
+   "monsterLevel": 103,
+   "maxHPBase": 7.12,
+   "attackBase": 7.12,
+   "defenceBase": 7.12
+  },
+  {
+   "monsterLevelStatIndex": 960104,
+   "levelStatType": 100,
+   "monsterLevel": 104,
+   "maxHPBase": 7.18,
+   "attackBase": 7.18,
+   "defenceBase": 7.18
+  },
+  {
+   "monsterLevelStatIndex": 960105,
+   "levelStatType": 100,
+   "monsterLevel": 105,
+   "maxHPBase": 7.24,
+   "attackBase": 7.24,
+   "defenceBase": 7.24
+  },
+  {
+   "monsterLevelStatIndex": 960106,
+   "levelStatType": 100,
+   "monsterLevel": 106,
+   "maxHPBase": 7.3,
+   "attackBase": 7.3,
+   "defenceBase": 7.3
+  },
+  {
+   "monsterLevelStatIndex": 960107,
+   "levelStatType": 100,
+   "monsterLevel": 107,
+   "maxHPBase": 7.36,
+   "attackBase": 7.36,
+   "defenceBase": 7.36
+  },
+  {
+   "monsterLevelStatIndex": 960108,
+   "levelStatType": 100,
+   "monsterLevel": 108,
+   "maxHPBase": 7.42,
+   "attackBase": 7.42,
+   "defenceBase": 7.42
+  },
+  {
+   "monsterLevelStatIndex": 960109,
+   "levelStatType": 100,
+   "monsterLevel": 109,
+   "maxHPBase": 7.48,
+   "attackBase": 7.48,
+   "defenceBase": 7.48
+  },
+  {
+   "monsterLevelStatIndex": 960110,
+   "levelStatType": 100,
+   "monsterLevel": 110,
+   "maxHPBase": 7.54,
+   "attackBase": 7.54,
+   "defenceBase": 7.54
+  },
+  {
+   "monsterLevelStatIndex": 960111,
+   "levelStatType": 100,
+   "monsterLevel": 111,
+   "maxHPBase": 7.6,
+   "attackBase": 7.6,
+   "defenceBase": 7.6
+  },
+  {
+   "monsterLevelStatIndex": 960112,
+   "levelStatType": 100,
+   "monsterLevel": 112,
+   "maxHPBase": 7.66,
+   "attackBase": 7.66,
+   "defenceBase": 7.66
+  },
+  {
+   "monsterLevelStatIndex": 960113,
+   "levelStatType": 100,
+   "monsterLevel": 113,
+   "maxHPBase": 7.72,
+   "attackBase": 7.72,
+   "defenceBase": 7.72
+  },
+  {
+   "monsterLevelStatIndex": 960114,
+   "levelStatType": 100,
+   "monsterLevel": 114,
+   "maxHPBase": 7.78,
+   "attackBase": 7.78,
+   "defenceBase": 7.78
+  },
+  {
+   "monsterLevelStatIndex": 960115,
+   "levelStatType": 100,
+   "monsterLevel": 115,
+   "maxHPBase": 7.84,
+   "attackBase": 7.84,
+   "defenceBase": 7.84
+  },
+  {
+   "monsterLevelStatIndex": 960116,
+   "levelStatType": 100,
+   "monsterLevel": 116,
+   "maxHPBase": 7.9,
+   "attackBase": 7.9,
+   "defenceBase": 7.9
+  },
+  {
+   "monsterLevelStatIndex": 960117,
+   "levelStatType": 100,
+   "monsterLevel": 117,
+   "maxHPBase": 7.96,
+   "attackBase": 7.96,
+   "defenceBase": 7.96
+  },
+  {
+   "monsterLevelStatIndex": 960118,
+   "levelStatType": 100,
+   "monsterLevel": 118,
+   "maxHPBase": 8.02,
+   "attackBase": 8.02,
+   "defenceBase": 8.02
+  },
+  {
+   "monsterLevelStatIndex": 960119,
+   "levelStatType": 100,
+   "monsterLevel": 119,
+   "maxHPBase": 8.08,
+   "attackBase": 8.08,
+   "defenceBase": 8.08
+  },
+  {
+   "monsterLevelStatIndex": 960120,
+   "levelStatType": 100,
+   "monsterLevel": 120,
+   "maxHPBase": 8.14,
+   "attackBase": 8.14,
+   "defenceBase": 8.14
+  },
+  {
+   "monsterLevelStatIndex": 960121,
+   "levelStatType": 100,
+   "monsterLevel": 121,
+   "maxHPBase": 8.2,
+   "attackBase": 8.2,
+   "defenceBase": 8.2
+  },
+  {
+   "monsterLevelStatIndex": 960122,
+   "levelStatType": 100,
+   "monsterLevel": 122,
+   "maxHPBase": 8.26,
+   "attackBase": 8.26,
+   "defenceBase": 8.26
+  },
+  {
+   "monsterLevelStatIndex": 960123,
+   "levelStatType": 100,
+   "monsterLevel": 123,
+   "maxHPBase": 8.32,
+   "attackBase": 8.32,
+   "defenceBase": 8.32
+  },
+  {
+   "monsterLevelStatIndex": 960124,
+   "levelStatType": 100,
+   "monsterLevel": 124,
+   "maxHPBase": 8.38,
+   "attackBase": 8.38,
+   "defenceBase": 8.38
+  },
+  {
+   "monsterLevelStatIndex": 960125,
+   "levelStatType": 100,
+   "monsterLevel": 125,
+   "maxHPBase": 8.44,
+   "attackBase": 8.44,
+   "defenceBase": 8.44
+  },
+  {
+   "monsterLevelStatIndex": 960126,
+   "levelStatType": 100,
+   "monsterLevel": 126,
+   "maxHPBase": 8.5,
+   "attackBase": 8.5,
+   "defenceBase": 8.5
+  },
+  {
+   "monsterLevelStatIndex": 960127,
+   "levelStatType": 100,
+   "monsterLevel": 127,
+   "maxHPBase": 8.56,
+   "attackBase": 8.56,
+   "defenceBase": 8.56
+  },
+  {
+   "monsterLevelStatIndex": 960128,
+   "levelStatType": 100,
+   "monsterLevel": 128,
+   "maxHPBase": 8.62,
+   "attackBase": 8.62,
+   "defenceBase": 8.62
+  },
+  {
+   "monsterLevelStatIndex": 960129,
+   "levelStatType": 100,
+   "monsterLevel": 129,
+   "maxHPBase": 8.68,
+   "attackBase": 8.68,
+   "defenceBase": 8.68
+  },
+  {
+   "monsterLevelStatIndex": 960130,
+   "levelStatType": 100,
+   "monsterLevel": 130,
+   "maxHPBase": 8.74,
+   "attackBase": 8.74,
+   "defenceBase": 8.74
+  },
+  {
+   "monsterLevelStatIndex": 960131,
+   "levelStatType": 100,
+   "monsterLevel": 131,
+   "maxHPBase": 8.8,
+   "attackBase": 8.8,
+   "defenceBase": 8.8
+  },
+  {
+   "monsterLevelStatIndex": 960132,
+   "levelStatType": 100,
+   "monsterLevel": 132,
+   "maxHPBase": 8.86,
+   "attackBase": 8.86,
+   "defenceBase": 8.86
+  },
+  {
+   "monsterLevelStatIndex": 960133,
+   "levelStatType": 100,
+   "monsterLevel": 133,
+   "maxHPBase": 8.92,
+   "attackBase": 8.92,
+   "defenceBase": 8.92
+  },
+  {
+   "monsterLevelStatIndex": 960134,
+   "levelStatType": 100,
+   "monsterLevel": 134,
+   "maxHPBase": 8.98,
+   "attackBase": 8.98,
+   "defenceBase": 8.98
+  },
+  {
+   "monsterLevelStatIndex": 960135,
+   "levelStatType": 100,
+   "monsterLevel": 135,
+   "maxHPBase": 9.04,
+   "attackBase": 9.04,
+   "defenceBase": 9.04
+  },
+  {
+   "monsterLevelStatIndex": 960136,
+   "levelStatType": 100,
+   "monsterLevel": 136,
+   "maxHPBase": 9.1,
+   "attackBase": 9.1,
+   "defenceBase": 9.1
+  },
+  {
+   "monsterLevelStatIndex": 960137,
+   "levelStatType": 100,
+   "monsterLevel": 137,
+   "maxHPBase": 9.16,
+   "attackBase": 9.16,
+   "defenceBase": 9.16
+  },
+  {
+   "monsterLevelStatIndex": 960138,
+   "levelStatType": 100,
+   "monsterLevel": 138,
+   "maxHPBase": 9.22,
+   "attackBase": 9.22,
+   "defenceBase": 9.22
+  },
+  {
+   "monsterLevelStatIndex": 960139,
+   "levelStatType": 100,
+   "monsterLevel": 139,
+   "maxHPBase": 9.28,
+   "attackBase": 9.28,
+   "defenceBase": 9.28
+  },
+  {
+   "monsterLevelStatIndex": 960140,
+   "levelStatType": 100,
+   "monsterLevel": 140,
+   "maxHPBase": 9.34,
+   "attackBase": 9.34,
+   "defenceBase": 9.34
+  },
+  {
+   "monsterLevelStatIndex": 960141,
+   "levelStatType": 100,
+   "monsterLevel": 141,
+   "maxHPBase": 9.4,
+   "attackBase": 9.4,
+   "defenceBase": 9.4
+  },
+  {
+   "monsterLevelStatIndex": 960142,
+   "levelStatType": 100,
+   "monsterLevel": 142,
+   "maxHPBase": 9.46,
+   "attackBase": 9.46,
+   "defenceBase": 9.46
+  },
+  {
+   "monsterLevelStatIndex": 960143,
+   "levelStatType": 100,
+   "monsterLevel": 143,
+   "maxHPBase": 9.52,
+   "attackBase": 9.52,
+   "defenceBase": 9.52
+  },
+  {
+   "monsterLevelStatIndex": 960144,
+   "levelStatType": 100,
+   "monsterLevel": 144,
+   "maxHPBase": 9.58,
+   "attackBase": 9.58,
+   "defenceBase": 9.58
+  },
+  {
+   "monsterLevelStatIndex": 960145,
+   "levelStatType": 100,
+   "monsterLevel": 145,
+   "maxHPBase": 9.64,
+   "attackBase": 9.64,
+   "defenceBase": 9.64
+  },
+  {
+   "monsterLevelStatIndex": 960146,
+   "levelStatType": 100,
+   "monsterLevel": 146,
+   "maxHPBase": 9.7,
+   "attackBase": 9.7,
+   "defenceBase": 9.7
+  },
+  {
+   "monsterLevelStatIndex": 960147,
+   "levelStatType": 100,
+   "monsterLevel": 147,
+   "maxHPBase": 9.76,
+   "attackBase": 9.76,
+   "defenceBase": 9.76
+  },
+  {
+   "monsterLevelStatIndex": 960148,
+   "levelStatType": 100,
+   "monsterLevel": 148,
+   "maxHPBase": 9.82,
+   "attackBase": 9.82,
+   "defenceBase": 9.82
+  },
+  {
+   "monsterLevelStatIndex": 960149,
+   "levelStatType": 100,
+   "monsterLevel": 149,
+   "maxHPBase": 9.88,
+   "attackBase": 9.88,
+   "defenceBase": 9.88
+  },
+  {
+   "monsterLevelStatIndex": 960150,
+   "levelStatType": 100,
+   "monsterLevel": 150,
+   "maxHPBase": 9.94,
+   "attackBase": 9.94,
+   "defenceBase": 9.94
   }
  ]
 }

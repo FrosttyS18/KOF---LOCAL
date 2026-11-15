@@ -10,7 +10,7 @@ import hashlib, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.abspath(os.path.join(HERE, "..", "..", "storage", "cache"))
-VERSION = 1014
+VERSION = 1016
 
 
 def varint(n):

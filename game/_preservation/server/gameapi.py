@@ -409,7 +409,7 @@ def player_profile(req):
 # (DownloadManager.OnCheckTableVersion: "table" and "banner" if present, "lang_global" always - missing threw
 # KeyNotFoundException and the page never opened); the same versions as the table download (kofserver.py
 # TABLE_PACK_VERSION = tools/make_tablepacks.py), so nothing reads as newer.
-TABLE_PACK_VERSION = 1014
+TABLE_PACK_VERSION = 1016
 
 
 @api("player/cdnVersion")

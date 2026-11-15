@@ -13,6 +13,10 @@ Plus the closure of everything those rows reference: RewardGroupTable groups, St
 RewardDisplayTable groups, ItemTable rows paid by type-13 rewards, the ResourceMapTable maps,
 StageBalanceTable balances and DifficultyTable rows the stages load (the PC's Time Attack also asks
 DifficultyTable.GetDifficultyRange for hardcoded modeIndex 202), and the name/description strings.
+The Hall of Elements trigger graphs also require every HighComedown monster -- the five Flame Walker
+bosses plus the ten mob/elite wave monsters their graphs spawn first (the live GraphOwner dump showed
+NODE 7 creating Pierrena/Ryo waves before NODE 9's boss; boss-only v1015 left the arena empty) -- and
+their monster skills, growth curves, level stats and AI groups from the mobile reference.
 Existing rows are never touched; only appended -- the sole exception: adapt_triggers_to_pc renames
 questEvent 41001's singleTriggerName to the PC bundle's real asset name. Fields follow
 server/tables/schema.json.
@@ -144,6 +148,38 @@ def adapt_triggers_to_pc():
     return renamed
 
 
+def import_hoe_monsters(schema, src):
+    """Import every monster named by the PC HighComedown trigger graphs (5 Flame Walker bosses + the
+    10 mob/elite wave monsters their graphs spawn before each boss) and their table dependencies.
+    All skillNIndex references resolve in MonsterSkillTable; SkillTable is never touched."""
+    monsters = [r for r in mobile_rows(src, "MonsterTable")
+                if str(r.get("monsterIndexString", "")).startswith("Monster.")
+                and str(r.get("monsterIndexString", "")).endswith(".HighComedown")]
+    if len(monsters) != 15:
+        raise ValueError(f"Hall of Elements: expected fifteen HighComedown monster rows, found {len(monsters)}")
+    skills = {int(v) for r in monsters for k, v in r.items()
+              if re.fullmatch(r"skill\d+Index", k) and v}
+    plans = []
+    for table, key, field, wanted in (
+            ("MonsterSkillTable", "monsterSkillIndex", "monsterSkillIndex", skills),
+            ("MonsterGrowthTable", "monsterGrowthIndex", "growthType",
+             {int(r["growthType"]) for r in monsters}),
+            ("MonsterLevelStatTable", "monsterLevelStatIndex", "levelStatType",
+             {int(r["levelStatType"]) for r in monsters}),
+            ("AiGroupTable", "aiGroupIndex", "aiGroup", {int(r["aiGroup"]) for r in monsters})):
+        rows = [r for r in mobile_rows(src, table) if int(r.get(field) or 0) in wanted]
+        available = {int(r.get(field) or 0) for r in rows + load_data(table)["rows"]}
+        missing = wanted - available
+        if missing:
+            raise ValueError(f"{table}: Hall of Elements references missing {field}: {sorted(missing)}")
+        plans.append((table, key, rows))
+    counts = {table: len(merge(schema, table, rows, key, src, [table]))
+              for table, key, rows in plans}
+    counts["MonsterTable"] = len(merge(schema, "MonsterTable", monsters, "monsterIndex", src,
+                                      ["MonsterTable"]))
+    return counts
+
+
 UI_TERMS = ("buffselect", "sura", "prove", "timeattack", "phantom", "challenge", "transcend", "comedown",
             "marathon", "hallofelements", "adventure.come", "questevententrycount")
 
@@ -189,6 +225,7 @@ def main():
                     if int(r.get("questEventIndex") or 0) in todo],
                    "questEventStageIndex", src, ["QuestEventStageTable"])
     renamed = adapt_triggers_to_pc()
+    hoe = import_hoe_monsters(schema, src)
     schedules = merge(schema, "QuestEventScheduleTable",
                       [r for r in mobile_rows(src, "QuestEventScheduleTable")
                        if int(r.get("questEventIndex") or 0) in qes],
@@ -266,6 +303,7 @@ def main():
           f"DifficultyTable +{len(diffs)} (strings +{diff_strings}) | "
           f"ItemTable +{len(items_added)} | UI strings +{ui_strings(src)}")
     print(" | ".join(f"{t} +{n}" for t, n in added.items() if n) or "dedicadas: nada novo")
+    print("Hall of Elements monsters: " + " | ".join(f"{t} +{n}" for t, n in hoe.items()))
 
 
 if __name__ == "__main__":
