@@ -85,6 +85,71 @@ def save_team(pr, req):
     pr["team"] = {k: int(v or 0) for k, v in t.items()}
 
 
+def _ids3(values, what):
+    """Validate a deck id array: exactly three real ints (bool is not an id), never negative;
+    no string/float coercion -- the live client sends JSON ints."""
+    if not isinstance(values, list) or len(values) != 3:
+        return f"PlayDeckInfo {what} must be a list of three entries"
+    for x in values:
+        if isinstance(x, bool) or not isinstance(x, int) or x < 0:
+            return f"PlayDeckInfo {what} carries a non-integer id {x!r}"
+    return None
+
+
+def deck_team_req(req):
+    """(effective request, error) of a start: the PC client's buffDungeonStart sends the legacy
+    CharacterIndex fields as zeros and the real team inside PlayDeckInfo (DeckNo 80,
+    PlayFighterArray/PlayStrikerArray/TeamRelationIndex -- the same deck the strikers and
+    plugin-plant handlers read), so save_team on the raw request erased the team bs_character
+    had saved. Legacy fields win when they carry ids (older callers, no PlayDeckInfo needed);
+    a zero legacy team falls back to the deck. An ABSENT/None PlayDeckInfo is the legacy call;
+    a PRESENT one that is not a dict with three valid integer ids per array (bool/float/string/
+    negative rejected, no coercion) aborts the start with a clear error instead of silently
+    zeroing a saved team. Nothing is invented: only ids the request actually carries are
+    stored."""
+    tops = []
+    for i in (1, 2, 3):
+        v = req.get(f"CharacterIndex{i}")
+        if v is None:
+            tops.append(0)
+        elif isinstance(v, bool) or not isinstance(v, int) or v < 0:
+            return None, f"CharacterIndex{i} is not a valid id: {v!r}"
+        else:
+            tops.append(v)
+    if any(tops):
+        return req, None
+    deck = req.get("PlayDeckInfo")
+    if deck is None:
+        return req, None                  # legacy start without a deck keeps the old behavior
+    if not isinstance(deck, dict):
+        return None, "PlayDeckInfo must be an object"
+    err = _ids3(deck.get("PlayFighterArray"), "PlayFighterArray")
+    if err:
+        return None, err
+    fighters = deck["PlayFighterArray"]
+    if not any(fighters):
+        return None, "PlayDeckInfo carries no fighter"
+    raw_strikers = deck.get("PlayStrikerArray")
+    if raw_strikers is None:
+        strikers = [0, 0, 0]
+    else:
+        err = _ids3(raw_strikers, "PlayStrikerArray")
+        if err:
+            return None, err
+        strikers = raw_strikers
+    relation = deck.get("TeamRelationIndex")
+    if relation is None:
+        relation = 0
+    elif isinstance(relation, bool) or not isinstance(relation, int) or relation < 0:
+        return None, f"PlayDeckInfo TeamRelationIndex is not a valid index: {relation!r}"
+    eff = dict(req)
+    for i in (1, 2, 3):
+        eff[f"CharacterIndex{i}"] = fighters[i - 1]
+        eff[f"supportCharacterIndex{i}"] = strikers[i - 1]
+    eff["TeamRelationIndex"] = relation
+    return eff, None
+
+
 @G.api("questEvent/buffDungeonInfo")
 def bs_info(req):
     state = G.load_state() or {}
@@ -108,10 +173,13 @@ def bs_character(req):
 
 @G.api("questEvent/buffDungeonStart")
 def bs_start(req):
+    eff, err = deck_team_req(req)
+    if err:
+        return {"ResultCode": 1, "ResultMessage": err}
     with G._lock:
         state = G.load_state()
         pr = state.setdefault("buffselect", {})
-        save_team(pr, req)
+        save_team(pr, eff)
         pr["run"] = int(req.get("StageIndex") or 0)
         G.save_state(state)
     return G.ok(QuestEventPlayToken=G.now_ms(), DropLuckyList=[], DropJacoList=[], DropEliteList=[],
