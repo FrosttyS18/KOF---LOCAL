@@ -129,9 +129,9 @@
   "ModeTable": "ca5e9ba9004460e35668542d0ec69ea1",
   "MonsterGrowthTable": "a2804733c60281c0242d9e50f8f8db38",
   "MonsterLevelStatTable": "c55f22e3440edc92bc72ea13c4fbbdff",
-  "MonsterSkillTable": "1209e9d920a52c7ced36fa2a1b2b01bd",
+  "MonsterSkillTable": "5b783bd2b9db189119fd04a8f630af52",
   "MonsterSpawnTable": "be9556c1b5bae9d2ec02a0fc97a579e1",
-  "MonsterTable": "b16e62a29a81e5cf24d2c374f01beb82",
+  "MonsterTable": "f3a7b37043f630f1f2347d1d84d7dd52",
   "MopUpCostTable": "5e6edfd037415cc7ef9b80157f3414c8",
   "PenaltyBuffTable": "6c69116a51ad561a3f26e40826f99218",
   "PenaltyTable": "bf9276aa2b8357f5d45e8aa438b0d9ff",
@@ -143,7 +143,7 @@
   "ProveDungeonRandomBossTable": "441943eff0c4f26817d3de7931a8e094",
   "ProveDungeonStageTable": "7f2f0c6b8cbbdfd283345bb8c7da1a5d",
   "QuestEventScheduleTable": "6ab94f607e2f198aff8d3f328fe799f8",
-  "QuestEventStageTable": "a5e8feede421bd233659444707952eff",
+  "QuestEventStageTable": "df9eaabc562b7b124a9319a8e422cffd",
   "QuestEventTable": "97d782db9d7a17d529e9a99378b6a997",
   "QuestPointRewardTable": "727ea7c0e7f306dafd32b329dc9b77ca",
   "QuestPointTable": "ef6f9921f07453bdaba91b1bba9582d9",
@@ -176,7 +176,7 @@
   "StoryEventScheduleTable": "d9f9307ac9a09effff21af9f9a1648ab",
   "SupporterRelationTable": "e5e725846e283d1287280e373ca90d2a",
   "SuraDungeonDifficultyTable": "8747c64ff5da37cfa1c3c07a1eed1f5d",
-  "SuraDungeonStageTable": "47469f59cb004dbf16a3cb4db0dcfae6",
+  "SuraDungeonStageTable": "11d376cb272db90306302d0d4313deb4",
   "TeamRelationTable": "967519b23149bd1792bb3dcec76c8d7c",
   "TeamRelayDeckTable": "43192d97b2ac79143806fc5a40d74909",
   "TeamRelayRewardTable": "515ca1d527027779e324ed37a33d9a4b",
@@ -252,7 +252,7 @@
   "TutorialGroupTable": "d41d8cd98f00b204e9800998ecf8427e",
   "TutorialTable": "d41d8cd98f00b204e9800998ecf8427e",
   "YearNameTable": "d41d8cd98f00b204e9800998ecf8427e",
-  "SystemTable": "34a05ad41594bc790986078e2aec8af5"
+  "SystemTable": "92a5afb0e577f985fefcc9a7fdd6ef86"
  },
  "prohibited": {}
 }

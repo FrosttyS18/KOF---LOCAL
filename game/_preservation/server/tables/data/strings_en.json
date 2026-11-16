@@ -42496,5 +42496,11 @@
  "Monster.Name.582056": "Chang Koehan",
  "Monster.Name.582013": "Goenitz",
  "System.Contents.BattlePower.MosterLevel.Name": "Lv. {0}",
- "System.MonsterLv.Awakened.Name": "Awakened Lv. {0}"
+ "System.MonsterLv.Awakened.Name": "Awakened Lv. {0}",
+ "Monster.Name.SuraTier1.Chris": "Orochi Chris",
+ "Monster.Name.SuraTier1.Darkness": "Darkness",
+ "Monster.Name.SuraTier1.Iori": "Orochi Iori",
+ "Monster.Name.SuraTier1.Leona": "Orochi Leona",
+ "Monster.Name.SuraTier1.Shermie": "Orochi Shermie",
+ "Monster.Name.SuraTier1.Yashiro": "Orochi Yashiro"
 }

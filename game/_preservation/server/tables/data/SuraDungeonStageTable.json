@@ -1,11 +1,11 @@
 {
- "_comment": "real mobile table (tools/import_dungeons.py)",
+ "_comment": "Community reconstruction; Tier 1 boss identities adapted to original gameplay video -ezlyZN4Plw.",
  "rows": [
   {
    "suraDungeonStageIndex": 1,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800101,
-   "monsterIndex": 560004,
+   "monsterIndex": 560101,
    "targetConditionMainGroupIndex": 1001,
    "mainTargetApplyType": 2
   },
@@ -13,7 +13,7 @@
    "suraDungeonStageIndex": 2,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800102,
-   "monsterIndex": 560004,
+   "monsterIndex": 560102,
    "targetConditionMainGroupIndex": 1002,
    "mainTargetApplyType": 2
   },
@@ -21,7 +21,7 @@
    "suraDungeonStageIndex": 3,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800103,
-   "monsterIndex": 560004,
+   "monsterIndex": 560103,
    "targetConditionMainGroupIndex": 1003,
    "mainTargetApplyType": 2
   },
@@ -29,7 +29,7 @@
    "suraDungeonStageIndex": 4,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800104,
-   "monsterIndex": 560004,
+   "monsterIndex": 560104,
    "targetConditionMainGroupIndex": 1004,
    "mainTargetApplyType": 2
   },
@@ -37,7 +37,7 @@
    "suraDungeonStageIndex": 5,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800105,
-   "monsterIndex": 560004,
+   "monsterIndex": 560105,
    "targetConditionMainGroupIndex": 1005,
    "mainTargetApplyType": 2
   },
@@ -45,7 +45,7 @@
    "suraDungeonStageIndex": 6,
    "suraDungeonDifficultyIndex": 1,
    "questEventStageIndex": 3800106,
-   "monsterIndex": 560004,
+   "monsterIndex": 560106,
    "targetConditionMainGroupIndex": 1006,
    "mainTargetApplyType": 2
   },
