@@ -4,6 +4,7 @@ usage: pythonw launcher.pyw [--fullscreen]
 Runs from the package folder (setup\\ next to game\\ and python\\). No console window; errors show a message box.
 """
 import ctypes
+import importlib.util
 import os
 import socket
 import subprocess
@@ -75,7 +76,18 @@ def start_game(fullscreen):
     else:
         args = ["-screen-fullscreen", "0", "-screen-width", "1280", "-screen-height", "720"]
     args += ["-logFile", os.path.join(LOGS, "player.log")]
-    return subprocess.Popen([EXE] + args, cwd=GAME, env=env)
+    game = subprocess.Popen([EXE] + args, cwd=GAME, env=env)
+    try:
+        spec = importlib.util.spec_from_file_location("kof_client_compat", os.path.join(ROOT, "setup", "client_compat.py"))
+        compat = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(compat)
+        compat.apply_reward_compat(game, os.path.join(GAME, "GameAssembly.dll"))
+    except Exception:
+        if game.poll() is None:
+            game.terminate()
+            game.wait(5)
+        raise
+    return game
 
 
 def main():

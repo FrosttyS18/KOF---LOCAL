@@ -1,6 +1,6 @@
 # NOTA DE ENTREGA — estado do projeto (2026-11-14, ~22h)
 
-> Atualização do Codex: a nota abaixo é histórica. Consulte `DIAGNOSTICO-HOE.md` para a investigação e validação atuais.
+> Atualização de 15/11: esta nota é histórica. O ponto de retomada, cobertura real e pendências estão em [STATUS-DUNGEONS.md](STATUS-DUNGEONS.md); alterações recentes em [CHANGELOG-DUNGEONS.md](CHANGELOG-DUNGEONS.md). Afirmações de 100% nesta nota descreviam principalmente navegação/contratos e não validam todos os combates.
 > Checkpoints enviados para `main`: `3e61394` (entrada/arena) e `4eebcc1` (ondas, chefe, vitória, recompensas e progresso persistido da primeira fase Purple, v1016).
 > Atualização v1017: fases Purple 32 e 33 validadas pelo Codex com ondas/chefe, vitória, recompensas e save. Foram acrescentados quatro registros de IA dos lutadores como adaptação de compatibilidade (originais não recuperados), preservando todos os dados anteriores. Demais elementos/stages/modos continuam pendentes; detalhes no diagnóstico.
 > A interpretação antiga da whitelist estava invertida: a lista restringia os eventos para usuários comuns. A tabela reconstruída foi esvaziada após leitura do cliente.

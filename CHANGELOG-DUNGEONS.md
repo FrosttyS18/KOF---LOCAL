@@ -2,6 +2,20 @@
 
 **Escopo:** histórico temático do trabalho de restauração das sete dungeons. Este arquivo resume commits já presentes em `main` e validações registradas; não substitui o diagnóstico detalhado do Hall of Elements em [`DIAGNOSTICO-HOE.md`](DIAGNOSTICO-HOE.md).
 
+## 15/11 — checkpoint v1029–v1034 e encerramento
+
+Estado atual e limites de cobertura: [STATUS-DUNGEONS.md](STATUS-DUNGEONS.md). As seções anteriores abaixo são registros históricos; defeitos de Goenitz/Krizalid descritos na v1028 tiveram correções posteriores.
+
+- **Buff Select v1029:** PG ajustado ao consumidor NPC; Goenitz F5 e Krizalid F10 observados repetindo golpes e vencidos. Ainda faltam outros perfis, barra Elite e cobertura dos andares altos. Replay passou a preservar picks sem conceder outra escolha; penalidades individuais F11–13 foram medidas. Não é validação dos 50 andares.
+- **Prove v1030:** corrigida a transição VS que impedia continuidade. Etapas 1/2 registraram vitórias e o usuário venceu a 3. Faixas posteriores e regras/recompensas ainda exigem cobertura.
+- **Sura v1031–1032:** conexão/ponderação de fever corrigidas; usuário confirmou vitória, recompensas e avanço. Coleta Auto-Clear limitada a uma por dia, persistida. O reset original exato continua sem fonte suficiente.
+- **Sura v1033:** seis NPCs isolados substituem Asura só nos desafios 1–6: Iori, Leona, Yashiro, Chris, Shermie, Darkness. +6 Monster, +121 MonsterSkill e seis nomes, preservando registros anteriores. Curvas foram adaptadas para o consumidor Monster e conferidas; Iori/Leona/Yashiro tiveram ataques/vitórias reais. Chris/Shermie/Darkness e substituição dos desafios 7–24 continuam pendentes.
+- **Sura v1034:** quatro afinidades de chefe corrigidas na QuestEventStageTable; sequência Blue/Red/Green/Yellow/Purple/White. Yashiro Green confirmado no cliente, pack decodificado contra master; 24 verificações do gerador de afinidades aprovadas. A exigência de elemento do time é independente.
+- **HUD:** fever abaixo do nome do chefe, com gerador e checagem de integridade do bundle. Execução em segundo plano usa callbacks do cliente com limite de tempo e restauração da instrumentação; não comprova todo conteúdo por si só.
+- **Recompensa:** refresh da página aberta foi insuficiente e o defeito voltou. Identificado retorno antecipado de SetStarMission sem first-clear/missões; todas as tentativas em assets foram revertidas. Compatibilidade final no launcher altera somente o JE desse retorno em memória (dois bytes), permitindo inicialização nativa do slot recebido. First-clears reais e missões não nulas preservam seus caminhos. Build e instruções conferidas, sem escrever DLL/save/prefs nem adicionar dependência. Teste final registrado no status após execução; a correção é automática ao abrir pelo launcher padrão.
+
+Fontes originais: [anúncio Netmarble](https://ch.netmarble.com/Newsroom/PressRelease/Detail?bbs_code=1014&post_seq=1471), gameplay [faixa 1](https://www.youtube.com/watch?v=-ezlyZN4Plw), [2](https://www.youtube.com/watch?v=-65jm892a1o), [3](https://www.youtube.com/watch?v=85wMgf6WxCI), [4](https://www.youtube.com/watch?v=FBqPaqyOEp8), [guia contemporâneo](https://www.reddit.com/r/KOFALLSTAR/comments/j8rhlw/). Gameplay identifica chefes; não recupera todos os dados/regras originais. Não há porcentagem global verificável; 6/7 modos com uma amostra completa não significa 85,7% do projeto concluído.
+
 ## 15/11 — primeira rodada real automatizada em segundo plano
 
 - Ponte temporária acionou os mesmos métodos do cliente usados pela interface, na thread principal, sem entrada global de mouse/teclado: lobby → andar 1 → início → AUTO → vitória → retorno ao lobby.
